@@ -1,5 +1,14 @@
-
 <html>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112743979-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-112743979-1');
+</script>
+
 <title>CBB Conference Races</title>
 <style>
 .content {
@@ -8,6 +17,43 @@
   text-align: center;
 }
 </style>
+<style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;margin:0px auto;}
+.tg td{font-family:Arial, sans-serif;font-size:12px;padding:3px 3px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
+.tg th{font-family:Arial, sans-serif;font-size:12px;font-weight:normal;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#1B56A3;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-baqhnr{text-align:center;vertical-align:top;border-right-style:none}
+.tg .tg-baqhnl{text-align:center;vertical-align:top;border-left-style:none}
+.tg .tg-mb3i{background-color:#D2E4FC;text-align:right;vertical-align:top}
+.tg .tg-mb3inr{background-color:#D2E4FC;text-align:right;vertical-align:top;border-right-style:none}
+.tg .tg-mb3inl{background-color:#D2E4FC;text-align:right;vertical-align:top;border-left-style:none}
+.tg .tg-lqy6{text-align:right;vertical-align:top}
+.tg .tg-lqy6nr{text-align:right;vertical-align:top;border-right-style:none}
+.tg .tg-lqy6nl{text-align:right;vertical-align:top;border-left-style:none}
+.tg .tg-6k2t{background-color:#D2E4FC;vertical-align:top}
+.tg .tg-6k2tnr{background-color:#D2E4FC;vertical-align:top;border-right-style:none}
+.tg .tg-6k2tnl{background-color:#D2E4FC;vertical-align:top;border-left-style:none}
+.tg .tg-yw4l{vertical-align:top}
+.tg .tg-yw4lnr{text-align:left;vertical-align:top;border-right-style:none}
+.tg .tg-yw4lnl{text-align:left;vertical-align:top;border-left-style:none}
+
+    html {position: relative;min-width: 1024px;min-height: 768px;height: 100%;}
+    a:link{color:#202020;}
+    a:visited{color:#202020;}    a:hover{color:#a0a0a0;}
+    h2{text-align:center;font-family:Arial;}
+    body{text-align:center;font-family:Arial;font-size:10pt}
+    td{white-space: nowrap}
+    div{text-align:center}
+
+ .row { vertical-align: top; height:auto !important; }
+ .list {display:none; }
+ .show {display: none; }
+ .hide:target + .show {display: inline; }
+ .hide:target {display: none; }
+ .hide:target ~ .list {display:inline; }
+ @media print { .hide, .show { display: none; } }
+</style>
+
 <script>
 
 function getUrlVars() {
@@ -58,6 +104,15 @@ document.addEventListener('DOMContentLoaded', function() {
 
 </script>
 <body>
+    <table style="font-size:10pt"><tr>
+    <td style="border-right:1px solid #000000;padding:2px 15px"><a href="../index.html">Home</a></td>
+    <td style="border-right:1px solid #000000;padding:2px 15px"><a href="../game_probs.html">Game Probabilities</a></td>
+    <td style="border-right:1px solid #000000;padding:2px 15px"><a href="../conferences.html">Conferences</a></td>
+    <td style="border-right:1px solid #000000;padding:2px 15px"><a href="../preseason.html">Preseason Predictions</a></td>
+    <td style="border-right:1px solid #000000;padding:2px 15px"><a href="../charts/conference_race_plots.html">Odds Charts</a></td>
+    <td style="padding:2px 15px"><a href="../ncaa_tourn.html">NCAA Tournament</a></td>
+    </tr></table>
+    
 <div class="content">
 <h3>Select conference and plot:</h3>
 <select id="confsel" onchange="changeURL();">
@@ -106,7 +161,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 </select>
 <br><br>
-Last updated: 2022-02-17 07:54
+Last updated: 2022-02-17 09:28
 <br>
 <img id="confplot" />
 </div>
