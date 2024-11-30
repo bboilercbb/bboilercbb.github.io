@@ -1,104 +1,107 @@
 {
-    "CompRank": 2,
-    "CompositeDef": 89.77742862124397,
-    "CompositeOff": 128.25875667434173,
-    "CompositePace": 70.97771054268395,
-    "CompositeRating": 38.48132805309774,
+    "CompRank": 4,
+    "CompositeDef": 88.49745898249563,
+    "CompositeOff": 124.4590632837789,
+    "CompositePace": 71.58618674661489,
+    "CompositeRating": 35.96160430128326,
     "HA": [
         "H",
         "H",
         "H",
         "A",
-        "H"
+        "H",
+        "N",
+        "N",
+        "N"
     ],
-    "OAst": 41.0,
-    "OAvgCompRat": 3.7738469255293707,
-    "OBlk": 22.0,
-    "ODR": 110.0,
-    "OFGA": 290.0,
-    "OFGA3": 111.0,
-    "OFGM": 111.0,
-    "OFGM3": 25.0,
-    "OFTA": 81.0,
-    "OFTM": 58.0,
-    "OOR": 37.0,
-    "OPF": 84.0,
-    "OScore": 305.0,
-    "OStl": 24.0,
-    "OTO": 68.0,
-    "Oastr": 0.09433094054849991,
-    "Ocomprank": 77,
-    "Ocorrdastr": 0.13748546264662503,
-    "Ocorrdeff": 103.4873666066674,
-    "Ocorrdeffrank": 148,
-    "Ocorrdefgp": 0.46985822754582907,
-    "Ocorrdftr": 0.29284454602644155,
-    "Ocorrdorbp": 0.30341356271621356,
-    "Ocorrdtovr": 0.14156717687891754,
-    "Ocorroastr": 0.1654228243596599,
-    "Ocorroeff": 109.77621775663974,
-    "Ocorroeffrank": 54,
-    "Ocorroefgp": 0.555621111707844,
-    "Ocorroftr": 0.36771407239011417,
-    "Ocorroorbp": 0.286680331266879,
-    "Ocorrotovr": 0.15661403396685178,
-    "Oeff": 85.52041274113952,
-    "Oefgp": 0.42586206896551726,
-    "Oftr": 0.2793103448275862,
-    "Oneteff": 6.288851149972345,
-    "Oneteffrank": 83,
-    "Oorbp": 0.20670391061452514,
-    "Oposs": 356.64,
-    "Otovr": 0.17274667208617012,
-    "SoR": 90.2298944191481,
-    "SoRrank": 7,
-    "TAst": 95.0,
-    "TBlk": 15.0,
-    "TDR": 142.0,
-    "TFGA": 329.0,
-    "TFGA3": 124.0,
-    "TFGM": 165.0,
-    "TFGM3": 45.0,
-    "TFTA": 117.0,
-    "TFTM": 91.0,
-    "TOR": 59.0,
-    "TPF": 96.0,
-    "TScore": 466.0,
-    "TStl": 45.0,
-    "TTO": 40.0,
-    "Tastr": 0.1842942500193994,
-    "Tcorrdastr": 0.08150376910587316,
-    "Tcorrdastrrank": 1,
-    "Tcorrdeff": 81.36466055735664,
-    "Tcorrdeffrank": 3,
-    "Tcorrdefgp": 0.3858062936462067,
-    "Tcorrdefgprank": 2,
-    "Tcorrdftr": 0.26573915867272446,
-    "Tcorrdftrrank": 57,
-    "Tcorrdorbp": 0.2074136928480812,
-    "Tcorrdorbprank": 16,
-    "Tcorrdtovr": 0.16831286992201888,
-    "Tcorrdtovrrank": 102,
-    "Tcorroastr": 0.19167318263288022,
-    "Tcorroastrrank": 16,
-    "Tcorroeff": 130.19808563237487,
-    "Tcorroeffrank": 5,
-    "Tcorroefgp": 0.6110143020993808,
-    "Tcorroefgprank": 11,
-    "Tcorroftr": 0.42608648556636064,
-    "Tcorroftrrank": 72,
-    "Tcorroorbp": 0.331357160610333,
-    "Tcorroorbprank": 85,
-    "Tcorrotovr": 0.10245710925706386,
-    "Tcorrotovrrank": 2,
-    "Teff": 128.91446276419165,
-    "Tefgp": 0.5699088145896657,
-    "Tftr": 0.3556231003039514,
-    "Tneteff": 48.833425075018226,
-    "Tneteffrank": 1,
-    "Torbp": 0.34911242603550297,
-    "Tposs": 361.48,
-    "Ttovr": 0.09512937595129375,
+    "OAst": 87.0,
+    "OAvgCompRat": 6.603345498832072,
+    "OBlk": 37.0,
+    "ODR": 170.0,
+    "OFGA": 468.0,
+    "OFGA3": 188.0,
+    "OFGM": 188.0,
+    "OFGM3": 46.0,
+    "OFTA": 145.0,
+    "OFTM": 107.0,
+    "OOR": 48.0,
+    "OPF": 148.0,
+    "OScore": 529.0,
+    "OStl": 42.0,
+    "OTO": 100.0,
+    "Oastr": 0.12103505843071787,
+    "Ocomprank": 34,
+    "Ocorrdastr": 0.1353432319149216,
+    "Ocorrdeff": 103.32688588558298,
+    "Ocorrdeffrank": 166,
+    "Ocorrdefgp": 0.48716761589999114,
+    "Ocorrdftr": 0.30394737975135616,
+    "Ocorrdorbp": 0.2844100080109205,
+    "Ocorrdtovr": 0.1499487142353811,
+    "Ocorroastr": 0.17055988883837211,
+    "Ocorroeff": 111.66768647572012,
+    "Ocorroeffrank": 24,
+    "Ocorroefgp": 0.563982952904515,
+    "Ocorroftr": 0.32873755658569015,
+    "Ocorroorbp": 0.28086446230302625,
+    "Ocorrotovr": 0.1462414979803493,
+    "Oeff": 90.6132237067489,
+    "Oefgp": 0.45085470085470086,
+    "Oftr": 0.30982905982905984,
+    "Oneteff": 8.340800590137135,
+    "Oneteffrank": 55,
+    "Oorbp": 0.18181818181818182,
+    "Oposs": 583.8,
+    "Otovr": 0.15827793605571386,
+    "SoR": 86.10058398498893,
+    "SoRrank": 14,
+    "TAst": 159.0,
+    "TBlk": 23.0,
+    "TDR": 216.0,
+    "TFGA": 522.0,
+    "TFGA3": 181.0,
+    "TFGM": 257.0,
+    "TFGM3": 64.0,
+    "TFTA": 176.0,
+    "TFTM": 145.0,
+    "TOR": 81.0,
+    "TPF": 140.0,
+    "TScore": 723.0,
+    "TStl": 68.0,
+    "TTO": 74.0,
+    "Tastr": 0.19100475709961076,
+    "Tcorrdastr": 0.10188095195647383,
+    "Tcorrdastrrank": 12,
+    "Tcorrdeff": 84.48223874922127,
+    "Tcorrdeffrank": 6,
+    "Tcorrdefgp": 0.4026550429524683,
+    "Tcorrdefgprank": 5,
+    "Tcorrdftr": 0.32426864920471005,
+    "Tcorrdftrrank": 151,
+    "Tcorrdorbp": 0.18187796469417927,
+    "Tcorrdorbprank": 4,
+    "Tcorrdtovr": 0.162378006078704,
+    "Tcorrdtovrrank": 110,
+    "Tcorroastr": 0.20269268620328032,
+    "Tcorroastrrank": 5,
+    "Tcorroeff": 123.05256953166662,
+    "Tcorroeffrank": 12,
+    "Tcorroefgp": 0.5727747304369448,
+    "Tcorroefgprank": 39,
+    "Tcorroftr": 0.38273732324625576,
+    "Tcorroftrrank": 108,
+    "Tcorroorbp": 0.31927566095460813,
+    "Tcorroorbprank": 97,
+    "Tcorrotovr": 0.10986418108678109,
+    "Tcorrotovrrank": 16,
+    "Teff": 122.03767470123556,
+    "Tefgp": 0.553639846743295,
+    "Tftr": 0.3371647509578544,
+    "Tneteff": 38.57033078244535,
+    "Tneteffrank": 4,
+    "Torbp": 0.32270916334661354,
+    "Tposs": 592.44,
+    "Ttovr": 0.10988358279876455,
     "closses": 0,
     "confplace": 1,
     "cwins": 0,
@@ -122,6 +125,18 @@
         [
             11,
             20
+        ],
+        [
+            11,
+            27
+        ],
+        [
+            11,
+            28
+        ],
+        [
+            11,
+            29
         ]
     ],
     "geff": [
@@ -134,7 +149,7 @@
             107.70059235325795
         ],
         [
-            136.34169884169884,
+            131.57894736842107,
             66.83168316831683
         ],
         [
@@ -144,17 +159,32 @@
         [
             126.20192307692307,
             66.30012936610608
+        ],
+        [
+            99.13573970513471,
+            111.05371900826447
+        ],
+        [
+            114.57260556127703,
+            93.97528321318228
+        ],
+        [
+            125.69832402234638,
+            90.22765130483066
         ]
     ],
-    "losses": 0,
+    "losses": 1,
     "nOT": [
         0,
         0,
         0,
         0,
+        0,
+        1,
+        0,
         0
     ],
-    "pace": 73.50167324842658,
+    "pace": 72.91865589156563,
     "poss": [
         [
             72.72,
@@ -165,7 +195,7 @@
             74.28
         ],
         [
-            82.88,
+            85.88,
             80.8
         ],
         [
@@ -175,6 +205,18 @@
         [
             66.56,
             61.84
+        ],
+        [
+            78.68,
+            77.44
+        ],
+        [
+            77.68,
+            77.68
+        ],
+        [
+            71.6,
+            72.03999999999999
         ]
     ],
     "preseason_pace": 69.24659757578229,
@@ -186,7 +228,10 @@
         "arizona-state",
         "massachusetts-lowell",
         "san-diego-state",
-        "long-beach-state"
+        "long-beach-state",
+        "west-virginia",
+        "indiana",
+        "davidson"
     ],
     "scores": [
         [
@@ -208,7 +253,19 @@
         [
             84,
             41
+        ],
+        [
+            78,
+            86
+        ],
+        [
+            89,
+            73
+        ],
+        [
+            90,
+            65
         ]
     ],
-    "wins": 5
+    "wins": 7
 }
