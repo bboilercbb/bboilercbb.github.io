@@ -1,0 +1,169 @@
+<html>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112743979-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-112743979-1');
+</script>
+
+<title>CBB Conference Races</title>
+<style>
+.content {
+  max-width: 960px;
+  margin: auto;
+  text-align: center;
+}
+</style>
+<style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;margin:0px auto;}
+.tg td{font-family:Arial, sans-serif;font-size:12px;padding:3px 3px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
+.tg th{font-family:Arial, sans-serif;font-size:12px;font-weight:normal;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#1B56A3;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-baqhnr{text-align:center;vertical-align:top;border-right-style:none}
+.tg .tg-baqhnl{text-align:center;vertical-align:top;border-left-style:none}
+.tg .tg-mb3i{background-color:#D2E4FC;text-align:right;vertical-align:top}
+.tg .tg-mb3inr{background-color:#D2E4FC;text-align:right;vertical-align:top;border-right-style:none}
+.tg .tg-mb3inl{background-color:#D2E4FC;text-align:right;vertical-align:top;border-left-style:none}
+.tg .tg-lqy6{text-align:right;vertical-align:top}
+.tg .tg-lqy6nr{text-align:right;vertical-align:top;border-right-style:none}
+.tg .tg-lqy6nl{text-align:right;vertical-align:top;border-left-style:none}
+.tg .tg-6k2t{background-color:#D2E4FC;vertical-align:top}
+.tg .tg-6k2tnr{background-color:#D2E4FC;vertical-align:top;border-right-style:none}
+.tg .tg-6k2tnl{background-color:#D2E4FC;vertical-align:top;border-left-style:none}
+.tg .tg-yw4l{vertical-align:top}
+.tg .tg-yw4lnr{text-align:left;vertical-align:top;border-right-style:none}
+.tg .tg-yw4lnl{text-align:left;vertical-align:top;border-left-style:none}
+
+    html {position: relative;min-width: 1024px;min-height: 768px;height: 100%;}
+    a:link{color:#202020;}
+    a:visited{color:#202020;}    a:hover{color:#a0a0a0;}
+    h2{text-align:center;font-family:Arial;}
+    body{text-align:center;font-family:Arial;font-size:10pt}
+    td{white-space: nowrap}
+    div{text-align:center}
+
+ .row { vertical-align: top; height:auto !important; }
+ .list {display:none; }
+ .show {display: none; }
+ .hide:target + .show {display: inline; }
+ .hide:target {display: none; }
+ .hide:target ~ .list {display:inline; }
+ @media print { .hide, .show { display: none; } }
+</style>
+
+<script>
+
+function getUrlVars() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = value;
+    });
+    return vars;
+}
+
+function changeURL() {
+    var img = document.getElementById("confsel").value;
+    var plt = document.getElementById("plotsel").value;
+    c = img.split("_")[1].split(".")[0];
+    var newurl = window.location.href.split("?")[0]+"?conf="+c+"&plot="+plt;
+
+    let stateObj = { id: "100" };
+    window.history.pushState(stateObj,
+                     "TEST", newurl);
+    document.getElementById("confplot").src=plt+"/"+img;
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+
+    var vars = getUrlVars();
+    if(!vars["conf"])
+        vars["conf"] = "B10";
+    if(!vars["plot"])
+        vars["plot"] = "P1tie";
+    var confsel = document.getElementById("confsel")
+    for(i=0; i < confsel.length; i++){
+        var v = confsel.options[i].value;
+        var c = v.split("_")[1].split(".")[0];
+        if(c==vars["conf"])
+            confsel.options[i].selected = true;
+    }
+    var plotsel = document.getElementById("plotsel")
+    for(i=0; i < plotsel.length; i++){
+        var p = plotsel.options[i].value;
+        if(p==vars["plot"])
+            plotsel.options[i].selected = true;
+    }
+  var p = document.getElementById("plotsel").value;
+  var c = document.getElementById("confsel").value;
+
+  document.getElementById("confplot").src=p+"/"+c;
+}, false);
+
+</script>
+<body>
+    <table style="font-size:10pt"><tr>
+    <td style="border-right:1px solid #000000;padding:2px 15px"><a href="../index.html">Home</a></td>
+    <td style="border-right:1px solid #000000;padding:2px 15px"><a href="../game_probs.html">Game Probabilities</a></td>
+    <td style="border-right:1px solid #000000;padding:2px 15px"><a href="../conferences.html">Conferences</a></td>
+    <td style="border-right:1px solid #000000;padding:2px 15px"><a href="../preseason.html">Preseason Predictions</a></td>
+    <td style="border-right:1px solid #000000;padding:2px 15px"><a href="../charts/conference_race_plots.html">Odds Charts</a></td>
+    <td style="padding:2px 15px"><a href="../ncaa_tourn.html">NCAA Tournament</a></td>
+    </tr></table>
+    
+<div class="content">
+<h3>Select conference and plot:</h3>
+<select id="confsel" onchange="changeURL();">
+  <option value='00_B10.png' selected>Big Ten</option>
+  <option value='01_ACC.png' >ACC</option>
+  <option value='02_B12.png' >Big 12</option>
+  <option value='03_SEC.png' >SEC</option>
+  <option value='04_BE.png' >Big East</option>
+  <option value='05_P12.png' >Pac 12</option>
+  <option value='06_Amer.png' >American</option>
+  <option value='07_WCC.png' >West Coast</option>
+  <option value='08_A10.png' >Atlantic 10</option>
+  <option value='09_MWC.png' >Mountain West</option>
+  <option value='10_MVC.png' >Missouri Valley</option>
+  <option value='11_MAC.png' >Mid-American</option>
+  <option value='12_Ivy.png' >Ivy League</option>
+  <option value='13_SC.png' >Southern</option>
+  <option value='14_CUSA.png' >Conference USA</option>
+  <option value='15_SB.png' >Sun Belt</option>
+  <option value='16_CAA.png' >Colonial</option>
+  <option value='17_Sum.png' >Summit</option>
+  <option value='18_BSky.png' >Big Sky</option>
+  <option value='19_BW.png' >Big West</option>
+  <option value='20_Horz.png' >Horizon</option>
+  <option value='21_Pat.png' >Patriot</option>
+  <option value='22_WAC.png' >Western</option>
+  <option value='23_ASun.png' >Atlantic Sun</option>
+  <option value='24_OVC.png' >Ohio Valley</option>
+  <option value='25_AE.png' >America East</option>
+  <option value='26_MAAC.png' >Metro Atlantic</option>
+  <option value='27_BSth.png' >Big South</option>
+  <option value='28_NEC.png' >Northeast</option>
+  <option value='29_Slnd.png' >Southland</option>
+  <option value='30_SWAC.png' >Southwest</option>
+  <option value='31_MEAC.png' >Mid-Eastern</option>
+
+</select>
+<br><br>
+<select id="plotsel" onchange="changeURL();">
+
+  <option value="P1tie" selected>At least share of title</option>
+  <option value="Poutright1st">Outright title</option>
+  <option value="P1">#1 seed in conf tourney</option>
+  <option value="P1+P2+P3+P4">Top 4</option>
+  <option value="Ecwins">Expected # conf wins</option>
+
+</select>
+<br><br>
+Last updated: 2022-03-28 08:57
+<br>
+<img id="confplot" />
+</div>
+</body>
+</html>

@@ -1,0 +1,195 @@
+{
+    "CompRank": 302,
+    "CompositeDef": 110.97060978450678,
+    "CompositeOff": 97.62132518423797,
+    "CompositePace": 66.6934431048616,
+    "CompositeRating": -13.349284600268813,
+    "HA": [
+        "A",
+        "A",
+        "A",
+        "H"
+    ],
+    "OAst": 46.0,
+    "OAvgCompRat": -2.2582291948191093,
+    "OBlk": 15.0,
+    "ODR": 89.0,
+    "OFGA": 197.0,
+    "OFGA3": 67.0,
+    "OFGM": 78.0,
+    "OFGM3": 18.0,
+    "OFTA": 125.0,
+    "OFTM": 91.0,
+    "OOR": 38.0,
+    "OPF": 68.0,
+    "OScore": 265.0,
+    "OStl": 21.0,
+    "OTO": 52.0,
+    "Oastr": 0.13142857142857142,
+    "Ocomprank": 179,
+    "Ocorrdastr": 0.15193575569379267,
+    "Ocorrdeff": 108.51269295342266,
+    "Ocorrdeffrank": 226,
+    "Ocorrdefgp": 0.5129275224977907,
+    "Ocorrdftr": 0.3510969211254032,
+    "Ocorrdorbp": 0.38492236926371504,
+    "Ocorrdtovr": 0.1306605932945821,
+    "Ocorroastr": 0.16733940519656468,
+    "Ocorroeff": 110.59464447086522,
+    "Ocorroeffrank": 112,
+    "Ocorroefgp": 0.5398413204953408,
+    "Ocorroftr": 0.36389128672041693,
+    "Ocorroorbp": 0.2966739373931957,
+    "Ocorrotovr": 0.14329407409018205,
+    "Oeff": 99.62406015037594,
+    "Oefgp": 0.4416243654822335,
+    "Oftr": 0.6345177664974619,
+    "Oneteff": 2.081951517442562,
+    "Oneteffrank": 156,
+    "Oorbp": 0.31666666666666665,
+    "Oposs": 266.0,
+    "Otovr": 0.17105263157894737,
+    "SoR": 1.7713067471586297,
+    "SoRrank": 191,
+    "TAst": 62.0,
+    "TBlk": 18.0,
+    "TDR": 82.0,
+    "TFGA": 224.0,
+    "TFGA3": 81.0,
+    "TFGM": 95.0,
+    "TFGM3": 22.0,
+    "TFTA": 70.0,
+    "TFTM": 49.0,
+    "TOR": 29.0,
+    "TPF": 92.0,
+    "TScore": 261.0,
+    "TStl": 27.0,
+    "TTO": 39.0,
+    "Tastr": 0.17425519955030916,
+    "Tcorrdastr": 0.1154218382780704,
+    "Tcorrdastrrank": 50,
+    "Tcorrdeff": 95.82506675491335,
+    "Tcorrdeffrank": 61,
+    "Tcorrdefgp": 0.4176539847180324,
+    "Tcorrdefgprank": 23,
+    "Tcorrdftr": 0.6648382063944809,
+    "Tcorrdftrrank": 356,
+    "Tcorrdorbp": 0.3204651064145115,
+    "Tcorrdorbprank": 232,
+    "Tcorrdtovr": 0.18231997426150576,
+    "Tcorrdtovrrank": 71,
+    "Tcorroastr": 0.16813757465108872,
+    "Tcorroastrrank": 88,
+    "Tcorroeff": 96.61748431354077,
+    "Tcorroeffrank": 282,
+    "Tcorroefgp": 0.4703031877150778,
+    "Tcorroefgprank": 262,
+    "Tcorroftr": 0.33996339619799165,
+    "Tcorroftrrank": 227,
+    "Tcorroorbp": 0.1940746851830915,
+    "Tcorroorbprank": 337,
+    "Tcorrotovr": 0.15436101216719467,
+    "Tcorrotovrrank": 196,
+    "Teff": 98.56495468277946,
+    "Tefgp": 0.4732142857142857,
+    "Tftr": 0.3125,
+    "Tneteff": 0.7924175586274202,
+    "Tneteffrank": 174,
+    "Torbp": 0.2457627118644068,
+    "Tposs": 264.8,
+    "Ttovr": 0.1327433628318584,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            6
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            68.39348079161816,
+            104.91606714628297
+        ],
+        [
+            111.89454322501531,
+            92.69823160296633
+        ],
+        [
+            87.97184900831734,
+            95.96293845135672
+        ],
+        [
+            125.87822014051524,
+            104.77299185098953
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 68.52438515293744,
+    "poss": [
+        [
+            68.72,
+            66.72
+        ],
+        [
+            65.24000000000001,
+            70.12
+        ],
+        [
+            62.52,
+            60.44
+        ],
+        [
+            68.32,
+            68.72
+        ]
+    ],
+    "preseason_pace": 65.88973740474601,
+    "preseason_pred": -19.55689048620406,
+    "preseason_predd": 117.6188591253434,
+    "preseason_predo": 98.06196863913935,
+    "schedule": [
+        "northwestern",
+        "loyola-il",
+        "canisius",
+        "morgan-state"
+    ],
+    "scores": [
+        [
+            47,
+            70
+        ],
+        [
+            73,
+            65
+        ],
+        [
+            55,
+            58
+        ],
+        [
+            86,
+            72
+        ]
+    ],
+    "wins": 2
+}

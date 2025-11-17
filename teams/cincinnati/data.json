@@ -1,0 +1,195 @@
+{
+    "CompRank": 51,
+    "CompositeDef": 92.53950040663823,
+    "CompositeOff": 108.37219072079932,
+    "CompositePace": 70.65658981890834,
+    "CompositeRating": 15.832690314161102,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 48.0,
+    "OAvgCompRat": -9.76913491499387,
+    "OBlk": 9.0,
+    "ODR": 98.0,
+    "OFGA": 239.0,
+    "OFGA3": 100.0,
+    "OFGM": 85.0,
+    "OFGM3": 27.0,
+    "OFTA": 69.0,
+    "OFTM": 47.0,
+    "OOR": 32.0,
+    "OPF": 69.0,
+    "OScore": 244.0,
+    "OStl": 29.0,
+    "OTO": 66.0,
+    "Oastr": 0.12520868113522537,
+    "Ocomprank": 326,
+    "Ocorrdastr": 0.13419368667145443,
+    "Ocorrdeff": 108.47476735741101,
+    "Ocorrdeffrank": 224,
+    "Ocorrdefgp": 0.4822159452885324,
+    "Ocorrdftr": 0.3280444075598585,
+    "Ocorrdorbp": 0.3313913785313144,
+    "Ocorrdtovr": 0.13104344495919829,
+    "Ocorroastr": 0.15792941151003811,
+    "Ocorroeff": 95.00548567380555,
+    "Ocorroeffrank": 338,
+    "Ocorroefgp": 0.4799298119694855,
+    "Ocorroftr": 0.4438477942767421,
+    "Ocorroorbp": 0.2566504095653301,
+    "Ocorrotovr": 0.16766303980009523,
+    "Oeff": 80.43248945147678,
+    "Oefgp": 0.4121338912133891,
+    "Oftr": 0.28870292887029286,
+    "Oneteff": -13.469281683605459,
+    "Oneteffrank": 322,
+    "Oorbp": 0.21052631578947367,
+    "Oposs": 303.36,
+    "Otovr": 0.19680343511450382,
+    "SoR": 56.528061974391264,
+    "SoRrank": 41,
+    "TAst": 66.0,
+    "TBlk": 25.0,
+    "TDR": 120.0,
+    "TFGA": 230.0,
+    "TFGA3": 107.0,
+    "TFGM": 102.0,
+    "TFGM3": 32.0,
+    "TFTA": 123.0,
+    "TFTM": 78.0,
+    "TOR": 38.0,
+    "TPF": 80.0,
+    "TScore": 314.0,
+    "TStl": 32.0,
+    "TTO": 62.0,
+    "Tastr": 0.160147529845676,
+    "Tcorrdastr": 0.11624248898601991,
+    "Tcorrdastrrank": 54,
+    "Tcorrdeff": 89.5156296495023,
+    "Tcorrdeffrank": 18,
+    "Tcorrdefgp": 0.4363669000611025,
+    "Tcorrdefgprank": 42,
+    "Tcorrdftr": 0.24997869819624988,
+    "Tcorrdftrrank": 35,
+    "Tcorrdorbp": 0.24485608161202063,
+    "Tcorrdorbprank": 77,
+    "Tcorrdtovr": 0.18040548483899962,
+    "Tcorrdtovrrank": 77,
+    "Tcorroastr": 0.1740906127654529,
+    "Tcorroastrrank": 68,
+    "Tcorroeff": 99.92834944072268,
+    "Tcorroeffrank": 252,
+    "Tcorroefgp": 0.5410267446166711,
+    "Tcorroefgprank": 111,
+    "Tcorroftr": 0.6209789974038522,
+    "Tcorroftrrank": 12,
+    "Tcorroorbp": 0.254761988799825,
+    "Tcorroorbprank": 260,
+    "Tcorrotovr": 0.20771593901185503,
+    "Tcorrotovrrank": 343,
+    "Teff": 101.908347397118,
+    "Tefgp": 0.5130434782608696,
+    "Tftr": 0.5347826086956522,
+    "Tneteff": 10.412719791220383,
+    "Tneteffrank": 111,
+    "Torbp": 0.27941176470588236,
+    "Tposs": 308.12,
+    "Ttovr": 0.179128625910089,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            117.20698254364089,
+            81.64852255054433
+        ],
+        [
+            96.8079539508111,
+            87.76741634668129
+        ],
+        [
+            93.34006054490413,
+            76.65677546983186
+        ],
+        [
+            99.72299168975069,
+            75.96685082872928
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 78.14217377909705,
+    "poss": [
+        [
+            80.2,
+            77.16
+        ],
+        [
+            76.44,
+            72.92
+        ],
+        [
+            79.28,
+            80.88
+        ],
+        [
+            72.2,
+            72.4
+        ]
+    ],
+    "preseason_pace": 67.37073677739889,
+    "preseason_pred": 18.21182689487582,
+    "preseason_predd": 93.86685108192424,
+    "preseason_predo": 112.07867797680007,
+    "schedule": [
+        "western-carolina",
+        "georgia-state",
+        "dayton",
+        "mount-st-marys"
+    ],
+    "scores": [
+        [
+            94,
+            63
+        ],
+        [
+            74,
+            64
+        ],
+        [
+            74,
+            62
+        ],
+        [
+            72,
+            55
+        ]
+    ],
+    "wins": 4
+}

@@ -1,0 +1,195 @@
+{
+    "CompRank": 34,
+    "CompositeDef": 96.7268726500114,
+    "CompositeOff": 116.20059523228937,
+    "CompositePace": 69.34227819257794,
+    "CompositeRating": 19.47372258227798,
+    "HA": [
+        "H",
+        "N",
+        "H",
+        "H"
+    ],
+    "OAst": 36.0,
+    "OAvgCompRat": -8.712311060436237,
+    "OBlk": 9.0,
+    "ODR": 75.0,
+    "OFGA": 234.0,
+    "OFGA3": 69.0,
+    "OFGM": 92.0,
+    "OFGM3": 22.0,
+    "OFTA": 79.0,
+    "OFTM": 53.0,
+    "OOR": 30.0,
+    "OPF": 63.0,
+    "OScore": 259.0,
+    "OStl": 15.0,
+    "OTO": 48.0,
+    "Oastr": 0.10205238689193787,
+    "Ocomprank": 307,
+    "Ocorrdastr": 0.15144931585449675,
+    "Ocorrdeff": 113.4760485484116,
+    "Ocorrdeffrank": 308,
+    "Ocorrdefgp": 0.5250759928950913,
+    "Ocorrdftr": 0.43814699265430734,
+    "Ocorrdorbp": 0.32220506142356153,
+    "Ocorrdtovr": 0.16214643183337588,
+    "Ocorroastr": 0.13880199806149485,
+    "Ocorroeff": 97.73142698640353,
+    "Ocorroeffrank": 321,
+    "Ocorroefgp": 0.45293621124855815,
+    "Ocorroftr": 0.3672031280332585,
+    "Ocorroorbp": 0.2845065235190094,
+    "Ocorrotovr": 0.1211746466380556,
+    "Oeff": 90.31943088296833,
+    "Oefgp": 0.44017094017094016,
+    "Oftr": 0.33760683760683763,
+    "Oneteff": -15.744621562008064,
+    "Oneteffrank": 340,
+    "Oorbp": 0.21897810218978103,
+    "Oposs": 286.76,
+    "Otovr": 0.15153428463189797,
+    "SoR": 62.89255273894179,
+    "SoRrank": 27,
+    "TAst": 91.0,
+    "TBlk": 12.0,
+    "TDR": 107.0,
+    "TFGA": 237.0,
+    "TFGA3": 104.0,
+    "TFGM": 126.0,
+    "TFGM3": 43.0,
+    "TFTA": 93.0,
+    "TFTM": 73.0,
+    "TOR": 35.0,
+    "TPF": 72.0,
+    "TScore": 368.0,
+    "TStl": 25.0,
+    "TTO": 35.0,
+    "Tastr": 0.22529213705684292,
+    "Tcorrdastr": 0.10724664879385216,
+    "Tcorrdastrrank": 24,
+    "Tcorrdeff": 97.82575599185961,
+    "Tcorrdeffrank": 88,
+    "Tcorrdefgp": 0.4926884264833425,
+    "Tcorrdefgprank": 151,
+    "Tcorrdftr": 0.350675725070464,
+    "Tcorrdftrrank": 164,
+    "Tcorrdorbp": 0.23069625720944423,
+    "Tcorrdorbprank": 56,
+    "Tcorrdtovr": 0.18972577812435668,
+    "Tcorrdtovrrank": 47,
+    "Tcorroastr": 0.2180530528626707,
+    "Tcorroastrrank": 4,
+    "Tcorroeff": 124.3404960416526,
+    "Tcorroeffrank": 20,
+    "Tcorroefgp": 0.6047881039735001,
+    "Tcorroefgprank": 25,
+    "Tcorroftr": 0.3451137063120285,
+    "Tcorroftrrank": 219,
+    "Tcorroorbp": 0.2980485352499751,
+    "Tcorroorbprank": 181,
+    "Tcorrotovr": 0.10571535511402778,
+    "Tcorrotovrrank": 31,
+    "Teff": 132.41220495106504,
+    "Tefgp": 0.6223628691983122,
+    "Tftr": 0.3924050632911392,
+    "Tneteff": 26.51474004979299,
+    "Tneteffrank": 22,
+    "Torbp": 0.3181818181818182,
+    "Tposs": 277.92,
+    "Ttovr": 0.1118496740380928,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            5
+        ],
+        [
+            11,
+            9
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            139.92004568817816,
+            73.52941176470588
+        ],
+        [
+            134.12017167381973,
+            98.06418746816098
+        ],
+        [
+            142.49435665914223,
+            94.69696969696969
+        ],
+        [
+            110.50608584240872,
+            93.9039408866995
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 70.29715422696563,
+    "poss": [
+        [
+            70.04,
+            69.36
+        ],
+        [
+            74.56,
+            78.52
+        ],
+        [
+            70.88,
+            73.92
+        ],
+        [
+            62.44,
+            64.96000000000001
+        ]
+    ],
+    "preseason_pace": 68.92312821863545,
+    "preseason_pred": 16.383015326304314,
+    "preseason_predd": 96.24450959186129,
+    "preseason_predo": 112.6275249181656,
+    "schedule": [
+        "alabama-am",
+        "marquette",
+        "milwaukee",
+        "incarnate-word"
+    ],
+    "scores": [
+        [
+            98,
+            51
+        ],
+        [
+            100,
+            77
+        ],
+        [
+            101,
+            70
+        ],
+        [
+            69,
+            61
+        ]
+    ],
+    "wins": 4
+}

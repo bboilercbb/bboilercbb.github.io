@@ -1,0 +1,195 @@
+{
+    "CompRank": 182,
+    "CompositeDef": 107.1597628057768,
+    "CompositeOff": 102.80734173262395,
+    "CompositePace": 69.59378233649447,
+    "CompositeRating": -4.3524210731528425,
+    "HA": [
+        "H",
+        "H",
+        "A",
+        "N"
+    ],
+    "OAst": 67.0,
+    "OAvgCompRat": -2.8128447267555083,
+    "OBlk": 24.0,
+    "ODR": 79.0,
+    "OFGA": 234.0,
+    "OFGA3": 91.0,
+    "OFGM": 109.0,
+    "OFGM3": 31.0,
+    "OFTA": 60.0,
+    "OFTM": 43.0,
+    "OOR": 29.0,
+    "OPF": 84.0,
+    "OScore": 292.0,
+    "OStl": 19.0,
+    "OTO": 46.0,
+    "Oastr": 0.17943224424209964,
+    "Ocomprank": 191,
+    "Ocorrdastr": 0.1671479408064589,
+    "Ocorrdeff": 109.47353915136596,
+    "Ocorrdeffrank": 254,
+    "Ocorrdefgp": 0.5215055938086484,
+    "Ocorrdftr": 0.272678913469326,
+    "Ocorrdorbp": 0.31330114145938637,
+    "Ocorrdtovr": 0.15222700554192606,
+    "Ocorroastr": 0.1362954756684012,
+    "Ocorroeff": 104.41574485575207,
+    "Ocorroeffrank": 222,
+    "Ocorroefgp": 0.4749475866570649,
+    "Ocorroftr": 0.42184113463403883,
+    "Ocorroorbp": 0.3160737547722319,
+    "Ocorrotovr": 0.13748296815101704,
+    "Oeff": 105.26315789473685,
+    "Oefgp": 0.532051282051282,
+    "Oftr": 0.2564102564102564,
+    "Oneteff": -5.057794295613888,
+    "Oneteffrank": 246,
+    "Oorbp": 0.24369747899159663,
+    "Oposs": 277.4,
+    "Otovr": 0.15013054830287206,
+    "SoR": 1.6743835474613,
+    "SoRrank": 197,
+    "TAst": 59.0,
+    "TBlk": 9.0,
+    "TDR": 90.0,
+    "TFGA": 219.0,
+    "TFGA3": 63.0,
+    "TFGM": 94.0,
+    "TFGM3": 25.0,
+    "TFTA": 102.0,
+    "TFTM": 79.0,
+    "TOR": 38.0,
+    "TPF": 62.0,
+    "TScore": 292.0,
+    "TStl": 26.0,
+    "TTO": 51.0,
+    "Tastr": 0.15780464320102708,
+    "Tcorrdastr": 0.19189317809731793,
+    "Tcorrdastrrank": 343,
+    "Tcorrdeff": 106.99490991800324,
+    "Tcorrdeffrank": 200,
+    "Tcorrdefgp": 0.5690077351222977,
+    "Tcorrdefgprank": 309,
+    "Tcorrdftr": 0.23312621060008046,
+    "Tcorrdftrrank": 22,
+    "Tcorrdorbp": 0.23206949600465637,
+    "Tcorrdorbprank": 57,
+    "Tcorrdtovr": 0.16650814476327458,
+    "Tcorrdtovrrank": 127,
+    "Tcorroastr": 0.13893489871584028,
+    "Tcorroastrrank": 211,
+    "Tcorroeff": 102.50584172049132,
+    "Tcorroeffrank": 220,
+    "Tcorroefgp": 0.47567465595979974,
+    "Tcorroefgprank": 250,
+    "Tcorroftr": 0.6458525880946849,
+    "Tcorroftrrank": 10,
+    "Tcorroorbp": 0.3125317376723812,
+    "Tcorroorbprank": 155,
+    "Tcorrotovr": 0.16264855203299017,
+    "Tcorrotovrrank": 234,
+    "Teff": 105.4608494654724,
+    "Tefgp": 0.4863013698630137,
+    "Tftr": 0.4657534246575342,
+    "Tneteff": -4.489068197511926,
+    "Tneteffrank": 214,
+    "Torbp": 0.3247863247863248,
+    "Tposs": 276.88,
+    "Ttovr": 0.16196646341463414,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            5
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            120.16574585635358,
+            76.7030681227249
+        ],
+        [
+            100.94026548672568,
+            90.25270758122743
+        ],
+        [
+            91.89031505250875,
+            128.2782212086659
+        ],
+        [
+            108.49056603773585,
+            130.0125313283208
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 71.06993791276679,
+    "poss": [
+        [
+            72.4,
+            76.92
+        ],
+        [
+            72.32,
+            66.48
+        ],
+        [
+            68.56,
+            70.16
+        ],
+        [
+            63.6,
+            63.84
+        ]
+    ],
+    "preseason_pace": 68.94581281055875,
+    "preseason_pred": -4.292438796342271,
+    "preseason_predd": 107.23212621330428,
+    "preseason_predo": 102.93968741696202,
+    "schedule": [
+        "coppin-state",
+        "monmouth",
+        "temple",
+        "penn-state"
+    ],
+    "scores": [
+        [
+            87,
+            59
+        ],
+        [
+            73,
+            60
+        ],
+        [
+            63,
+            90
+        ],
+        [
+            69,
+            83
+        ]
+    ],
+    "wins": 2
+}

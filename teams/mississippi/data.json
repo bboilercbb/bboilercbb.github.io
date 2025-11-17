@@ -1,0 +1,195 @@
+{
+    "CompRank": 47,
+    "CompositeDef": 100.56221862828826,
+    "CompositeOff": 117.18513050854122,
+    "CompositePace": 68.20625125857583,
+    "CompositeRating": 16.62291188025295,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 54.0,
+    "OAvgCompRat": -11.574028008865785,
+    "OBlk": 13.0,
+    "ODR": 83.0,
+    "OFGA": 221.0,
+    "OFGA3": 89.0,
+    "OFGM": 89.0,
+    "OFGM3": 27.0,
+    "OFTA": 87.0,
+    "OFTM": 55.0,
+    "OOR": 28.0,
+    "OPF": 66.0,
+    "OScore": 260.0,
+    "OStl": 24.0,
+    "OTO": 47.0,
+    "Oastr": 0.1498834240035528,
+    "Ocomprank": 334,
+    "Ocorrdastr": 0.17225149222324856,
+    "Ocorrdeff": 108.71961289159228,
+    "Ocorrdeffrank": 233,
+    "Ocorrdefgp": 0.5202475119830074,
+    "Ocorrdftr": 0.37765643544081,
+    "Ocorrdorbp": 0.29003991085613773,
+    "Ocorrdtovr": 0.17079973214088814,
+    "Ocorroastr": 0.1328086155744047,
+    "Ocorroeff": 91.44828133672308,
+    "Ocorroeffrank": 354,
+    "Ocorroefgp": 0.46227699926269994,
+    "Ocorroftr": 0.3875661168850296,
+    "Ocorroorbp": 0.28431619551998366,
+    "Ocorrotovr": 0.19285323489822076,
+    "Oeff": 93.43107661348283,
+    "Oefgp": 0.4638009049773756,
+    "Oftr": 0.3936651583710407,
+    "Oneteff": -17.271331554869192,
+    "Oneteffrank": 345,
+    "Oorbp": 0.21052631578947367,
+    "Oposs": 278.28,
+    "Otovr": 0.15345435549170694,
+    "SoR": 49.92827534597325,
+    "SoRrank": 50,
+    "TAst": 67.0,
+    "TBlk": 21.0,
+    "TDR": 105.0,
+    "TFGA": 238.0,
+    "TFGA3": 87.0,
+    "TFGM": 115.0,
+    "TFGM3": 35.0,
+    "TFTA": 101.0,
+    "TFTM": 74.0,
+    "TOR": 43.0,
+    "TPF": 72.0,
+    "TScore": 339.0,
+    "TStl": 31.0,
+    "TTO": 33.0,
+    "Tastr": 0.17519087961510302,
+    "Tcorrdastr": 0.16433071249404277,
+    "Tcorrdastrrank": 277,
+    "Tcorrdeff": 107.86251625961262,
+    "Tcorrdeffrank": 206,
+    "Tcorrdefgp": 0.5090624730457421,
+    "Tcorrdefgprank": 192,
+    "Tcorrdftr": 0.3882552154163306,
+    "Tcorrdftrrank": 214,
+    "Tcorrdorbp": 0.22193473782533893,
+    "Tcorrdorbprank": 46,
+    "Tcorrdtovr": 0.12297938413417173,
+    "Tcorrdtovrrank": 294,
+    "Tcorroastr": 0.14985191593145525,
+    "Tcorroastrrank": 152,
+    "Tcorroeff": 121.7496391129489,
+    "Tcorroeffrank": 40,
+    "Tcorroefgp": 0.5458213819923833,
+    "Tcorroefgprank": 105,
+    "Tcorroftr": 0.430447683933527,
+    "Tcorroftrrank": 114,
+    "Tcorroorbp": 0.35364020411610647,
+    "Tcorroorbprank": 85,
+    "Tcorrotovr": 0.09406362570770566,
+    "Tcorrotovrrank": 16,
+    "Teff": 124.43106739098518,
+    "Tefgp": 0.5567226890756303,
+    "Tftr": 0.42436974789915966,
+    "Tneteff": 13.88712285333628,
+    "Tneteffrank": 83,
+    "Torbp": 0.3412698412698413,
+    "Tposs": 272.44,
+    "Ttovr": 0.10461577479076845,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            130.95238095238093,
+            84.05797101449275
+        ],
+        [
+            112.09593326381648,
+            83.89261744966443
+        ],
+        [
+            122.9265402843602,
+            110.31518624641835
+        ],
+        [
+            134.4262295081967,
+            96.7741935483871
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 67.48696760343302,
+    "poss": [
+        [
+            67.2,
+            69.0
+        ],
+        [
+            76.72,
+            77.48
+        ],
+        [
+            67.52,
+            69.8
+        ],
+        [
+            61.0,
+            62.0
+        ]
+    ],
+    "preseason_pace": 68.52198619636144,
+    "preseason_pred": 17.823806926361776,
+    "preseason_predd": 97.3576984060334,
+    "preseason_predo": 115.18150533239519,
+    "schedule": [
+        "southeastern-louisiana",
+        "louisiana-monroe",
+        "memphis",
+        "cal-state-bakersfield"
+    ],
+    "scores": [
+        [
+            88,
+            58
+        ],
+        [
+            86,
+            65
+        ],
+        [
+            83,
+            77
+        ],
+        [
+            82,
+            60
+        ]
+    ],
+    "wins": 4
+}

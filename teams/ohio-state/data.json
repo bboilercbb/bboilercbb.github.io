@@ -1,0 +1,195 @@
+{
+    "CompRank": 16,
+    "CompositeDef": 96.92871001373062,
+    "CompositeOff": 120.74195886324014,
+    "CompositePace": 68.60177048209069,
+    "CompositeRating": 23.813248849509502,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 47.0,
+    "OAvgCompRat": -8.655988429182283,
+    "OBlk": 4.0,
+    "ODR": 75.0,
+    "OFGA": 242.0,
+    "OFGA3": 94.0,
+    "OFGM": 108.0,
+    "OFGM3": 28.0,
+    "OFTA": 65.0,
+    "OFTM": 42.0,
+    "OOR": 32.0,
+    "OPF": 92.0,
+    "OScore": 286.0,
+    "OStl": 23.0,
+    "OTO": 46.0,
+    "Oastr": 0.12926292629262925,
+    "Ocomprank": 306,
+    "Ocorrdastr": 0.15501226358235293,
+    "Ocorrdeff": 113.58249386241607,
+    "Ocorrdeffrank": 309,
+    "Ocorrdefgp": 0.5378276325033227,
+    "Ocorrdftr": 0.33622705457778823,
+    "Ocorrdorbp": 0.3219610102123172,
+    "Ocorrdtovr": 0.15329244257052693,
+    "Ocorroastr": 0.14487493353966913,
+    "Ocorroeff": 104.25231216030838,
+    "Ocorroeffrank": 227,
+    "Ocorroefgp": 0.4959326006338438,
+    "Ocorroftr": 0.3365344069176359,
+    "Ocorroorbp": 0.32367476869500555,
+    "Ocorrotovr": 0.13942760990140277,
+    "Oeff": 100.49191848208011,
+    "Oefgp": 0.5041322314049587,
+    "Oftr": 0.26859504132231404,
+    "Oneteff": -9.330181702107694,
+    "Oneteffrank": 288,
+    "Oorbp": 0.22857142857142856,
+    "Oposs": 284.6,
+    "Otovr": 0.14529374605180037,
+    "SoR": 60.82066298938462,
+    "SoRrank": 31,
+    "TAst": 68.0,
+    "TBlk": 6.0,
+    "TDR": 108.0,
+    "TFGA": 209.0,
+    "TFGA3": 100.0,
+    "TFGM": 109.0,
+    "TFGM3": 38.0,
+    "TFTA": 121.0,
+    "TFTM": 95.0,
+    "TOR": 29.0,
+    "TPF": 68.0,
+    "TScore": 351.0,
+    "TStl": 20.0,
+    "TTO": 49.0,
+    "Tastr": 0.17930598038181625,
+    "Tcorrdastr": 0.13037042852158698,
+    "Tcorrdastrrank": 99,
+    "Tcorrdeff": 102.29891090029429,
+    "Tcorrdeffrank": 131,
+    "Tcorrdefgp": 0.5172272603242217,
+    "Tcorrdefgprank": 210,
+    "Tcorrdftr": 0.3033597776349271,
+    "Tcorrdftrrank": 93,
+    "Tcorrdorbp": 0.21275528601136573,
+    "Tcorrdorbprank": 30,
+    "Tcorrdtovr": 0.1589852545793994,
+    "Tcorrdtovrrank": 157,
+    "Tcorroastr": 0.16971300718131094,
+    "Tcorroastrrank": 82,
+    "Tcorroeff": 116.67617505159912,
+    "Tcorroeffrank": 79,
+    "Tcorroefgp": 0.5815915879103152,
+    "Tcorroefgprank": 45,
+    "Tcorroftr": 0.6565467480715267,
+    "Tcorroftrrank": 7,
+    "Tcorroorbp": 0.26139196730198105,
+    "Tcorroorbprank": 249,
+    "Tcorrotovr": 0.15704264458533146,
+    "Tcorrotovrrank": 205,
+    "Teff": 124.36224489795919,
+    "Tefgp": 0.6124401913875598,
+    "Tftr": 0.5789473684210527,
+    "Tneteff": 14.377264151304828,
+    "Tneteffrank": 78,
+    "Torbp": 0.27884615384615385,
+    "Tposs": 282.24,
+    "Ttovr": 0.15743477702094846,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            143.3430515063168,
+            118.88111888111888
+        ],
+        [
+            129.26292629262926,
+            93.81898454746137
+        ],
+        [
+            122.78978388998036,
+            87.5743555849306
+        ],
+        [
+            96.7937084089534,
+            95.74468085106383
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 70.0418565958694,
+    "poss": [
+        [
+            82.32,
+            85.8
+        ],
+        [
+            72.72,
+            72.48
+        ],
+        [
+            61.08,
+            60.52
+        ],
+        [
+            66.12,
+            65.8
+        ]
+    ],
+    "preseason_pace": 67.96963391637163,
+    "preseason_pred": 27.95524487615627,
+    "preseason_predd": 94.57142018698114,
+    "preseason_predo": 122.52666506313741,
+    "schedule": [
+        "iupui",
+        "ipfw",
+        "appalachian-state",
+        "notre-dame"
+    ],
+    "scores": [
+        [
+            118,
+            102
+        ],
+        [
+            94,
+            68
+        ],
+        [
+            75,
+            53
+        ],
+        [
+            64,
+            63
+        ]
+    ],
+    "wins": 4
+}

@@ -1,0 +1,195 @@
+{
+    "CompRank": 13,
+    "CompositeDef": 96.65709880883065,
+    "CompositeOff": 121.51015821677062,
+    "CompositePace": 70.10326839755363,
+    "CompositeRating": 24.85305940793996,
+    "HA": [
+        "N",
+        "H",
+        "H",
+        "N"
+    ],
+    "OAst": 50.0,
+    "OAvgCompRat": 0.4992612073406958,
+    "OBlk": 8.0,
+    "ODR": 86.0,
+    "OFGA": 238.0,
+    "OFGA3": 99.0,
+    "OFGM": 100.0,
+    "OFGM3": 32.0,
+    "OFTA": 62.0,
+    "OFTM": 41.0,
+    "OOR": 30.0,
+    "OPF": 71.0,
+    "OScore": 273.0,
+    "OStl": 18.0,
+    "OTO": 46.0,
+    "Oastr": 0.13839681133746679,
+    "Ocomprank": 146,
+    "Ocorrdastr": 0.14312009286123165,
+    "Ocorrdeff": 108.89691548342148,
+    "Ocorrdeffrank": 240,
+    "Ocorrdefgp": 0.523238414771327,
+    "Ocorrdftr": 0.341752330035309,
+    "Ocorrdorbp": 0.2931423815700488,
+    "Ocorrdtovr": 0.1524290613153651,
+    "Ocorroastr": 0.15543224156725205,
+    "Ocorroeff": 113.25238719898985,
+    "Ocorroeffrank": 72,
+    "Ocorroefgp": 0.5442922783053067,
+    "Ocorroftr": 0.33588962496384966,
+    "Ocorroorbp": 0.3321898517007327,
+    "Ocorrotovr": 0.13060288575707835,
+    "Oeff": 97.05631399317407,
+    "Oefgp": 0.48739495798319327,
+    "Oftr": 0.2605042016806723,
+    "Oneteff": 4.35547171556837,
+    "Oneteffrank": 128,
+    "Oorbp": 0.23255813953488372,
+    "Oposs": 281.28,
+    "Otovr": 0.1477769210999743,
+    "SoR": 61.122533184771044,
+    "SoRrank": 30,
+    "TAst": 51.0,
+    "TBlk": 13.0,
+    "TDR": 99.0,
+    "TFGA": 254.0,
+    "TFGA3": 100.0,
+    "TFGM": 124.0,
+    "TFGM3": 32.0,
+    "TFTA": 75.0,
+    "TFTM": 58.0,
+    "TOR": 38.0,
+    "TPF": 54.0,
+    "TScore": 338.0,
+    "TStl": 30.0,
+    "TTO": 29.0,
+    "Tastr": 0.13896457765667575,
+    "Tcorrdastr": 0.13046747362552452,
+    "Tcorrdastrrank": 100,
+    "Tcorrdeff": 91.2508541154635,
+    "Tcorrdeffrank": 29,
+    "Tcorrdefgp": 0.4573207187712844,
+    "Tcorrdefgprank": 73,
+    "Tcorrdftr": 0.29476396419926837,
+    "Tcorrdftrrank": 85,
+    "Tcorrdorbp": 0.2111360738507204,
+    "Tcorrdorbprank": 27,
+    "Tcorrdtovr": 0.17217872698100475,
+    "Tcorrdtovrrank": 106,
+    "Tcorroastr": 0.1420060002880642,
+    "Tcorroastrrank": 194,
+    "Tcorroeff": 118.77671697545993,
+    "Tcorroeffrank": 63,
+    "Tcorroefgp": 0.5374222879902627,
+    "Tcorroefgprank": 120,
+    "Tcorroftr": 0.3296535432978963,
+    "Tcorroftrrank": 242,
+    "Tcorroorbp": 0.3143324123895655,
+    "Tcorroorbprank": 150,
+    "Tcorrotovr": 0.09204134002696567,
+    "Tcorrotovrrank": 12,
+    "Teff": 121.58273381294964,
+    "Tefgp": 0.5511811023622047,
+    "Tftr": 0.2952755905511811,
+    "Tneteff": 27.525862859996437,
+    "Tneteffrank": 18,
+    "Torbp": 0.3064516129032258,
+    "Tposs": 278.0,
+    "Ttovr": 0.09177215189873418,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            104.04454865181712,
+            87.3015873015873
+        ],
+        [
+            134.17305585980284,
+            73.7750556792873
+        ],
+        [
+            133.64779874213838,
+            113.4089392928619
+        ],
+        [
+            114.8796498905908,
+            116.40498105035194
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 73.53863808080939,
+    "poss": [
+        [
+            68.24,
+            75.6
+        ],
+        [
+            73.04,
+            71.84
+        ],
+        [
+            63.599999999999994,
+            59.96
+        ],
+        [
+            73.12,
+            73.88
+        ]
+    ],
+    "preseason_pace": 68.5952871922836,
+    "preseason_pred": 23.679812350795828,
+    "preseason_predd": 99.03021033403984,
+    "preseason_predo": 122.71002268483566,
+    "schedule": [
+        "villanova",
+        "holy-cross",
+        "delaware",
+        "connecticut"
+    ],
+    "scores": [
+        [
+            71,
+            66
+        ],
+        [
+            98,
+            53
+        ],
+        [
+            85,
+            68
+        ],
+        [
+            84,
+            86
+        ]
+    ],
+    "wins": 3
+}

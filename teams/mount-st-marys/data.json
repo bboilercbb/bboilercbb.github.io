@@ -1,0 +1,195 @@
+{
+    "CompRank": 284,
+    "CompositeDef": 107.68247517528523,
+    "CompositeOff": 95.5738028126515,
+    "CompositePace": 67.99074471374021,
+    "CompositeRating": -12.10867236263374,
+    "HA": [
+        "A",
+        "H",
+        "A",
+        "A"
+    ],
+    "OAst": 45.0,
+    "OAvgCompRat": 2.5343617161198844,
+    "OBlk": 15.0,
+    "ODR": 95.0,
+    "OFGA": 235.0,
+    "OFGA3": 96.0,
+    "OFGM": 93.0,
+    "OFGM3": 26.0,
+    "OFTA": 106.0,
+    "OFTM": 69.0,
+    "OOR": 42.0,
+    "OPF": 71.0,
+    "OScore": 281.0,
+    "OStl": 34.0,
+    "OTO": 34.0,
+    "Oastr": 0.12477817213842059,
+    "Ocomprank": 121,
+    "Ocorrdastr": 0.14223994624769948,
+    "Ocorrdeff": 98.28229536738235,
+    "Ocorrdeffrank": 57,
+    "Ocorrdefgp": 0.4826499517280979,
+    "Ocorrdftr": 0.34307771174444024,
+    "Ocorrdorbp": 0.28558775628048805,
+    "Ocorrdtovr": 0.16790799188498473,
+    "Ocorroastr": 0.15219968948035045,
+    "Ocorroeff": 102.18421197524647,
+    "Ocorroeffrank": 257,
+    "Ocorroefgp": 0.5207639304249392,
+    "Ocorroftr": 0.4415234811217783,
+    "Ocorroorbp": 0.2261675390435914,
+    "Ocorrotovr": 0.1729042454317652,
+    "Oeff": 102.6896652536179,
+    "Oefgp": 0.451063829787234,
+    "Oftr": 0.451063829787234,
+    "Oneteff": 3.9019166078641234,
+    "Oneteffrank": 133,
+    "Oorbp": 0.27631578947368424,
+    "Oposs": 273.64,
+    "Otovr": 0.10771765302243062,
+    "SoR": 0.14979777412856832,
+    "SoRrank": 246,
+    "TAst": 55.0,
+    "TBlk": 6.0,
+    "TDR": 110.0,
+    "TFGA": 205.0,
+    "TFGA3": 99.0,
+    "TFGM": 86.0,
+    "TFGM3": 32.0,
+    "TFTA": 72.0,
+    "TFTM": 41.0,
+    "TOR": 27.0,
+    "TPF": 62.0,
+    "TScore": 245.0,
+    "TStl": 13.0,
+    "TTO": 66.0,
+    "Tastr": 0.1537687318273317,
+    "Tcorrdastr": 0.12002671857532451,
+    "Tcorrdastrrank": 68,
+    "Tcorrdeff": 106.56664269724807,
+    "Tcorrdeffrank": 194,
+    "Tcorrdefgp": 0.44157385925080644,
+    "Tcorrdefgprank": 50,
+    "Tcorrdftr": 0.39253563533702585,
+    "Tcorrdftrrank": 220,
+    "Tcorrdorbp": 0.3628530788626241,
+    "Tcorrdorbprank": 300,
+    "Tcorrdtovr": 0.09586697991915238,
+    "Tcorrdtovrrank": 350,
+    "Tcorroastr": 0.15806755928862967,
+    "Tcorroastrrank": 122,
+    "Tcorroeff": 95.80392009337073,
+    "Tcorroeffrank": 289,
+    "Tcorroefgp": 0.524246769733769,
+    "Tcorroefgprank": 143,
+    "Tcorroftr": 0.3906563537767194,
+    "Tcorroftrrank": 154,
+    "Tcorroorbp": 0.23276504715557725,
+    "Tcorroorbprank": 296,
+    "Tcorrotovr": 0.1992987895965002,
+    "Tcorrotovrrank": 333,
+    "Teff": 88.8711549622751,
+    "Tefgp": 0.4975609756097561,
+    "Tftr": 0.35121951219512193,
+    "Tneteff": -10.762722603877336,
+    "Tneteffrank": 267,
+    "Torbp": 0.22131147540983606,
+    "Tposs": 275.68,
+    "Ttovr": 0.2180520681908286,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            4
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            78.99356348741955,
+            103.85756676557862
+        ],
+        [
+            93.93939393939394,
+            112.10073710073709
+        ],
+        [
+            107.3708647707487,
+            95.76320371445154
+        ],
+        [
+            75.96685082872928,
+            99.72299168975069
+        ]
+    ],
+    "losses": 3,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 66.69915973216635,
+    "poss": [
+        [
+            68.36,
+            67.4
+        ],
+        [
+            66.0,
+            65.12
+        ],
+        [
+            68.92,
+            68.92
+        ],
+        [
+            72.4,
+            72.2
+        ]
+    ],
+    "preseason_pace": 68.5576955972843,
+    "preseason_pred": -12.699487071552875,
+    "preseason_predd": 108.17227818347713,
+    "preseason_predo": 95.47279111192425,
+    "schedule": [
+        "west-virginia",
+        "bucknell",
+        "saint-francis-pa",
+        "cincinnati"
+    ],
+    "scores": [
+        [
+            54,
+            70
+        ],
+        [
+            62,
+            73
+        ],
+        [
+            74,
+            66
+        ],
+        [
+            55,
+            72
+        ]
+    ],
+    "wins": 1
+}

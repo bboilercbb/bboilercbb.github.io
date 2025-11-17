@@ -1,0 +1,195 @@
+{
+    "CompRank": 37,
+    "CompositeDef": 90.20030003314454,
+    "CompositeOff": 109.11879954412356,
+    "CompositePace": 66.88809955190894,
+    "CompositeRating": 18.918499510979007,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 35.0,
+    "OAvgCompRat": -7.332404806599904,
+    "OBlk": 10.0,
+    "ODR": 94.0,
+    "OFGA": 199.0,
+    "OFGA3": 72.0,
+    "OFGM": 73.0,
+    "OFGM3": 19.0,
+    "OFTA": 68.0,
+    "OFTM": 50.0,
+    "OOR": 22.0,
+    "OPF": 82.0,
+    "OScore": 215.0,
+    "OStl": 24.0,
+    "OTO": 56.0,
+    "Oastr": 0.10940235058764691,
+    "Ocomprank": 292,
+    "Ocorrdastr": 0.1267096933650262,
+    "Ocorrdeff": 105.47094901583911,
+    "Ocorrdeffrank": 169,
+    "Ocorrdefgp": 0.46372037857857584,
+    "Ocorrdftr": 0.32256825313502224,
+    "Ocorrdorbp": 0.29793551753762015,
+    "Ocorrdtovr": 0.12946654845780114,
+    "Ocorroastr": 0.13832120018871125,
+    "Ocorroeff": 101.55316518786152,
+    "Ocorroeffrank": 266,
+    "Ocorroefgp": 0.5133719329692845,
+    "Ocorroftr": 0.49339434741483135,
+    "Ocorroorbp": 0.29897253345234,
+    "Ocorrotovr": 0.16622280952975355,
+    "Oeff": 81.77392362695876,
+    "Oefgp": 0.41457286432160806,
+    "Oftr": 0.3417085427135678,
+    "Oneteff": -3.917783827977587,
+    "Oneteffrank": 235,
+    "Oorbp": 0.1896551724137931,
+    "Oposs": 262.92,
+    "Otovr": 0.19654639898918994,
+    "SoR": 65.9276885947051,
+    "SoRrank": 22,
+    "TAst": 46.0,
+    "TBlk": 13.0,
+    "TDR": 94.0,
+    "TFGA": 210.0,
+    "TFGA3": 81.0,
+    "TFGM": 91.0,
+    "TFGM3": 26.0,
+    "TFTA": 108.0,
+    "TFTM": 75.0,
+    "TOR": 29.0,
+    "TPF": 56.0,
+    "TScore": 283.0,
+    "TStl": 34.0,
+    "TTO": 38.0,
+    "Tastr": 0.13469196533145936,
+    "Tcorrdastr": 0.11535437089211836,
+    "Tcorrdastrrank": 49,
+    "Tcorrdeff": 85.36746171744404,
+    "Tcorrdeffrank": 7,
+    "Tcorrdefgp": 0.4114596548012614,
+    "Tcorrdefgprank": 16,
+    "Tcorrdftr": 0.2672892196839597,
+    "Tcorrdftrrank": 53,
+    "Tcorrdorbp": 0.19051314251873686,
+    "Tcorrdorbprank": 15,
+    "Tcorrdtovr": 0.18166839104363133,
+    "Tcorrdtovrrank": 74,
+    "Tcorroastr": 0.15471221267285162,
+    "Tcorroastrrank": 130,
+    "Tcorroeff": 106.96576966167828,
+    "Tcorroeffrank": 167,
+    "Tcorroefgp": 0.5422333714346383,
+    "Tcorroefgprank": 109,
+    "Tcorroftr": 0.6069087366742871,
+    "Tcorroftrrank": 15,
+    "Tcorroorbp": 0.23809897682694037,
+    "Tcorroorbprank": 289,
+    "Tcorrotovr": 0.1508514486494609,
+    "Tcorrotovrrank": 181,
+    "Teff": 106.18340087047876,
+    "Tefgp": 0.49523809523809526,
+    "Tftr": 0.5142857142857142,
+    "Tneteff": 21.598307944234236,
+    "Tneteffrank": 45,
+    "Torbp": 0.23577235772357724,
+    "Tposs": 266.52,
+    "Ttovr": 0.12858689767190037,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            4
+        ],
+        [
+            11,
+            6
+        ],
+        [
+            11,
+            9
+        ],
+        [
+            11,
+            13
+        ]
+    ],
+    "geff": [
+        [
+            103.85756676557862,
+            78.99356348741955
+        ],
+        [
+            107.5427224513848,
+            96.89922480620156
+        ],
+        [
+            106.15384615384616,
+            72.48611967921036
+        ],
+        [
+            107.18599033816426,
+            78.22477650063857
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 67.93512542098794,
+    "poss": [
+        [
+            67.4,
+            68.36
+        ],
+        [
+            67.88,
+            67.08
+        ],
+        [
+            65.0,
+            64.84
+        ],
+        [
+            66.24,
+            62.64
+        ]
+    ],
+    "preseason_pace": 66.42849971911706,
+    "preseason_pred": 17.742177564968483,
+    "preseason_predd": 92.32171054209402,
+    "preseason_predo": 110.06388810706251,
+    "schedule": [
+        "mount-st-marys",
+        "campbell",
+        "lehigh",
+        "pittsburgh"
+    ],
+    "scores": [
+        [
+            70,
+            54
+        ],
+        [
+            73,
+            65
+        ],
+        [
+            69,
+            47
+        ],
+        [
+            71,
+            49
+        ]
+    ],
+    "wins": 4
+}

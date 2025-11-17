@@ -1,0 +1,157 @@
+{
+    "CompRank": 266,
+    "CompositeDef": 110.90095094196491,
+    "CompositeOff": 100.61373099530635,
+    "CompositePace": 70.85640481708668,
+    "CompositeRating": -10.287219946658544,
+    "HA": [
+        "A",
+        "A"
+    ],
+    "OAst": 34.0,
+    "OAvgCompRat": 9.017022836172076,
+    "OBlk": 9.0,
+    "ODR": 57.0,
+    "OFGA": 121.0,
+    "OFGA3": 35.0,
+    "OFGM": 65.0,
+    "OFGM3": 7.0,
+    "OFTA": 65.0,
+    "OFTM": 45.0,
+    "OOR": 19.0,
+    "OPF": 34.0,
+    "OScore": 182.0,
+    "OStl": 13.0,
+    "OTO": 26.0,
+    "Oastr": 0.16221374045801526,
+    "Ocomprank": 41,
+    "Ocorrdastr": 0.1538857225897287,
+    "Ocorrdeff": 100.46148123503075,
+    "Ocorrdeffrank": 87,
+    "Ocorrdefgp": 0.5049401482209053,
+    "Ocorrdftr": 0.3224345918762078,
+    "Ocorrdorbp": 0.24909656928595916,
+    "Ocorrdtovr": 0.17417997971735028,
+    "Ocorroastr": 0.13713261706294574,
+    "Ocorroeff": 118.42165300560723,
+    "Ocorroeffrank": 23,
+    "Ocorroefgp": 0.5269461730844647,
+    "Ocorroftr": 0.3723228489790392,
+    "Ocorroorbp": 0.30118530928043047,
+    "Ocorrotovr": 0.11163562154025984,
+    "Oeff": 116.21966794380587,
+    "Oefgp": 0.5661157024793388,
+    "Oftr": 0.5371900826446281,
+    "Oneteff": 17.96017177057648,
+    "Oneteffrank": 30,
+    "Oorbp": 0.2835820895522388,
+    "Oposs": 156.6,
+    "Otovr": 0.14806378132118453,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 22.0,
+    "TBlk": 7.0,
+    "TDR": 48.0,
+    "TFGA": 135.0,
+    "TFGA3": 51.0,
+    "TFGM": 51.0,
+    "TFGM3": 17.0,
+    "TFTA": 54.0,
+    "TFTM": 42.0,
+    "TOR": 25.0,
+    "TPF": 33.0,
+    "TScore": 161.0,
+    "TStl": 17.0,
+    "TTO": 27.0,
+    "Tastr": 0.1058914131690412,
+    "Tcorrdastr": 0.1724620217371488,
+    "Tcorrdastrrank": 302,
+    "Tcorrdeff": 104.68452112455557,
+    "Tcorrdeffrank": 159,
+    "Tcorrdefgp": 0.5479610725069148,
+    "Tcorrdefgprank": 277,
+    "Tcorrdftr": 0.5506163233607473,
+    "Tcorrdftrrank": 337,
+    "Tcorrdorbp": 0.28285531257759394,
+    "Tcorrdorbprank": 154,
+    "Tcorrdtovr": 0.20056371973609768,
+    "Tcorrdtovrrank": 32,
+    "Tcorroastr": 0.10093050114241506,
+    "Tcorroastrrank": 349,
+    "Tcorroeff": 105.7124371438435,
+    "Tcorroeffrank": 181,
+    "Tcorroefgp": 0.4446797949147441,
+    "Tcorroefgprank": 317,
+    "Tcorroftr": 0.4722279973974578,
+    "Tcorroftrrank": 70,
+    "Tcorroorbp": 0.3656308010230659,
+    "Tcorroorbprank": 71,
+    "Tcorrotovr": 0.12825215106576823,
+    "Tcorrotovrrank": 91,
+    "Teff": 100.14929086837522,
+    "Tefgp": 0.44074074074074077,
+    "Tftr": 0.4,
+    "Tneteff": 1.0279160192879289,
+    "Tneteffrank": 170,
+    "Torbp": 0.3048780487804878,
+    "Tposs": 160.76,
+    "Ttovr": 0.14534883720930233,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            93.16037735849056,
+            106.72227674190383
+        ],
+        [
+            107.95155344918376,
+            126.53169952051145
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0
+    ],
+    "pace": 80.43121691785464,
+    "poss": [
+        [
+            84.8,
+            81.52
+        ],
+        [
+            75.96000000000001,
+            75.08
+        ]
+    ],
+    "preseason_pace": 69.80567097886797,
+    "preseason_pred": -11.528935827695195,
+    "preseason_predd": 111.58313802755166,
+    "preseason_predo": 100.05420219985646,
+    "schedule": [
+        "belmont",
+        "western-kentucky"
+    ],
+    "scores": [
+        [
+            79,
+            87
+        ],
+        [
+            82,
+            95
+        ]
+    ],
+    "wins": 0
+}

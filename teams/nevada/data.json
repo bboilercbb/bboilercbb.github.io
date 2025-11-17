@@ -1,0 +1,195 @@
+{
+    "CompRank": 97,
+    "CompositeDef": 107.47856386426423,
+    "CompositeOff": 114.37923968363458,
+    "CompositePace": 67.06125526204619,
+    "CompositeRating": 6.900675819370332,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "A"
+    ],
+    "OAst": 67.0,
+    "OAvgCompRat": -2.815923607019973,
+    "OBlk": 23.0,
+    "ODR": 89.0,
+    "OFGA": 236.0,
+    "OFGA3": 97.0,
+    "OFGM": 111.0,
+    "OFGM3": 34.0,
+    "OFTA": 77.0,
+    "OFTM": 50.0,
+    "OOR": 31.0,
+    "OPF": 101.0,
+    "OScore": 306.0,
+    "OStl": 18.0,
+    "OTO": 38.0,
+    "Oastr": 0.1787238583013231,
+    "Ocomprank": 192,
+    "Ocorrdastr": 0.1318078434022842,
+    "Ocorrdeff": 97.66354971180473,
+    "Ocorrdeffrank": 49,
+    "Ocorrdefgp": 0.4283987730896866,
+    "Ocorrdftr": 0.4181464299541985,
+    "Ocorrdorbp": 0.2775519269256466,
+    "Ocorrdtovr": 0.13817406627038675,
+    "Ocorroastr": 0.129806720491081,
+    "Ocorroeff": 100.09052815385746,
+    "Ocorroeffrank": 289,
+    "Ocorroefgp": 0.4984782722275321,
+    "Ocorroftr": 0.39518268750938046,
+    "Ocorroorbp": 0.34110671267733217,
+    "Ocorrotovr": 0.1642884126693886,
+    "Oeff": 110.51719156313204,
+    "Oefgp": 0.5423728813559322,
+    "Oftr": 0.326271186440678,
+    "Oneteff": 2.4269784420527287,
+    "Oneteffrank": 153,
+    "Oorbp": 0.2440944881889764,
+    "Oposs": 276.88,
+    "Otovr": 0.12342471092633493,
+    "SoR": 22.655382247159917,
+    "SoRrank": 96,
+    "TAst": 61.0,
+    "TBlk": 17.0,
+    "TDR": 96.0,
+    "TFGA": 250.0,
+    "TFGA3": 82.0,
+    "TFGM": 103.0,
+    "TFGM3": 25.0,
+    "TFTA": 128.0,
+    "TFTM": 93.0,
+    "TOR": 55.0,
+    "TPF": 73.0,
+    "TScore": 324.0,
+    "TStl": 24.0,
+    "TTO": 35.0,
+    "Tastr": 0.1516206005170014,
+    "Tcorrdastr": 0.2002998141114961,
+    "Tcorrdastrrank": 355,
+    "Tcorrdeff": 116.99207768478364,
+    "Tcorrdeffrank": 307,
+    "Tcorrdefgp": 0.5537325562430659,
+    "Tcorrdefgprank": 286,
+    "Tcorrdftr": 0.31583058777648015,
+    "Tcorrdftrrank": 114,
+    "Tcorrdorbp": 0.21604488720448653,
+    "Tcorrdorbprank": 37,
+    "Tcorrdtovr": 0.11537115309350214,
+    "Tcorrdtovrrank": 318,
+    "Tcorroastr": 0.16768463989631244,
+    "Tcorroastrrank": 90,
+    "Tcorroeff": 122.72954480461121,
+    "Tcorroeffrank": 34,
+    "Tcorroefgp": 0.5458196814513576,
+    "Tcorroefgprank": 106,
+    "Tcorroftr": 0.4709549216787043,
+    "Tcorroftrrank": 72,
+    "Tcorroorbp": 0.4128713705147274,
+    "Tcorroorbprank": 29,
+    "Tcorrotovr": 0.11301031690853386,
+    "Tcorrotovrrank": 42,
+    "Teff": 113.16010058675607,
+    "Tefgp": 0.462,
+    "Tftr": 0.512,
+    "Tneteff": 5.737467119827571,
+    "Tneteffrank": 137,
+    "Torbp": 0.3819444444444444,
+    "Tposs": 286.32,
+    "Ttovr": 0.10254306808859721,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            4
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            116.10373944511461,
+            80.02560819462228
+        ],
+        [
+            116.14055985705778,
+            113.90532544378699
+        ],
+        [
+            105.49558390579,
+            105.52371026576341
+        ],
+        [
+            116.37689287717332,
+            139.92004568817816
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        1,
+        0
+    ],
+    "pace": 69.12225008683042,
+    "poss": [
+        [
+            66.32,
+            62.480000000000004
+        ],
+        [
+            67.16,
+            67.6
+        ],
+        [
+            81.52,
+            76.76
+        ],
+        [
+            71.32,
+            70.04
+        ]
+    ],
+    "preseason_pace": 66.15656617572114,
+    "preseason_pred": 7.411274974176482,
+    "preseason_predd": 103.30253584977014,
+    "preseason_predo": 110.71381082394663,
+    "schedule": [
+        "louisiana-tech",
+        "pacific",
+        "southern-illinois",
+        "santa-clara"
+    ],
+    "scores": [
+        [
+            77,
+            50
+        ],
+        [
+            78,
+            77
+        ],
+        [
+            86,
+            81
+        ],
+        [
+            83,
+            98
+        ]
+    ],
+    "wins": 3
+}

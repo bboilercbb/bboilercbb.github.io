@@ -1,0 +1,195 @@
+{
+    "CompRank": 87,
+    "CompositeDef": 101.67076109005653,
+    "CompositeOff": 109.89134532408718,
+    "CompositePace": 69.99199320326032,
+    "CompositeRating": 8.220584234030639,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "A"
+    ],
+    "OAst": 65.0,
+    "OAvgCompRat": -5.60899802341577,
+    "OBlk": 9.0,
+    "ODR": 81.0,
+    "OFGA": 232.0,
+    "OFGA3": 90.0,
+    "OFGM": 109.0,
+    "OFGM3": 30.0,
+    "OFTA": 120.0,
+    "OFTM": 87.0,
+    "OOR": 31.0,
+    "OPF": 98.0,
+    "OScore": 335.0,
+    "OStl": 28.0,
+    "OTO": 57.0,
+    "Oastr": 0.1597836774827925,
+    "Ocomprank": 254,
+    "Ocorrdastr": 0.14930217788819333,
+    "Ocorrdeff": 110.136158336287,
+    "Ocorrdeffrank": 265,
+    "Ocorrdefgp": 0.5013153351208853,
+    "Ocorrdftr": 0.5309474643229144,
+    "Ocorrdorbp": 0.29664163365128215,
+    "Ocorrdtovr": 0.16075479659571212,
+    "Ocorroastr": 0.1743957871220973,
+    "Ocorroeff": 110.79820670352058,
+    "Ocorroeffrank": 106,
+    "Ocorroefgp": 0.5620473686918246,
+    "Ocorroftr": 0.47724539824065715,
+    "Ocorroorbp": 0.25303126953904775,
+    "Ocorrotovr": 0.159047093065339,
+    "Oeff": 107.78635778635778,
+    "Oefgp": 0.5344827586206896,
+    "Oftr": 0.5172413793103449,
+    "Oneteff": 0.6620483672335808,
+    "Oneteffrank": 183,
+    "Oorbp": 0.25203252032520324,
+    "Oposs": 310.8,
+    "Otovr": 0.16676418958455236,
+    "SoR": 0.3489009761768358,
+    "SoRrank": 232,
+    "TAst": 79.0,
+    "TBlk": 12.0,
+    "TDR": 92.0,
+    "TFGA": 242.0,
+    "TFGA3": 98.0,
+    "TFGM": 123.0,
+    "TFGM3": 28.0,
+    "TFTA": 127.0,
+    "TFTM": 93.0,
+    "TOR": 42.0,
+    "TPF": 104.0,
+    "TScore": 367.0,
+    "TStl": 36.0,
+    "TTO": 53.0,
+    "Tastr": 0.18377221550200057,
+    "Tcorrdastr": 0.13486790009410216,
+    "Tcorrdastrrank": 125,
+    "Tcorrdeff": 103.49322554647152,
+    "Tcorrdeffrank": 144,
+    "Tcorrdefgp": 0.48628297258724296,
+    "Tcorrdefgprank": 129,
+    "Tcorrdftr": 0.41772898264273756,
+    "Tcorrdftrrank": 248,
+    "Tcorrdorbp": 0.2971547990103234,
+    "Tcorrdorbprank": 184,
+    "Tcorrdtovr": 0.16081155155152843,
+    "Tcorrdtovrrank": 148,
+    "Tcorroastr": 0.18032241780186348,
+    "Tcorroastrrank": 48,
+    "Tcorroeff": 114.81997159458821,
+    "Tcorroeffrank": 90,
+    "Tcorroefgp": 0.5751398558877987,
+    "Tcorroefgprank": 54,
+    "Tcorroftr": 0.3838073906889439,
+    "Tcorroftrrank": 162,
+    "Tcorroorbp": 0.34627694331382386,
+    "Tcorroorbprank": 98,
+    "Tcorrotovr": 0.1439510013000008,
+    "Tcorrotovrrank": 150,
+    "Teff": 118.81636881636882,
+    "Tefgp": 0.5661157024793388,
+    "Tftr": 0.5247933884297521,
+    "Tneteff": 11.32674604811669,
+    "Tneteffrank": 101,
+    "Torbp": 0.34146341463414637,
+    "Tposs": 308.88,
+    "Ttovr": 0.15104879160966714,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            4
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            100.89686098654708,
+            103.46487006737247
+        ],
+        [
+            141.69472502805837,
+            103.60360360360362
+        ],
+        [
+            117.90060851926978,
+            124.57254518808013
+        ],
+        [
+            117.2870984191739,
+            98.48484848484848
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 76.88578856315567,
+    "poss": [
+        [
+            80.28,
+            83.12
+        ],
+        [
+            71.28,
+            66.6
+        ],
+        [
+            78.88,
+            81.88
+        ],
+        [
+            78.44,
+            79.2
+        ]
+    ],
+    "preseason_pace": 66.96591019205798,
+    "preseason_pred": 6.857111284088888,
+    "preseason_predd": 100.8707766921789,
+    "preseason_predo": 107.72788797626778,
+    "schedule": [
+        "tennessee-martin",
+        "chattanooga",
+        "montana",
+        "memphis"
+    ],
+    "scores": [
+        [
+            81,
+            86
+        ],
+        [
+            101,
+            69
+        ],
+        [
+            93,
+            102
+        ],
+        [
+            92,
+            78
+        ]
+    ],
+    "wins": 2
+}

@@ -1,0 +1,195 @@
+{
+    "CompRank": 191,
+    "CompositeDef": 106.13473207667721,
+    "CompositeOff": 101.07896091843732,
+    "CompositePace": 69.20629694983757,
+    "CompositeRating": -5.055771158239887,
+    "HA": [
+        "H",
+        "A",
+        "A",
+        "H"
+    ],
+    "OAst": 49.0,
+    "OAvgCompRat": -5.860743550431838,
+    "OBlk": 11.0,
+    "ODR": 94.0,
+    "OFGA": 225.0,
+    "OFGA3": 104.0,
+    "OFGM": 93.0,
+    "OFGM3": 33.0,
+    "OFTA": 104.0,
+    "OFTM": 69.0,
+    "OOR": 41.0,
+    "OPF": 86.0,
+    "OScore": 288.0,
+    "OStl": 24.0,
+    "OTO": 50.0,
+    "Oastr": 0.1325183903072263,
+    "Ocomprank": 258,
+    "Ocorrdastr": 0.14383866606381163,
+    "Ocorrdeff": 105.07416060612543,
+    "Ocorrdeffrank": 161,
+    "Ocorrdefgp": 0.4818241716666557,
+    "Ocorrdftr": 0.4042532985588446,
+    "Ocorrdorbp": 0.3728486390051047,
+    "Ocorrdtovr": 0.14213225905076451,
+    "Ocorroastr": 0.1362822089389559,
+    "Ocorroeff": 105.52997985989967,
+    "Ocorroeffrank": 203,
+    "Ocorroefgp": 0.5050063716296685,
+    "Ocorroftr": 0.35224108854668484,
+    "Ocorroorbp": 0.2589265269014107,
+    "Ocorrotovr": 0.147002899778699,
+    "Oeff": 102.94538175579068,
+    "Oefgp": 0.4866666666666667,
+    "Oftr": 0.4622222222222222,
+    "Oneteff": 0.45581925377423715,
+    "Oneteffrank": 186,
+    "Oorbp": 0.29285714285714287,
+    "Oposs": 279.76,
+    "Otovr": 0.15587978550941514,
+    "SoR": 0.24943876796997833,
+    "SoRrank": 236,
+    "TAst": 44.0,
+    "TBlk": 10.0,
+    "TDR": 99.0,
+    "TFGA": 230.0,
+    "TFGA3": 94.0,
+    "TFGM": 99.0,
+    "TFGM3": 33.0,
+    "TFTA": 79.0,
+    "TFTM": 60.0,
+    "TOR": 34.0,
+    "TPF": 72.0,
+    "TScore": 291.0,
+    "TStl": 27.0,
+    "TTO": 45.0,
+    "Tastr": 0.12437810945273632,
+    "Tcorrdastr": 0.1417345688564654,
+    "Tcorrdastrrank": 168,
+    "Tcorrdeff": 103.57803542249891,
+    "Tcorrdeffrank": 146,
+    "Tcorrdefgp": 0.490691504496633,
+    "Tcorrdefgprank": 144,
+    "Tcorrdftr": 0.4996786175894558,
+    "Tcorrdftrrank": 318,
+    "Tcorrdorbp": 0.33773708373128075,
+    "Tcorrdorbprank": 263,
+    "Tcorrdtovr": 0.16212106127545667,
+    "Tcorrdtovrrank": 144,
+    "Tcorroastr": 0.12649060958179342,
+    "Tcorroastrrank": 271,
+    "Tcorroeff": 106.68945977401067,
+    "Tcorroeffrank": 171,
+    "Tcorroefgp": 0.5299777168101054,
+    "Tcorroefgprank": 131,
+    "Tcorroftr": 0.3263607337932451,
+    "Tcorroftrrank": 248,
+    "Tcorroorbp": 0.21627691628086773,
+    "Tcorroorbprank": 318,
+    "Tcorrotovr": 0.15581967188058446,
+    "Tcorrotovrrank": 202,
+    "Teff": 105.52654482158398,
+    "Tefgp": 0.5021739130434782,
+    "Tftr": 0.34347826086956523,
+    "Tneteff": 3.111424351511758,
+    "Tneteffrank": 150,
+    "Torbp": 0.265625,
+    "Tposs": 275.76,
+    "Ttovr": 0.1452737603305785,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            109.61214165261383,
+            95.99561162918266
+        ],
+        [
+            112.10073710073709,
+            93.93939393939394
+        ],
+        [
+            96.5665236051502,
+            107.73317591499409
+        ],
+        [
+            103.71767241379311,
+            113.57416529830323
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 72.41747326282105,
+    "poss": [
+        [
+            71.16,
+            72.92
+        ],
+        [
+            65.12,
+            66.0
+        ],
+        [
+            65.24000000000001,
+            67.76
+        ],
+        [
+            74.24,
+            73.08
+        ]
+    ],
+    "preseason_pace": 67.79672710051697,
+    "preseason_pred": -8.64082268515419,
+    "preseason_predd": 107.25701318687894,
+    "preseason_predo": 98.61619050172474,
+    "schedule": [
+        "delaware",
+        "mount-st-marys",
+        "princeton",
+        "hofstra"
+    ],
+    "scores": [
+        [
+            78,
+            70
+        ],
+        [
+            73,
+            62
+        ],
+        [
+            63,
+            73
+        ],
+        [
+            77,
+            83
+        ]
+    ],
+    "wins": 2
+}

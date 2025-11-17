@@ -1,0 +1,195 @@
+{
+    "CompRank": 36,
+    "CompositeDef": 97.14373175248272,
+    "CompositeOff": 116.53413635217551,
+    "CompositePace": 72.25376783705939,
+    "CompositeRating": 19.39040459969278,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 39.0,
+    "OAvgCompRat": -9.327490899268172,
+    "OBlk": 9.0,
+    "ODR": 79.0,
+    "OFGA": 258.0,
+    "OFGA3": 110.0,
+    "OFGM": 86.0,
+    "OFGM3": 34.0,
+    "OFTA": 75.0,
+    "OFTM": 49.0,
+    "OOR": 37.0,
+    "OPF": 78.0,
+    "OScore": 255.0,
+    "OStl": 27.0,
+    "OTO": 49.0,
+    "Oastr": 0.10290237467018469,
+    "Ocomprank": 320,
+    "Ocorrdastr": 0.17288909257171398,
+    "Ocorrdeff": 113.15318182542444,
+    "Ocorrdeffrank": 306,
+    "Ocorrdefgp": 0.5283733958990883,
+    "Ocorrdftr": 0.3765394073759919,
+    "Ocorrdorbp": 0.2667938013820453,
+    "Ocorrdtovr": 0.13026170542392862,
+    "Ocorroastr": 0.12608355531941737,
+    "Ocorroeff": 94.53548341066647,
+    "Ocorroeffrank": 340,
+    "Ocorroefgp": 0.4592611712808655,
+    "Ocorroftr": 0.4344105887002009,
+    "Ocorroorbp": 0.2853842289049041,
+    "Ocorrotovr": 0.1621507930632373,
+    "Oeff": 84.15841584158416,
+    "Oefgp": 0.3992248062015504,
+    "Oftr": 0.29069767441860467,
+    "Oneteff": -18.617698414757967,
+    "Oneteffrank": 353,
+    "Oorbp": 0.22560975609756098,
+    "Oposs": 303.0,
+    "Otovr": 0.14411764705882352,
+    "SoR": 76.18469261651131,
+    "SoRrank": 11,
+    "TAst": 75.0,
+    "TBlk": 23.0,
+    "TDR": 127.0,
+    "TFGA": 251.0,
+    "TFGA3": 115.0,
+    "TFGM": 122.0,
+    "TFGM3": 37.0,
+    "TFTA": 123.0,
+    "TFTM": 86.0,
+    "TOR": 46.0,
+    "TPF": 67.0,
+    "TScore": 367.0,
+    "TStl": 30.0,
+    "TTO": 44.0,
+    "Tastr": 0.17683674431764596,
+    "Tcorrdastr": 0.11859266617659263,
+    "Tcorrdastrrank": 64,
+    "Tcorrdeff": 94.10935632869715,
+    "Tcorrdeffrank": 50,
+    "Tcorrdefgp": 0.4409467468557275,
+    "Tcorrdefgprank": 49,
+    "Tcorrdftr": 0.25695353785824926,
+    "Tcorrdftrrank": 44,
+    "Tcorrdorbp": 0.2369809167921093,
+    "Tcorrdorbprank": 64,
+    "Tcorrdtovr": 0.13641847092477827,
+    "Tcorrdtovrrank": 238,
+    "Tcorroastr": 0.15072411491687987,
+    "Tcorroastrrank": 148,
+    "Tcorroeff": 114.00505481836464,
+    "Tcorroeffrank": 99,
+    "Tcorroefgp": 0.5406944019438092,
+    "Tcorroefgprank": 112,
+    "Tcorroftr": 0.49847395488292845,
+    "Tcorroftrrank": 51,
+    "Tcorroorbp": 0.413186234751729,
+    "Tcorroorbprank": 27,
+    "Tcorrotovr": 0.14698656178166863,
+    "Tcorrotovrrank": 169,
+    "Teff": 121.07416204803378,
+    "Tefgp": 0.5597609561752988,
+    "Tftr": 0.4900398406374502,
+    "Tneteff": 19.895698489667495,
+    "Tneteffrank": 52,
+    "Torbp": 0.368,
+    "Tposs": 303.12,
+    "Ttovr": 0.12603116406966086,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            124.20718816067652,
+            70.16632016632018
+        ],
+        [
+            116.80988184747582,
+            104.8158640226629
+        ],
+        [
+            105.25070955534531,
+            86.40822045773004
+        ],
+        [
+            141.81286549707602,
+            75.93123209169055
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 76.07127799057795,
+    "poss": [
+        [
+            75.68,
+            76.96
+        ],
+        [
+            74.48,
+            70.6
+        ],
+        [
+            84.56,
+            85.64
+        ],
+        [
+            68.4,
+            69.8
+        ]
+    ],
+    "preseason_pace": 70.57804321548744,
+    "preseason_pred": 19.16860206911403,
+    "preseason_predd": 98.47569352972742,
+    "preseason_predo": 117.64429559884145,
+    "schedule": [
+        "central-arkansas",
+        "kansas",
+        "radford",
+        "north-carolina-central"
+    ],
+    "scores": [
+        [
+            94,
+            54
+        ],
+        [
+            87,
+            74
+        ],
+        [
+            89,
+            74
+        ],
+        [
+            97,
+            53
+        ]
+    ],
+    "wins": 4
+}

@@ -1,0 +1,195 @@
+{
+    "CompRank": 337,
+    "CompositeDef": 109.19450934766319,
+    "CompositeOff": 91.35985194292776,
+    "CompositePace": 65.13752029230612,
+    "CompositeRating": -17.834657404735434,
+    "HA": [
+        "A",
+        "A",
+        "A",
+        "A"
+    ],
+    "OAst": 55.0,
+    "OAvgCompRat": 5.251493534374774,
+    "OBlk": 20.0,
+    "ODR": 99.0,
+    "OFGA": 237.0,
+    "OFGA3": 92.0,
+    "OFGM": 103.0,
+    "OFGM3": 29.0,
+    "OFTA": 108.0,
+    "OFTM": 70.0,
+    "OOR": 51.0,
+    "OPF": 63.0,
+    "OScore": 305.0,
+    "OStl": 29.0,
+    "OTO": 42.0,
+    "Oastr": 0.1441602013000629,
+    "Ocomprank": 77,
+    "Ocorrdastr": 0.1476265826068368,
+    "Ocorrdeff": 99.4882190438752,
+    "Ocorrdeffrank": 69,
+    "Ocorrdefgp": 0.5124234137793846,
+    "Ocorrdftr": 0.2953194322846337,
+    "Ocorrdorbp": 0.2751187855252617,
+    "Ocorrdtovr": 0.167520898882838,
+    "Ocorroastr": 0.14104352213144639,
+    "Ocorroeff": 112.34961630696591,
+    "Ocorroeffrank": 85,
+    "Ocorroefgp": 0.48237032611048924,
+    "Ocorroftr": 0.35464334073908826,
+    "Ocorroorbp": 0.3223267877310402,
+    "Ocorrotovr": 0.12688152913506806,
+    "Oeff": 110.69976771196283,
+    "Oefgp": 0.4957805907172996,
+    "Oftr": 0.45569620253164556,
+    "Oneteff": 12.861397263090709,
+    "Oneteffrank": 57,
+    "Oorbp": 0.3722627737226277,
+    "Oposs": 275.52,
+    "Otovr": 0.12862918044836458,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 47.0,
+    "TBlk": 9.0,
+    "TDR": 86.0,
+    "TFGA": 235.0,
+    "TFGA3": 87.0,
+    "TFGM": 98.0,
+    "TFGM3": 35.0,
+    "TFTA": 58.0,
+    "TFTM": 35.0,
+    "TOR": 40.0,
+    "TPF": 78.0,
+    "TScore": 266.0,
+    "TStl": 25.0,
+    "TTO": 57.0,
+    "Tastr": 0.12893668385822452,
+    "Tcorrdastr": 0.14918533430789965,
+    "Tcorrdastrrank": 210,
+    "Tcorrdeff": 104.88102801276901,
+    "Tcorrdeffrank": 165,
+    "Tcorrdefgp": 0.5223817959794906,
+    "Tcorrdefgprank": 220,
+    "Tcorrdftr": 0.4894195814330899,
+    "Tcorrdftrrank": 313,
+    "Tcorrdorbp": 0.3478949715491173,
+    "Tcorrdorbprank": 276,
+    "Tcorrdtovr": 0.15408693137706028,
+    "Tcorrdtovrrank": 168,
+    "Tcorroastr": 0.12789464507730344,
+    "Tcorroastrrank": 262,
+    "Tcorroeff": 102.12328469663345,
+    "Tcorroeffrank": 228,
+    "Tcorroefgp": 0.48892719627583475,
+    "Tcorroefgprank": 226,
+    "Tcorroftr": 0.3170145761104214,
+    "Tcorroftrrank": 259,
+    "Tcorroorbp": 0.3137120339935899,
+    "Tcorroorbprank": 152,
+    "Tcorrotovr": 0.16444118470688712,
+    "Tcorrotovrrank": 241,
+    "Teff": 95.84894782358029,
+    "Tefgp": 0.49148936170212765,
+    "Tftr": 0.24680851063829787,
+    "Tneteff": -2.75774331613556,
+    "Tneteffrank": 199,
+    "Torbp": 0.28776978417266186,
+    "Tposs": 277.52,
+    "Ttovr": 0.17951625094482238,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            95.41000515729758,
+            132.66357547655846
+        ],
+        [
+            94.89732420659614,
+            106.98552548772813
+        ],
+        [
+            100.59366754617415,
+            106.3470627954085
+        ],
+        [
+            93.28358208955223,
+            94.56579648375067
+        ]
+    ],
+    "losses": 4,
+    "nOT": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "pace": 69.36729509956308,
+    "poss": [
+        [
+            77.56,
+            77.64
+        ],
+        [
+            64.28,
+            63.56
+        ],
+        [
+            60.64,
+            59.24
+        ],
+        [
+            75.04,
+            75.08
+        ]
+    ],
+    "preseason_pace": 63.28082901888743,
+    "preseason_pred": -24.452781558853346,
+    "preseason_predd": 111.08794422717779,
+    "preseason_predo": 86.63516266832444,
+    "schedule": [
+        "virginia-commonwealth",
+        "seton-hall",
+        "fordham",
+        "maryland-baltimore-county"
+    ],
+    "scores": [
+        [
+            74,
+            103
+        ],
+        [
+            61,
+            68
+        ],
+        [
+            61,
+            63
+        ],
+        [
+            70,
+            71
+        ]
+    ],
+    "wins": 0
+}

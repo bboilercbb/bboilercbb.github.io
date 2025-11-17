@@ -1,0 +1,195 @@
+{
+    "CompRank": 106,
+    "CompositeDef": 103.02999435628384,
+    "CompositeOff": 107.47347378118451,
+    "CompositePace": 72.07748404083515,
+    "CompositeRating": 4.4434794249006675,
+    "HA": [
+        "H",
+        "A",
+        "H",
+        "H"
+    ],
+    "OAst": 63.0,
+    "OAvgCompRat": -4.718880413025315,
+    "OBlk": 13.0,
+    "ODR": 97.0,
+    "OFGA": 241.0,
+    "OFGA3": 99.0,
+    "OFGM": 101.0,
+    "OFGM3": 27.0,
+    "OFTA": 92.0,
+    "OFTM": 71.0,
+    "OOR": 36.0,
+    "OPF": 65.0,
+    "OScore": 300.0,
+    "OStl": 34.0,
+    "OTO": 66.0,
+    "Oastr": 0.1534788540245566,
+    "Ocomprank": 235,
+    "Ocorrdastr": 0.14825833961795276,
+    "Ocorrdeff": 110.02672026604002,
+    "Ocorrdeffrank": 263,
+    "Ocorrdefgp": 0.509933260162155,
+    "Ocorrdftr": 0.40733886954987053,
+    "Ocorrdorbp": 0.3874399112149224,
+    "Ocorrdtovr": 0.1745764416154928,
+    "Ocorroastr": 0.1568639654189308,
+    "Ocorroeff": 114.12004423479863,
+    "Ocorroeffrank": 59,
+    "Ocorroefgp": 0.5480215146049481,
+    "Ocorroftr": 0.31095980792734706,
+    "Ocorroorbp": 0.2900060625530062,
+    "Ocorrotovr": 0.11776393696854223,
+    "Oeff": 96.31437010401952,
+    "Oefgp": 0.475103734439834,
+    "Oftr": 0.3817427385892116,
+    "Oneteff": 4.093323968758611,
+    "Oneteffrank": 130,
+    "Oorbp": 0.26865671641791045,
+    "Oposs": 311.48,
+    "Otovr": 0.18993898929434785,
+    "SoR": 0.9910806052437882,
+    "SoRrank": 211,
+    "TAst": 58.0,
+    "TBlk": 12.0,
+    "TDR": 98.0,
+    "TFGA": 274.0,
+    "TFGA3": 84.0,
+    "TFGM": 125.0,
+    "TFGM3": 19.0,
+    "TFTA": 104.0,
+    "TFTM": 72.0,
+    "TOR": 51.0,
+    "TPF": 71.0,
+    "TScore": 341.0,
+    "TStl": 42.0,
+    "TTO": 44.0,
+    "Tastr": 0.13751896813353567,
+    "Tcorrdastr": 0.14341729599371184,
+    "Tcorrdastrrank": 177,
+    "Tcorrdeff": 89.89218247039095,
+    "Tcorrdeffrank": 23,
+    "Tcorrdefgp": 0.4428750154996696,
+    "Tcorrdefgprank": 54,
+    "Tcorrdftr": 0.4651428626822605,
+    "Tcorrdftrrank": 299,
+    "Tcorrdorbp": 0.27787821101448,
+    "Tcorrdorbprank": 147,
+    "Tcorrdtovr": 0.24441859645670702,
+    "Tcorrdtovrrank": 3,
+    "Tcorroastr": 0.13584945638405344,
+    "Tcorroastrrank": 229,
+    "Tcorroeff": 105.46269432823891,
+    "Tcorroeffrank": 185,
+    "Tcorroefgp": 0.4906061670604371,
+    "Tcorroefgprank": 222,
+    "Tcorroftr": 0.3580229841479663,
+    "Tcorroftrrank": 199,
+    "Tcorroorbp": 0.2704226877192367,
+    "Tcorroorbprank": 226,
+    "Tcorrotovr": 0.10649833775485253,
+    "Tcorrotovrrank": 32,
+    "Teff": 109.0292876326896,
+    "Tefgp": 0.4908759124087591,
+    "Tftr": 0.3795620437956204,
+    "Tneteff": 15.570511857847961,
+    "Tneteffrank": 70,
+    "Torbp": 0.34459459459459457,
+    "Tposs": 312.76,
+    "Ttovr": 0.12095887398284584,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            125.77123872804935,
+            64.43298969072166
+        ],
+        [
+            93.13464608834487,
+            125.87038028923405
+        ],
+        [
+            96.20384815392616,
+            104.3360433604336
+        ],
+        [
+            119.10994764397905,
+            95.31169500257599
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 77.66187901655601,
+    "poss": [
+        [
+            84.28,
+            85.36
+        ],
+        [
+            75.16,
+            74.68
+        ],
+        [
+            76.92,
+            73.8
+        ],
+        [
+            76.4,
+            77.64
+        ]
+    ],
+    "preseason_pace": 69.62617211733627,
+    "preseason_pred": -0.440814647174963,
+    "preseason_predd": 108.7969351018061,
+    "preseason_predo": 108.35612045463114,
+    "schedule": [
+        "mississippi-valley-state",
+        "north-carolina-state",
+        "alabama-state",
+        "high-point"
+    ],
+    "scores": [
+        [
+            106,
+            55
+        ],
+        [
+            70,
+            94
+        ],
+        [
+            74,
+            77
+        ],
+        [
+            91,
+            74
+        ]
+    ],
+    "wins": 2
+}

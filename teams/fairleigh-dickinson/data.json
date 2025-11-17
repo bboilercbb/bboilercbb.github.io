@@ -1,0 +1,195 @@
+{
+    "CompRank": 349,
+    "CompositeDef": 116.60855995129683,
+    "CompositeOff": 96.9094318491504,
+    "CompositePace": 72.19188417455973,
+    "CompositeRating": -19.69912810214643,
+    "HA": [
+        "A",
+        "A",
+        "A",
+        "A"
+    ],
+    "OAst": 71.0,
+    "OAvgCompRat": 5.7623958951130865,
+    "OBlk": 16.0,
+    "ODR": 118.0,
+    "OFGA": 240.0,
+    "OFGA3": 102.0,
+    "OFGM": 128.0,
+    "OFGM3": 40.0,
+    "OFTA": 108.0,
+    "OFTM": 71.0,
+    "OOR": 35.0,
+    "OPF": 72.0,
+    "OScore": 367.0,
+    "OStl": 33.0,
+    "OTO": 43.0,
+    "Oastr": 0.17682805339709107,
+    "Ocomprank": 68,
+    "Ocorrdastr": 0.13366402363783794,
+    "Ocorrdeff": 92.89411762756839,
+    "Ocorrdeffrank": 16,
+    "Ocorrdefgp": 0.475501649021728,
+    "Ocorrdftr": 0.4216778162166586,
+    "Ocorrdorbp": 0.2979783577852603,
+    "Ocorrdtovr": 0.19364343090030675,
+    "Ocorroastr": 0.12108104268562266,
+    "Ocorroeff": 106.65840501169599,
+    "Ocorroeffrank": 183,
+    "Ocorroefgp": 0.4482393569202197,
+    "Ocorroftr": 0.43386637713730997,
+    "Ocorroorbp": 0.3363077165528844,
+    "Ocorrotovr": 0.14217685202834804,
+    "Oeff": 124.18787222523011,
+    "Oefgp": 0.6166666666666667,
+    "Oftr": 0.45,
+    "Oneteff": 13.764287384127599,
+    "Oneteffrank": 49,
+    "Oorbp": 0.2966101694915254,
+    "Oposs": 295.52,
+    "Otovr": 0.1300980273508411,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 45.0,
+    "TBlk": 8.0,
+    "TDR": 83.0,
+    "TFGA": 249.0,
+    "TFGA3": 129.0,
+    "TFGM": 93.0,
+    "TFGM3": 40.0,
+    "TFTA": 73.0,
+    "TFTM": 46.0,
+    "TOR": 37.0,
+    "TPF": 87.0,
+    "TScore": 272.0,
+    "TStl": 17.0,
+    "TTO": 52.0,
+    "Tastr": 0.11900983814662013,
+    "Tcorrdastr": 0.2118674932838525,
+    "Tcorrdastrrank": 361,
+    "Tcorrdeff": 123.6815940190386,
+    "Tcorrdeffrank": 347,
+    "Tcorrdefgp": 0.6971847599288611,
+    "Tcorrdefgprank": 364,
+    "Tcorrdftr": 0.39824308381040086,
+    "Tcorrdftrrank": 229,
+    "Tcorrdorbp": 0.26612149641283317,
+    "Tcorrdorbprank": 124,
+    "Tcorrdtovr": 0.13971366925367637,
+    "Tcorrdtovrrank": 228,
+    "Tcorroastr": 0.1298634673244935,
+    "Tcorroastrrank": 256,
+    "Tcorroeff": 104.52823409839421,
+    "Tcorroeffrank": 198,
+    "Tcorroefgp": 0.48505413838351863,
+    "Tcorroefgprank": 236,
+    "Tcorroftr": 0.2675015281567424,
+    "Tcorroftrrank": 315,
+    "Tcorroorbp": 0.24103200715886666,
+    "Tcorroorbprank": 280,
+    "Tcorrotovr": 0.12441904684547155,
+    "Tcorrotovrrank": 78,
+    "Teff": 91.8546535188437,
+    "Tefgp": 0.4538152610441767,
+    "Tftr": 0.2931726907630522,
+    "Tneteff": -19.15335992064439,
+    "Tneteffrank": 314,
+    "Torbp": 0.23870967741935484,
+    "Tposs": 296.12,
+    "Ttovr": 0.15609990393852066,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            69.94963626189143,
+            120.6140350877193
+        ],
+        [
+            114.01098901098902,
+            124.19871794871796
+        ],
+        [
+            77.62312633832977,
+            122.43285939968403
+        ],
+        [
+            105.0311203319502,
+            129.67094255437814
+        ]
+    ],
+    "losses": 4,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 77.19990093911984,
+    "poss": [
+        [
+            71.48,
+            72.96
+        ],
+        [
+            72.8,
+            74.88
+        ],
+        [
+            74.72,
+            75.96000000000001
+        ],
+        [
+            77.12,
+            71.72
+        ]
+    ],
+    "preseason_pace": 69.99357777585023,
+    "preseason_pred": -19.93869712557668,
+    "preseason_predd": 113.50379876929769,
+    "preseason_predo": 93.56510164372101,
+    "schedule": [
+        "iowa-state",
+        "saint-peters",
+        "texas",
+        "njit"
+    ],
+    "scores": [
+        [
+            50,
+            88
+        ],
+        [
+            83,
+            93
+        ],
+        [
+            58,
+            93
+        ],
+        [
+            81,
+            93
+        ]
+    ],
+    "wins": 0
+}

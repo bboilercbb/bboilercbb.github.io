@@ -1,0 +1,195 @@
+{
+    "CompRank": 361,
+    "CompositeDef": 120.85808677031665,
+    "CompositeOff": 97.01591286194791,
+    "CompositePace": 67.8400877631631,
+    "CompositeRating": -23.84217390836875,
+    "HA": [
+        "A",
+        "A",
+        "A",
+        "A"
+    ],
+    "OAst": 85.0,
+    "OAvgCompRat": 14.479855846036019,
+    "OBlk": 30.0,
+    "ODR": 121.0,
+    "OFGA": 234.0,
+    "OFGA3": 130.0,
+    "OFGM": 119.0,
+    "OFGM3": 51.0,
+    "OFTA": 113.0,
+    "OFTM": 79.0,
+    "OOR": 53.0,
+    "OPF": 73.0,
+    "OScore": 368.0,
+    "OStl": 24.0,
+    "OTO": 37.0,
+    "Oastr": 0.20950409149166913,
+    "Ocomprank": 18,
+    "Ocorrdastr": 0.13809159624156211,
+    "Ocorrdeff": 101.47442241536808,
+    "Ocorrdeffrank": 104,
+    "Ocorrdefgp": 0.4877485716887649,
+    "Ocorrdftr": 0.35358157951422564,
+    "Ocorrdorbp": 0.2874509098565999,
+    "Ocorrdtovr": 0.1487954613544579,
+    "Ocorroastr": 0.1609338793869523,
+    "Ocorroeff": 123.7576064865111,
+    "Ocorroeffrank": 7,
+    "Ocorroefgp": 0.5699467399460485,
+    "Ocorroftr": 0.40568949930906595,
+    "Ocorroorbp": 0.385934741223374,
+    "Ocorrotovr": 0.12771666910193477,
+    "Oeff": 137.4570446735395,
+    "Oefgp": 0.6175213675213675,
+    "Oftr": 0.4829059829059829,
+    "Oneteff": 22.283184071143012,
+    "Oneteffrank": 15,
+    "Oorbp": 0.4274193548387097,
+    "Oposs": 267.72,
+    "Otovr": 0.11536542778747816,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 41.0,
+    "TBlk": 7.0,
+    "TDR": 71.0,
+    "TFGA": 224.0,
+    "TFGA3": 80.0,
+    "TFGM": 71.0,
+    "TFGM3": 24.0,
+    "TFTA": 90.0,
+    "TFTM": 69.0,
+    "TOR": 40.0,
+    "TPF": 62.0,
+    "TScore": 235.0,
+    "TStl": 25.0,
+    "TTO": 47.0,
+    "Tastr": 0.11660978384527872,
+    "Tcorrdastr": 0.1910139481626897,
+    "Tcorrdastrrank": 341,
+    "Tcorrdeff": 118.6841749636538,
+    "Tcorrdeffrank": 320,
+    "Tcorrdefgp": 0.5543548573611159,
+    "Tcorrdefgprank": 287,
+    "Tcorrdftr": 0.4558237115834345,
+    "Tcorrdftrrank": 293,
+    "Tcorrdorbp": 0.33601315688600536,
+    "Tcorrdorbprank": 261,
+    "Tcorrdtovr": 0.1373303392660151,
+    "Tcorrdtovrrank": 233,
+    "Tcorroastr": 0.12332499935963968,
+    "Tcorroastrrank": 283,
+    "Tcorroeff": 90.78939443360574,
+    "Tcorroeffrank": 333,
+    "Tcorroefgp": 0.3864896688649964,
+    "Tcorroefgprank": 356,
+    "Tcorroftr": 0.4341464180500049,
+    "Tcorroftrrank": 109,
+    "Tcorroorbp": 0.25967882147988275,
+    "Tcorroorbprank": 252,
+    "Tcorrotovr": 0.15532037080183184,
+    "Tcorrotovrrank": 198,
+    "Teff": 86.8440502586844,
+    "Tefgp": 0.3705357142857143,
+    "Tftr": 0.4017857142857143,
+    "Tneteff": -27.894780530048067,
+    "Tneteffrank": 343,
+    "Torbp": 0.2484472049689441,
+    "Tposs": 270.6,
+    "Ttovr": 0.1513200257566001,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            9
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            92.54066180594505,
+            155.7377049180328
+        ],
+        [
+            94.39707673568817,
+            127.8409090909091
+        ],
+        [
+            84.63949843260188,
+            121.09623964308476
+        ],
+        [
+            75.93123209169055,
+            141.81286549707602
+        ]
+    ],
+    "losses": 4,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 68.18819385526578,
+    "poss": [
+        [
+            71.32,
+            73.2
+        ],
+        [
+            65.68,
+            63.36
+        ],
+        [
+            63.8,
+            62.760000000000005
+        ],
+        [
+            69.8,
+            68.4
+        ]
+    ],
+    "preseason_pace": 67.6872839915954,
+    "preseason_pred": -22.063251934517744,
+    "preseason_predd": 121.81234161000405,
+    "preseason_predo": 99.74908967548632,
+    "schedule": [
+        "north-carolina-state",
+        "virginia",
+        "appalachian-state",
+        "north-carolina"
+    ],
+    "scores": [
+        [
+            66,
+            114
+        ],
+        [
+            62,
+            81
+        ],
+        [
+            54,
+            76
+        ],
+        [
+            53,
+            97
+        ]
+    ],
+    "wins": 0
+}

@@ -1,0 +1,176 @@
+{
+    "CompRank": 220,
+    "CompositeDef": 109.8235504782786,
+    "CompositeOff": 102.61107220633372,
+    "CompositePace": 68.01057370686308,
+    "CompositeRating": -7.212478271944893,
+    "HA": [
+        "A",
+        "H",
+        "A"
+    ],
+    "OAst": 45.0,
+    "OAvgCompRat": 4.593522806668298,
+    "OBlk": 16.0,
+    "ODR": 63.0,
+    "OFGA": 181.0,
+    "OFGA3": 58.0,
+    "OFGM": 81.0,
+    "OFGM3": 18.0,
+    "OFTA": 68.0,
+    "OFTM": 47.0,
+    "OOR": 38.0,
+    "OPF": 56.0,
+    "OScore": 227.0,
+    "OStl": 20.0,
+    "OTO": 34.0,
+    "Oastr": 0.15521523178807947,
+    "Ocomprank": 89,
+    "Ocorrdastr": 0.15407350172974973,
+    "Ocorrdeff": 108.367124335817,
+    "Ocorrdeffrank": 223,
+    "Ocorrdefgp": 0.5013801402734711,
+    "Ocorrdftr": 0.3543136078492933,
+    "Ocorrdorbp": 0.2551307530541298,
+    "Ocorrdtovr": 0.11063487110440508,
+    "Ocorroastr": 0.13028651508227101,
+    "Ocorroeff": 114.65440453297445,
+    "Ocorroeffrank": 54,
+    "Ocorroefgp": 0.5369279447335087,
+    "Ocorroftr": 0.4045782247089102,
+    "Ocorroorbp": 0.3065292494344048,
+    "Ocorrotovr": 0.13259666093987574,
+    "Oeff": 109.70423352020103,
+    "Oefgp": 0.4972375690607735,
+    "Oftr": 0.3756906077348066,
+    "Oneteff": 6.2872801971574575,
+    "Oneteffrank": 117,
+    "Oorbp": 0.38,
+    "Oposs": 206.92000000000002,
+    "Otovr": 0.13882083945778212,
+    "SoR": 0.9419466398676191,
+    "SoRrank": 213,
+    "TAst": 32.0,
+    "TBlk": 26.0,
+    "TDR": 62.0,
+    "TFGA": 161.0,
+    "TFGA3": 36.0,
+    "TFGM": 66.0,
+    "TFGM3": 11.0,
+    "TFTA": 75.0,
+    "TFTM": 51.0,
+    "TOR": 33.0,
+    "TPF": 39.0,
+    "TScore": 194.0,
+    "TStl": 16.0,
+    "TTO": 42.0,
+    "Tastr": 0.11940298507462686,
+    "Tcorrdastr": 0.1733380861721099,
+    "Tcorrdastrrank": 303,
+    "Tcorrdeff": 101.93101884874523,
+    "Tcorrdeffrank": 127,
+    "Tcorrdefgp": 0.472698123979298,
+    "Tcorrdefgprank": 101,
+    "Tcorrdftr": 0.35555631255803705,
+    "Tcorrdftrrank": 172,
+    "Tcorrdorbp": 0.3726797350083124,
+    "Tcorrdorbprank": 311,
+    "Tcorrdtovr": 0.15940806046307937,
+    "Tcorrdtovrrank": 154,
+    "Tcorroastr": 0.1136758938416282,
+    "Tcorroastrrank": 318,
+    "Tcorroeff": 93.79908907016386,
+    "Tcorroeffrank": 312,
+    "Tcorroefgp": 0.4511225444673682,
+    "Tcorroefgprank": 302,
+    "Tcorroftr": 0.5023596598645729,
+    "Tcorroftrrank": 48,
+    "Tcorroorbp": 0.40288309356077945,
+    "Tcorroorbprank": 36,
+    "Tcorrotovr": 0.24279048411242798,
+    "Tcorrotovrrank": 362,
+    "Teff": 95.56650246305419,
+    "Tefgp": 0.4440993788819876,
+    "Tftr": 0.4658385093167702,
+    "Tneteff": -8.131929778581366,
+    "Tneteffrank": 245,
+    "Torbp": 0.34375,
+    "Tposs": 203.0,
+    "Ttovr": 0.17796610169491525,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            83.10249307479224,
+            116.0
+        ],
+        [
+            107.55813953488372,
+            81.78228990411732
+        ],
+        [
+            96.7741935483871,
+            134.4262295081967
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0,
+        0
+    ],
+    "pace": 71.88060640072061,
+    "poss": [
+        [
+            72.2,
+            75.0
+        ],
+        [
+            68.8,
+            70.92
+        ],
+        [
+            62.0,
+            61.0
+        ]
+    ],
+    "preseason_pace": 67.05501007875012,
+    "preseason_pred": -6.985453208577862,
+    "preseason_predd": 111.7723237201387,
+    "preseason_predo": 104.78687051156083,
+    "schedule": [
+        "california",
+        "western-illinois",
+        "mississippi"
+    ],
+    "scores": [
+        [
+            60,
+            87
+        ],
+        [
+            74,
+            58
+        ],
+        [
+            60,
+            82
+        ]
+    ],
+    "wins": 1
+}

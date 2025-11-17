@@ -1,0 +1,195 @@
+{
+    "CompRank": 358,
+    "CompositeDef": 124.5298008056241,
+    "CompositeOff": 102.24221830786385,
+    "CompositePace": 70.57426829513687,
+    "CompositeRating": -22.28758249776027,
+    "HA": [
+        "A",
+        "H",
+        "A",
+        "A"
+    ],
+    "OAst": 72.0,
+    "OAvgCompRat": 3.850948931124404,
+    "OBlk": 19.0,
+    "ODR": 103.0,
+    "OFGA": 256.0,
+    "OFGA3": 89.0,
+    "OFGM": 138.0,
+    "OFGM3": 37.0,
+    "OFTA": 87.0,
+    "OFTM": 65.0,
+    "OOR": 46.0,
+    "OPF": 88.0,
+    "OScore": 378.0,
+    "OStl": 41.0,
+    "OTO": 46.0,
+    "Oastr": 0.17463859512952365,
+    "Ocomprank": 102,
+    "Ocorrdastr": 0.1302298505478646,
+    "Ocorrdeff": 101.1283392567571,
+    "Ocorrdeffrank": 98,
+    "Ocorrdefgp": 0.4925609614908431,
+    "Ocorrdftr": 0.34821233411605135,
+    "Ocorrdorbp": 0.22475392907600827,
+    "Ocorrdtovr": 0.1527811498295743,
+    "Ocorroastr": 0.14577306374523807,
+    "Ocorroeff": 104.79465470785576,
+    "Ocorroeffrank": 215,
+    "Ocorroefgp": 0.5022123931655224,
+    "Ocorroftr": 0.40621968942192055,
+    "Ocorroorbp": 0.3394084873724307,
+    "Ocorrotovr": 0.1589607533632744,
+    "Oeff": 128.4490960989534,
+    "Oefgp": 0.611328125,
+    "Oftr": 0.33984375,
+    "Oneteff": 3.6663154510986544,
+    "Oneteffrank": 136,
+    "Oorbp": 0.40707964601769914,
+    "Oposs": 294.28,
+    "Otovr": 0.1351827906429999,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 48.0,
+    "TBlk": 7.0,
+    "TDR": 67.0,
+    "TFGA": 224.0,
+    "TFGA3": 74.0,
+    "TFGM": 86.0,
+    "TFGM3": 23.0,
+    "TFTA": 91.0,
+    "TFTM": 66.0,
+    "TOR": 32.0,
+    "TPF": 61.0,
+    "TScore": 261.0,
+    "TStl": 20.0,
+    "TTO": 60.0,
+    "Tastr": 0.12901838511987956,
+    "Tcorrdastr": 0.17509284726383786,
+    "Tcorrdastrrank": 309,
+    "Tcorrdeff": 130.1090202154606,
+    "Tcorrdeffrank": 361,
+    "Tcorrdefgp": 0.6196758988130248,
+    "Tcorrdefgprank": 344,
+    "Tcorrdftr": 0.3203826902324946,
+    "Tcorrdftrrank": 123,
+    "Tcorrdorbp": 0.3620316051916946,
+    "Tcorrdorbprank": 299,
+    "Tcorrdtovr": 0.1304254266459217,
+    "Tcorrdtovrrank": 264,
+    "Tcorroastr": 0.14434730114377062,
+    "Tcorroastrrank": 179,
+    "Tcorroeff": 93.7384410673346,
+    "Tcorroeffrank": 313,
+    "Tcorroefgp": 0.4497493785665898,
+    "Tcorroefgprank": 305,
+    "Tcorroftr": 0.4454668783298884,
+    "Tcorroftrrank": 96,
+    "Tcorroorbp": 0.31376987255084277,
+    "Tcorroorbprank": 151,
+    "Tcorrotovr": 0.18529454209159177,
+    "Tcorrotovrrank": 303,
+    "Teff": 89.37131899739761,
+    "Tefgp": 0.43526785714285715,
+    "Tftr": 0.40625,
+    "Tneteff": -36.370579148125984,
+    "Tneteffrank": 360,
+    "Torbp": 0.23703703703703705,
+    "Tposs": 292.04,
+    "Ttovr": 0.18516232563881002,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            10
+        ],
+        [
+            11,
+            13
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            61.77707676130389,
+            147.29512587038028
+        ],
+        [
+            95.87864911276475,
+            106.41399416909621
+        ],
+        [
+            101.18043844856662,
+            113.99787910922588
+        ],
+        [
+            100.106780565937,
+            144.25622022233986
+        ]
+    ],
+    "losses": 4,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 73.82962001734298,
+    "poss": [
+        [
+            76.08,
+            74.68
+        ],
+        [
+            69.88,
+            68.6
+        ],
+        [
+            71.16,
+            75.44
+        ],
+        [
+            74.92,
+            75.56
+        ]
+    ],
+    "preseason_pace": 69.1453073196829,
+    "preseason_pred": -16.10574583367655,
+    "preseason_predd": 122.08076073546269,
+    "preseason_predo": 105.97501490178614,
+    "schedule": [
+        "connecticut",
+        "new-haven",
+        "columbia",
+        "wake-forest"
+    ],
+    "scores": [
+        [
+            47,
+            110
+        ],
+        [
+            67,
+            73
+        ],
+        [
+            72,
+            86
+        ],
+        [
+            75,
+            109
+        ]
+    ],
+    "wins": 0
+}

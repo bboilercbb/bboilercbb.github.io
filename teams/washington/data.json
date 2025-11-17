@@ -1,0 +1,195 @@
+{
+    "CompRank": 43,
+    "CompositeDef": 96.00743049587231,
+    "CompositeOff": 113.31373324003405,
+    "CompositePace": 69.20305901502402,
+    "CompositeRating": 17.30630274416174,
+    "HA": [
+        "H",
+        "H",
+        "A",
+        "A"
+    ],
+    "OAst": 46.0,
+    "OAvgCompRat": -1.166843454518068,
+    "OBlk": 11.0,
+    "ODR": 83.0,
+    "OFGA": 246.0,
+    "OFGA3": 110.0,
+    "OFGM": 96.0,
+    "OFGM3": 31.0,
+    "OFTA": 63.0,
+    "OFTM": 44.0,
+    "OOR": 37.0,
+    "OPF": 69.0,
+    "OScore": 267.0,
+    "OStl": 23.0,
+    "OTO": 44.0,
+    "Oastr": 0.12647091169031122,
+    "Ocomprank": 162,
+    "Ocorrdastr": 0.13650498937788483,
+    "Ocorrdeff": 111.90484845081085,
+    "Ocorrdeffrank": 293,
+    "Ocorrdefgp": 0.518466333647688,
+    "Ocorrdftr": 0.3867028192703692,
+    "Ocorrdorbp": 0.3307607835483777,
+    "Ocorrdtovr": 0.14028601101250066,
+    "Ocorroastr": 0.14093225231031217,
+    "Ocorroeff": 112.91565573336136,
+    "Ocorroeffrank": 79,
+    "Ocorroefgp": 0.5466611928567253,
+    "Ocorroftr": 0.33608039990814603,
+    "Ocorroorbp": 0.29806306458976173,
+    "Ocorrotovr": 0.15278950772048988,
+    "Oeff": 95.1125676831006,
+    "Oefgp": 0.4532520325203252,
+    "Oftr": 0.25609756097560976,
+    "Oneteff": 1.010807282550516,
+    "Oneteffrank": 178,
+    "Oorbp": 0.2569444444444444,
+    "Oposs": 280.72,
+    "Otovr": 0.13848671786478658,
+    "SoR": 48.40783461249468,
+    "SoRrank": 54,
+    "TAst": 54.0,
+    "TBlk": 18.0,
+    "TDR": 107.0,
+    "TFGA": 250.0,
+    "TFGA3": 91.0,
+    "TFGM": 118.0,
+    "TFGM3": 29.0,
+    "TFTA": 86.0,
+    "TFTM": 63.0,
+    "TOR": 52.0,
+    "TPF": 60.0,
+    "TScore": 328.0,
+    "TStl": 29.0,
+    "TTO": 42.0,
+    "Tastr": 0.14068361817423924,
+    "Tcorrdastr": 0.13097863994672776,
+    "Tcorrdastrrank": 107,
+    "Tcorrdeff": 89.67939163809197,
+    "Tcorrdeffrank": 21,
+    "Tcorrdefgp": 0.42351499533855297,
+    "Tcorrdefgprank": 28,
+    "Tcorrdftr": 0.28961986203450873,
+    "Tcorrdftrrank": 78,
+    "Tcorrdorbp": 0.2588629016107537,
+    "Tcorrdorbprank": 108,
+    "Tcorrdtovr": 0.13879032493764001,
+    "Tcorrdtovrrank": 230,
+    "Tcorroastr": 0.15044512797713133,
+    "Tcorroastrrank": 150,
+    "Tcorroeff": 112.35110135287024,
+    "Tcorroeffrank": 116,
+    "Tcorroefgp": 0.5213357558456073,
+    "Tcorroefgprank": 153,
+    "Tcorroftr": 0.34108621099613085,
+    "Tcorroftrrank": 225,
+    "Tcorroorbp": 0.35184688006864,
+    "Tcorroorbprank": 87,
+    "Tcorrotovr": 0.13830337979995047,
+    "Tcorrotovrrank": 127,
+    "Teff": 118.05355600345521,
+    "Tefgp": 0.53,
+    "Tftr": 0.344,
+    "Tneteff": 22.671709714778274,
+    "Tneteffrank": 37,
+    "Torbp": 0.3851851851851852,
+    "Tposs": 277.84000000000003,
+    "Ttovr": 0.12733446519524616,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            6
+        ],
+        [
+            11,
+            9
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            127.8563656147987,
+            65.54798112218144
+        ],
+        [
+            118.9801699716714,
+            98.20426487093154
+        ],
+        [
+            96.36871508379889,
+            108.69565217391303
+        ],
+        [
+            130.39278815196394,
+            112.37785016286644
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 69.82641246006528,
+    "poss": [
+        [
+            73.52,
+            76.28
+        ],
+        [
+            70.6,
+            71.28
+        ],
+        [
+            71.6,
+            71.76
+        ],
+        [
+            62.120000000000005,
+            61.400000000000006
+        ]
+    ],
+    "preseason_pace": 68.92943336013624,
+    "preseason_pred": 14.95111724265654,
+    "preseason_predd": 98.78517046087877,
+    "preseason_predo": 113.73628770353531,
+    "schedule": [
+        "arkansas-pine-bluff",
+        "denver",
+        "baylor",
+        "washington-state"
+    ],
+    "scores": [
+        [
+            94,
+            50
+        ],
+        [
+            84,
+            70
+        ],
+        [
+            69,
+            78
+        ],
+        [
+            81,
+            69
+        ]
+    ],
+    "wins": 3
+}

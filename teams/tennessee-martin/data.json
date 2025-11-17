@@ -1,0 +1,157 @@
+{
+    "CompRank": 300,
+    "CompositeDef": 112.89596817309345,
+    "CompositeOff": 99.66903366320064,
+    "CompositePace": 68.93288489227115,
+    "CompositeRating": -13.22693450989282,
+    "HA": [
+        "A",
+        "A"
+    ],
+    "OAst": 26.0,
+    "OAvgCompRat": 12.775433760984942,
+    "OBlk": 5.0,
+    "ODR": 41.0,
+    "OFGA": 101.0,
+    "OFGA3": 43.0,
+    "OFGM": 40.0,
+    "OFGM3": 10.0,
+    "OFTA": 74.0,
+    "OFTM": 58.0,
+    "OOR": 18.0,
+    "OPF": 50.0,
+    "OScore": 148.0,
+    "OStl": 25.0,
+    "OTO": 35.0,
+    "Oastr": 0.13363486842105263,
+    "Ocomprank": 25,
+    "Ocorrdastr": 0.1312924143975806,
+    "Ocorrdeff": 97.08690063744334,
+    "Ocorrdeffrank": 42,
+    "Ocorrdefgp": 0.486744666534043,
+    "Ocorrdftr": 0.36238469576009896,
+    "Ocorrdorbp": 0.30199898632126687,
+    "Ocorrdtovr": 0.19336376328059213,
+    "Ocorroastr": 0.16628281095605657,
+    "Ocorroeff": 112.36228251416537,
+    "Ocorroeffrank": 84,
+    "Ocorroefgp": 0.5354646806935657,
+    "Ocorroftr": 0.3739830786514583,
+    "Ocorroorbp": 0.2684312775981309,
+    "Ocorrotovr": 0.13195481209377538,
+    "Oeff": 98.29968119022317,
+    "Oefgp": 0.44554455445544555,
+    "Oftr": 0.7326732673267327,
+    "Oneteff": 15.275381876722037,
+    "Oneteffrank": 43,
+    "Oorbp": 0.2727272727272727,
+    "Oposs": 150.56,
+    "Otovr": 0.20764119601328904,
+    "SoR": 78.82344040675315,
+    "SoRrank": 8,
+    "TAst": 35.0,
+    "TBlk": 6.0,
+    "TDR": 48.0,
+    "TFGA": 105.0,
+    "TFGA3": 54.0,
+    "TFGM": 52.0,
+    "TFGM3": 22.0,
+    "TFTA": 65.0,
+    "TFTM": 38.0,
+    "TOR": 14.0,
+    "TPF": 53.0,
+    "TScore": 164.0,
+    "TStl": 19.0,
+    "TTO": 36.0,
+    "Tastr": 0.17106549364613882,
+    "Tcorrdastr": 0.11807530838583573,
+    "Tcorrdastrrank": 63,
+    "Tcorrdeff": 93.12265071602155,
+    "Tcorrdeffrank": 41,
+    "Tcorrdefgp": 0.4246674465784536,
+    "Tcorrdefgprank": 30,
+    "Tcorrdftr": 0.7477841912719302,
+    "Tcorrdftrrank": 362,
+    "Tcorrdorbp": 0.3038223041645777,
+    "Tcorrdorbprank": 204,
+    "Tcorrdtovr": 0.2395479180863003,
+    "Tcorrdtovrrank": 6,
+    "Tcorroastr": 0.18990272935985894,
+    "Tcorroastrrank": 29,
+    "Tcorroeff": 114.96332063949608,
+    "Tcorroeffrank": 89,
+    "Tcorroefgp": 0.6270730930369576,
+    "Tcorroefgprank": 11,
+    "Tcorroftr": 0.6532986090976161,
+    "Tcorroftrrank": 8,
+    "Tcorroorbp": 0.2537356759641175,
+    "Tcorroorbprank": 262,
+    "Tcorrotovr": 0.16941954860255484,
+    "Tcorrotovrrank": 250,
+    "Teff": 105.39845758354757,
+    "Tefgp": 0.6,
+    "Tftr": 0.6190476190476191,
+    "Tneteff": 21.840669923474522,
+    "Tneteffrank": 44,
+    "Torbp": 0.2545454545454545,
+    "Tposs": 155.6,
+    "Ttovr": 0.21226415094339623,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            4
+        ],
+        [
+            11,
+            12
+        ]
+    ],
+    "geff": [
+        [
+            103.46487006737247,
+            100.89686098654708
+        ],
+        [
+            107.6158940397351,
+            95.33295389869095
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0
+    ],
+    "pace": 74.78942498162158,
+    "poss": [
+        [
+            83.12,
+            80.28
+        ],
+        [
+            72.48,
+            70.28
+        ]
+    ],
+    "preseason_pace": 68.29019187835067,
+    "preseason_pred": -17.075231292704053,
+    "preseason_predd": 115.06587955384208,
+    "preseason_predo": 97.99064826113803,
+    "schedule": [
+        "nevada-las-vegas",
+        "bradley"
+    ],
+    "scores": [
+        [
+            86,
+            81
+        ],
+        [
+            78,
+            67
+        ]
+    ],
+    "wins": 2
+}

@@ -1,0 +1,195 @@
+{
+    "CompRank": 317,
+    "CompositeDef": 111.19169453740304,
+    "CompositeOff": 96.4360529005221,
+    "CompositePace": 68.03337368098363,
+    "CompositeRating": -14.755641636880942,
+    "HA": [
+        "A",
+        "A",
+        "A",
+        "N"
+    ],
+    "OAst": 42.0,
+    "OAvgCompRat": 1.9190257865636118,
+    "OBlk": 21.0,
+    "ODR": 107.0,
+    "OFGA": 250.0,
+    "OFGA3": 95.0,
+    "OFGM": 106.0,
+    "OFGM3": 27.0,
+    "OFTA": 89.0,
+    "OFTM": 60.0,
+    "OOR": 29.0,
+    "OPF": 54.0,
+    "OScore": 299.0,
+    "OStl": 43.0,
+    "OTO": 31.0,
+    "Oastr": 0.11597084161696487,
+    "Ocomprank": 123,
+    "Ocorrdastr": 0.1388145956844505,
+    "Ocorrdeff": 101.22394026385544,
+    "Ocorrdeffrank": 99,
+    "Ocorrdefgp": 0.5064237901573021,
+    "Ocorrdftr": 0.34549526681234266,
+    "Ocorrdorbp": 0.30173000667259475,
+    "Ocorrdtovr": 0.1645991102990246,
+    "Ocorroastr": 0.1280579068833565,
+    "Ocorroeff": 109.47572721391646,
+    "Ocorroeffrank": 129,
+    "Ocorroefgp": 0.4935626739595181,
+    "Ocorroftr": 0.439058172897935,
+    "Ocorroorbp": 0.34945132187497907,
+    "Ocorrotovr": 0.1563944737771578,
+    "Oeff": 102.69267756559967,
+    "Oefgp": 0.478,
+    "Oftr": 0.356,
+    "Oneteff": 8.251786950061017,
+    "Oneteffrank": 99,
+    "Oorbp": 0.19863013698630136,
+    "Oposs": 291.16,
+    "Otovr": 0.09682658670664666,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 54.0,
+    "TBlk": 16.0,
+    "TDR": 117.0,
+    "TFGA": 235.0,
+    "TFGA3": 98.0,
+    "TFGM": 94.0,
+    "TFGM3": 32.0,
+    "TFTA": 51.0,
+    "TFTM": 35.0,
+    "TOR": 28.0,
+    "TPF": 62.0,
+    "TScore": 255.0,
+    "TStl": 14.0,
+    "TTO": 62.0,
+    "Tastr": 0.14460154241645246,
+    "Tcorrdastr": 0.13167476408146245,
+    "Tcorrdastrrank": 109,
+    "Tcorrdeff": 99.74575259709235,
+    "Tcorrdeffrank": 103,
+    "Tcorrdefgp": 0.49267687453851056,
+    "Tcorrdefgprank": 150,
+    "Tcorrdftr": 0.31147686320868356,
+    "Tcorrdftrrank": 106,
+    "Tcorrdorbp": 0.17177247308837973,
+    "Tcorrdorbprank": 7,
+    "Tcorrdtovr": 0.09489032692243775,
+    "Tcorrdtovrrank": 351,
+    "Tcorroastr": 0.15216391277574903,
+    "Tcorroastrrank": 141,
+    "Tcorroeff": 91.6888640257446,
+    "Tcorroeffrank": 329,
+    "Tcorroefgp": 0.47094009732205366,
+    "Tcorroefgprank": 260,
+    "Tcorroftr": 0.2397676895302346,
+    "Tcorroftrrank": 338,
+    "Tcorroorbp": 0.20692453727860485,
+    "Tcorroorbprank": 328,
+    "Tcorrotovr": 0.18081973127954928,
+    "Tcorrotovrrank": 288,
+    "Teff": 87.49656876200933,
+    "Tefgp": 0.46808510638297873,
+    "Tftr": 0.2170212765957447,
+    "Tneteff": -8.056888571347741,
+    "Tneteffrank": 244,
+    "Torbp": 0.2074074074074074,
+    "Tposs": 291.44,
+    "Ttovr": 0.19408965689957425,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            14
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            83.55091383812011,
+            91.83673469387755
+        ],
+        [
+            81.1503416856492,
+            110.07154650522838
+        ],
+        [
+            91.21274409044193,
+            96.61196400211752
+        ],
+        [
+            94.36788496105454,
+            114.69311841289523
+        ]
+    ],
+    "losses": 4,
+    "nOT": [
+        0,
+        0,
+        1,
+        0
+    ],
+    "pace": 70.41195732856727,
+    "poss": [
+        [
+            76.6,
+            78.4
+        ],
+        [
+            70.24000000000001,
+            72.68
+        ],
+        [
+            77.84,
+            75.56
+        ],
+        [
+            66.75999999999999,
+            64.52
+        ]
+    ],
+    "preseason_pace": 66.98927660659851,
+    "preseason_pred": -17.696109374837903,
+    "preseason_predd": 116.21597632190156,
+    "preseason_predo": 98.51986694706366,
+    "schedule": [
+        "depaul",
+        "rhode-island",
+        "fairfield",
+        "loyola-md"
+    ],
+    "scores": [
+        [
+            64,
+            72
+        ],
+        [
+            57,
+            80
+        ],
+        [
+            71,
+            73
+        ],
+        [
+            63,
+            74
+        ]
+    ],
+    "wins": 0
+}

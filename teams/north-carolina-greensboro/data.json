@@ -1,0 +1,195 @@
+{
+    "CompRank": 251,
+    "CompositeDef": 110.76958241848888,
+    "CompositeOff": 101.56817233921811,
+    "CompositePace": 67.66307527154513,
+    "CompositeRating": -9.201410079270774,
+    "HA": [
+        "A",
+        "H",
+        "A",
+        "H"
+    ],
+    "OAst": 68.0,
+    "OAvgCompRat": 1.6743796873191628,
+    "OBlk": 17.0,
+    "ODR": 117.0,
+    "OFGA": 275.0,
+    "OFGA3": 118.0,
+    "OFGM": 128.0,
+    "OFGM3": 48.0,
+    "OFTA": 89.0,
+    "OFTM": 60.0,
+    "OOR": 44.0,
+    "OPF": 88.0,
+    "OScore": 364.0,
+    "OStl": 34.0,
+    "OTO": 35.0,
+    "Oastr": 0.1630069997123406,
+    "Ocomprank": 126,
+    "Ocorrdastr": 0.15062721874994559,
+    "Ocorrdeff": 105.90648773249545,
+    "Ocorrdeffrank": 177,
+    "Ocorrdefgp": 0.5289586318991151,
+    "Ocorrdftr": 0.3087838029719068,
+    "Ocorrdorbp": 0.31653241155099754,
+    "Ocorrdtovr": 0.1770695793112642,
+    "Ocorroastr": 0.16657796801842292,
+    "Ocorroeff": 117.10086079193033,
+    "Ocorroeffrank": 30,
+    "Ocorroefgp": 0.6084462952948176,
+    "Ocorroftr": 0.350027323998235,
+    "Ocorroorbp": 0.3407114898410164,
+    "Ocorrotovr": 0.18304266240468464,
+    "Oeff": 119.28168829466509,
+    "Oefgp": 0.5527272727272727,
+    "Oftr": 0.3236363636363636,
+    "Oneteff": 11.19437305943488,
+    "Oneteffrank": 68,
+    "Oorbp": 0.3188405797101449,
+    "Oposs": 305.16,
+    "Otovr": 0.10024057738572574,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 52.0,
+    "TBlk": 8.0,
+    "TDR": 94.0,
+    "TFGA": 225.0,
+    "TFGA3": 101.0,
+    "TFGM": 89.0,
+    "TFGM3": 34.0,
+    "TFTA": 112.0,
+    "TFTM": 69.0,
+    "TOR": 25.0,
+    "TPF": 75.0,
+    "TScore": 281.0,
+    "TStl": 18.0,
+    "TTO": 55.0,
+    "Tastr": 0.13638271086865297,
+    "Tcorrdastr": 0.14378251704774284,
+    "Tcorrdastrrank": 179,
+    "Tcorrdeff": 108.60586667228583,
+    "Tcorrdeffrank": 217,
+    "Tcorrdefgp": 0.46600601283382675,
+    "Tcorrdefgprank": 86,
+    "Tcorrdftr": 0.35198655072213103,
+    "Tcorrdftrrank": 168,
+    "Tcorrdorbp": 0.2825159726148172,
+    "Tcorrdorbprank": 151,
+    "Tcorrdtovr": 0.08446299879446136,
+    "Tcorrdtovrrank": 362,
+    "Tcorroastr": 0.13269207682489523,
+    "Tcorroastrrank": 241,
+    "Tcorroeff": 92.66224184579362,
+    "Tcorroeffrank": 322,
+    "Tcorroefgp": 0.4545807436652094,
+    "Tcorroefgprank": 295,
+    "Tcorroftr": 0.6125826875969225,
+    "Tcorroftrrank": 13,
+    "Tcorroorbp": 0.16775275379560195,
+    "Tcorroorbprank": 358,
+    "Tcorrotovr": 0.14507408528494978,
+    "Tcorrotovrrank": 156,
+    "Teff": 92.349152096753,
+    "Tefgp": 0.4711111111111111,
+    "Tftr": 0.49777777777777776,
+    "Tneteff": -15.943624826492211,
+    "Tneteffrank": 298,
+    "Torbp": 0.176056338028169,
+    "Tposs": 304.28,
+    "Ttovr": 0.16703109815354714,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            4
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            79.20792079207921,
+            110.97852028639619
+        ],
+        [
+            118.60832894043227,
+            122.34042553191489
+        ],
+        [
+            85.28784648187634,
+            150.43763676148797
+        ],
+        [
+            86.82469680264609,
+            94.46878422782036
+        ]
+    ],
+    "losses": 4,
+    "nOT": [
+        0,
+        1,
+        0,
+        0
+    ],
+    "pace": 71.06284933535103,
+    "poss": [
+        [
+            80.8,
+            83.8
+        ],
+        [
+            75.88,
+            75.2
+        ],
+        [
+            75.03999999999999,
+            73.12
+        ],
+        [
+            72.56,
+            73.04
+        ]
+    ],
+    "preseason_pace": 66.17071902954527,
+    "preseason_pred": -6.241864511217468,
+    "preseason_predd": 111.71936162121176,
+    "preseason_predo": 105.47749710999429,
+    "schedule": [
+        "kansas-state",
+        "elon",
+        "north-carolina-state",
+        "austin-peay"
+    ],
+    "scores": [
+        [
+            64,
+            93
+        ],
+        [
+            90,
+            92
+        ],
+        [
+            64,
+            110
+        ],
+        [
+            63,
+            69
+        ]
+    ],
+    "wins": 0
+}

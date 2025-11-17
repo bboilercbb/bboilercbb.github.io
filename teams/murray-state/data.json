@@ -1,0 +1,195 @@
+{
+    "CompRank": 121,
+    "CompositeDef": 108.1104656569919,
+    "CompositeOff": 109.25874276923798,
+    "CompositePace": 70.36815163986603,
+    "CompositeRating": 1.148277112246098,
+    "HA": [
+        "N",
+        "H",
+        "A",
+        "H"
+    ],
+    "OAst": 43.0,
+    "OAvgCompRat": -4.372657508830207,
+    "OBlk": 12.0,
+    "ODR": 81.0,
+    "OFGA": 270.0,
+    "OFGA3": 67.0,
+    "OFGM": 114.0,
+    "OFGM3": 23.0,
+    "OFTA": 82.0,
+    "OFTM": 67.0,
+    "OOR": 51.0,
+    "OPF": 84.0,
+    "OScore": 318.0,
+    "OStl": 39.0,
+    "OTO": 65.0,
+    "Oastr": 0.10384466769706337,
+    "Ocomprank": 227,
+    "Ocorrdastr": 0.16492664454958003,
+    "Ocorrdeff": 109.51631781120703,
+    "Ocorrdeffrank": 257,
+    "Ocorrdefgp": 0.5114779317388038,
+    "Ocorrdftr": 0.4389319497538943,
+    "Ocorrdorbp": 0.34507625246277385,
+    "Ocorrdtovr": 0.15175184777320788,
+    "Ocorroastr": 0.13202161649044825,
+    "Ocorroeff": 100.9742745523373,
+    "Ocorroeffrank": 276,
+    "Ocorroefgp": 0.4850954570405235,
+    "Ocorroftr": 0.36942694245751,
+    "Ocorroorbp": 0.23614274006207003,
+    "Ocorrotovr": 0.14738134327882718,
+    "Oeff": 99.35016245938516,
+    "Oefgp": 0.4648148148148148,
+    "Oftr": 0.3037037037037037,
+    "Oneteff": -8.542043258869725,
+    "Oneteffrank": 280,
+    "Oorbp": 0.34459459459459457,
+    "Oposs": 320.08,
+    "Otovr": 0.1751643850382667,
+    "SoR": 27.113788306708663,
+    "SoRrank": 83,
+    "TAst": 73.0,
+    "TBlk": 16.0,
+    "TDR": 97.0,
+    "TFGA": 253.0,
+    "TFGA3": 123.0,
+    "TFGM": 124.0,
+    "TFGM3": 45.0,
+    "TFTA": 112.0,
+    "TFTM": 90.0,
+    "TOR": 41.0,
+    "TPF": 78.0,
+    "TScore": 383.0,
+    "TStl": 33.0,
+    "TTO": 54.0,
+    "Tastr": 0.17005218039508013,
+    "Tcorrdastr": 0.11450581491031449,
+    "Tcorrdastrrank": 45,
+    "Tcorrdeff": 104.28690303113345,
+    "Tcorrdeffrank": 153,
+    "Tcorrdefgp": 0.4871127266853941,
+    "Tcorrdefgprank": 130,
+    "Tcorrdftr": 0.31363678631160197,
+    "Tcorrdftrrank": 110,
+    "Tcorrdorbp": 0.43414737582650725,
+    "Tcorrdorbprank": 349,
+    "Tcorrdtovr": 0.18172864705871727,
+    "Tcorrdtovrrank": 73,
+    "Tcorroastr": 0.1516533976263806,
+    "Tcorroastrrank": 144,
+    "Tcorroeff": 118.03119350147956,
+    "Tcorroeffrank": 72,
+    "Tcorroefgp": 0.5770550392645073,
+    "Tcorroefgprank": 52,
+    "Tcorroftr": 0.3886679823502914,
+    "Tcorroftrrank": 157,
+    "Tcorroorbp": 0.2947415294556852,
+    "Tcorroorbprank": 187,
+    "Tcorrotovr": 0.1526620040486611,
+    "Tcorrotovrrank": 188,
+    "Teff": 121.47931996955089,
+    "Tefgp": 0.5790513833992095,
+    "Tftr": 0.4426877470355731,
+    "Tneteff": 13.744290470346115,
+    "Tneteffrank": 85,
+    "Torbp": 0.3360655737704918,
+    "Tposs": 315.28,
+    "Ttovr": 0.15156618390030313,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            106.89134808853119,
+            95.15570934256056
+        ],
+        [
+            133.33333333333334,
+            75.71933366986372
+        ],
+        [
+            112.95928500496524,
+            124.08759124087591
+        ],
+        [
+            133.4231805929919,
+            101.64693772516726
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 79.79678185625284,
+    "poss": [
+        [
+            79.52,
+            80.92
+        ],
+        [
+            81.0,
+            79.24
+        ],
+        [
+            80.56,
+            82.2
+        ],
+        [
+            74.2,
+            77.72
+        ]
+    ],
+    "preseason_pace": 66.22938391799528,
+    "preseason_pred": -4.380837119018656,
+    "preseason_predd": 109.78884705654568,
+    "preseason_predo": 105.40800993752701,
+    "schedule": [
+        "nebraska-omaha",
+        "mississippi-valley-state",
+        "southern-methodist",
+        "nicholls-state"
+    ],
+    "scores": [
+        [
+            85,
+            77
+        ],
+        [
+            108,
+            60
+        ],
+        [
+            91,
+            102
+        ],
+        [
+            99,
+            79
+        ]
+    ],
+    "wins": 3
+}

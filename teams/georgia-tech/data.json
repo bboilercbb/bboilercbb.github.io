@@ -1,0 +1,195 @@
+{
+    "CompRank": 108,
+    "CompositeDef": 98.9260122221548,
+    "CompositeOff": 102.96122588509913,
+    "CompositePace": 70.64929636083164,
+    "CompositeRating": 4.035213662944329,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "A"
+    ],
+    "OAst": 50.0,
+    "OAvgCompRat": -8.477286003878318,
+    "OBlk": 19.0,
+    "ODR": 107.0,
+    "OFGA": 243.0,
+    "OFGA3": 115.0,
+    "OFGM": 82.0,
+    "OFGM3": 24.0,
+    "OFTA": 86.0,
+    "OFTM": 61.0,
+    "OOR": 41.0,
+    "OPF": 77.0,
+    "OScore": 249.0,
+    "OStl": 29.0,
+    "OTO": 64.0,
+    "Oastr": 0.12663357309289838,
+    "Ocomprank": 300,
+    "Ocorrdastr": 0.1636494794304002,
+    "Ocorrdeff": 105.60436104788931,
+    "Ocorrdeffrank": 171,
+    "Ocorrdefgp": 0.49793360393843,
+    "Ocorrdftr": 0.33131944112641865,
+    "Ocorrdorbp": 0.3124141312072088,
+    "Ocorrdtovr": 0.15549128239882667,
+    "Ocorroastr": 0.12426492798838679,
+    "Ocorroeff": 88.75462402879101,
+    "Ocorroeffrank": 361,
+    "Ocorroefgp": 0.4201193767757152,
+    "Ocorroftr": 0.33263716384500264,
+    "Ocorroorbp": 0.30082882590087584,
+    "Ocorrotovr": 0.17223460836478052,
+    "Oeff": 81.95102685624012,
+    "Oefgp": 0.3868312757201646,
+    "Oftr": 0.35390946502057613,
+    "Oneteff": -16.8497370190983,
+    "Oneteffrank": 343,
+    "Oorbp": 0.2679738562091503,
+    "Oposs": 303.84000000000003,
+    "Otovr": 0.18559331864052891,
+    "SoR": 11.759008238372736,
+    "SoRrank": 127,
+    "TAst": 62.0,
+    "TBlk": 24.0,
+    "TDR": 112.0,
+    "TFGA": 247.0,
+    "TFGA3": 86.0,
+    "TFGM": 103.0,
+    "TFGM3": 30.0,
+    "TFTA": 82.0,
+    "TFTM": 51.0,
+    "TOR": 40.0,
+    "TPF": 61.0,
+    "TScore": 287.0,
+    "TStl": 39.0,
+    "TTO": 58.0,
+    "Tastr": 0.15381561972809368,
+    "Tcorrdastr": 0.14799239369397826,
+    "Tcorrdastrrank": 201,
+    "Tcorrdeff": 97.36436677934879,
+    "Tcorrdeffrank": 79,
+    "Tcorrdefgp": 0.46540766634996805,
+    "Tcorrdefgprank": 83,
+    "Tcorrdftr": 0.404211844764109,
+    "Tcorrdftrrank": 235,
+    "Tcorrdorbp": 0.267591171409601,
+    "Tcorrdorbprank": 126,
+    "Tcorrdtovr": 0.16579158831370583,
+    "Tcorrdtovrrank": 131,
+    "Tcorroastr": 0.13820121392739532,
+    "Tcorroastrrank": 218,
+    "Tcorroeff": 95.90938044868079,
+    "Tcorroeffrank": 288,
+    "Tcorroefgp": 0.4885123826777052,
+    "Tcorroefgprank": 227,
+    "Tcorroftr": 0.38183382858295833,
+    "Tcorroftrrank": 167,
+    "Tcorroorbp": 0.26255556277591735,
+    "Tcorroorbprank": 246,
+    "Tcorrotovr": 0.16732089178595294,
+    "Tcorrotovrrank": 245,
+    "Teff": 95.32350205925336,
+    "Tefgp": 0.4777327935222672,
+    "Tftr": 0.3319838056680162,
+    "Tneteff": -1.4549863306679924,
+    "Tneteffrank": 191,
+    "Torbp": 0.272108843537415,
+    "Tposs": 301.08,
+    "Ttovr": 0.17004808256127596,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            10
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            77.8642936596218,
+            71.38934651290499
+        ],
+        [
+            100.81743869209808,
+            59.96801705756929
+        ],
+        [
+            95.31590413943356,
+            81.5217391304348
+        ],
+        [
+            105.68513119533529,
+            111.70471102476931
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "pace": 74.27700801495533,
+    "poss": [
+        [
+            71.92,
+            72.84
+        ],
+        [
+            73.4,
+            75.04
+        ],
+        [
+            73.44,
+            73.6
+        ],
+        [
+            82.32,
+            82.36
+        ]
+    ],
+    "preseason_pace": 69.05688520950163,
+    "preseason_pred": 6.445177994845486,
+    "preseason_predd": 99.61150816412726,
+    "preseason_predo": 106.05668615897274,
+    "schedule": [
+        "maryland-eastern-shore",
+        "bryant",
+        "southeastern-louisiana",
+        "georgia"
+    ],
+    "scores": [
+        [
+            56,
+            52
+        ],
+        [
+            74,
+            45
+        ],
+        [
+            70,
+            60
+        ],
+        [
+            87,
+            92
+        ]
+    ],
+    "wins": 3
+}

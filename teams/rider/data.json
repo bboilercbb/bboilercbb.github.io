@@ -1,0 +1,157 @@
+{
+    "CompRank": 329,
+    "CompositeDef": 114.31786113451469,
+    "CompositeOff": 97.7943908620919,
+    "CompositePace": 66.9112212018028,
+    "CompositeRating": -16.52347027242277,
+    "HA": [
+        "A",
+        "A"
+    ],
+    "OAst": 26.0,
+    "OAvgCompRat": 18.734877881489005,
+    "OBlk": 14.0,
+    "ODR": 52.0,
+    "OFGA": 128.0,
+    "OFGA3": 57.0,
+    "OFGM": 55.0,
+    "OFGM3": 18.0,
+    "OFTA": 67.0,
+    "OFTM": 40.0,
+    "OOR": 37.0,
+    "OPF": 41.0,
+    "OScore": 168.0,
+    "OStl": 16.0,
+    "OTO": 13.0,
+    "Oastr": 0.13232899022801303,
+    "Ocomprank": 10,
+    "Ocorrdastr": 0.14893960325815103,
+    "Ocorrdeff": 105.06654556882485,
+    "Ocorrdeffrank": 160,
+    "Ocorrdefgp": 0.4948088628650777,
+    "Ocorrdftr": 0.3010048276471782,
+    "Ocorrdorbp": 0.31914592491621935,
+    "Ocorrdtovr": 0.13478721529491394,
+    "Ocorroastr": 0.17324055182102135,
+    "Ocorroeff": 127.1797789508197,
+    "Ocorroeffrank": 4,
+    "Ocorroefgp": 0.5875201400035052,
+    "Ocorroftr": 0.4266053658634185,
+    "Ocorroorbp": 0.38510066395753306,
+    "Ocorrotovr": 0.13225569759452077,
+    "Oeff": 125.86155229247828,
+    "Oefgp": 0.5,
+    "Oftr": 0.5234375,
+    "Oneteff": 22.113233381994846,
+    "Oneteffrank": 16,
+    "Oorbp": 0.47435897435897434,
+    "Oposs": 133.48,
+    "Otovr": 0.07625527921163773,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 11.0,
+    "TBlk": 3.0,
+    "TDR": 41.0,
+    "TFGA": 114.0,
+    "TFGA3": 32.0,
+    "TFGM": 34.0,
+    "TFGM3": 5.0,
+    "TFTA": 47.0,
+    "TFTM": 33.0,
+    "TOR": 26.0,
+    "TPF": 49.0,
+    "TScore": 106.0,
+    "TStl": 7.0,
+    "TTO": 26.0,
+    "Tastr": 0.06407269338303821,
+    "Tcorrdastr": 0.1124093504997638,
+    "Tcorrdastrrank": 37,
+    "Tcorrdeff": 105.86329743297702,
+    "Tcorrdeffrank": 179,
+    "Tcorrdefgp": 0.4359569780562478,
+    "Tcorrdefgprank": 40,
+    "Tcorrdftr": 0.4708014313455229,
+    "Tcorrdftrrank": 303,
+    "Tcorrdorbp": 0.3736898785574603,
+    "Tcorrdorbprank": 313,
+    "Tcorrdtovr": 0.0877807133768161,
+    "Tcorrdtovrrank": 359,
+    "Tcorroastr": 0.06301684660295237,
+    "Tcorroastrrank": 365,
+    "Tcorroeff": 79.57795507671077,
+    "Tcorroeffrank": 362,
+    "Tcorroefgp": 0.32938469183406044,
+    "Tcorroefgprank": 365,
+    "Tcorroftr": 0.5199494413280206,
+    "Tcorroftrrank": 37,
+    "Tcorroorbp": 0.3151143034672231,
+    "Tcorroorbprank": 148,
+    "Tcorrotovr": 0.18262956767557403,
+    "Tcorrotovrrank": 295,
+    "Teff": 78.7050787050787,
+    "Tefgp": 0.3201754385964912,
+    "Tftr": 0.41228070175438597,
+    "Tneteff": -26.285342356266256,
+    "Tneteffrank": 342,
+    "Torbp": 0.3333333333333333,
+    "Tposs": 134.68,
+    "Ttovr": 0.16181229773462782,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            5
+        ]
+    ],
+    "geff": [
+        [
+            80.59610705596108,
+            133.92857142857142
+        ],
+        [
+            76.90075449796866,
+            118.21366024518389
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0
+    ],
+    "pace": 68.70306388306217,
+    "poss": [
+        [
+            65.75999999999999,
+            64.96000000000001
+        ],
+        [
+            68.92,
+            68.52
+        ]
+    ],
+    "preseason_pace": 66.71458551661658,
+    "preseason_pred": -15.452208589696463,
+    "preseason_predd": 115.24565962028014,
+    "preseason_predo": 99.79345103058367,
+    "schedule": [
+        "virginia",
+        "rutgers"
+    ],
+    "scores": [
+        [
+            53,
+            87
+        ],
+        [
+            53,
+            81
+        ]
+    ],
+    "wins": 0
+}

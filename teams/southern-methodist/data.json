@@ -1,0 +1,195 @@
+{
+    "CompRank": 40,
+    "CompositeDef": 99.5079069772913,
+    "CompositeOff": 117.62392926507371,
+    "CompositePace": 70.328914312878,
+    "CompositeRating": 18.116022287782428,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 67.0,
+    "OAvgCompRat": -4.5078388145558925,
+    "OBlk": 10.0,
+    "ODR": 84.0,
+    "OFGA": 242.0,
+    "OFGA3": 102.0,
+    "OFGM": 100.0,
+    "OFGM3": 37.0,
+    "OFTA": 100.0,
+    "OFTM": 73.0,
+    "OOR": 43.0,
+    "OPF": 92.0,
+    "OScore": 310.0,
+    "OStl": 22.0,
+    "OTO": 55.0,
+    "Oastr": 0.1642156862745098,
+    "Ocomprank": 231,
+    "Ocorrdastr": 0.14266171469045946,
+    "Ocorrdeff": 105.45919709066874,
+    "Ocorrdeffrank": 168,
+    "Ocorrdefgp": 0.5192857546827798,
+    "Ocorrdftr": 0.3563323848313481,
+    "Ocorrdorbp": 0.317579126752712,
+    "Ocorrdtovr": 0.19567952610309564,
+    "Ocorroastr": 0.1407959213330898,
+    "Ocorroeff": 106.97852618056176,
+    "Ocorroeffrank": 179,
+    "Ocorroefgp": 0.5182441345553593,
+    "Ocorroftr": 0.4325239036322446,
+    "Ocorroorbp": 0.3513014078479128,
+    "Ocorrotovr": 0.15364826080679198,
+    "Oeff": 104.02684563758389,
+    "Oefgp": 0.4896694214876033,
+    "Oftr": 0.4132231404958678,
+    "Oneteff": 1.51932908989302,
+    "Oneteffrank": 169,
+    "Oorbp": 0.30714285714285716,
+    "Oposs": 298.0,
+    "Otovr": 0.16129032258064516,
+    "SoR": 70.14228583410933,
+    "SoRrank": 18,
+    "TAst": 63.0,
+    "TBlk": 14.0,
+    "TDR": 97.0,
+    "TFGA": 247.0,
+    "TFGA3": 63.0,
+    "TFGM": 120.0,
+    "TFGM3": 22.0,
+    "TFTA": 115.0,
+    "TFTM": 92.0,
+    "TOR": 43.0,
+    "TPF": 75.0,
+    "TScore": 354.0,
+    "TStl": 32.0,
+    "TTO": 45.0,
+    "Tastr": 0.15532544378698224,
+    "Tcorrdastr": 0.1702268308655008,
+    "Tcorrdastrrank": 293,
+    "Tcorrdeff": 103.3050911693795,
+    "Tcorrdeffrank": 142,
+    "Tcorrdefgp": 0.48160477498915033,
+    "Tcorrdefgprank": 117,
+    "Tcorrdftr": 0.36678582270960436,
+    "Tcorrdftrrank": 187,
+    "Tcorrdorbp": 0.2642695632070119,
+    "Tcorrdorbprank": 121,
+    "Tcorrdtovr": 0.16077643309664233,
+    "Tcorrdtovrrank": 149,
+    "Tcorroastr": 0.15921455456304084,
+    "Tcorroastrrank": 119,
+    "Tcorroeff": 119.04087343793775,
+    "Tcorroeffrank": 62,
+    "Tcorroefgp": 0.5209037734809397,
+    "Tcorroefgprank": 154,
+    "Tcorroftr": 0.4993571260474871,
+    "Tcorroftrrank": 50,
+    "Tcorroorbp": 0.32159269474787083,
+    "Tcorroorbprank": 137,
+    "Tcorrotovr": 0.10364492210866978,
+    "Tcorrotovrrank": 27,
+    "Teff": 118.15754339118824,
+    "Tefgp": 0.5303643724696356,
+    "Tftr": 0.46558704453441296,
+    "Tneteff": 15.735782268558253,
+    "Tneteffrank": 68,
+    "Torbp": 0.33858267716535434,
+    "Tposs": 299.6,
+    "Ttovr": 0.13134851138353765,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            6
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            134.30330162283155,
+            104.97237569060772
+        ],
+        [
+            96.7470555243971,
+            82.95194508009153
+        ],
+        [
+            124.08759124087591,
+            112.95928500496524
+        ],
+        [
+            116.62198391420912,
+            113.15228966986155
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 72.23463616008323,
+    "poss": [
+        [
+            71.48,
+            72.4
+        ],
+        [
+            71.32,
+            69.92
+        ],
+        [
+            82.2,
+            80.56
+        ],
+        [
+            74.6,
+            75.12
+        ]
+    ],
+    "preseason_pace": 69.4923834608812,
+    "preseason_pred": 19.160846438882203,
+    "preseason_predd": 97.84110458844599,
+    "preseason_predo": 117.00195102732819,
+    "schedule": [
+        "tarleton-state",
+        "texas-am-corpus-christi",
+        "murray-state",
+        "butler"
+    ],
+    "scores": [
+        [
+            96,
+            76
+        ],
+        [
+            69,
+            58
+        ],
+        [
+            102,
+            91
+        ],
+        [
+            87,
+            85
+        ]
+    ],
+    "wins": 4
+}

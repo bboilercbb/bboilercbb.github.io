@@ -1,0 +1,195 @@
+{
+    "CompRank": 58,
+    "CompositeDef": 102.20004631312153,
+    "CompositeOff": 115.37682104661937,
+    "CompositePace": 68.57408615164636,
+    "CompositeRating": 13.176774733497842,
+    "HA": [
+        "H",
+        "A",
+        "H",
+        "N"
+    ],
+    "OAst": 52.0,
+    "OAvgCompRat": -8.756902684896543,
+    "OBlk": 6.0,
+    "ODR": 79.0,
+    "OFGA": 219.0,
+    "OFGA3": 85.0,
+    "OFGM": 95.0,
+    "OFGM3": 23.0,
+    "OFTA": 46.0,
+    "OFTM": 38.0,
+    "OOR": 29.0,
+    "OPF": 65.0,
+    "OScore": 251.0,
+    "OStl": 15.0,
+    "OTO": 52.0,
+    "Oastr": 0.15149749446451463,
+    "Ocomprank": 308,
+    "Ocorrdastr": 0.14077696947204182,
+    "Ocorrdeff": 103.5971150026306,
+    "Ocorrdeffrank": 141,
+    "Ocorrdefgp": 0.5077862172711821,
+    "Ocorrdftr": 0.29075131438173707,
+    "Ocorrdorbp": 0.24241814303235826,
+    "Ocorrdtovr": 0.14644465300453519,
+    "Ocorroastr": 0.12542103210871222,
+    "Ocorroeff": 98.88501689940757,
+    "Ocorroeffrank": 303,
+    "Ocorroefgp": 0.4707499401404171,
+    "Ocorroftr": 0.46033971068738117,
+    "Ocorroorbp": 0.26249607149752335,
+    "Ocorrotovr": 0.15665903983686943,
+    "Oeff": 95.71384990848078,
+    "Oefgp": 0.4863013698630137,
+    "Oftr": 0.2100456621004566,
+    "Oneteff": -4.712098103223028,
+    "Oneteffrank": 240,
+    "Oorbp": 0.24369747899159663,
+    "Oposs": 262.24,
+    "Otovr": 0.17854690289795358,
+    "SoR": 51.17313107974118,
+    "SoRrank": 49,
+    "TAst": 63.0,
+    "TBlk": 4.0,
+    "TDR": 90.0,
+    "TFGA": 236.0,
+    "TFGA3": 82.0,
+    "TFGM": 123.0,
+    "TFGM3": 32.0,
+    "TFTA": 70.0,
+    "TFTM": 48.0,
+    "TOR": 32.0,
+    "TPF": 51.0,
+    "TScore": 326.0,
+    "TStl": 31.0,
+    "TTO": 29.0,
+    "Tastr": 0.17558528428093645,
+    "Tcorrdastr": 0.1754828437747636,
+    "Tcorrdastrrank": 311,
+    "Tcorrdeff": 102.50708981295007,
+    "Tcorrdeffrank": 134,
+    "Tcorrdefgp": 0.5245317031528469,
+    "Tcorrdefgprank": 229,
+    "Tcorrdftr": 0.17561167136654862,
+    "Tcorrdftrrank": 2,
+    "Tcorrdorbp": 0.2773735020500256,
+    "Tcorrdorbprank": 145,
+    "Tcorrdtovr": 0.17469274723756784,
+    "Tcorrdtovrrank": 94,
+    "Tcorroastr": 0.1822945307494747,
+    "Tcorroastrrank": 40,
+    "Tcorroeff": 126.65010274302398,
+    "Tcorroeffrank": 14,
+    "Tcorroefgp": 0.5910488710116132,
+    "Tcorroefgprank": 37,
+    "Tcorroftr": 0.3867277402182999,
+    "Tcorroftrrank": 160,
+    "Tcorroorbp": 0.3548749099253683,
+    "Tcorroorbprank": 80,
+    "Tcorrotovr": 0.10218144425887518,
+    "Tcorrotovrrank": 22,
+    "Teff": 123.57846853677027,
+    "Tefgp": 0.5889830508474576,
+    "Tftr": 0.2966101694915254,
+    "Tneteff": 24.14301293007391,
+    "Tneteffrank": 34,
+    "Torbp": 0.2882882882882883,
+    "Tposs": 263.8,
+    "Ttovr": 0.09803921568627451,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            111.76470588235294,
+            94.49694274596999
+        ],
+        [
+            133.76383763837637,
+            76.07926397735315
+        ],
+        [
+            119.54572624028691,
+            101.19726339794755
+        ],
+        [
+            130.0125313283208,
+            108.49056603773585
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 65.22360017522735,
+    "poss": [
+        [
+            68.0,
+            71.96
+        ],
+        [
+            65.04,
+            56.52
+        ],
+        [
+            66.92,
+            70.16
+        ],
+        [
+            63.84,
+            63.6
+        ]
+    ],
+    "preseason_pace": 70.04480701921027,
+    "preseason_pred": 8.36306249357419,
+    "preseason_predd": 102.06526727341628,
+    "preseason_predo": 110.42832976699047,
+    "schedule": [
+        "fairfield",
+        "new-haven",
+        "navy",
+        "la-salle"
+    ],
+    "scores": [
+        [
+            76,
+            68
+        ],
+        [
+            87,
+            43
+        ],
+        [
+            80,
+            71
+        ],
+        [
+            83,
+            69
+        ]
+    ],
+    "wins": 4
+}

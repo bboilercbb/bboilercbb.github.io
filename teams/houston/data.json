@@ -1,0 +1,195 @@
+{
+    "CompRank": 4,
+    "CompositeDef": 87.76712616967876,
+    "CompositeOff": 117.87012126804154,
+    "CompositePace": 65.39342974818908,
+    "CompositeRating": 30.102995098362776,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "N"
+    ],
+    "OAst": 31.0,
+    "OAvgCompRat": -2.8269038019990322,
+    "OBlk": 7.0,
+    "ODR": 81.0,
+    "OFGA": 208.0,
+    "OFGA3": 68.0,
+    "OFGM": 76.0,
+    "OFGM3": 17.0,
+    "OFTA": 85.0,
+    "OFTM": 53.0,
+    "OOR": 37.0,
+    "OPF": 49.0,
+    "OScore": 222.0,
+    "OStl": 25.0,
+    "OTO": 53.0,
+    "Oastr": 0.09411050394656953,
+    "Ocomprank": 193,
+    "Ocorrdastr": 0.13639628428571401,
+    "Ocorrdeff": 103.09017300922166,
+    "Ocorrdeffrank": 134,
+    "Ocorrdefgp": 0.4787410372799017,
+    "Ocorrdftr": 0.27147901736545016,
+    "Ocorrdorbp": 0.25192925509387726,
+    "Ocorrdtovr": 0.12071225064396288,
+    "Ocorroastr": 0.13083839192898444,
+    "Ocorroeff": 104.27091201995762,
+    "Ocorroeffrank": 226,
+    "Ocorroefgp": 0.49857674969488874,
+    "Ocorroftr": 0.3686461400575862,
+    "Ocorroorbp": 0.2776015421247008,
+    "Ocorrotovr": 0.13893587969235072,
+    "Oeff": 84.92731446059679,
+    "Oefgp": 0.40625,
+    "Oftr": 0.40865384615384615,
+    "Oneteff": 1.1807390107359623,
+    "Oneteffrank": 173,
+    "Oorbp": 0.2740740740740741,
+    "Oposs": 261.4,
+    "Otovr": 0.17761394101876676,
+    "SoR": 83.97942410160553,
+    "SoRrank": 4,
+    "TAst": 63.0,
+    "TBlk": 19.0,
+    "TDR": 98.0,
+    "TFGA": 259.0,
+    "TFGA3": 108.0,
+    "TFGM": 112.0,
+    "TFGM3": 31.0,
+    "TFTA": 47.0,
+    "TFTM": 36.0,
+    "TOR": 50.0,
+    "TPF": 66.0,
+    "TScore": 291.0,
+    "TStl": 38.0,
+    "TTO": 41.0,
+    "Tastr": 0.16419933277731444,
+    "Tcorrdastr": 0.1046731460646124,
+    "Tcorrdastrrank": 19,
+    "Tcorrdeff": 86.43962597036008,
+    "Tcorrdeffrank": 9,
+    "Tcorrdefgp": 0.41468000931332333,
+    "Tcorrdefgprank": 21,
+    "Tcorrdftr": 0.42287762572054993,
+    "Tcorrdftrrank": 254,
+    "Tcorrdorbp": 0.29563265459667143,
+    "Tcorrdorbprank": 179,
+    "Tcorrdtovr": 0.19501145357617408,
+    "Tcorrdtovrrank": 38,
+    "Tcorroastr": 0.1757268675478982,
+    "Tcorroastrrank": 61,
+    "Tcorroeff": 110.69931784888846,
+    "Tcorroeffrank": 127,
+    "Tcorroefgp": 0.5227458161561347,
+    "Tcorroefgprank": 146,
+    "Tcorroftr": 0.25270527280134675,
+    "Tcorroftrrank": 328,
+    "Tcorroorbp": 0.45279374914935283,
+    "Tcorroorbprank": 11,
+    "Tcorrotovr": 0.16041970124056434,
+    "Tcorrotovrrank": 223,
+    "Teff": 107.50701935865229,
+    "Tefgp": 0.4922779922779923,
+    "Tftr": 0.18146718146718147,
+    "Tneteff": 24.259691878528372,
+    "Tneteffrank": 33,
+    "Torbp": 0.3816793893129771,
+    "Tposs": 270.68,
+    "Ttovr": 0.1278533117126107,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            105.93220338983052,
+            86.20689655172413
+        ],
+        [
+            96.89922480620156,
+            73.66482504604052
+        ],
+        [
+            117.25796752856284,
+            69.65944272445822
+        ],
+        [
+            110.13880506940254,
+            109.8901098901099
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 67.27547411056895,
+    "poss": [
+        [
+            70.8,
+            66.12
+        ],
+        [
+            67.08,
+            65.16
+        ],
+        [
+            66.52,
+            64.6
+        ],
+        [
+            66.28,
+            65.52
+        ]
+    ],
+    "preseason_pace": 64.5672923051691,
+    "preseason_pred": 32.667956731211895,
+    "preseason_predd": 88.34984230655391,
+    "preseason_predo": 121.01779903776581,
+    "schedule": [
+        "lehigh",
+        "towson",
+        "oakland",
+        "auburn"
+    ],
+    "scores": [
+        [
+            75,
+            57
+        ],
+        [
+            65,
+            48
+        ],
+        [
+            78,
+            45
+        ],
+        [
+            73,
+            72
+        ]
+    ],
+    "wins": 4
+}

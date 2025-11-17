@@ -1,0 +1,195 @@
+{
+    "CompRank": 347,
+    "CompositeDef": 117.9562296481732,
+    "CompositeOff": 98.47069361672943,
+    "CompositePace": 65.60083481105383,
+    "CompositeRating": -19.485536031443768,
+    "HA": [
+        "A",
+        "A",
+        "A",
+        "A"
+    ],
+    "OAst": 53.0,
+    "OAvgCompRat": 4.098627419109094,
+    "OBlk": 20.0,
+    "ODR": 88.0,
+    "OFGA": 227.0,
+    "OFGA3": 95.0,
+    "OFGM": 102.0,
+    "OFGM3": 29.0,
+    "OFTA": 91.0,
+    "OFTM": 67.0,
+    "OOR": 48.0,
+    "OPF": 55.0,
+    "OScore": 300.0,
+    "OStl": 22.0,
+    "OTO": 31.0,
+    "Oastr": 0.15097994530537828,
+    "Ocomprank": 96,
+    "Ocorrdastr": 0.13661182870610802,
+    "Ocorrdeff": 102.04113839325234,
+    "Ocorrdeffrank": 117,
+    "Ocorrdefgp": 0.4877898391048099,
+    "Ocorrdftr": 0.4292509023168338,
+    "Ocorrdorbp": 0.280767569569621,
+    "Ocorrdtovr": 0.13907437624654023,
+    "Ocorroastr": 0.1395608571807239,
+    "Ocorroeff": 108.84457366400542,
+    "Ocorroeffrank": 141,
+    "Ocorroefgp": 0.5081958335482162,
+    "Ocorroftr": 0.4455678279601075,
+    "Ocorroorbp": 0.35192459554920197,
+    "Ocorrotovr": 0.16994210636295928,
+    "Oeff": 119.98080307150855,
+    "Oefgp": 0.513215859030837,
+    "Oftr": 0.4008810572687225,
+    "Oneteff": 6.803435270753084,
+    "Oneteffrank": 108,
+    "Oorbp": 0.366412213740458,
+    "Oposs": 250.04000000000002,
+    "Otovr": 0.10401288417662058,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 21.0,
+    "TBlk": 8.0,
+    "TDR": 83.0,
+    "TFGA": 212.0,
+    "TFGA3": 59.0,
+    "TFGM": 88.0,
+    "TFGM3": 21.0,
+    "TFTA": 77.0,
+    "TFTM": 53.0,
+    "TOR": 30.0,
+    "TPF": 66.0,
+    "TScore": 250.0,
+    "TStl": 13.0,
+    "TTO": 46.0,
+    "Tastr": 0.06711838404500128,
+    "Tcorrdastr": 0.15783612174880648,
+    "Tcorrdastrrank": 257,
+    "Tcorrdeff": 117.1864932670914,
+    "Tcorrdeffrank": 308,
+    "Tcorrdefgp": 0.5143418530175783,
+    "Tcorrdefgprank": 203,
+    "Tcorrdftr": 0.3458235891474654,
+    "Tcorrdftrrank": 156,
+    "Tcorrdorbp": 0.31472964545570065,
+    "Tcorrdorbprank": 219,
+    "Tcorrdtovr": 0.09411839494147721,
+    "Tcorrdtovrrank": 353,
+    "Tcorroastr": 0.07172158343652847,
+    "Tcorroastrrank": 363,
+    "Tcorroeff": 99.2682875158195,
+    "Tcorroeffrank": 256,
+    "Tcorroefgp": 0.4845882817234056,
+    "Tcorroefgprank": 238,
+    "Tcorroftr": 0.3257883998100007,
+    "Tcorroftrrank": 249,
+    "Tcorroorbp": 0.27180080614899593,
+    "Tcorroorbprank": 223,
+    "Tcorrotovr": 0.17260653880199572,
+    "Tcorrotovrrank": 263,
+    "Teff": 95.46357110126776,
+    "Tefgp": 0.46462264150943394,
+    "Tftr": 0.3632075471698113,
+    "Tneteff": -17.9182057512719,
+    "Tneteffrank": 307,
+    "Torbp": 0.2542372881355932,
+    "Tposs": 261.88,
+    "Ttovr": 0.15759901329313417,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            113.98176291793314,
+            134.1381623071764
+        ],
+        [
+            93.66925064599484,
+            126.64473684210527
+        ],
+        [
+            81.78228990411732,
+            107.55813953488372
+        ],
+        [
+            93.29538266919671,
+            113.48684210526316
+        ]
+    ],
+    "losses": 4,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 64.34982701624074,
+    "poss": [
+        [
+            65.8,
+            59.64
+        ],
+        [
+            61.92,
+            60.8
+        ],
+        [
+            70.92,
+            68.8
+        ],
+        [
+            63.24,
+            60.8
+        ]
+    ],
+    "preseason_pace": 66.14997403511444,
+    "preseason_pred": -20.173527375277786,
+    "preseason_predd": 118.29411118719403,
+    "preseason_predo": 98.12058381191625,
+    "schedule": [
+        "radford",
+        "iowa",
+        "cal-state-bakersfield",
+        "california-baptist"
+    ],
+    "scores": [
+        [
+            75,
+            80
+        ],
+        [
+            58,
+            77
+        ],
+        [
+            58,
+            74
+        ],
+        [
+            59,
+            69
+        ]
+    ],
+    "wins": 0
+}

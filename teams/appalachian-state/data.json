@@ -1,0 +1,195 @@
+{
+    "CompRank": 219,
+    "CompositeDef": 105.73859798455965,
+    "CompositeOff": 98.5700917929128,
+    "CompositePace": 65.6463730454194,
+    "CompositeRating": -7.168506191646836,
+    "HA": [
+        "A",
+        "H",
+        "A",
+        "A"
+    ],
+    "OAst": 55.0,
+    "OAvgCompRat": -3.670550202799267,
+    "OBlk": 10.0,
+    "ODR": 93.0,
+    "OFGA": 211.0,
+    "OFGA3": 96.0,
+    "OFGM": 88.0,
+    "OFGM3": 34.0,
+    "OFTA": 99.0,
+    "OFTM": 78.0,
+    "OOR": 36.0,
+    "OPF": 79.0,
+    "OScore": 288.0,
+    "OStl": 15.0,
+    "OTO": 41.0,
+    "Oastr": 0.15689183021451392,
+    "Ocomprank": 217,
+    "Ocorrdastr": 0.15384184466814316,
+    "Ocorrdeff": 115.44382520637694,
+    "Ocorrdeffrank": 330,
+    "Ocorrdefgp": 0.562376815295899,
+    "Ocorrdftr": 0.3670156256658385,
+    "Ocorrdorbp": 0.29102859085352845,
+    "Ocorrdtovr": 0.13611540383243745,
+    "Ocorroastr": 0.13670265454677416,
+    "Ocorroeff": 101.84987271688894,
+    "Ocorroeffrank": 263,
+    "Ocorroefgp": 0.48725270101096935,
+    "Ocorroftr": 0.45369243942047865,
+    "Ocorroorbp": 0.2649533759356554,
+    "Ocorrotovr": 0.16906452473056027,
+    "Oeff": 110.95700416088765,
+    "Oefgp": 0.4976303317535545,
+    "Oftr": 0.46919431279620855,
+    "Oneteff": -13.593952489488004,
+    "Oneteffrank": 325,
+    "Oorbp": 0.28346456692913385,
+    "Oposs": 259.56,
+    "Otovr": 0.13871971850047368,
+    "SoR": 1.1871790369319069,
+    "SoRrank": 206,
+    "TAst": 50.0,
+    "TBlk": 10.0,
+    "TDR": 91.0,
+    "TFGA": 230.0,
+    "TFGA3": 98.0,
+    "TFGM": 97.0,
+    "TFGM3": 31.0,
+    "TFTA": 87.0,
+    "TFTM": 55.0,
+    "TOR": 46.0,
+    "TPF": 84.0,
+    "TScore": 280.0,
+    "TStl": 23.0,
+    "TTO": 35.0,
+    "Tastr": 0.14153079710144928,
+    "Tcorrdastr": 0.16730755818489645,
+    "Tcorrdastrrank": 283,
+    "Tcorrdeff": 115.50898952216777,
+    "Tcorrdeffrank": 297,
+    "Tcorrdefgp": 0.5192855092873263,
+    "Tcorrdefgprank": 215,
+    "Tcorrdftr": 0.3977930952509444,
+    "Tcorrdftrrank": 227,
+    "Tcorrdorbp": 0.31976250172698256,
+    "Tcorrdorbprank": 230,
+    "Tcorrdtovr": 0.1261491594154443,
+    "Tcorrdtovrrank": 280,
+    "Tcorroastr": 0.13493715385947766,
+    "Tcorroastrrank": 231,
+    "Tcorroeff": 100.52359373817846,
+    "Tcorroeffrank": 249,
+    "Tcorroefgp": 0.44500848751555916,
+    "Tcorroefgprank": 316,
+    "Tcorroftr": 0.3943523504976705,
+    "Tcorroftrrank": 148,
+    "Tcorroorbp": 0.3418124135494311,
+    "Tcorroorbprank": 105,
+    "Tcorrotovr": 0.1290313346465053,
+    "Tcorrotovrrank": 96,
+    "Teff": 108.8308457711443,
+    "Tefgp": 0.4891304347826087,
+    "Tftr": 0.3782608695652174,
+    "Tneteff": -14.985395783989304,
+    "Tneteffrank": 293,
+    "Torbp": 0.33093525179856115,
+    "Tposs": 257.28,
+    "Ttovr": 0.1154049063571617,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            9
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            105.1625239005736,
+            127.17121588089329
+        ],
+        [
+            121.09623964308476,
+            84.63949843260188
+        ],
+        [
+            87.5743555849306,
+            122.78978388998036
+        ],
+        [
+            119.31499157776531,
+            109.68660968660969
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 64.53202390677836,
+    "poss": [
+        [
+            62.760000000000005,
+            64.48
+        ],
+        [
+            62.760000000000005,
+            63.8
+        ],
+        [
+            60.52,
+            61.08
+        ],
+        [
+            71.24,
+            70.2
+        ]
+    ],
+    "preseason_pace": 66.13552493069392,
+    "preseason_pred": -3.7372240660644067,
+    "preseason_predd": 101.44981157573304,
+    "preseason_predo": 97.71258750966862,
+    "schedule": [
+        "central-michigan",
+        "north-carolina-central",
+        "ohio-state",
+        "dartmouth"
+    ],
+    "scores": [
+        [
+            66,
+            82
+        ],
+        [
+            76,
+            54
+        ],
+        [
+            53,
+            75
+        ],
+        [
+            85,
+            77
+        ]
+    ],
+    "wins": 2
+}

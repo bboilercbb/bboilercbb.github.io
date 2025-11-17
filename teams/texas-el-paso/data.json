@@ -1,0 +1,157 @@
+{
+    "CompRank": 163,
+    "CompositeDef": 106.07770892226966,
+    "CompositeOff": 102.6128003648601,
+    "CompositePace": 68.78425803994831,
+    "CompositeRating": -3.4649085574095437,
+    "HA": [
+        "H",
+        "A"
+    ],
+    "OAst": 29.0,
+    "OAvgCompRat": 6.846645293346827,
+    "OBlk": 5.0,
+    "ODR": 49.0,
+    "OFGA": 100.0,
+    "OFGA3": 47.0,
+    "OFGM": 51.0,
+    "OFGM3": 17.0,
+    "OFTA": 41.0,
+    "OFTM": 27.0,
+    "OOR": 18.0,
+    "OPF": 32.0,
+    "OScore": 146.0,
+    "OStl": 14.0,
+    "OTO": 30.0,
+    "Oastr": 0.16380478987799368,
+    "Ocomprank": 58,
+    "Ocorrdastr": 0.12596256234835213,
+    "Ocorrdeff": 97.80348014098243,
+    "Ocorrdeffrank": 51,
+    "Ocorrdefgp": 0.4750298051513959,
+    "Ocorrdftr": 0.4045465843064473,
+    "Ocorrdorbp": 0.31594696969505776,
+    "Ocorrdtovr": 0.18553840485279788,
+    "Ocorroastr": 0.179772739534605,
+    "Ocorroeff": 107.54632678265608,
+    "Ocorroeffrank": 168,
+    "Ocorroefgp": 0.5410611510056298,
+    "Ocorroftr": 0.3858603056950741,
+    "Ocorroorbp": 0.24680311882549327,
+    "Ocorrotovr": 0.13877643747133867,
+    "Oeff": 112.27314672408491,
+    "Oefgp": 0.595,
+    "Oftr": 0.41,
+    "Oneteff": 9.742846641673651,
+    "Oneteffrank": 84,
+    "Oorbp": 0.3829787234042553,
+    "Oposs": 130.04,
+    "Otovr": 0.2026479329910835,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 17.0,
+    "TBlk": 5.0,
+    "TDR": 29.0,
+    "TFGA": 108.0,
+    "TFGA3": 37.0,
+    "TFGM": 39.0,
+    "TFGM3": 12.0,
+    "TFTA": 31.0,
+    "TFTM": 19.0,
+    "TOR": 12.0,
+    "TPF": 39.0,
+    "TScore": 109.0,
+    "TStl": 16.0,
+    "TTO": 23.0,
+    "Tastr": 0.10517198713189806,
+    "Tcorrdastr": 0.13428922081754197,
+    "Tcorrdastrrank": 121,
+    "Tcorrdeff": 110.92896288850746,
+    "Tcorrdeffrank": 240,
+    "Tcorrdefgp": 0.5614866731036872,
+    "Tcorrdefgprank": 299,
+    "Tcorrdftr": 0.4060817141299744,
+    "Tcorrdftrrank": 237,
+    "Tcorrdorbp": 0.46247949620745266,
+    "Tcorrdorbprank": 360,
+    "Tcorrdtovr": 0.22274298188091843,
+    "Tcorrdtovrrank": 12,
+    "Tcorroastr": 0.12149232917841449,
+    "Tcorroastrrank": 291,
+    "Tcorroeff": 89.00425948612296,
+    "Tcorroeffrank": 341,
+    "Tcorroefgp": 0.4457730812748236,
+    "Tcorroefgprank": 314,
+    "Tcorroftr": 0.27254246866299064,
+    "Tcorroftrrank": 308,
+    "Tcorroorbp": 0.18777653301322483,
+    "Tcorroorbprank": 345,
+    "Tcorrotovr": 0.13205403312559447,
+    "Tcorrotovrrank": 108,
+    "Teff": 82.1773220747889,
+    "Tefgp": 0.4166666666666667,
+    "Tftr": 0.28703703703703703,
+    "Tneteff": -21.924703402384495,
+    "Tneteffrank": 330,
+    "Torbp": 0.19672131147540983,
+    "Tposs": 132.64,
+    "Ttovr": 0.15901548672566373,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            91.65613147914033,
+            114.14790996784565
+        ],
+        [
+            73.52941176470588,
+            110.55424528301886
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0
+    ],
+    "pace": 67.14685666026782,
+    "poss": [
+        [
+            63.28,
+            62.2
+        ],
+        [
+            69.36,
+            67.84
+        ]
+    ],
+    "preseason_pace": 68.96394543415192,
+    "preseason_pred": -1.4391423192778605,
+    "preseason_predd": 105.54533537316263,
+    "preseason_predo": 104.10619305388477,
+    "schedule": [
+        "loyola-marymount",
+        "utah-state"
+    ],
+    "scores": [
+        [
+            58,
+            71
+        ],
+        [
+            51,
+            75
+        ]
+    ],
+    "wins": 0
+}

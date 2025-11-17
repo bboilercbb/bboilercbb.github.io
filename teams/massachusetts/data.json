@@ -1,0 +1,195 @@
+{
+    "CompRank": 185,
+    "CompositeDef": 107.8824747254452,
+    "CompositeOff": 103.28029552348889,
+    "CompositePace": 72.89594445962813,
+    "CompositeRating": -4.602179201956332,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 65.0,
+    "OAvgCompRat": -19.089242674374187,
+    "OBlk": 14.0,
+    "ODR": 83.0,
+    "OFGA": 224.0,
+    "OFGA3": 99.0,
+    "OFGM": 98.0,
+    "OFGM3": 32.0,
+    "OFTA": 101.0,
+    "OFTM": 69.0,
+    "OOR": 26.0,
+    "OPF": 93.0,
+    "OScore": 297.0,
+    "OStl": 38.0,
+    "OTO": 62.0,
+    "Oastr": 0.16437386202710905,
+    "Ocomprank": 363,
+    "Ocorrdastr": 0.15136129958966849,
+    "Ocorrdeff": 110.17093755259943,
+    "Ocorrdeffrank": 266,
+    "Ocorrdefgp": 0.49293968044898817,
+    "Ocorrdftr": 0.3252084303549736,
+    "Ocorrdorbp": 0.2995574404485243,
+    "Ocorrdtovr": 0.1303345047360659,
+    "Ocorroastr": 0.1509307663568113,
+    "Ocorroeff": 91.89585293029153,
+    "Ocorroeffrank": 352,
+    "Ocorroefgp": 0.4617753510385236,
+    "Ocorroftr": 0.2603267196341161,
+    "Ocorroorbp": 0.2933535719990914,
+    "Ocorrotovr": 0.17354631907557788,
+    "Oeff": 97.55616870319275,
+    "Oefgp": 0.5089285714285714,
+    "Oftr": 0.45089285714285715,
+    "Oneteff": -18.2750846223079,
+    "Oneteffrank": 349,
+    "Oorbp": 0.21311475409836064,
+    "Oposs": 304.44,
+    "Otovr": 0.1876286163902675,
+    "SoR": 0.9419466398676191,
+    "SoRrank": 213,
+    "TAst": 76.0,
+    "TBlk": 5.0,
+    "TDR": 96.0,
+    "TFGA": 248.0,
+    "TFGA3": 90.0,
+    "TFGM": 116.0,
+    "TFGM3": 31.0,
+    "TFTA": 111.0,
+    "TFTM": 70.0,
+    "TOR": 47.0,
+    "TPF": 76.0,
+    "TScore": 333.0,
+    "TStl": 30.0,
+    "TTO": 63.0,
+    "Tastr": 0.17437591776798825,
+    "Tcorrdastr": 0.15939070035415676,
+    "Tcorrdastrrank": 261,
+    "Tcorrdeff": 112.09807939277195,
+    "Tcorrdeffrank": 255,
+    "Tcorrdefgp": 0.5591766750365305,
+    "Tcorrdefgprank": 297,
+    "Tcorrdftr": 0.6516202800998548,
+    "Tcorrdftrrank": 352,
+    "Tcorrdorbp": 0.21801425379348918,
+    "Tcorrdorbprank": 41,
+    "Tcorrdtovr": 0.16639325676971267,
+    "Tcorrdtovrrank": 129,
+    "Tcorroastr": 0.1688670968527888,
+    "Tcorroastrrank": 87,
+    "Tcorroeff": 102.83275368997246,
+    "Tcorroeffrank": 217,
+    "Tcorroefgp": 0.5474791377672923,
+    "Tcorroefgprank": 100,
+    "Tcorroftr": 0.5240724302275965,
+    "Tcorroftrrank": 36,
+    "Tcorroorbp": 0.36320799420143135,
+    "Tcorroorbprank": 75,
+    "Tcorrotovr": 0.2040787713317107,
+    "Tcorrotovrrank": 339,
+    "Teff": 106.44418872266972,
+    "Tefgp": 0.530241935483871,
+    "Tftr": 0.4475806451612903,
+    "Tneteff": -9.265325702799487,
+    "Tneteffrank": 252,
+    "Torbp": 0.36153846153846153,
+    "Tposs": 312.84000000000003,
+    "Ttovr": 0.17507781236104933,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            13
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            85.87786259541984,
+            95.87020648967551
+        ],
+        [
+            113.38797814207649,
+            83.6481381543443
+        ],
+        [
+            120.82262210796915,
+            109.11074740861976
+        ],
+        [
+            107.6923076923077,
+            101.79799048122686
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 79.2363873236637,
+    "poss": [
+        [
+            83.84,
+            81.36
+        ],
+        [
+            73.2,
+            74.12
+        ],
+        [
+            77.8,
+            73.32
+        ],
+        [
+            78.0,
+            75.64
+        ]
+    ],
+    "preseason_pace": 70.11275966334364,
+    "preseason_pred": -2.555256183753575,
+    "preseason_predd": 106.03200354088477,
+    "preseason_predo": 103.4767473571312,
+    "schedule": [
+        "marshall",
+        "albany-ny",
+        "le-moyne",
+        "central-connecticut-state"
+    ],
+    "scores": [
+        [
+            72,
+            78
+        ],
+        [
+            83,
+            62
+        ],
+        [
+            94,
+            80
+        ],
+        [
+            84,
+            77
+        ]
+    ],
+    "wins": 3
+}

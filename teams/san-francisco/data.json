@@ -1,0 +1,176 @@
+{
+    "CompRank": 64,
+    "CompositeDef": 97.50664884931018,
+    "CompositeOff": 109.54652811976143,
+    "CompositePace": 69.32245262509338,
+    "CompositeRating": 12.039879270451266,
+    "HA": [
+        "A",
+        "H",
+        "H"
+    ],
+    "OAst": 44.0,
+    "OAvgCompRat": 0.1946806335736909,
+    "OBlk": 7.0,
+    "ODR": 58.0,
+    "OFGA": 192.0,
+    "OFGA3": 88.0,
+    "OFGM": 71.0,
+    "OFGM3": 27.0,
+    "OFTA": 60.0,
+    "OFTM": 41.0,
+    "OOR": 29.0,
+    "OPF": 66.0,
+    "OScore": 210.0,
+    "OStl": 24.0,
+    "OTO": 35.0,
+    "Oastr": 0.14794889038332212,
+    "Ocomprank": 149,
+    "Ocorrdastr": 0.13372601254302882,
+    "Ocorrdeff": 105.06125636103864,
+    "Ocorrdeffrank": 159,
+    "Ocorrdefgp": 0.4958588116855604,
+    "Ocorrdftr": 0.44658064844711287,
+    "Ocorrdorbp": 0.2889002361697914,
+    "Ocorrdtovr": 0.1888571074495952,
+    "Ocorroastr": 0.17267035040596737,
+    "Ocorroeff": 108.46244698281741,
+    "Ocorroeffrank": 150,
+    "Ocorroefgp": 0.5278376163596806,
+    "Ocorroftr": 0.3401337024991719,
+    "Ocorroorbp": 0.28577343410045347,
+    "Ocorrotovr": 0.14320662892903738,
+    "Oeff": 93.58288770053476,
+    "Oefgp": 0.4401041666666667,
+    "Oftr": 0.3125,
+    "Oneteff": 3.401190621778767,
+    "Oneteffrank": 139,
+    "Oorbp": 0.2636363636363636,
+    "Oposs": 224.4,
+    "Otovr": 0.13812154696132597,
+    "SoR": 20.110686463909964,
+    "SoRrank": 105,
+    "TAst": 39.0,
+    "TBlk": 11.0,
+    "TDR": 81.0,
+    "TFGA": 164.0,
+    "TFGA3": 75.0,
+    "TFGM": 73.0,
+    "TFGM3": 29.0,
+    "TFTA": 73.0,
+    "TFTM": 50.0,
+    "TOR": 30.0,
+    "TPF": 55.0,
+    "TScore": 225.0,
+    "TStl": 22.0,
+    "TTO": 44.0,
+    "Tastr": 0.1397248495270851,
+    "Tcorrdastr": 0.1260764028324645,
+    "Tcorrdastrrank": 84,
+    "Tcorrdeff": 91.71253016350855,
+    "Tcorrdeffrank": 33,
+    "Tcorrdefgp": 0.4252998164167557,
+    "Tcorrdefgprank": 31,
+    "Tcorrdftr": 0.34936081269357216,
+    "Tcorrdftrrank": 162,
+    "Tcorrdorbp": 0.27656202393998963,
+    "Tcorrdorbprank": 141,
+    "Tcorrdtovr": 0.14730600629157253,
+    "Tcorrdtovrrank": 194,
+    "Tcorroastr": 0.15239981877166864,
+    "Tcorroastrrank": 138,
+    "Tcorroeff": 108.27448693087813,
+    "Tcorroeffrank": 147,
+    "Tcorroefgp": 0.5477668808591786,
+    "Tcorroefgprank": 99,
+    "Tcorroftr": 0.38437660211198066,
+    "Tcorroftrrank": 161,
+    "Tcorroorbp": 0.3546042560164867,
+    "Tcorroorbprank": 82,
+    "Tcorrotovr": 0.1496043767369042,
+    "Tcorrotovrrank": 174,
+    "Teff": 107.08166761850372,
+    "Tefgp": 0.5335365853658537,
+    "Tftr": 0.4451219512195122,
+    "Tneteff": 16.56195676736958,
+    "Tneteffrank": 66,
+    "Torbp": 0.3409090909090909,
+    "Tposs": 210.12,
+    "Ttovr": 0.18324171247709478,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            94.5945945945946,
+            95.66968781470293
+        ],
+        [
+            117.6470588235294,
+            96.25962596259626
+        ],
+        [
+            110.09982384028184,
+            88.59357696567
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0
+    ],
+    "pace": 72.68736783984166,
+    "poss": [
+        [
+            74.0,
+            79.44
+        ],
+        [
+            68.0,
+            72.72
+        ],
+        [
+            68.12,
+            72.24
+        ]
+    ],
+    "preseason_pace": 68.49160936219258,
+    "preseason_pred": 10.923316925533163,
+    "preseason_predd": 98.937295438397,
+    "preseason_predo": 109.86061236393016,
+    "schedule": [
+        "memphis",
+        "portland-state",
+        "bradley"
+    ],
+    "scores": [
+        [
+            70,
+            76
+        ],
+        [
+            80,
+            70
+        ],
+        [
+            75,
+            64
+        ]
+    ],
+    "wins": 2
+}

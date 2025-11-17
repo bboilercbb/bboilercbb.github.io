@@ -1,0 +1,195 @@
+{
+    "CompRank": 70,
+    "CompositeDef": 98.99875529708952,
+    "CompositeOff": 110.473042696439,
+    "CompositePace": 71.15055658368856,
+    "CompositeRating": 11.474287399349489,
+    "HA": [
+        "H",
+        "N",
+        "H",
+        "H"
+    ],
+    "OAst": 46.0,
+    "OAvgCompRat": -8.886441430713123,
+    "OBlk": 16.0,
+    "ODR": 77.0,
+    "OFGA": 247.0,
+    "OFGA3": 107.0,
+    "OFGM": 99.0,
+    "OFGM3": 28.0,
+    "OFTA": 79.0,
+    "OFTM": 56.0,
+    "OOR": 38.0,
+    "OPF": 91.0,
+    "OScore": 282.0,
+    "OStl": 33.0,
+    "OTO": 57.0,
+    "Oastr": 0.11955504730221438,
+    "Ocomprank": 313,
+    "Ocorrdastr": 0.14044479727941545,
+    "Ocorrdeff": 108.5517419590849,
+    "Ocorrdeffrank": 227,
+    "Ocorrdefgp": 0.4835283512179804,
+    "Ocorrdftr": 0.4669322824324095,
+    "Ocorrdorbp": 0.350218860654042,
+    "Ocorrdtovr": 0.15847627534704217,
+    "Ocorroastr": 0.144450492294479,
+    "Ocorroeff": 102.11241805264905,
+    "Ocorroeffrank": 259,
+    "Ocorroefgp": 0.5271015029837038,
+    "Ocorroftr": 0.39087741672077914,
+    "Ocorroorbp": 0.27319525484992124,
+    "Ocorrotovr": 0.17557516638700432,
+    "Oeff": 93.76246841335285,
+    "Oefgp": 0.4574898785425101,
+    "Oftr": 0.31983805668016196,
+    "Oneteff": -6.439323906435845,
+    "Oneteffrank": 261,
+    "Oorbp": 0.2585034013605442,
+    "Oposs": 300.76,
+    "Otovr": 0.16826071555083244,
+    "SoR": 62.74719448178232,
+    "SoRrank": 28,
+    "TAst": 63.0,
+    "TBlk": 12.0,
+    "TDR": 109.0,
+    "TFGA": 236.0,
+    "TFGA3": 94.0,
+    "TFGM": 121.0,
+    "TFGM3": 32.0,
+    "TFTA": 130.0,
+    "TFTM": 95.0,
+    "TOR": 45.0,
+    "TPF": 72.0,
+    "TScore": 369.0,
+    "TStl": 35.0,
+    "TTO": 55.0,
+    "Tastr": 0.15321011673151752,
+    "Tcorrdastr": 0.12091951726412264,
+    "Tcorrdastrrank": 71,
+    "Tcorrdeff": 97.36808706946881,
+    "Tcorrdeffrank": 80,
+    "Tcorrdefgp": 0.44269345762120477,
+    "Tcorrdefgprank": 53,
+    "Tcorrdftr": 0.3128766180099154,
+    "Tcorrdftrrank": 109,
+    "Tcorrdorbp": 0.2831536500256949,
+    "Tcorrdorbprank": 157,
+    "Tcorrdtovr": 0.1475615158965123,
+    "Tcorrdtovrrank": 189,
+    "Tcorroastr": 0.1594255727917719,
+    "Tcorroastrrank": 118,
+    "Tcorroeff": 119.25602987130492,
+    "Tcorroeffrank": 58,
+    "Tcorroefgp": 0.6105761691696997,
+    "Tcorroefgprank": 17,
+    "Tcorroftr": 0.4557509076202849,
+    "Tcorroftrrank": 88,
+    "Tcorroorbp": 0.3189347789556582,
+    "Tcorroorbprank": 143,
+    "Tcorrotovr": 0.15261023557945516,
+    "Tcorrotovrrank": 187,
+    "Teff": 121.70184696569922,
+    "Tefgp": 0.5805084745762712,
+    "Tftr": 0.5508474576271186,
+    "Tneteff": 21.887942801836104,
+    "Tneteffrank": 42,
+    "Torbp": 0.36885245901639346,
+    "Tposs": 303.2,
+    "Ttovr": 0.15795519816197587,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            99.28867812685239,
+            70.91128545564273
+        ],
+        [
+            116.41580432737537,
+            111.39774859287054
+        ],
+        [
+            143.58561460010736,
+            87.5588081547308
+        ],
+        [
+            126.05042016806723,
+            100.4402861860209
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 76.42620658837416,
+    "poss": [
+        [
+            67.48,
+            66.28
+        ],
+        [
+            85.03999999999999,
+            85.28
+        ],
+        [
+            74.52,
+            76.52
+        ],
+        [
+            76.16,
+            72.68
+        ]
+    ],
+    "preseason_pace": 68.83477057340133,
+    "preseason_pred": 6.90313550799734,
+    "preseason_predd": 99.71454930647035,
+    "preseason_predo": 106.61768481446768,
+    "schedule": [
+        "maine",
+        "south-florida",
+        "american",
+        "old-dominion"
+    ],
+    "scores": [
+        [
+            67,
+            47
+        ],
+        [
+            99,
+            95
+        ],
+        [
+            107,
+            67
+        ],
+        [
+            96,
+            73
+        ]
+    ],
+    "wins": 4
+}

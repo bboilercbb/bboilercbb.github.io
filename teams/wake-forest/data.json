@@ -1,0 +1,195 @@
+{
+    "CompRank": 76,
+    "CompositeDef": 95.2769677656224,
+    "CompositeOff": 105.73436246091131,
+    "CompositePace": 70.88623221772114,
+    "CompositeRating": 10.457394695288926,
+    "HA": [
+        "H",
+        "H",
+        "N",
+        "H"
+    ],
+    "OAst": 53.0,
+    "OAvgCompRat": -8.576906247816243,
+    "OBlk": 16.0,
+    "ODR": 99.0,
+    "OFGA": 244.0,
+    "OFGA3": 108.0,
+    "OFGM": 103.0,
+    "OFGM3": 25.0,
+    "OFTA": 90.0,
+    "OFTM": 68.0,
+    "OOR": 39.0,
+    "OPF": 66.0,
+    "OScore": 299.0,
+    "OStl": 31.0,
+    "OTO": 69.0,
+    "Oastr": 0.1306706114398422,
+    "Ocomprank": 304,
+    "Ocorrdastr": 0.16533189035370544,
+    "Ocorrdeff": 116.77926352540217,
+    "Ocorrdeffrank": 337,
+    "Ocorrdefgp": 0.5564968292216146,
+    "Ocorrdftr": 0.33814637553824545,
+    "Ocorrdorbp": 0.3166574956787125,
+    "Ocorrdtovr": 0.15188693262675534,
+    "Ocorroastr": 0.14064761245567792,
+    "Ocorroeff": 101.57827978094147,
+    "Ocorroeffrank": 265,
+    "Ocorroefgp": 0.5106782116317321,
+    "Ocorroftr": 0.38970473621555796,
+    "Ocorroorbp": 0.3309349470232823,
+    "Ocorrotovr": 0.17962171657733275,
+    "Oeff": 95.34438775510203,
+    "Oefgp": 0.4733606557377049,
+    "Oftr": 0.36885245901639346,
+    "Oneteff": -15.2009837444607,
+    "Oneteffrank": 332,
+    "Oorbp": 0.2653061224489796,
+    "Oposs": 313.6,
+    "Otovr": 0.19568916619398752,
+    "SoR": 10.298459662506708,
+    "SoRrank": 133,
+    "TAst": 71.0,
+    "TBlk": 18.0,
+    "TDR": 108.0,
+    "TFGA": 287.0,
+    "TFGA3": 113.0,
+    "TFGM": 126.0,
+    "TFGM3": 37.0,
+    "TFTA": 99.0,
+    "TFTM": 73.0,
+    "TOR": 53.0,
+    "TPF": 88.0,
+    "TScore": 362.0,
+    "TStl": 50.0,
+    "TTO": 49.0,
+    "Tastr": 0.15758167613636365,
+    "Tcorrdastr": 0.13559096257903908,
+    "Tcorrdastrrank": 129,
+    "Tcorrdeff": 99.51064968690447,
+    "Tcorrdeffrank": 102,
+    "Tcorrdefgp": 0.47218497960480926,
+    "Tcorrdefgprank": 97,
+    "Tcorrdftr": 0.361866584382922,
+    "Tcorrdftrrank": 182,
+    "Tcorrdorbp": 0.24174433771569073,
+    "Tcorrdorbprank": 71,
+    "Tcorrdtovr": 0.16790215316932708,
+    "Tcorrdtovrrank": 123,
+    "Tcorroastr": 0.14020140802283867,
+    "Tcorroastrrank": 208,
+    "Tcorroeff": 101.26651700944855,
+    "Tcorroeffrank": 246,
+    "Tcorroefgp": 0.46271345785540247,
+    "Tcorroefgprank": 275,
+    "Tcorroftr": 0.3890509037082146,
+    "Tcorroftrrank": 156,
+    "Tcorroorbp": 0.33211274019823095,
+    "Tcorroorbprank": 123,
+    "Tcorrotovr": 0.12991918289164273,
+    "Tcorrotovrrank": 98,
+    "Teff": 110.85252327290544,
+    "Tefgp": 0.5034843205574913,
+    "Tftr": 0.34494773519163763,
+    "Tneteff": 1.755867322544077,
+    "Tneteffrank": 158,
+    "Torbp": 0.34868421052631576,
+    "Tposs": 326.56,
+    "Ttovr": 0.12909684898303297,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            114.94252873563218,
+            97.47102212855637
+        ],
+        [
+            98.54014598540145,
+            81.78158027176647
+        ],
+        [
+            91.06678230702515,
+            102.0653218059558
+        ],
+        [
+            144.25622022233986,
+            100.106780565937
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        1,
+        0
+    ],
+    "pace": 76.70700843626258,
+    "poss": [
+        [
+            76.56,
+            75.92
+        ],
+        [
+            82.2,
+            79.48
+        ],
+        [
+            92.24,
+            83.28
+        ],
+        [
+            75.56,
+            74.92
+        ]
+    ],
+    "preseason_pace": 68.33115898050131,
+    "preseason_pred": 14.276995188126172,
+    "preseason_predd": 93.41856143529282,
+    "preseason_predo": 107.69555662341898,
+    "schedule": [
+        "american",
+        "morehead-state",
+        "michigan",
+        "massachusetts-lowell"
+    ],
+    "scores": [
+        [
+            88,
+            74
+        ],
+        [
+            81,
+            65
+        ],
+        [
+            84,
+            85
+        ],
+        [
+            109,
+            75
+        ]
+    ],
+    "wins": 3
+}

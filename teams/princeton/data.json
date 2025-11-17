@@ -1,0 +1,176 @@
+{
+    "CompRank": 172,
+    "CompositeDef": 106.59410813069175,
+    "CompositeOff": 102.50249734292395,
+    "CompositePace": 68.06688153904798,
+    "CompositeRating": -4.091610787767813,
+    "HA": [
+        "A",
+        "H",
+        "A"
+    ],
+    "OAst": 45.0,
+    "OAvgCompRat": 6.582109279951662,
+    "OBlk": 10.0,
+    "ODR": 92.0,
+    "OFGA": 175.0,
+    "OFGA3": 78.0,
+    "OFGM": 82.0,
+    "OFGM3": 26.0,
+    "OFTA": 70.0,
+    "OFTM": 53.0,
+    "OOR": 24.0,
+    "OPF": 54.0,
+    "OScore": 243.0,
+    "OStl": 26.0,
+    "OTO": 32.0,
+    "Oastr": 0.15912305516265912,
+    "Ocomprank": 61,
+    "Ocorrdastr": 0.13988756867380164,
+    "Ocorrdeff": 97.58272130930227,
+    "Ocorrdeffrank": 48,
+    "Ocorrdefgp": 0.48137456049093763,
+    "Ocorrdftr": 0.3447852950316453,
+    "Ocorrdorbp": 0.28203589165482706,
+    "Ocorrdtovr": 0.16394818592407537,
+    "Ocorroastr": 0.15857764515869624,
+    "Ocorroeff": 116.46997472985085,
+    "Ocorroeffrank": 35,
+    "Ocorroefgp": 0.5587019931623308,
+    "Ocorroftr": 0.3502955995755023,
+    "Ocorroorbp": 0.2908330249591377,
+    "Ocorrotovr": 0.14219003883551193,
+    "Oeff": 113.65762394761458,
+    "Oefgp": 0.5428571428571428,
+    "Oftr": 0.4,
+    "Oneteff": 18.887253420548575,
+    "Oneteffrank": 25,
+    "Oorbp": 0.25,
+    "Oposs": 213.8,
+    "Otovr": 0.1345668629100084,
+    "SoR": 3.9541153896630488,
+    "SoRrank": 168,
+    "TAst": 34.0,
+    "TBlk": 6.0,
+    "TDR": 72.0,
+    "TFGA": 176.0,
+    "TFGA3": 95.0,
+    "TFGM": 63.0,
+    "TFGM3": 30.0,
+    "TFTA": 65.0,
+    "TFTM": 43.0,
+    "TOR": 24.0,
+    "TPF": 55.0,
+    "TScore": 199.0,
+    "TStl": 15.0,
+    "TTO": 40.0,
+    "Tastr": 0.12203876525484565,
+    "Tcorrdastr": 0.14714842036646703,
+    "Tcorrdastrrank": 192,
+    "Tcorrdeff": 104.02328703622327,
+    "Tcorrdeffrank": 151,
+    "Tcorrdefgp": 0.49674117886744146,
+    "Tcorrdefgprank": 165,
+    "Tcorrdftr": 0.4347196694582407,
+    "Tcorrdftrrank": 270,
+    "Tcorrdorbp": 0.2578751546593365,
+    "Tcorrdorbprank": 104,
+    "Tcorrdtovr": 0.14449993230010955,
+    "Tcorrdtovrrank": 209,
+    "Tcorroastr": 0.1274752842492943,
+    "Tcorroastrrank": 264,
+    "Tcorroeff": 97.91485813687493,
+    "Tcorroeffrank": 271,
+    "Tcorroefgp": 0.46813883138954826,
+    "Tcorroefgprank": 268,
+    "Tcorroftr": 0.40883376202669974,
+    "Tcorroftrrank": 133,
+    "Tcorroorbp": 0.22023453105105417,
+    "Tcorroorbprank": 312,
+    "Tcorrotovr": 0.152932281529142,
+    "Tcorrotovrrank": 191,
+    "Teff": 90.2085222121487,
+    "Tefgp": 0.4431818181818182,
+    "Tftr": 0.3693181818181818,
+    "Tneteff": -6.10842889934834,
+    "Tneteffrank": 229,
+    "Torbp": 0.20689655172413793,
+    "Tposs": 220.6,
+    "Ttovr": 0.1635322976287817,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            86.46616541353384,
+            132.92433537832312
+        ],
+        [
+            107.73317591499409,
+            96.5665236051502
+        ],
+        [
+            78.039430449069,
+            108.07736063708761
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0,
+        0
+    ],
+    "pace": 70.79770782620119,
+    "poss": [
+        [
+            79.8,
+            78.24
+        ],
+        [
+            67.76,
+            65.24000000000001
+        ],
+        [
+            73.04,
+            70.32
+        ]
+    ],
+    "preseason_pace": 67.39260344345459,
+    "preseason_pred": -3.5936310071306465,
+    "preseason_predd": 107.22887877130125,
+    "preseason_predo": 103.63524776417061,
+    "schedule": [
+        "akron",
+        "bucknell",
+        "kansas"
+    ],
+    "scores": [
+        [
+            69,
+            104
+        ],
+        [
+            73,
+            63
+        ],
+        [
+            57,
+            76
+        ]
+    ],
+    "wins": 1
+}

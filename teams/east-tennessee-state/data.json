@@ -1,0 +1,176 @@
+{
+    "CompRank": 180,
+    "CompositeDef": 108.0417660827352,
+    "CompositeOff": 103.7259026738481,
+    "CompositePace": 68.39597179013266,
+    "CompositeRating": -4.315863408887088,
+    "HA": [
+        "A",
+        "H",
+        "A"
+    ],
+    "OAst": 35.0,
+    "OAvgCompRat": -9.287897383338493,
+    "OBlk": 12.0,
+    "ODR": 66.0,
+    "OFGA": 166.0,
+    "OFGA3": 69.0,
+    "OFGM": 68.0,
+    "OFGM3": 23.0,
+    "OFTA": 61.0,
+    "OFTM": 46.0,
+    "OOR": 27.0,
+    "OPF": 52.0,
+    "OScore": 205.0,
+    "OStl": 21.0,
+    "OTO": 47.0,
+    "Oastr": 0.12734681996798136,
+    "Ocomprank": 319,
+    "Ocorrdastr": 0.15898737154243822,
+    "Ocorrdeff": 118.86599321091796,
+    "Ocorrdeffrank": 353,
+    "Ocorrdefgp": 0.5558594835299249,
+    "Ocorrdftr": 0.42855324638037295,
+    "Ocorrdorbp": 0.36722775111420186,
+    "Ocorrdtovr": 0.12591543222572774,
+    "Ocorroastr": 0.11518013690506339,
+    "Ocorroeff": 92.2080385293577,
+    "Ocorroeffrank": 350,
+    "Ocorroefgp": 0.4473734111172325,
+    "Ocorroftr": 0.3818037138414854,
+    "Ocorroorbp": 0.28015841362531707,
+    "Ocorrotovr": 0.20191697038860168,
+    "Oeff": 96.31648186431121,
+    "Oefgp": 0.4789156626506024,
+    "Oftr": 0.3674698795180723,
+    "Oneteff": -26.65795468156027,
+    "Oneteffrank": 364,
+    "Oorbp": 0.3103448275862069,
+    "Oposs": 212.84,
+    "Otovr": 0.19596397598398932,
+    "SoR": 3.487035178681619,
+    "SoRrank": 175,
+    "TAst": 37.0,
+    "TBlk": 10.0,
+    "TDR": 60.0,
+    "TFGA": 162.0,
+    "TFGA3": 63.0,
+    "TFGM": 77.0,
+    "TFGM3": 20.0,
+    "TFTA": 62.0,
+    "TFTM": 43.0,
+    "TOR": 21.0,
+    "TPF": 54.0,
+    "TScore": 217.0,
+    "TStl": 33.0,
+    "TTO": 36.0,
+    "Tastr": 0.14107061156016473,
+    "Tcorrdastr": 0.16007887124975761,
+    "Tcorrdastrrank": 264,
+    "Tcorrdeff": 110.31382570428545,
+    "Tcorrdeffrank": 236,
+    "Tcorrdefgp": 0.5424538040316489,
+    "Tcorrdefgprank": 263,
+    "Tcorrdftr": 0.3676699459018484,
+    "Tcorrdftrrank": 188,
+    "Tcorrdorbp": 0.33182266369005803,
+    "Tcorrdorbprank": 256,
+    "Tcorrdtovr": 0.1502724349910011,
+    "Tcorrdtovrrank": 181,
+    "Tcorroastr": 0.13031641277429823,
+    "Tcorroastrrank": 255,
+    "Tcorroeff": 95.40457572227346,
+    "Tcorroeffrank": 297,
+    "Tcorroefgp": 0.4940924698331024,
+    "Tcorroefgprank": 214,
+    "Tcorroftr": 0.3438235869808033,
+    "Tcorroftrrank": 223,
+    "Tcorroorbp": 0.19942293170166836,
+    "Tcorroorbprank": 334,
+    "Tcorrotovr": 0.1925436849041575,
+    "Tcorrotovrrank": 320,
+    "Teff": 106.22674760133151,
+    "Tefgp": 0.5370370370370371,
+    "Tftr": 0.38271604938271603,
+    "Tneteff": -14.909249982011985,
+    "Tneteffrank": 291,
+    "Torbp": 0.2413793103448276,
+    "Tposs": 204.28,
+    "Ttovr": 0.15980113636363635,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            98.09932556713673,
+            105.52451893234017
+        ],
+        [
+            105.81264108352146,
+            81.64852255054433
+        ],
+        [
+            114.43661971830987,
+            103.87422796181922
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0
+    ],
+    "pace": 74.72515835596455,
+    "poss": [
+        [
+            65.24,
+            64.44
+        ],
+        [
+            70.88,
+            77.16
+        ],
+        [
+            68.16,
+            71.24
+        ]
+    ],
+    "preseason_pace": 66.83320967511244,
+    "preseason_pred": -1.700212403177237,
+    "preseason_predd": 107.48076370704378,
+    "preseason_predo": 105.78055130386653,
+    "schedule": [
+        "presbyterian",
+        "northern-kentucky",
+        "north-alabama"
+    ],
+    "scores": [
+        [
+            64,
+            68
+        ],
+        [
+            75,
+            63
+        ],
+        [
+            78,
+            74
+        ]
+    ],
+    "wins": 2
+}

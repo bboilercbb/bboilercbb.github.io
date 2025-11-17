@@ -1,0 +1,157 @@
+{
+    "CompRank": 149,
+    "CompositeDef": 108.17819990178039,
+    "CompositeOff": 106.03497410384192,
+    "CompositePace": 67.25136848980821,
+    "CompositeRating": -2.1432257979384906,
+    "HA": [
+        "H",
+        "A"
+    ],
+    "OAst": 24.0,
+    "OAvgCompRat": -12.004429839298536,
+    "OBlk": 7.0,
+    "ODR": 38.0,
+    "OFGA": 109.0,
+    "OFGA3": 38.0,
+    "OFGM": 57.0,
+    "OFGM3": 15.0,
+    "OFTA": 44.0,
+    "OFTM": 32.0,
+    "OOR": 18.0,
+    "OPF": 37.0,
+    "OScore": 161.0,
+    "OStl": 12.0,
+    "OTO": 26.0,
+    "Oastr": 0.1345593182327876,
+    "Ocomprank": 340,
+    "Ocorrdastr": 0.17727024591207502,
+    "Ocorrdeff": 111.82331793707132,
+    "Ocorrdeffrank": 290,
+    "Ocorrdefgp": 0.5246285514420003,
+    "Ocorrdftr": 0.33229719742854946,
+    "Ocorrdorbp": 0.27787803663423805,
+    "Ocorrdtovr": 0.12483753470621531,
+    "Ocorroastr": 0.12623431481041064,
+    "Ocorroeff": 98.22734022510215,
+    "Ocorroeffrank": 315,
+    "Ocorroefgp": 0.47639539412786064,
+    "Ocorroftr": 0.4174554429471026,
+    "Ocorroorbp": 0.2578893473385224,
+    "Ocorrotovr": 0.16996163041756035,
+    "Oeff": 118.06981519507185,
+    "Oefgp": 0.591743119266055,
+    "Oftr": 0.4036697247706422,
+    "Oneteff": -13.59597771196917,
+    "Oneteffrank": 326,
+    "Oorbp": 0.3103448275862069,
+    "Oposs": 136.36,
+    "Otovr": 0.1684374190204716,
+    "SoR": 26.884257572986915,
+    "SoRrank": 84,
+    "TAst": 37.0,
+    "TBlk": 2.0,
+    "TDR": 40.0,
+    "TFGA": 115.0,
+    "TFGA3": 49.0,
+    "TFGM": 60.0,
+    "TFGM3": 24.0,
+    "TFTA": 44.0,
+    "TFTM": 33.0,
+    "TOR": 15.0,
+    "TPF": 39.0,
+    "TScore": 177.0,
+    "TStl": 15.0,
+    "TTO": 19.0,
+    "Tastr": 0.19436856482454296,
+    "Tcorrdastr": 0.15489876021258456,
+    "Tcorrdastrrank": 242,
+    "Tcorrdeff": 127.26250563246401,
+    "Tcorrdeffrank": 356,
+    "Tcorrdefgp": 0.6309991428978284,
+    "Tcorrdefgprank": 348,
+    "Tcorrdftr": 0.3707145071153215,
+    "Tcorrdftrrank": 196,
+    "Tcorrdorbp": 0.359286606318896,
+    "Tcorrdorbprank": 294,
+    "Tcorrdtovr": 0.15239757285439665,
+    "Tcorrdtovrrank": 177,
+    "Tcorroastr": 0.16173412818352392,
+    "Tcorroastrrank": 108,
+    "Tcorroeff": 121.83298160666726,
+    "Tcorroeffrank": 39,
+    "Tcorroefgp": 0.6089052081172219,
+    "Tcorroefgprank": 19,
+    "Tcorroftr": 0.43881720368061333,
+    "Tcorroftrrank": 101,
+    "Tcorroorbp": 0.3055908419975607,
+    "Tcorroorbprank": 166,
+    "Tcorrotovr": 0.15051358802915393,
+    "Tcorrotovrrank": 180,
+    "Teff": 127.92714657415436,
+    "Tefgp": 0.6260869565217392,
+    "Tftr": 0.3826086956521739,
+    "Tneteff": -5.429524025796752,
+    "Tneteffrank": 219,
+    "Torbp": 0.2830188679245283,
+    "Tposs": 138.36,
+    "Ttovr": 0.12389149713093374,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ]
+    ],
+    "geff": [
+        [
+            132.06960845245493,
+            117.0145477545857
+        ],
+        [
+            124.32432432432432,
+            118.98249452954047
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0
+    ],
+    "pace": 67.57966852372377,
+    "poss": [
+        [
+            64.36,
+            63.24
+        ],
+        [
+            74.0,
+            73.12
+        ]
+    ],
+    "preseason_pace": 67.2153410512441,
+    "preseason_pred": -1.782589504072014,
+    "preseason_predd": 106.08390023311827,
+    "preseason_predo": 104.30131072904626,
+    "schedule": [
+        "san-jose-state",
+        "sacramento-state"
+    ],
+    "scores": [
+        [
+            85,
+            74
+        ],
+        [
+            92,
+            87
+        ]
+    ],
+    "wins": 2
+}

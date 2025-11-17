@@ -1,0 +1,195 @@
+{
+    "CompRank": 208,
+    "CompositeDef": 103.54335212652609,
+    "CompositeOff": 97.40831484230127,
+    "CompositePace": 69.21228472866657,
+    "CompositeRating": -6.13503728422482,
+    "HA": [
+        "H",
+        "A",
+        "A",
+        "H"
+    ],
+    "OAst": 53.0,
+    "OAvgCompRat": -6.098743274785132,
+    "OBlk": 16.0,
+    "ODR": 96.0,
+    "OFGA": 221.0,
+    "OFGA3": 90.0,
+    "OFGM": 99.0,
+    "OFGM3": 29.0,
+    "OFTA": 72.0,
+    "OFTM": 57.0,
+    "OOR": 32.0,
+    "OPF": 82.0,
+    "OScore": 286.0,
+    "OStl": 24.0,
+    "OTO": 54.0,
+    "Oastr": 0.1473532028469751,
+    "Ocomprank": 263,
+    "Ocorrdastr": 0.17195427084458692,
+    "Ocorrdeff": 117.65812879933162,
+    "Ocorrdeffrank": 345,
+    "Ocorrdefgp": 0.5815546580365368,
+    "Ocorrdftr": 0.34186669668376657,
+    "Ocorrdorbp": 0.28387363961461654,
+    "Ocorrdtovr": 0.1381073087878233,
+    "Ocorroastr": 0.16784135025766778,
+    "Ocorroeff": 114.6801380660049,
+    "Ocorroeffrank": 53,
+    "Ocorroefgp": 0.5822724527762593,
+    "Ocorroftr": 0.2850045387690804,
+    "Ocorroorbp": 0.21348604522957293,
+    "Ocorrotovr": 0.15750564605979517,
+    "Oeff": 104.12115916703073,
+    "Oefgp": 0.5135746606334841,
+    "Oftr": 0.3257918552036199,
+    "Oneteff": -2.9779907333267204,
+    "Oneteffrank": 222,
+    "Oorbp": 0.27350427350427353,
+    "Oposs": 274.68,
+    "Otovr": 0.17607930089996088,
+    "SoR": 0.44818488149606095,
+    "SoRrank": 226,
+    "TAst": 51.0,
+    "TBlk": 11.0,
+    "TDR": 85.0,
+    "TFGA": 235.0,
+    "TFGA3": 78.0,
+    "TFGM": 102.0,
+    "TFGM3": 24.0,
+    "TFTA": 95.0,
+    "TFTM": 66.0,
+    "TOR": 36.0,
+    "TPF": 70.0,
+    "TScore": 294.0,
+    "TStl": 33.0,
+    "TTO": 41.0,
+    "Tastr": 0.13828633405639912,
+    "Tcorrdastr": 0.12903541950257594,
+    "Tcorrdastrrank": 94,
+    "Tcorrdeff": 96.72269685416977,
+    "Tcorrdeffrank": 72,
+    "Tcorrdefgp": 0.45166688760381235,
+    "Tcorrdefgprank": 62,
+    "Tcorrdftr": 0.4316163563014065,
+    "Tcorrdftrrank": 266,
+    "Tcorrdorbp": 0.3796208285026366,
+    "Tcorrdorbprank": 318,
+    "Tcorrdtovr": 0.1713892545269421,
+    "Tcorrdtovrrank": 110,
+    "Tcorroastr": 0.11848139775429194,
+    "Tcorroastrrank": 301,
+    "Tcorroeff": 94.623793536531,
+    "Tcorroeffrank": 303,
+    "Tcorroefgp": 0.4273646181636317,
+    "Tcorroefgprank": 336,
+    "Tcorroftr": 0.4511764588128711,
+    "Tcorroftrrank": 92,
+    "Tcorroorbp": 0.288504502793125,
+    "Tcorroorbprank": 197,
+    "Tcorrotovr": 0.14224704417507902,
+    "Tcorrotovrrank": 143,
+    "Teff": 104.32931156848828,
+    "Tefgp": 0.4851063829787234,
+    "Tftr": 0.40425531914893614,
+    "Tneteff": -2.098903317638772,
+    "Tneteffrank": 193,
+    "Torbp": 0.2727272727272727,
+    "Tposs": 281.8,
+    "Ttovr": 0.1290119572057898,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            102.12418300653596,
+            105.84958217270196
+        ],
+        [
+            100.0,
+            98.42519685039369
+        ],
+        [
+            114.71990464839094,
+            88.80994671403197
+        ],
+        [
+            101.0376843255052,
+            122.6905311778291
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "pace": 71.36814699737268,
+    "poss": [
+        [
+            73.44,
+            71.8
+        ],
+        [
+            68.0,
+            66.04
+        ],
+        [
+            67.12,
+            67.56
+        ],
+        [
+            73.24,
+            69.28
+        ]
+    ],
+    "preseason_pace": 68.26595286860353,
+    "preseason_pred": -7.906728462973154,
+    "preseason_predd": 106.53732974950829,
+    "preseason_predo": 98.63060128653512,
+    "schedule": [
+        "boston-university",
+        "colgate",
+        "harvard",
+        "vermont"
+    ],
+    "scores": [
+        [
+            75,
+            76
+        ],
+        [
+            68,
+            65
+        ],
+        [
+            77,
+            60
+        ],
+        [
+            74,
+            85
+        ]
+    ],
+    "wins": 2
+}

@@ -1,0 +1,195 @@
+{
+    "CompRank": 41,
+    "CompositeDef": 96.28391512232926,
+    "CompositeOff": 113.8105877302501,
+    "CompositePace": 65.9432001198966,
+    "CompositeRating": 17.52667260792084,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 50.0,
+    "OAvgCompRat": -8.505161680682173,
+    "OBlk": 12.0,
+    "ODR": 64.0,
+    "OFGA": 233.0,
+    "OFGA3": 89.0,
+    "OFGM": 86.0,
+    "OFGM3": 25.0,
+    "OFTA": 50.0,
+    "OFTM": 36.0,
+    "OOR": 26.0,
+    "OPF": 66.0,
+    "OScore": 233.0,
+    "OStl": 24.0,
+    "OTO": 41.0,
+    "Oastr": 0.14450867052023122,
+    "Ocomprank": 303,
+    "Ocorrdastr": 0.1597404274702081,
+    "Ocorrdeff": 114.10159085346488,
+    "Ocorrdeffrank": 318,
+    "Ocorrdefgp": 0.5232477686484848,
+    "Ocorrdftr": 0.3995196351047998,
+    "Ocorrdorbp": 0.338638484637906,
+    "Ocorrdtovr": 0.14898012591649804,
+    "Ocorroastr": 0.15554053446592211,
+    "Ocorroeff": 100.39533200619695,
+    "Ocorroeffrank": 282,
+    "Ocorroefgp": 0.5089830870354419,
+    "Ocorroftr": 0.3996310254730213,
+    "Ocorroorbp": 0.19505724355431156,
+    "Ocorrotovr": 0.15957789970752878,
+    "Oeff": 86.29629629629629,
+    "Oefgp": 0.4227467811158798,
+    "Oftr": 0.2145922746781116,
+    "Oneteff": -13.706258847267932,
+    "Oneteffrank": 327,
+    "Oorbp": 0.18309859154929578,
+    "Oposs": 270.0,
+    "Otovr": 0.13851351351351351,
+    "SoR": 51.480289223825835,
+    "SoRrank": 47,
+    "TAst": 76.0,
+    "TBlk": 16.0,
+    "TDR": 116.0,
+    "TFGA": 225.0,
+    "TFGA3": 87.0,
+    "TFGM": 113.0,
+    "TFGM3": 39.0,
+    "TFTA": 91.0,
+    "TFTM": 76.0,
+    "TOR": 50.0,
+    "TPF": 57.0,
+    "TScore": 341.0,
+    "TStl": 22.0,
+    "TTO": 47.0,
+    "Tastr": 0.1958560973095557,
+    "Tcorrdastr": 0.13613809430281487,
+    "Tcorrdastrrank": 131,
+    "Tcorrdeff": 91.08585162372238,
+    "Tcorrdeffrank": 28,
+    "Tcorrdefgp": 0.4230451099517294,
+    "Tcorrdefgprank": 27,
+    "Tcorrdftr": 0.20550492648829427,
+    "Tcorrdftrrank": 9,
+    "Tcorrdorbp": 0.27714935778657074,
+    "Tcorrdorbprank": 144,
+    "Tcorrdtovr": 0.1331426878273438,
+    "Tcorrdtovrrank": 254,
+    "Tcorroastr": 0.18010647996813306,
+    "Tcorroastrrank": 49,
+    "Tcorroeff": 121.55676589611907,
+    "Tcorroeffrank": 43,
+    "Tcorroefgp": 0.5741789419418996,
+    "Tcorroefgprank": 58,
+    "Tcorroftr": 0.3886591061668747,
+    "Tcorroftrrank": 158,
+    "Tcorroorbp": 0.39168313485953443,
+    "Tcorroorbprank": 45,
+    "Tcorrotovr": 0.15441960650894607,
+    "Tcorrotovrrank": 197,
+    "Teff": 130.13280415203783,
+    "Tefgp": 0.5888888888888889,
+    "Tftr": 0.40444444444444444,
+    "Tneteff": 30.470914272396698,
+    "Tneteffrank": 8,
+    "Torbp": 0.43859649122807015,
+    "Tposs": 262.04,
+    "Ttovr": 0.15062171516472248,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            128.51897184822522,
+            90.06211180124222
+        ],
+        [
+            136.44918444165623,
+            95.15570934256056
+        ],
+        [
+            132.9787234042553,
+            86.85581933989577
+        ],
+        [
+            122.62415695892092,
+            72.96009529481834
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 68.95555327169161,
+    "poss": [
+        [
+            65.36,
+            64.4
+        ],
+        [
+            63.76,
+            69.36
+        ],
+        [
+            67.68,
+            69.08
+        ],
+        [
+            65.24,
+            67.16
+        ]
+    ],
+    "preseason_pace": 64.62090518358056,
+    "preseason_pred": 11.844700958219503,
+    "preseason_predd": 98.56564395573695,
+    "preseason_predo": 110.41034491395645,
+    "schedule": [
+        "st-thomas-mn",
+        "chattanooga",
+        "ohio",
+        "north-texas"
+    ],
+    "scores": [
+        [
+            84,
+            58
+        ],
+        [
+            87,
+            66
+        ],
+        [
+            90,
+            60
+        ],
+        [
+            80,
+            49
+        ]
+    ],
+    "wins": 4
+}

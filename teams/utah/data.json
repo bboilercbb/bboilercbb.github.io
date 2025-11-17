@@ -1,0 +1,195 @@
+{
+    "CompRank": 82,
+    "CompositeDef": 100.60582035328528,
+    "CompositeOff": 109.78868479039242,
+    "CompositePace": 71.00274993908452,
+    "CompositeRating": 9.18286443710714,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 41.0,
+    "OAvgCompRat": -14.357901787014043,
+    "OBlk": 12.0,
+    "ODR": 95.0,
+    "OFGA": 265.0,
+    "OFGA3": 89.0,
+    "OFGM": 118.0,
+    "OFGM3": 29.0,
+    "OFTA": 80.0,
+    "OFTM": 47.0,
+    "OOR": 38.0,
+    "OPF": 82.0,
+    "OScore": 312.0,
+    "OStl": 26.0,
+    "OTO": 44.0,
+    "Oastr": 0.10643821391484944,
+    "Ocomprank": 350,
+    "Ocorrdastr": 0.15969764383810953,
+    "Ocorrdeff": 118.50961113944297,
+    "Ocorrdeffrank": 351,
+    "Ocorrdefgp": 0.5570684002247585,
+    "Ocorrdftr": 0.4986935301735317,
+    "Ocorrdorbp": 0.30577970078824424,
+    "Ocorrdtovr": 0.13348724783997754,
+    "Ocorroastr": 0.11866744675481328,
+    "Ocorroeff": 103.22157210807276,
+    "Ocorroeffrank": 238,
+    "Ocorroefgp": 0.4664400960432287,
+    "Ocorroftr": 0.3627415137592923,
+    "Ocorroorbp": 0.30682919205612774,
+    "Ocorrotovr": 0.13485093621042263,
+    "Oeff": 101.89418680600915,
+    "Oefgp": 0.5,
+    "Oftr": 0.3018867924528302,
+    "Oneteff": -15.288039031370204,
+    "Oneteffrank": 334,
+    "Oorbp": 0.2585034013605442,
+    "Oposs": 306.2,
+    "Otovr": 0.12783265543288785,
+    "SoR": 38.5893874373816,
+    "SoRrank": 69,
+    "TAst": 59.0,
+    "TBlk": 18.0,
+    "TDR": 109.0,
+    "TFGA": 259.0,
+    "TFGA3": 108.0,
+    "TFGM": 120.0,
+    "TFGM3": 36.0,
+    "TFTA": 100.0,
+    "TFTM": 72.0,
+    "TOR": 46.0,
+    "TPF": 72.0,
+    "TScore": 348.0,
+    "TStl": 21.0,
+    "TTO": 44.0,
+    "Tastr": 0.14532019704433496,
+    "Tcorrdastr": 0.13001886472842172,
+    "Tcorrdastrrank": 97,
+    "Tcorrdeff": 104.72064799299537,
+    "Tcorrdeffrank": 161,
+    "Tcorrdefgp": 0.5440906552096232,
+    "Tcorrdefgprank": 266,
+    "Tcorrdftr": 0.31727499791844366,
+    "Tcorrdftrrank": 117,
+    "Tcorrdorbp": 0.2532856801906884,
+    "Tcorrdorbprank": 94,
+    "Tcorrdtovr": 0.14443358169643028,
+    "Tcorrdtovrrank": 210,
+    "Tcorroastr": 0.13366875769285552,
+    "Tcorroastrrank": 238,
+    "Tcorroeff": 104.13580641153877,
+    "Tcorroeffrank": 202,
+    "Tcorroefgp": 0.4891898785971637,
+    "Tcorroefgprank": 224,
+    "Tcorroftr": 0.2998865494572306,
+    "Tcorroftrrank": 277,
+    "Tcorroorbp": 0.32134188593052676,
+    "Tcorroorbprank": 139,
+    "Tcorrotovr": 0.14445206190963994,
+    "Tcorrotovrrank": 154,
+    "Teff": 115.61461794019934,
+    "Tefgp": 0.5328185328185329,
+    "Tftr": 0.3861003861003861,
+    "Tneteff": -0.584841581456601,
+    "Tneteffrank": 183,
+    "Torbp": 0.3262411347517731,
+    "Tposs": 301.0,
+    "Ttovr": 0.12680115273775217,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            10
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            121.10726643598616,
+            98.7881981032666
+        ],
+        [
+            103.27795240233498,
+            104.31317393342711
+        ],
+        [
+            129.15676959619952,
+            99.65337954939342
+        ],
+        [
+            113.03191489361701,
+            104.33174854727945
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        1,
+        0,
+        0
+    ],
+    "pace": 74.25350648184744,
+    "poss": [
+        [
+            69.36,
+            75.92
+        ],
+        [
+            89.08,
+            85.32
+        ],
+        [
+            67.36,
+            69.24
+        ],
+        [
+            75.2,
+            75.72
+        ]
+    ],
+    "preseason_pace": 69.57580605200066,
+    "preseason_pred": 13.470472017272293,
+    "preseason_predd": 98.79958599840569,
+    "preseason_predo": 112.27005801567798,
+    "schedule": [
+        "san-jose-state",
+        "weber-state",
+        "holy-cross",
+        "sam-houston-state"
+    ],
+    "scores": [
+        [
+            84,
+            75
+        ],
+        [
+            92,
+            89
+        ],
+        [
+            87,
+            69
+        ],
+        [
+            85,
+            79
+        ]
+    ],
+    "wins": 4
+}

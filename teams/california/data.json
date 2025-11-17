@@ -1,0 +1,195 @@
+{
+    "CompRank": 67,
+    "CompositeDef": 103.06480538637001,
+    "CompositeOff": 114.92743093730292,
+    "CompositePace": 69.78404736943682,
+    "CompositeRating": 11.862625550932908,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "A"
+    ],
+    "OAst": 54.0,
+    "OAvgCompRat": -5.451370885649981,
+    "OBlk": 15.0,
+    "ODR": 82.0,
+    "OFGA": 245.0,
+    "OFGA3": 90.0,
+    "OFGM": 108.0,
+    "OFGM3": 27.0,
+    "OFTA": 80.0,
+    "OFTM": 48.0,
+    "OOR": 30.0,
+    "OPF": 83.0,
+    "OScore": 291.0,
+    "OStl": 22.0,
+    "OTO": 54.0,
+    "Oastr": 0.1391035548686244,
+    "Ocomprank": 251,
+    "Ocorrdastr": 0.14734790850777874,
+    "Ocorrdeff": 104.2645820963475,
+    "Ocorrdeffrank": 151,
+    "Ocorrdefgp": 0.4885569701064089,
+    "Ocorrdftr": 0.34163579630476165,
+    "Ocorrdorbp": 0.31270230086687645,
+    "Ocorrdtovr": 0.16714421259794124,
+    "Ocorroastr": 0.14510757356935478,
+    "Ocorroeff": 98.17161896636414,
+    "Ocorroeffrank": 316,
+    "Ocorroefgp": 0.5260356606814784,
+    "Ocorroftr": 0.3790326374280133,
+    "Ocorroorbp": 0.3008208235841371,
+    "Ocorrotovr": 0.21862237856187072,
+    "Oeff": 95.66074950690336,
+    "Oefgp": 0.4959183673469388,
+    "Oftr": 0.32653061224489793,
+    "Oneteff": -6.09296312998336,
+    "Oneteffrank": 258,
+    "Oorbp": 0.22900763358778625,
+    "Oposs": 304.2,
+    "Otovr": 0.16157989228007183,
+    "SoR": 17.664131750828325,
+    "SoRrank": 111,
+    "TAst": 69.0,
+    "TBlk": 15.0,
+    "TDR": 101.0,
+    "TFGA": 244.0,
+    "TFGA3": 102.0,
+    "TFGM": 118.0,
+    "TFGM3": 36.0,
+    "TFTA": 100.0,
+    "TFTM": 81.0,
+    "TOR": 36.0,
+    "TPF": 73.0,
+    "TScore": 353.0,
+    "TStl": 25.0,
+    "TTO": 48.0,
+    "Tastr": 0.17037037037037037,
+    "Tcorrdastr": 0.14007941293889506,
+    "Tcorrdastrrank": 159,
+    "Tcorrdeff": 103.16490053120826,
+    "Tcorrdeffrank": 139,
+    "Tcorrdefgp": 0.4808125540234982,
+    "Tcorrdefgprank": 115,
+    "Tcorrdftr": 0.32900128667598005,
+    "Tcorrdftrrank": 133,
+    "Tcorrdorbp": 0.22868643572419192,
+    "Tcorrdorbprank": 53,
+    "Tcorrdtovr": 0.11480111050270851,
+    "Tcorrdtovrrank": 319,
+    "Tcorroastr": 0.16930032029148753,
+    "Tcorroastrrank": 84,
+    "Tcorroeff": 119.8500818602243,
+    "Tcorroeffrank": 52,
+    "Tcorroefgp": 0.5804521014752161,
+    "Tcorroefgprank": 49,
+    "Tcorroftr": 0.4577017572197235,
+    "Tcorroftrrank": 84,
+    "Tcorroorbp": 0.29411327764560763,
+    "Tcorroorbprank": 189,
+    "Tcorrotovr": 0.1311436986757022,
+    "Tcorrotovrrank": 105,
+    "Teff": 117.66666666666667,
+    "Tefgp": 0.5573770491803278,
+    "Tftr": 0.4098360655737705,
+    "Tneteff": 16.685181329016032,
+    "Tneteffrank": 65,
+    "Torbp": 0.3050847457627119,
+    "Tposs": 300.0,
+    "Ttovr": 0.14285714285714285,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            6
+        ],
+        [
+            11,
+            10
+        ],
+        [
+            11,
+            13
+        ]
+    ],
+    "geff": [
+        [
+            116.0,
+            83.10249307479224
+        ],
+        [
+            110.56863871338311,
+            94.47264523406655
+        ],
+        [
+            118.92583120204603,
+            82.44545915778792
+        ],
+        [
+            124.41679626749612,
+            120.37937743190662
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 72.10956035527438,
+    "poss": [
+        [
+            75.0,
+            72.2
+        ],
+        [
+            69.64,
+            70.92
+        ],
+        [
+            78.2,
+            78.84
+        ],
+        [
+            77.16,
+            82.24
+        ]
+    ],
+    "preseason_pace": 68.7632460587811,
+    "preseason_pred": 9.745728638742783,
+    "preseason_predd": 103.0208678742325,
+    "preseason_predo": 112.76659651297527,
+    "schedule": [
+        "cal-state-bakersfield",
+        "wright-state",
+        "cal-state-fullerton",
+        "kansas-state"
+    ],
+    "scores": [
+        [
+            87,
+            60
+        ],
+        [
+            77,
+            67
+        ],
+        [
+            93,
+            65
+        ],
+        [
+            96,
+            99
+        ]
+    ],
+    "wins": 3
+}

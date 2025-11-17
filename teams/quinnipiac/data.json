@@ -1,0 +1,195 @@
+{
+    "CompRank": 222,
+    "CompositeDef": 106.2432476224943,
+    "CompositeOff": 98.87426255784501,
+    "CompositePace": 72.2396535006619,
+    "CompositeRating": -7.368985064649272,
+    "HA": [
+        "A",
+        "H",
+        "H",
+        "A"
+    ],
+    "OAst": 70.0,
+    "OAvgCompRat": 1.8529952861345034,
+    "OBlk": 20.0,
+    "ODR": 100.0,
+    "OFGA": 254.0,
+    "OFGA3": 81.0,
+    "OFGM": 117.0,
+    "OFGM3": 28.0,
+    "OFTA": 83.0,
+    "OFTM": 56.0,
+    "OOR": 46.0,
+    "OPF": 53.0,
+    "OScore": 318.0,
+    "OStl": 30.0,
+    "OTO": 47.0,
+    "Oastr": 0.1717707106399686,
+    "Ocomprank": 124,
+    "Ocorrdastr": 0.12727578319961508,
+    "Ocorrdeff": 95.12019292206755,
+    "Ocorrdeffrank": 29,
+    "Ocorrdefgp": 0.4634470188238866,
+    "Ocorrdftr": 0.29424816617970806,
+    "Ocorrdorbp": 0.346241020896507,
+    "Ocorrdtovr": 0.18179185068469103,
+    "Ocorroastr": 0.1688807106440085,
+    "Ocorroeff": 110.61293396824122,
+    "Ocorroeffrank": 111,
+    "Ocorroefgp": 0.5479581002439609,
+    "Ocorroftr": 0.3463840851530151,
+    "Ocorroorbp": 0.2943104998096836,
+    "Ocorrotovr": 0.159675023510576,
+    "Oeff": 109.08342480790341,
+    "Oefgp": 0.515748031496063,
+    "Oftr": 0.32677165354330706,
+    "Oneteff": 15.492741046173677,
+    "Oneteffrank": 42,
+    "Oorbp": 0.3333333333333333,
+    "Oposs": 291.52,
+    "Otovr": 0.13925100734771273,
+    "SoR": 7.244819988416362,
+    "SoRrank": 146,
+    "TAst": 40.0,
+    "TBlk": 23.0,
+    "TDR": 92.0,
+    "TFGA": 262.0,
+    "TFGA3": 86.0,
+    "TFGM": 103.0,
+    "TFGM3": 23.0,
+    "TFTA": 68.0,
+    "TFTM": 46.0,
+    "TOR": 48.0,
+    "TPF": 71.0,
+    "TScore": 275.0,
+    "TStl": 34.0,
+    "TTO": 55.0,
+    "Tastr": 0.10338054378166028,
+    "Tcorrdastr": 0.14952863465551555,
+    "Tcorrdastrrank": 214,
+    "Tcorrdeff": 104.90705808923958,
+    "Tcorrdeffrank": 166,
+    "Tcorrdefgp": 0.48081561947658896,
+    "Tcorrdefgprank": 116,
+    "Tcorrdftr": 0.3589846139868596,
+    "Tcorrdftrrank": 179,
+    "Tcorrdorbp": 0.3399321002844308,
+    "Tcorrdorbprank": 266,
+    "Tcorrdtovr": 0.1337734167971414,
+    "Tcorrdtovrrank": 249,
+    "Tcorroastr": 0.11823962106442965,
+    "Tcorroastrrank": 303,
+    "Tcorroeff": 102.33778995047409,
+    "Tcorroeffrank": 221,
+    "Tcorroefgp": 0.47876485646853517,
+    "Tcorroefgprank": 244,
+    "Tcorroftr": 0.33453534203663726,
+    "Tcorroftrrank": 238,
+    "Tcorroorbp": 0.28352527245987275,
+    "Tcorroorbprank": 205,
+    "Tcorrotovr": 0.13426150110429694,
+    "Tcorrotovrrank": 115,
+    "Teff": 91.99785895891877,
+    "Tefgp": 0.43702290076335876,
+    "Tftr": 0.2595419847328244,
+    "Tneteff": -2.5692681387654943,
+    "Tneteffrank": 196,
+    "Torbp": 0.32432432432432434,
+    "Tposs": 298.92,
+    "Ttovr": 0.15853799146777353,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            6
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            82.8111011638317,
+            127.1186440677966
+        ],
+        [
+            102.77938621887667,
+            71.88967136150235
+        ],
+        [
+            85.91065292096219,
+            136.31253513209668
+        ],
+        [
+            99.09399773499433,
+            95.18143961927424
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 75.6589234222479,
+    "poss": [
+        [
+            89.36,
+            84.96000000000001
+        ],
+        [
+            69.08,
+            68.16
+        ],
+        [
+            69.84,
+            71.16
+        ],
+        [
+            70.64,
+            67.24
+        ]
+    ],
+    "preseason_pace": 70.73873940613856,
+    "preseason_pred": -9.475856691923358,
+    "preseason_predd": 106.82977800746207,
+    "preseason_predo": 97.3539213155387,
+    "schedule": [
+        "st-johns-ny",
+        "central-connecticut-state",
+        "yale",
+        "maine"
+    ],
+    "scores": [
+        [
+            74,
+            108
+        ],
+        [
+            71,
+            49
+        ],
+        [
+            60,
+            97
+        ],
+        [
+            70,
+            64
+        ]
+    ],
+    "wins": 2
+}

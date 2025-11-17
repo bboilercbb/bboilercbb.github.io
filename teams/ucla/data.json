@@ -1,0 +1,195 @@
+{
+    "CompRank": 30,
+    "CompositeDef": 95.03859114613667,
+    "CompositeOff": 114.66572165251094,
+    "CompositePace": 66.49377446850133,
+    "CompositeRating": 19.627130506374268,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "N"
+    ],
+    "OAst": 64.0,
+    "OAvgCompRat": -4.228364103444325,
+    "OBlk": 13.0,
+    "ODR": 77.0,
+    "OFGA": 221.0,
+    "OFGA3": 98.0,
+    "OFGM": 98.0,
+    "OFGM3": 34.0,
+    "OFTA": 53.0,
+    "OFTM": 38.0,
+    "OOR": 35.0,
+    "OPF": 79.0,
+    "OScore": 268.0,
+    "OStl": 26.0,
+    "OTO": 58.0,
+    "Oastr": 0.17471063550993668,
+    "Ocomprank": 226,
+    "Ocorrdastr": 0.13243312650317765,
+    "Ocorrdeff": 109.52526569188751,
+    "Ocorrdeffrank": 258,
+    "Ocorrdefgp": 0.4990448251697775,
+    "Ocorrdftr": 0.4780710861383727,
+    "Ocorrdorbp": 0.32414910875004355,
+    "Ocorrdtovr": 0.1620252476316532,
+    "Ocorroastr": 0.15202189571255784,
+    "Ocorroeff": 106.2872907108183,
+    "Ocorroeffrank": 193,
+    "Ocorroefgp": 0.5130203908431102,
+    "Ocorroftr": 0.36503952658206307,
+    "Ocorroorbp": 0.3089016719648034,
+    "Ocorrotovr": 0.14158787859149924,
+    "Oeff": 100.2543767768966,
+    "Oefgp": 0.5203619909502263,
+    "Oftr": 0.2398190045248869,
+    "Oneteff": -3.2379749810692147,
+    "Oneteffrank": 227,
+    "Oorbp": 0.2966101694915254,
+    "Oposs": 267.32,
+    "Otovr": 0.1918496956866896,
+    "SoR": 25.45069919102665,
+    "SoRrank": 89,
+    "TAst": 66.0,
+    "TBlk": 14.0,
+    "TDR": 83.0,
+    "TFGA": 235.0,
+    "TFGA3": 81.0,
+    "TFGM": 110.0,
+    "TFGM3": 28.0,
+    "TFTA": 70.0,
+    "TFTM": 54.0,
+    "TOR": 36.0,
+    "TPF": 58.0,
+    "TScore": 302.0,
+    "TStl": 26.0,
+    "TTO": 43.0,
+    "Tastr": 0.17609391675560299,
+    "Tcorrdastr": 0.1682464945809178,
+    "Tcorrdastrrank": 286,
+    "Tcorrdeff": 100.18035716327122,
+    "Tcorrdeffrank": 107,
+    "Tcorrdefgp": 0.5167941339312029,
+    "Tcorrdefgprank": 208,
+    "Tcorrdftr": 0.25051984692495055,
+    "Tcorrdftrrank": 37,
+    "Tcorrdorbp": 0.2887509930418489,
+    "Tcorrdorbprank": 165,
+    "Tcorrdtovr": 0.20685221944279575,
+    "Tcorrdtovrrank": 24,
+    "Tcorroastr": 0.19386796844376852,
+    "Tcorroastrrank": 25,
+    "Tcorroeff": 107.5531061260615,
+    "Tcorroeffrank": 157,
+    "Tcorroefgp": 0.5384121542102777,
+    "Tcorroefgprank": 118,
+    "Tcorroftr": 0.2409330245651799,
+    "Tcorroftrrank": 336,
+    "Tcorroorbp": 0.2967067723624989,
+    "Tcorroorbprank": 184,
+    "Tcorrotovr": 0.13170621227422052,
+    "Tcorrotovrrank": 106,
+    "Teff": 110.70381231671554,
+    "Tefgp": 0.5276595744680851,
+    "Tftr": 0.2978723404255319,
+    "Tneteff": 7.3727489627902685,
+    "Tneteffrank": 126,
+    "Torbp": 0.3185840707964602,
+    "Tposs": 272.8,
+    "Ttovr": 0.13924870466321243,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            10
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            110.49723756906076,
+            105.47320410490309
+        ],
+        [
+            118.51377322229341,
+            98.87005649717514
+        ],
+        [
+            119.52764976958525,
+            91.39150943396226
+        ],
+        [
+            94.8628137769994,
+            105.1829268292683
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 67.67604676356774,
+    "poss": [
+        [
+            72.4,
+            70.16
+        ],
+        [
+            62.44,
+            63.72
+        ],
+        [
+            69.44,
+            67.84
+        ],
+        [
+            68.52000000000001,
+            65.6
+        ]
+    ],
+    "preseason_pace": 65.97480720592074,
+    "preseason_pred": 25.006282898619645,
+    "preseason_predd": 92.78157451310092,
+    "preseason_predo": 117.78785741172057,
+    "schedule": [
+        "eastern-washington",
+        "pepperdine",
+        "west-georgia",
+        "arizona"
+    ],
+    "scores": [
+        [
+            80,
+            74
+        ],
+        [
+            74,
+            63
+        ],
+        [
+            83,
+            62
+        ],
+        [
+            65,
+            69
+        ]
+    ],
+    "wins": 3
+}

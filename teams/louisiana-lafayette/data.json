@@ -1,0 +1,195 @@
+{
+    "CompRank": 309,
+    "CompositeDef": 111.73565084828851,
+    "CompositeOff": 97.7607615727883,
+    "CompositePace": 66.87498782324285,
+    "CompositeRating": -13.97488927550021,
+    "HA": [
+        "A",
+        "H",
+        "H",
+        "A"
+    ],
+    "OAst": 46.0,
+    "OAvgCompRat": -4.724955875538586,
+    "OBlk": 12.0,
+    "ODR": 89.0,
+    "OFGA": 182.0,
+    "OFGA3": 69.0,
+    "OFGM": 84.0,
+    "OFGM3": 25.0,
+    "OFTA": 125.0,
+    "OFTM": 88.0,
+    "OOR": 25.0,
+    "OPF": 72.0,
+    "OScore": 281.0,
+    "OStl": 22.0,
+    "OTO": 42.0,
+    "Oastr": 0.14153846153846153,
+    "Ocomprank": 236,
+    "Ocorrdastr": 0.16969044619382712,
+    "Ocorrdeff": 109.35725906112475,
+    "Ocorrdeffrank": 253,
+    "Ocorrdefgp": 0.5322877448407125,
+    "Ocorrdftr": 0.3936138527910502,
+    "Ocorrdorbp": 0.33265984142026833,
+    "Ocorrdtovr": 0.19053715816253003,
+    "Ocorroastr": 0.14234592737524562,
+    "Ocorroeff": 101.17380329139931,
+    "Ocorroeffrank": 272,
+    "Ocorroefgp": 0.48024304431711984,
+    "Ocorroftr": 0.45448697673539273,
+    "Ocorroorbp": 0.23907650149633705,
+    "Ocorrotovr": 0.15766299176249535,
+    "Oeff": 110.62992125984252,
+    "Oefgp": 0.5302197802197802,
+    "Oftr": 0.6868131868131868,
+    "Oneteff": -8.183455769725441,
+    "Oneteffrank": 277,
+    "Oorbp": 0.2336448598130841,
+    "Oposs": 254.0,
+    "Otovr": 0.15053763440860216,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 36.0,
+    "TBlk": 11.0,
+    "TDR": 82.0,
+    "TFGA": 215.0,
+    "TFGA3": 94.0,
+    "TFGM": 87.0,
+    "TFGM3": 29.0,
+    "TFTA": 65.0,
+    "TFTM": 43.0,
+    "TOR": 36.0,
+    "TPF": 81.0,
+    "TScore": 246.0,
+    "TStl": 21.0,
+    "TTO": 47.0,
+    "Tastr": 0.11022657685241885,
+    "Tcorrdastr": 0.145185286393681,
+    "Tcorrdastrrank": 182,
+    "Tcorrdeff": 115.90726738778096,
+    "Tcorrdeffrank": 301,
+    "Tcorrdefgp": 0.5610445490801077,
+    "Tcorrdefgprank": 298,
+    "Tcorrdftr": 0.5813177001715347,
+    "Tcorrdftrrank": 348,
+    "Tcorrdorbp": 0.2908952453795955,
+    "Tcorrdorbprank": 170,
+    "Tcorrdtovr": 0.14638751474381104,
+    "Tcorrdtovrrank": 197,
+    "Tcorroastr": 0.09564959648360297,
+    "Tcorroastrrank": 355,
+    "Tcorroeff": 94.01067791241475,
+    "Tcorroeffrank": 310,
+    "Tcorroefgp": 0.45279251030768847,
+    "Tcorroefgprank": 297,
+    "Tcorroftr": 0.29470977972753126,
+    "Tcorroftrrank": 285,
+    "Tcorroorbp": 0.26163115815891125,
+    "Tcorroorbprank": 247,
+    "Tcorrotovr": 0.13092703488117624,
+    "Tcorrotovrrank": 103,
+    "Teff": 96.62215239591517,
+    "Tefgp": 0.4720930232558139,
+    "Tftr": 0.3023255813953488,
+    "Tneteff": -21.896589475366213,
+    "Tneteffrank": 329,
+    "Torbp": 0.288,
+    "Tposs": 254.6,
+    "Ttovr": 0.16173434273916035,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            95.57945041816008,
+            116.60447761194031
+        ],
+        [
+            103.05614783226723,
+            84.36080467229073
+        ],
+        [
+            95.03372164316372,
+            104.9618320610687
+        ],
+        [
+            93.76890502117362,
+            135.05217925107428
+        ]
+    ],
+    "losses": 3,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 64.97672221447387,
+    "poss": [
+        [
+            66.96000000000001,
+            64.32
+        ],
+        [
+            56.28,
+            61.64
+        ],
+        [
+            65.24,
+            62.88
+        ],
+        [
+            66.12,
+            65.16
+        ]
+    ],
+    "preseason_pace": 67.70824570363526,
+    "preseason_pred": -10.497599750181799,
+    "preseason_predd": 109.90448858129594,
+    "preseason_predo": 99.40688883111413,
+    "schedule": [
+        "ball-state",
+        "southeastern-louisiana",
+        "tulane",
+        "mcneese-state"
+    ],
+    "scores": [
+        [
+            64,
+            75
+        ],
+        [
+            58,
+            52
+        ],
+        [
+            62,
+            66
+        ],
+        [
+            62,
+            88
+        ]
+    ],
+    "wins": 1
+}

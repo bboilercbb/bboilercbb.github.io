@@ -1,0 +1,195 @@
+{
+    "CompRank": 8,
+    "CompositeDef": 95.5426139290871,
+    "CompositeOff": 123.28196524283376,
+    "CompositePace": 71.07881160075252,
+    "CompositeRating": 27.739351313746667,
+    "HA": [
+        "N",
+        "H",
+        "H",
+        "N"
+    ],
+    "OAst": 46.0,
+    "OAvgCompRat": 1.3675820176292957,
+    "OBlk": 11.0,
+    "ODR": 72.0,
+    "OFGA": 245.0,
+    "OFGA3": 82.0,
+    "OFGM": 96.0,
+    "OFGM3": 26.0,
+    "OFTA": 72.0,
+    "OFTM": 50.0,
+    "OOR": 45.0,
+    "OPF": 75.0,
+    "OScore": 268.0,
+    "OStl": 33.0,
+    "OTO": 61.0,
+    "Oastr": 0.11989157631359466,
+    "Ocomprank": 129,
+    "Ocorrdastr": 0.1376469553474795,
+    "Ocorrdeff": 101.94600716022161,
+    "Ocorrdeffrank": 113,
+    "Ocorrdefgp": 0.4756161577704795,
+    "Ocorrdftr": 0.34649093708581236,
+    "Ocorrdorbp": 0.2958572976158758,
+    "Ocorrdtovr": 0.16504359680846226,
+    "Ocorroastr": 0.15608135686602698,
+    "Ocorroeff": 100.2372734006175,
+    "Ocorroeffrank": 286,
+    "Ocorroefgp": 0.4936826603799588,
+    "Ocorroftr": 0.28049768157264754,
+    "Ocorroorbp": 0.3195520636348923,
+    "Ocorrotovr": 0.13721468975102616,
+    "Oeff": 91.56758234249008,
+    "Oefgp": 0.4448979591836735,
+    "Oftr": 0.2938775510204082,
+    "Oneteff": -1.7087337596041152,
+    "Oneteffrank": 211,
+    "Oorbp": 0.30612244897959184,
+    "Oposs": 292.68,
+    "Otovr": 0.1806443970623075,
+    "SoR": 90.08768852624699,
+    "SoRrank": 1,
+    "TAst": 77.0,
+    "TBlk": 19.0,
+    "TDR": 102.0,
+    "TFGA": 239.0,
+    "TFGA3": 65.0,
+    "TFGM": 120.0,
+    "TFGM3": 26.0,
+    "TFTA": 94.0,
+    "TFTM": 73.0,
+    "TOR": 49.0,
+    "TPF": 77.0,
+    "TScore": 339.0,
+    "TStl": 35.0,
+    "TTO": 54.0,
+    "Tastr": 0.18718397510696227,
+    "Tcorrdastr": 0.11257115880792412,
+    "Tcorrdastrrank": 40,
+    "Tcorrdeff": 96.7960166578725,
+    "Tcorrdeffrank": 73,
+    "Tcorrdefgp": 0.4584514403939004,
+    "Tcorrdefgprank": 74,
+    "Tcorrdftr": 0.3953396399674863,
+    "Tcorrdftrrank": 224,
+    "Tcorrdorbp": 0.2884686833787136,
+    "Tcorrdorbprank": 164,
+    "Tcorrdtovr": 0.20072679497116572,
+    "Tcorrdtovrrank": 31,
+    "Tcorroastr": 0.1985772762022984,
+    "Tcorroastrrank": 12,
+    "Tcorroeff": 123.64266758251989,
+    "Tcorroeffrank": 26,
+    "Tcorroefgp": 0.5946541550016398,
+    "Tcorroefgprank": 33,
+    "Tcorroftr": 0.43332963215353315,
+    "Tcorroftrrank": 110,
+    "Tcorroorbp": 0.41171249176290886,
+    "Tcorroorbprank": 30,
+    "Tcorrotovr": 0.15007156349917625,
+    "Tcorrotovrrank": 178,
+    "Teff": 118.7973086627418,
+    "Tefgp": 0.5564853556485355,
+    "Tftr": 0.39330543933054396,
+    "Tneteff": 26.846650924647392,
+    "Tneteffrank": 20,
+    "Torbp": 0.4049586776859504,
+    "Tposs": 285.36,
+    "Ttovr": 0.16150257207799976,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            118.14024390243902,
+            105.83941605839415
+        ],
+        [
+            131.35593220338984,
+            95.87864911276475
+        ],
+        [
+            119.58997722095673,
+            67.98002219755827
+        ],
+        [
+            105.1829268292683,
+            94.8628137769994
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 72.1825414232139,
+    "poss": [
+        [
+            78.72,
+            82.2
+        ],
+        [
+            70.8,
+            69.88
+        ],
+        [
+            70.24,
+            72.08
+        ],
+        [
+            65.6,
+            68.52000000000001
+        ]
+    ],
+    "preseason_pace": 70.594321143705,
+    "preseason_pred": 28.131208823365007,
+    "preseason_predd": 94.99242343085483,
+    "preseason_predo": 123.12363225421983,
+    "schedule": [
+        "florida",
+        "dixie-state",
+        "northern-arizona",
+        "ucla"
+    ],
+    "scores": [
+        [
+            93,
+            87
+        ],
+        [
+            93,
+            67
+        ],
+        [
+            84,
+            49
+        ],
+        [
+            69,
+            65
+        ]
+    ],
+    "wins": 4
+}

@@ -1,0 +1,195 @@
+{
+    "CompRank": 71,
+    "CompositeDef": 96.50136411624791,
+    "CompositeOff": 107.95489127685639,
+    "CompositePace": 71.91601204802477,
+    "CompositeRating": 11.453527160608473,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "A"
+    ],
+    "OAst": 41.0,
+    "OAvgCompRat": -9.028707580028671,
+    "OBlk": 12.0,
+    "ODR": 97.0,
+    "OFGA": 220.0,
+    "OFGA3": 118.0,
+    "OFGM": 83.0,
+    "OFGM3": 32.0,
+    "OFTA": 74.0,
+    "OFTM": 56.0,
+    "OOR": 38.0,
+    "OPF": 77.0,
+    "OScore": 254.0,
+    "OStl": 22.0,
+    "OTO": 64.0,
+    "Oastr": 0.11466607003020472,
+    "Ocomprank": 315,
+    "Ocorrdastr": 0.13352281569115704,
+    "Ocorrdeff": 107.66164223204335,
+    "Ocorrdeffrank": 213,
+    "Ocorrdefgp": 0.5065238179484374,
+    "Ocorrdftr": 0.3988836384036455,
+    "Ocorrdorbp": 0.3001572843577137,
+    "Ocorrdtovr": 0.16178694284187303,
+    "Ocorroastr": 0.18902502468446103,
+    "Ocorroeff": 108.83156811799469,
+    "Ocorroeffrank": 142,
+    "Ocorroefgp": 0.5551884555468682,
+    "Ocorroftr": 0.4322079358077965,
+    "Ocorroorbp": 0.2856079135551025,
+    "Ocorrotovr": 0.17923508338778843,
+    "Oeff": 91.18322802986789,
+    "Oefgp": 0.45,
+    "Oftr": 0.33636363636363636,
+    "Oneteff": 1.1699258859513435,
+    "Oneteffrank": 174,
+    "Oorbp": 0.2753623188405797,
+    "Oposs": 278.56,
+    "Otovr": 0.20217336365933788,
+    "SoR": 7.113569834291022,
+    "SoRrank": 148,
+    "TAst": 51.0,
+    "TBlk": 11.0,
+    "TDR": 100.0,
+    "TFGA": 238.0,
+    "TFGA3": 92.0,
+    "TFGM": 106.0,
+    "TFGM3": 27.0,
+    "TFTA": 84.0,
+    "TFTM": 61.0,
+    "TOR": 37.0,
+    "TPF": 69.0,
+    "TScore": 300.0,
+    "TStl": 37.0,
+    "TTO": 43.0,
+    "Tastr": 0.1382263660017346,
+    "Tcorrdastr": 0.08958260764998323,
+    "Tcorrdastrrank": 6,
+    "Tcorrdeff": 89.06982147674329,
+    "Tcorrdeffrank": 16,
+    "Tcorrdefgp": 0.41427391776519273,
+    "Tcorrdefgprank": 19,
+    "Tcorrdftr": 0.2987732138610438,
+    "Tcorrdftrrank": 88,
+    "Tcorrdorbp": 0.2890236087761117,
+    "Tcorrdorbprank": 166,
+    "Tcorrdtovr": 0.17382486415769277,
+    "Tcorrdtovrrank": 101,
+    "Tcorroastr": 0.15098567733296375,
+    "Tcorroastrrank": 147,
+    "Tcorroeff": 105.46128390487112,
+    "Tcorroeffrank": 186,
+    "Tcorroefgp": 0.5050675244902048,
+    "Tcorroefgprank": 195,
+    "Tcorroftr": 0.33968518008730425,
+    "Tcorroftrrank": 229,
+    "Tcorroorbp": 0.2768622272875355,
+    "Tcorroorbprank": 212,
+    "Tcorrotovr": 0.12809281868618036,
+    "Tcorrotovrrank": 90,
+    "Teff": 106.77676537585423,
+    "Tefgp": 0.5021008403361344,
+    "Tftr": 0.35294117647058826,
+    "Tneteff": 16.391462428127838,
+    "Tneteffrank": 67,
+    "Torbp": 0.27611940298507465,
+    "Tposs": 280.96,
+    "Ttovr": 0.1352371367467606,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            5
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            99.84235417761428,
+            71.20253164556962
+        ],
+        [
+            100.16242555495398,
+            77.17750826901874
+        ],
+        [
+            123.34536702767748,
+            103.46926354230067
+        ],
+        [
+            105.45905707196029,
+            117.93916821849783
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 71.48814121000989,
+    "poss": [
+        [
+            76.12,
+            75.84
+        ],
+        [
+            73.88,
+            72.56
+        ],
+        [
+            66.48,
+            65.72
+        ],
+        [
+            64.48,
+            64.44
+        ]
+    ],
+    "preseason_pace": 72.10382915113144,
+    "preseason_pred": 9.285983558953884,
+    "preseason_predd": 99.76349531603047,
+    "preseason_predo": 109.04947887498435,
+    "schedule": [
+        "texas-am-commerce",
+        "texas-arlington",
+        "california-riverside",
+        "new-mexico-state"
+    ],
+    "scores": [
+        [
+            76,
+            54
+        ],
+        [
+            74,
+            56
+        ],
+        [
+            82,
+            68
+        ],
+        [
+            68,
+            76
+        ]
+    ],
+    "wins": 3
+}

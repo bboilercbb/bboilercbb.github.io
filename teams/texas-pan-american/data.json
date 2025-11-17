@@ -1,0 +1,176 @@
+{
+    "CompRank": 206,
+    "CompositeDef": 110.02227823625513,
+    "CompositeOff": 103.91231084821398,
+    "CompositePace": 71.76836421010353,
+    "CompositeRating": -6.1099673880411585,
+    "HA": [
+        "A",
+        "A",
+        "A"
+    ],
+    "OAst": 49.0,
+    "OAvgCompRat": 9.634945036983138,
+    "OBlk": 15.0,
+    "ODR": 75.0,
+    "OFGA": 187.0,
+    "OFGA3": 78.0,
+    "OFGM": 86.0,
+    "OFGM3": 29.0,
+    "OFTA": 80.0,
+    "OFTM": 52.0,
+    "OOR": 33.0,
+    "OPF": 42.0,
+    "OScore": 253.0,
+    "OStl": 12.0,
+    "OTO": 41.0,
+    "Oastr": 0.15695067264573992,
+    "Ocomprank": 37,
+    "Ocorrdastr": 0.11614872235258504,
+    "Ocorrdeff": 98.03681516975591,
+    "Ocorrdeffrank": 55,
+    "Ocorrdefgp": 0.48038041732110415,
+    "Ocorrdftr": 0.32250214632185314,
+    "Ocorrdorbp": 0.3331847973990732,
+    "Ocorrdtovr": 0.16623445704987672,
+    "Ocorroastr": 0.14937257707299334,
+    "Ocorroeff": 116.13074196409859,
+    "Ocorroeffrank": 38,
+    "Ocorroefgp": 0.5233631563509453,
+    "Ocorroftr": 0.33142900630218036,
+    "Ocorroorbp": 0.3453603645574892,
+    "Ocorrotovr": 0.12565267554017293,
+    "Oeff": 109.90443092962641,
+    "Oefgp": 0.5374331550802139,
+    "Oftr": 0.42780748663101603,
+    "Oneteff": 18.09392679434268,
+    "Oneteffrank": 28,
+    "Oorbp": 0.3235294117647059,
+    "Oposs": 230.2,
+    "Otovr": 0.15577507598784196,
+    "SoR": 9.342670225287941,
+    "SoRrank": 137,
+    "TAst": 46.0,
+    "TBlk": 7.0,
+    "TDR": 69.0,
+    "TFGA": 190.0,
+    "TFGA3": 70.0,
+    "TFGM": 93.0,
+    "TFGM3": 32.0,
+    "TFTA": 38.0,
+    "TFTM": 23.0,
+    "TOR": 19.0,
+    "TPF": 71.0,
+    "TScore": 241.0,
+    "TStl": 20.0,
+    "TTO": 40.0,
+    "Tastr": 0.15714676141022135,
+    "Tcorrdastr": 0.15371649389950526,
+    "Tcorrdastrrank": 233,
+    "Tcorrdeff": 100.87032858580648,
+    "Tcorrdeffrank": 115,
+    "Tcorrdefgp": 0.5236171180939755,
+    "Tcorrdefgprank": 225,
+    "Tcorrdftr": 0.4903231942306349,
+    "Tcorrdftrrank": 314,
+    "Tcorrdorbp": 0.2829647398749778,
+    "Tcorrdorbprank": 155,
+    "Tcorrdtovr": 0.18835722644148822,
+    "Tcorrdtovrrank": 50,
+    "Tcorroastr": 0.1962346228907054,
+    "Tcorroastrrank": 17,
+    "Tcorroeff": 114.36182628888093,
+    "Tcorroeffrank": 96,
+    "Tcorroefgp": 0.6071942401895294,
+    "Tcorroefgprank": 23,
+    "Tcorroftr": 0.2360665132595223,
+    "Tcorroftrrank": 343,
+    "Tcorroorbp": 0.18334338580498794,
+    "Tcorroorbprank": 350,
+    "Tcorrotovr": 0.14961557912907023,
+    "Tcorrotovrrank": 175,
+    "Teff": 105.83172316880379,
+    "Tefgp": 0.5736842105263158,
+    "Tftr": 0.2,
+    "Tneteff": 13.491497703074458,
+    "Tneteffrank": 88,
+    "Torbp": 0.20212765957446807,
+    "Tposs": 227.72,
+    "Ttovr": 0.1621271076523995,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ]
+    ],
+    "geff": [
+        [
+            106.80379746835443,
+            121.39605462822459
+        ],
+        [
+            124.67191601049868,
+            95.54140127388536
+        ],
+        [
+            85.88794926004228,
+            112.19640971488911
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0,
+        0
+    ],
+    "pace": 75.77649785607244,
+    "poss": [
+        [
+            75.84,
+            79.08
+        ],
+        [
+            76.2,
+            75.36
+        ],
+        [
+            75.68,
+            75.76
+        ]
+    ],
+    "preseason_pace": 70.77870158146922,
+    "preseason_pred": -10.949835311773407,
+    "preseason_predd": 112.2820188906869,
+    "preseason_predo": 101.3321835789135,
+    "schedule": [
+        "baylor",
+        "southern-utah",
+        "boise-state"
+    ],
+    "scores": [
+        [
+            81,
+            96
+        ],
+        [
+            95,
+            72
+        ],
+        [
+            65,
+            85
+        ]
+    ],
+    "wins": 1
+}

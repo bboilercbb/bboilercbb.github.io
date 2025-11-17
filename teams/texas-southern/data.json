@@ -1,0 +1,195 @@
+{
+    "CompRank": 323,
+    "CompositeDef": 111.04267481297738,
+    "CompositeOff": 95.83808553774652,
+    "CompositePace": 70.95149148314464,
+    "CompositeRating": -15.204589275230866,
+    "HA": [
+        "A",
+        "A",
+        "H",
+        "A"
+    ],
+    "OAst": 63.0,
+    "OAvgCompRat": 4.393286981812386,
+    "OBlk": 12.0,
+    "ODR": 109.0,
+    "OFGA": 232.0,
+    "OFGA3": 100.0,
+    "OFGM": 120.0,
+    "OFGM3": 35.0,
+    "OFTA": 134.0,
+    "OFTM": 97.0,
+    "OOR": 36.0,
+    "OPF": 81.0,
+    "OScore": 372.0,
+    "OStl": 36.0,
+    "OTO": 47.0,
+    "Oastr": 0.15712290502793297,
+    "Ocomprank": 90,
+    "Ocorrdastr": 0.14188347932266926,
+    "Ocorrdeff": 102.58728852435729,
+    "Ocorrdeffrank": 126,
+    "Ocorrdefgp": 0.5169424865496768,
+    "Ocorrdftr": 0.362383994809832,
+    "Ocorrdorbp": 0.23608015083250866,
+    "Ocorrdtovr": 0.16928576184618213,
+    "Ocorroastr": 0.15196482614952006,
+    "Ocorroeff": 104.39463698161023,
+    "Ocorroeffrank": 223,
+    "Ocorroefgp": 0.47121523175571806,
+    "Ocorroftr": 0.31832532995049545,
+    "Ocorroorbp": 0.3066414602343094,
+    "Ocorrotovr": 0.13150190946594612,
+    "Oeff": 123.19512518214334,
+    "Oefgp": 0.5926724137931034,
+    "Oftr": 0.5775862068965517,
+    "Oneteff": 1.8073484572529424,
+    "Oneteffrank": 161,
+    "Oorbp": 0.3025210084033613,
+    "Oposs": 301.96,
+    "Otovr": 0.13906971239199906,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 36.0,
+    "TBlk": 7.0,
+    "TDR": 83.0,
+    "TFGA": 227.0,
+    "TFGA3": 63.0,
+    "TFGM": 96.0,
+    "TFGM3": 21.0,
+    "TFTA": 92.0,
+    "TFTM": 57.0,
+    "TOR": 32.0,
+    "TPF": 94.0,
+    "TScore": 270.0,
+    "TStl": 23.0,
+    "TTO": 61.0,
+    "Tastr": 0.09877085162423178,
+    "Tcorrdastr": 0.15136405044722004,
+    "Tcorrdastrrank": 224,
+    "Tcorrdeff": 125.24619617586902,
+    "Tcorrdeffrank": 353,
+    "Tcorrdefgp": 0.6386589986929786,
+    "Tcorrdefgprank": 352,
+    "Tcorrdftr": 0.6881310146763128,
+    "Tcorrdftrrank": 357,
+    "Tcorrdorbp": 0.2965890484847252,
+    "Tcorrdorbprank": 182,
+    "Tcorrdtovr": 0.16097003130294232,
+    "Tcorrdtovrrank": 147,
+    "Tcorroastr": 0.10177703146878228,
+    "Tcorroastrrank": 347,
+    "Tcorroeff": 94.21400426988417,
+    "Tcorroeffrank": 308,
+    "Tcorroefgp": 0.46279932673265445,
+    "Tcorroefgprank": 274,
+    "Tcorroftr": 0.42771103244651654,
+    "Tcorroftrrank": 118,
+    "Tcorroorbp": 0.28656669156800935,
+    "Tcorroorbprank": 202,
+    "Tcorrotovr": 0.16840613309569114,
+    "Tcorrotovrrank": 246,
+    "Teff": 91.06853750674581,
+    "Tefgp": 0.46916299559471364,
+    "Tftr": 0.4052863436123348,
+    "Tneteff": -31.032191905984845,
+    "Tneteffrank": 351,
+    "Torbp": 0.22695035460992907,
+    "Tposs": 296.48,
+    "Ttovr": 0.18570384802727716,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            6
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            58.51932498639085,
+            132.0043103448276
+        ],
+        [
+            93.33333333333333,
+            131.18062563067608
+        ],
+        [
+            121.22844827586208,
+            117.1875
+        ],
+        [
+            90.83514099783079,
+            111.46496815286625
+        ]
+    ],
+    "losses": 4,
+    "nOT": [
+        0,
+        0,
+        1,
+        0
+    ],
+    "pace": 73.440218659772,
+    "poss": [
+        [
+            73.48,
+            74.24
+        ],
+        [
+            75.0,
+            79.28
+        ],
+        [
+            74.24,
+            79.36
+        ],
+        [
+            73.76,
+            69.08
+        ]
+    ],
+    "preseason_pace": 69.85904608325333,
+    "preseason_pred": -8.256944773390984,
+    "preseason_predd": 104.80793292528833,
+    "preseason_predo": 96.55098815189734,
+    "schedule": [
+        "gonzaga",
+        "texas-am",
+        "samford",
+        "texas-state"
+    ],
+    "scores": [
+        [
+            43,
+            98
+        ],
+        [
+            70,
+            104
+        ],
+        [
+            90,
+            93
+        ],
+        [
+            67,
+            77
+        ]
+    ],
+    "wins": 0
+}

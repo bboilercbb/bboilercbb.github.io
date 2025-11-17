@@ -1,0 +1,195 @@
+{
+    "CompRank": 10,
+    "CompositeDef": 97.24025318362298,
+    "CompositeOff": 123.59648703996973,
+    "CompositePace": 71.5078053190716,
+    "CompositeRating": 26.35623385634673,
+    "HA": [
+        "H",
+        "H",
+        "A",
+        "H"
+    ],
+    "OAst": 51.0,
+    "OAvgCompRat": -6.562452721743853,
+    "OBlk": 12.0,
+    "ODR": 81.0,
+    "OFGA": 241.0,
+    "OFGA3": 116.0,
+    "OFGM": 83.0,
+    "OFGM3": 31.0,
+    "OFTA": 92.0,
+    "OFTM": 62.0,
+    "OOR": 33.0,
+    "OPF": 69.0,
+    "OScore": 259.0,
+    "OStl": 31.0,
+    "OTO": 37.0,
+    "Oastr": 0.13803182851575185,
+    "Ocomprank": 272,
+    "Ocorrdastr": 0.13862402081590983,
+    "Ocorrdeff": 108.11583090914635,
+    "Ocorrdeffrank": 220,
+    "Ocorrdefgp": 0.5128965724962009,
+    "Ocorrdftr": 0.38265755101469456,
+    "Ocorrdorbp": 0.37103347995171665,
+    "Ocorrdtovr": 0.17096152512240828,
+    "Ocorroastr": 0.12317988681335526,
+    "Ocorroeff": 99.43366085220329,
+    "Ocorroeffrank": 296,
+    "Ocorroefgp": 0.465415475394243,
+    "Ocorroftr": 0.4464808569460914,
+    "Ocorroorbp": 0.26274586626491486,
+    "Ocorrotovr": 0.1498593077108782,
+    "Oeff": 90.72439400308252,
+    "Oefgp": 0.4087136929460581,
+    "Oftr": 0.3817427385892116,
+    "Oneteff": -8.682170056943065,
+    "Oneteffrank": 284,
+    "Oorbp": 0.20496894409937888,
+    "Oposs": 285.48,
+    "Otovr": 0.11617683998995226,
+    "SoR": 16.590510331320218,
+    "SoRrank": 113,
+    "TAst": 83.0,
+    "TBlk": 16.0,
+    "TDR": 128.0,
+    "TFGA": 262.0,
+    "TFGA3": 114.0,
+    "TFGM": 137.0,
+    "TFGM3": 39.0,
+    "TFTA": 80.0,
+    "TFTM": 58.0,
+    "TOR": 47.0,
+    "TPF": 67.0,
+    "TScore": 371.0,
+    "TStl": 22.0,
+    "TTO": 46.0,
+    "Tastr": 0.19474425152510558,
+    "Tcorrdastr": 0.16267715518690773,
+    "Tcorrdastrrank": 273,
+    "Tcorrdeff": 96.648727331346,
+    "Tcorrdeffrank": 70,
+    "Tcorrdefgp": 0.4456946266567963,
+    "Tcorrdefgprank": 55,
+    "Tcorrdftr": 0.32866716537431345,
+    "Tcorrdftrrank": 132,
+    "Tcorrdorbp": 0.23308020754491468,
+    "Tcorrdorbprank": 60,
+    "Tcorrdtovr": 0.11861643606965507,
+    "Tcorrdtovrrank": 308,
+    "Tcorroastr": 0.20519946430703034,
+    "Tcorroastrrank": 7,
+    "Tcorroeff": 123.21109329554534,
+    "Tcorroeffrank": 29,
+    "Tcorroefgp": 0.5936880214151371,
+    "Tcorroefgprank": 35,
+    "Tcorroftr": 0.3058293995700561,
+    "Tcorroftrrank": 271,
+    "Tcorroorbp": 0.30037515047051483,
+    "Tcorroorbprank": 179,
+    "Tcorrotovr": 0.12040382971375112,
+    "Tcorrotovrrank": 66,
+    "Teff": 125.25320729237002,
+    "Tefgp": 0.5973282442748091,
+    "Tftr": 0.3053435114503817,
+    "Tneteff": 26.562365964199344,
+    "Tneteffrank": 21,
+    "Torbp": 0.3671875,
+    "Tposs": 296.2,
+    "Ttovr": 0.13403263403263405,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            4
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            103.1065881092662,
+            73.19173363949483
+        ],
+        [
+            141.83457051961824,
+            81.04395604395604
+        ],
+        [
+            112.76268580215273,
+            125.26096033402922
+        ],
+        [
+            145.5026455026455,
+            79.86738999397227
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 73.25530082332091,
+    "poss": [
+        [
+            74.68,
+            69.68
+        ],
+        [
+            75.44,
+            72.8
+        ],
+        [
+            78.04,
+            76.64
+        ],
+        [
+            68.04,
+            66.36
+        ]
+    ],
+    "preseason_pace": 70.74072910321456,
+    "preseason_pred": 26.265750626562316,
+    "preseason_predd": 97.499907878724,
+    "preseason_predo": 123.76565850528632,
+    "schedule": [
+        "nicholls-state",
+        "valparaiso",
+        "louisville",
+        "eastern-illinois"
+    ],
+    "scores": [
+        [
+            77,
+            51
+        ],
+        [
+            107,
+            59
+        ],
+        [
+            88,
+            96
+        ],
+        [
+            99,
+            53
+        ]
+    ],
+    "wins": 3
+}

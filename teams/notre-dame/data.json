@@ -1,0 +1,195 @@
+{
+    "CompRank": 57,
+    "CompositeDef": 100.96785134547304,
+    "CompositeOff": 114.73407953617544,
+    "CompositePace": 65.97574858054263,
+    "CompositeRating": 13.766228190702389,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "A"
+    ],
+    "OAst": 47.0,
+    "OAvgCompRat": -6.359919521131241,
+    "OBlk": 11.0,
+    "ODR": 79.0,
+    "OFGA": 226.0,
+    "OFGA3": 92.0,
+    "OFGM": 89.0,
+    "OFGM3": 28.0,
+    "OFTA": 76.0,
+    "OFTM": 53.0,
+    "OOR": 30.0,
+    "OPF": 79.0,
+    "OScore": 259.0,
+    "OStl": 23.0,
+    "OTO": 44.0,
+    "Oastr": 0.13411710991895903,
+    "Ocomprank": 268,
+    "Ocorrdastr": 0.1450093877631453,
+    "Ocorrdeff": 108.51223076569741,
+    "Ocorrdeffrank": 225,
+    "Ocorrdefgp": 0.5252798754987424,
+    "Ocorrdftr": 0.37098813090812743,
+    "Ocorrdorbp": 0.2978399014495534,
+    "Ocorrdtovr": 0.15139298995790645,
+    "Ocorroastr": 0.13838815363214493,
+    "Ocorroeff": 101.2290134274762,
+    "Ocorroeffrank": 269,
+    "Ocorroefgp": 0.5084009299163605,
+    "Ocorroftr": 0.45193447348191207,
+    "Ocorroorbp": 0.26269783737552893,
+    "Ocorrotovr": 0.17010096253739174,
+    "Oeff": 94.71913399648918,
+    "Oefgp": 0.4557522123893805,
+    "Oftr": 0.336283185840708,
+    "Oneteff": -7.283217338221206,
+    "Oneteffrank": 266,
+    "Oorbp": 0.2158273381294964,
+    "Oposs": 273.44,
+    "Otovr": 0.14500395465330873,
+    "SoR": 18.989634148153378,
+    "SoRrank": 109,
+    "TAst": 55.0,
+    "TBlk": 5.0,
+    "TDR": 109.0,
+    "TFGA": 235.0,
+    "TFGA3": 97.0,
+    "TFGM": 116.0,
+    "TFGM3": 40.0,
+    "TFTA": 87.0,
+    "TFTM": 60.0,
+    "TOR": 46.0,
+    "TPF": 69.0,
+    "TScore": 332.0,
+    "TStl": 25.0,
+    "TTO": 46.0,
+    "Tastr": 0.14694880837875388,
+    "Tcorrdastr": 0.14134804551306412,
+    "Tcorrdastrrank": 165,
+    "Tcorrdeff": 99.1855277093434,
+    "Tcorrdeffrank": 98,
+    "Tcorrdefgp": 0.4565752217584736,
+    "Tcorrdefgprank": 68,
+    "Tcorrdftr": 0.2861728629355021,
+    "Tcorrdftrrank": 73,
+    "Tcorrdorbp": 0.24547089908537162,
+    "Tcorrdorbprank": 78,
+    "Tcorrdtovr": 0.13109243694829023,
+    "Tcorrdtovrrank": 260,
+    "Tcorroastr": 0.1482860868322635,
+    "Tcorroastrrank": 162,
+    "Tcorroeff": 119.08723434579257,
+    "Tcorroeffrank": 61,
+    "Tcorroefgp": 0.5621713893208674,
+    "Tcorroefgprank": 80,
+    "Tcorroftr": 0.3819930899805324,
+    "Tcorroftrrank": 166,
+    "Tcorroorbp": 0.37174599554542165,
+    "Tcorroorbprank": 67,
+    "Tcorrotovr": 0.1454460574642777,
+    "Tcorrotovrrank": 159,
+    "Teff": 121.48711943793913,
+    "Tefgp": 0.5787234042553191,
+    "Tftr": 0.3702127659574468,
+    "Tneteff": 19.901706636449163,
+    "Tneteffrank": 51,
+    "Torbp": 0.368,
+    "Tposs": 273.28,
+    "Ttovr": 0.1440741668754698,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            126.78062678062678,
+            94.8471121177803
+        ],
+        [
+            136.58275307980716,
+            91.62303664921465
+        ],
+        [
+            124.6006389776358,
+            96.2176509621765
+        ],
+        [
+            95.74468085106383,
+            96.7937084089534
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 65.1869797376649,
+    "poss": [
+        [
+            70.2,
+            70.64
+        ],
+        [
+            74.68,
+            76.4
+        ],
+        [
+            62.599999999999994,
+            60.28
+        ],
+        [
+            65.8,
+            66.12
+        ]
+    ],
+    "preseason_pace": 66.32198456095534,
+    "preseason_pred": 11.073014058138648,
+    "preseason_predd": 101.75021563019388,
+    "preseason_predo": 112.82322968833252,
+    "schedule": [
+        "long-island-university",
+        "detroit-mercy",
+        "eastern-illinois",
+        "ohio-state"
+    ],
+    "scores": [
+        [
+            89,
+            67
+        ],
+        [
+            102,
+            70
+        ],
+        [
+            78,
+            58
+        ],
+        [
+            63,
+            64
+        ]
+    ],
+    "wins": 3
+}

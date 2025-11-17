@@ -1,0 +1,195 @@
+{
+    "CompRank": 68,
+    "CompositeDef": 102.95372087990545,
+    "CompositeOff": 114.5193341244433,
+    "CompositePace": 67.94014397539235,
+    "CompositeRating": 11.565613244537868,
+    "HA": [
+        "H",
+        "H",
+        "A",
+        "H"
+    ],
+    "OAst": 51.0,
+    "OAvgCompRat": -6.65536809568783,
+    "OBlk": 15.0,
+    "ODR": 90.0,
+    "OFGA": 221.0,
+    "OFGA3": 84.0,
+    "OFGM": 98.0,
+    "OFGM3": 34.0,
+    "OFTA": 73.0,
+    "OFTM": 45.0,
+    "OOR": 34.0,
+    "OPF": 92.0,
+    "OScore": 275.0,
+    "OStl": 20.0,
+    "OTO": 64.0,
+    "Oastr": 0.1385417798543953,
+    "Ocomprank": 275,
+    "Ocorrdastr": 0.13214283994822634,
+    "Ocorrdeff": 107.34688209237632,
+    "Ocorrdeffrank": 205,
+    "Ocorrdefgp": 0.515383462426019,
+    "Ocorrdftr": 0.28132521533744925,
+    "Ocorrdorbp": 0.30638662803722716,
+    "Ocorrdtovr": 0.14480348480928384,
+    "Ocorroastr": 0.14773632986608567,
+    "Ocorroeff": 102.59349368157797,
+    "Ocorroeffrank": 247,
+    "Ocorroefgp": 0.529019992799691,
+    "Ocorroftr": 0.3848541630699009,
+    "Ocorroorbp": 0.25803532281944475,
+    "Ocorrotovr": 0.17700135059097083,
+    "Oeff": 97.13195818027691,
+    "Oefgp": 0.5203619909502263,
+    "Oftr": 0.33031674208144796,
+    "Oneteff": -4.753388410798351,
+    "Oneteffrank": 241,
+    "Oorbp": 0.2786885245901639,
+    "Oposs": 283.12,
+    "Otovr": 0.20181634712411706,
+    "SoR": 16.48179351754554,
+    "SoRrank": 115,
+    "TAst": 61.0,
+    "TBlk": 17.0,
+    "TDR": 88.0,
+    "TFGA": 214.0,
+    "TFGA3": 88.0,
+    "TFGM": 100.0,
+    "TFGM3": 25.0,
+    "TFTA": 124.0,
+    "TFTM": 93.0,
+    "TOR": 31.0,
+    "TPF": 64.0,
+    "TScore": 318.0,
+    "TStl": 37.0,
+    "TTO": 38.0,
+    "Tastr": 0.16595929916204158,
+    "Tcorrdastr": 0.13712945366689916,
+    "Tcorrdastrrank": 140,
+    "Tcorrdeff": 100.41299969606544,
+    "Tcorrdeffrank": 110,
+    "Tcorrdefgp": 0.5017787994248917,
+    "Tcorrdefgprank": 175,
+    "Tcorrdftr": 0.3279811113667589,
+    "Tcorrdftrrank": 131,
+    "Tcorrdorbp": 0.32246282214647815,
+    "Tcorrdorbprank": 238,
+    "Tcorrdtovr": 0.17561977702615889,
+    "Tcorrdtovrrank": 90,
+    "Tcorroastr": 0.18309575168092704,
+    "Tcorroastrrank": 38,
+    "Tcorroeff": 114.3004828345078,
+    "Tcorroeffrank": 97,
+    "Tcorroefgp": 0.5200763730341937,
+    "Tcorroefgprank": 156,
+    "Tcorroftr": 0.77977464395118,
+    "Tcorroftrrank": 1,
+    "Tcorroorbp": 0.2518709897965821,
+    "Tcorroorbprank": 266,
+    "Tcorrotovr": 0.13059890123814777,
+    "Tcorrotovrrank": 102,
+    "Teff": 115.40136449412107,
+    "Tefgp": 0.5257009345794392,
+    "Tftr": 0.5794392523364486,
+    "Tneteff": 13.887483138442363,
+    "Tneteffrank": 82,
+    "Torbp": 0.256198347107438,
+    "Tposs": 275.56,
+    "Ttovr": 0.12395615866388308,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            137.41411617738916,
+            76.38446849140675
+        ],
+        [
+            117.4496644295302,
+            105.34124629080118
+        ],
+        [
+            76.65677546983186,
+            93.34006054490413
+        ],
+        [
+            139.8279041180086,
+            111.41304347826087
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 70.39337288507451,
+    "poss": [
+        [
+            64.03999999999999,
+            62.84
+        ],
+        [
+            65.56,
+            67.4
+        ],
+        [
+            80.88,
+            79.28
+        ],
+        [
+            65.08,
+            73.6
+        ]
+    ],
+    "preseason_pace": 66.8632808051615,
+    "preseason_pred": 10.546411096321904,
+    "preseason_predd": 104.06898943796963,
+    "preseason_predo": 114.61540053429154,
+    "schedule": [
+        "canisius",
+        "maryland-baltimore-county",
+        "cincinnati",
+        "bethune-cookman"
+    ],
+    "scores": [
+        [
+            88,
+            48
+        ],
+        [
+            77,
+            71
+        ],
+        [
+            62,
+            74
+        ],
+        [
+            91,
+            82
+        ]
+    ],
+    "wins": 3
+}

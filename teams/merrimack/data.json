@@ -1,0 +1,195 @@
+{
+    "CompRank": 270,
+    "CompositeDef": 104.13788569187331,
+    "CompositeOff": 93.59264087949762,
+    "CompositePace": 68.2931958954499,
+    "CompositeRating": -10.545244812375707,
+    "HA": [
+        "N",
+        "A",
+        "A",
+        "A"
+    ],
+    "OAst": 61.0,
+    "OAvgCompRat": 4.248527006733091,
+    "OBlk": 20.0,
+    "ODR": 98.0,
+    "OFGA": 230.0,
+    "OFGA3": 80.0,
+    "OFGM": 111.0,
+    "OFGM3": 26.0,
+    "OFTA": 107.0,
+    "OFTM": 77.0,
+    "OOR": 49.0,
+    "OPF": 73.0,
+    "OScore": 325.0,
+    "OStl": 27.0,
+    "OTO": 46.0,
+    "Oastr": 0.1588210789418871,
+    "Ocomprank": 93,
+    "Ocorrdastr": 0.1545889800965599,
+    "Ocorrdeff": 110.66636684235536,
+    "Ocorrdeffrank": 271,
+    "Ocorrdefgp": 0.5692433674974748,
+    "Ocorrdftr": 0.3382546355841526,
+    "Ocorrdorbp": 0.24439674249054455,
+    "Ocorrdtovr": 0.14549598983568884,
+    "Ocorroastr": 0.15629623967742096,
+    "Ocorroeff": 120.35637793438234,
+    "Ocorroeffrank": 13,
+    "Ocorroefgp": 0.5587054680876826,
+    "Ocorroftr": 0.41977326366098183,
+    "Ocorroorbp": 0.3480608224230313,
+    "Ocorrotovr": 0.15345997656859872,
+    "Oeff": 118.57851722124927,
+    "Oefgp": 0.5391304347826087,
+    "Oftr": 0.4652173913043478,
+    "Oneteff": 9.690011092026978,
+    "Oneteffrank": 86,
+    "Oorbp": 0.4083333333333333,
+    "Oposs": 274.08,
+    "Otovr": 0.14237959638479633,
+    "SoR": 0.2991921900653116,
+    "SoRrank": 234,
+    "TAst": 43.0,
+    "TBlk": 13.0,
+    "TDR": 71.0,
+    "TFGA": 224.0,
+    "TFGA3": 119.0,
+    "TFGM": 82.0,
+    "TFGM3": 40.0,
+    "TFTA": 91.0,
+    "TFTM": 72.0,
+    "TOR": 33.0,
+    "TPF": 85.0,
+    "TScore": 276.0,
+    "TStl": 27.0,
+    "TTO": 52.0,
+    "Tastr": 0.11976381461675578,
+    "Tcorrdastr": 0.14892683235433948,
+    "Tcorrdastrrank": 209,
+    "Tcorrdeff": 105.1602706069735,
+    "Tcorrdeffrank": 169,
+    "Tcorrdefgp": 0.4933281104672108,
+    "Tcorrdefgprank": 153,
+    "Tcorrdftr": 0.42497232489175407,
+    "Tcorrdftrrank": 258,
+    "Tcorrdorbp": 0.35447508378156384,
+    "Tcorrdorbprank": 287,
+    "Tcorrdtovr": 0.1420931391495988,
+    "Tcorrdtovrrank": 219,
+    "Tcorroastr": 0.11365436399403621,
+    "Tcorroastrrank": 319,
+    "Tcorroeff": 93.79937011833492,
+    "Tcorroeffrank": 311,
+    "Tcorroefgp": 0.4094826415402844,
+    "Tcorroefgprank": 344,
+    "Tcorroftr": 0.45805015184364317,
+    "Tcorroftrrank": 82,
+    "Tcorroorbp": 0.3076815910896571,
+    "Tcorroorbprank": 163,
+    "Tcorrotovr": 0.1725612872677101,
+    "Tcorrotovrrank": 262,
+    "Teff": 97.5127190503109,
+    "Tefgp": 0.45535714285714285,
+    "Tftr": 0.40625,
+    "Tneteff": -11.360900488638578,
+    "Tneteffrank": 273,
+    "Torbp": 0.25190839694656486,
+    "Tposs": 283.04,
+    "Ttovr": 0.1645361346664979,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            6
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            86.97944122298367,
+            106.47359454855196
+        ],
+        [
+            81.943645773433,
+            141.20095124851366
+        ],
+        [
+            82.05399682371625,
+            105.55555555555556
+        ],
+        [
+            146.6795615731786,
+            122.74704785581106
+        ]
+    ],
+    "losses": 3,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 72.2505664579302,
+    "poss": [
+        [
+            75.88,
+            70.44
+        ],
+        [
+            69.56,
+            67.28
+        ],
+        [
+            75.56,
+            72.0
+        ],
+        [
+            62.04,
+            64.36
+        ]
+    ],
+    "preseason_pace": 66.55607850176855,
+    "preseason_pred": -10.18720665544276,
+    "preseason_predd": 103.68910219004607,
+    "preseason_predo": 93.50189553460332,
+    "schedule": [
+        "south-dakota-state",
+        "auburn",
+        "tarleton-state",
+        "boston-university"
+    ],
+    "scores": [
+        [
+            66,
+            75
+        ],
+        [
+            57,
+            95
+        ],
+        [
+            62,
+            76
+        ],
+        [
+            91,
+            79
+        ]
+    ],
+    "wins": 1
+}

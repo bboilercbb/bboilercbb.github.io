@@ -1,0 +1,195 @@
+{
+    "CompRank": 33,
+    "CompositeDef": 98.39669417296633,
+    "CompositeOff": 117.87357043880559,
+    "CompositePace": 71.15962235345931,
+    "CompositeRating": 19.47687626583925,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 41.0,
+    "OAvgCompRat": -6.760607116346443,
+    "OBlk": 15.0,
+    "ODR": 90.0,
+    "OFGA": 247.0,
+    "OFGA3": 106.0,
+    "OFGM": 96.0,
+    "OFGM3": 34.0,
+    "OFTA": 80.0,
+    "OFTM": 58.0,
+    "OOR": 40.0,
+    "OPF": 86.0,
+    "OScore": 284.0,
+    "OStl": 25.0,
+    "OTO": 68.0,
+    "Oastr": 0.10480572597137014,
+    "Ocomprank": 281,
+    "Ocorrdastr": 0.18018899405999708,
+    "Ocorrdeff": 114.36680069888277,
+    "Ocorrdeffrank": 322,
+    "Ocorrdefgp": 0.5300753226510884,
+    "Ocorrdftr": 0.38884144550786937,
+    "Ocorrdorbp": 0.33918825998296487,
+    "Ocorrdtovr": 0.13726131536611,
+    "Ocorroastr": 0.13716819099933197,
+    "Ocorroeff": 95.20205434267632,
+    "Ocorroeffrank": 337,
+    "Ocorroefgp": 0.47814550734427347,
+    "Ocorroftr": 0.3716287752706777,
+    "Ocorroorbp": 0.23760363652174424,
+    "Ocorrotovr": 0.16631961117642474,
+    "Oeff": 91.5538362346873,
+    "Oefgp": 0.4574898785425101,
+    "Oftr": 0.32388663967611336,
+    "Oneteff": -19.16474635620645,
+    "Oneteffrank": 354,
+    "Oorbp": 0.25806451612903225,
+    "Oposs": 310.2,
+    "Otovr": 0.1941747572815534,
+    "SoR": 78.36025096252158,
+    "SoRrank": 9,
+    "TAst": 90.0,
+    "TBlk": 11.0,
+    "TDR": 115.0,
+    "TFGA": 266.0,
+    "TFGA3": 140.0,
+    "TFGM": 133.0,
+    "TFGM3": 51.0,
+    "TFTA": 129.0,
+    "TFTM": 95.0,
+    "TOR": 55.0,
+    "TPF": 85.0,
+    "TScore": 412.0,
+    "TStl": 45.0,
+    "TTO": 43.0,
+    "Tastr": 0.19747235387045814,
+    "Tcorrdastr": 0.1113993592276488,
+    "Tcorrdastrrank": 32,
+    "Tcorrdeff": 101.69089897344645,
+    "Tcorrdeffrank": 123,
+    "Tcorrdefgp": 0.486125118754356,
+    "Tcorrdefgprank": 128,
+    "Tcorrdftr": 0.3325769528270051,
+    "Tcorrdftrrank": 137,
+    "Tcorrdorbp": 0.32321045794511244,
+    "Tcorrdorbprank": 239,
+    "Tcorrdtovr": 0.17937598376854025,
+    "Tcorrdtovrrank": 80,
+    "Tcorroastr": 0.16176052005993868,
+    "Tcorroastrrank": 107,
+    "Tcorroeff": 123.56526679275625,
+    "Tcorroeffrank": 27,
+    "Tcorroefgp": 0.5737939768677994,
+    "Tcorroefgprank": 60,
+    "Tcorroftr": 0.47831517196026413,
+    "Tcorroftrrank": 66,
+    "Tcorroorbp": 0.3382112248861522,
+    "Tcorroorbprank": 112,
+    "Tcorrotovr": 0.13039098354727152,
+    "Tcorrotovrrank": 100,
+    "Teff": 132.57819539194233,
+    "Tefgp": 0.5958646616541353,
+    "Tftr": 0.4849624060150376,
+    "Tneteff": 21.874367819309796,
+    "Tneteffrank": 43,
+    "Torbp": 0.3793103448275862,
+    "Tposs": 310.76,
+    "Ttovr": 0.11756342957130358,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            6
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            127.57605495583907,
+            55.09304603330068
+        ],
+        [
+            136.95090439276484,
+            93.28358208955223
+        ],
+        [
+            125.26096033402922,
+            112.76268580215273
+        ],
+        [
+            140.95744680851064,
+            107.37009544008484
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 75.38582103509947,
+    "poss": [
+        [
+            81.52,
+            81.68
+        ],
+        [
+            77.4,
+            75.04
+        ],
+        [
+            76.64,
+            78.04
+        ],
+        [
+            75.2,
+            75.44
+        ]
+    ],
+    "preseason_pace": 69.30450084711521,
+    "preseason_pred": 18.424479424809654,
+    "preseason_predd": 96.95067834833858,
+    "preseason_predo": 115.37515777314823,
+    "schedule": [
+        "south-carolina-state",
+        "jackson-state",
+        "kentucky",
+        "ohio"
+    ],
+    "scores": [
+        [
+            104,
+            45
+        ],
+        [
+            106,
+            70
+        ],
+        [
+            96,
+            88
+        ],
+        [
+            106,
+            81
+        ]
+    ],
+    "wins": 4
+}

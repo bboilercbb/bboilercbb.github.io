@@ -1,0 +1,195 @@
+{
+    "CompRank": 7,
+    "CompositeDef": 90.60995604245416,
+    "CompositeOff": 118.6978212918101,
+    "CompositePace": 70.50603114646242,
+    "CompositeRating": 28.08786524935595,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "A"
+    ],
+    "OAst": 32.0,
+    "OAvgCompRat": 5.436475150702814,
+    "OBlk": 10.0,
+    "ODR": 79.0,
+    "OFGA": 224.0,
+    "OFGA3": 102.0,
+    "OFGM": 77.0,
+    "OFGM3": 26.0,
+    "OFTA": 89.0,
+    "OFTM": 59.0,
+    "OOR": 34.0,
+    "OPF": 70.0,
+    "OScore": 239.0,
+    "OStl": 21.0,
+    "OTO": 57.0,
+    "Oastr": 0.09086778736937755,
+    "Ocomprank": 73,
+    "Ocorrdastr": 0.14568043192219865,
+    "Ocorrdeff": 113.81834914322951,
+    "Ocorrdeffrank": 314,
+    "Ocorrdefgp": 0.5446670829999137,
+    "Ocorrdftr": 0.4357866433777847,
+    "Ocorrdorbp": 0.2977508594702738,
+    "Ocorrdtovr": 0.16089119605591942,
+    "Ocorroastr": 0.16456394718620637,
+    "Ocorroeff": 112.79325886794787,
+    "Ocorroeffrank": 81,
+    "Ocorroefgp": 0.5599917441296559,
+    "Ocorroftr": 0.3561257807105288,
+    "Ocorroorbp": 0.30738186857191824,
+    "Ocorrotovr": 0.1355582692340626,
+    "Oeff": 83.51970925356443,
+    "Oefgp": 0.4017857142857143,
+    "Oftr": 0.39732142857142855,
+    "Oneteff": -1.0250902752816415,
+    "Oneteffrank": 200,
+    "Oorbp": 0.21935483870967742,
+    "Oposs": 286.16,
+    "Otovr": 0.17803598200899548,
+    "SoR": 86.97901023885613,
+    "SoRrank": 3,
+    "TAst": 76.0,
+    "TBlk": 16.0,
+    "TDR": 121.0,
+    "TFGA": 269.0,
+    "TFGA3": 92.0,
+    "TFGM": 132.0,
+    "TFGM3": 28.0,
+    "TFTA": 80.0,
+    "TFTM": 56.0,
+    "TOR": 55.0,
+    "TPF": 78.0,
+    "TScore": 348.0,
+    "TStl": 29.0,
+    "TTO": 40.0,
+    "Tastr": 0.1808662541646835,
+    "Tcorrdastr": 0.08109271651240815,
+    "Tcorrdastrrank": 4,
+    "Tcorrdeff": 78.83080163064218,
+    "Tcorrdeffrank": 3,
+    "Tcorrdefgp": 0.36684081742187435,
+    "Tcorrdefgprank": 2,
+    "Tcorrdftr": 0.42501925111818334,
+    "Tcorrdftrrank": 259,
+    "Tcorrdorbp": 0.2145562699772788,
+    "Tcorrdorbprank": 33,
+    "Tcorrdtovr": 0.20014869596296633,
+    "Tcorrdtovrrank": 33,
+    "Tcorroastr": 0.18170496155673715,
+    "Tcorroastrrank": 44,
+    "Tcorroeff": 112.67035183167455,
+    "Tcorroeffrank": 111,
+    "Tcorroefgp": 0.509197160773392,
+    "Tcorroefgprank": 184,
+    "Tcorroftr": 0.2629163687017511,
+    "Tcorroftrrank": 318,
+    "Tcorroorbp": 0.41474489174725715,
+    "Tcorroorbprank": 25,
+    "Tcorrotovr": 0.11066057377494508,
+    "Tcorrotovrrank": 39,
+    "Teff": 120.33195020746888,
+    "Tefgp": 0.5427509293680297,
+    "Tftr": 0.29739776951672864,
+    "Tneteff": 33.83955020103237,
+    "Tneteffrank": 6,
+    "Torbp": 0.41044776119402987,
+    "Tposs": 289.2,
+    "Ttovr": 0.11621150493898896,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            132.0043103448276,
+            58.51932498639085
+        ],
+        [
+            112.40520043336944,
+            90.76348104644954
+        ],
+        [
+            125.48800892359175,
+            90.46524985640437
+        ],
+        [
+            110.95100864553314,
+            95.41984732824427
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 71.28354165985945,
+    "poss": [
+        [
+            74.24,
+            73.48
+        ],
+        [
+            73.84,
+            74.92
+        ],
+        [
+            71.72,
+            69.64
+        ],
+        [
+            69.4,
+            68.12
+        ]
+    ],
+    "preseason_pace": 70.16473709394246,
+    "preseason_pred": 25.563120140252444,
+    "preseason_predd": 95.78050393241277,
+    "preseason_predo": 121.34362407266522,
+    "schedule": [
+        "texas-southern",
+        "oklahoma",
+        "creighton",
+        "arizona-state"
+    ],
+    "scores": [
+        [
+            98,
+            43
+        ],
+        [
+            83,
+            68
+        ],
+        [
+            90,
+            63
+        ],
+        [
+            77,
+            65
+        ]
+    ],
+    "wins": 4
+}

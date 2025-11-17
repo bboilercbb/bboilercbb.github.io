@@ -1,0 +1,157 @@
+{
+    "CompRank": 150,
+    "CompositeDef": 109.45253679210292,
+    "CompositeOff": 107.28264625351875,
+    "CompositePace": 69.29851313401052,
+    "CompositeRating": -2.169890538584177,
+    "HA": [
+        "A",
+        "A"
+    ],
+    "OAst": 29.0,
+    "OAvgCompRat": 11.18331022458872,
+    "OBlk": 6.0,
+    "ODR": 39.0,
+    "OFGA": 105.0,
+    "OFGA3": 39.0,
+    "OFGM": 58.0,
+    "OFGM3": 18.0,
+    "OFTA": 56.0,
+    "OFTM": 42.0,
+    "OOR": 11.0,
+    "OPF": 42.0,
+    "OScore": 176.0,
+    "OStl": 20.0,
+    "OTO": 26.0,
+    "Oastr": 0.1570623916811092,
+    "Ocomprank": 28,
+    "Ocorrdastr": 0.11060388640301633,
+    "Ocorrdeff": 89.80636642383497,
+    "Ocorrdeffrank": 4,
+    "Ocorrdefgp": 0.47002597712789995,
+    "Ocorrdftr": 0.42198771255571377,
+    "Ocorrdorbp": 0.2305026836149407,
+    "Ocorrdtovr": 0.17982118185482077,
+    "Ocorroastr": 0.13698325438966347,
+    "Ocorroeff": 108.14882561183197,
+    "Ocorroeffrank": 159,
+    "Ocorroefgp": 0.49383373263187325,
+    "Ocorroftr": 0.35414234044431525,
+    "Ocorroorbp": 0.3921621205006004,
+    "Ocorrotovr": 0.17304556303713117,
+    "Oeff": 121.68141592920355,
+    "Oefgp": 0.638095238095238,
+    "Oftr": 0.5333333333333333,
+    "Oneteff": 18.342459187996994,
+    "Oneteffrank": 27,
+    "Oorbp": 0.2391304347826087,
+    "Oposs": 144.64,
+    "Otovr": 0.16705217167823183,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 26.0,
+    "TBlk": 6.0,
+    "TDR": 35.0,
+    "TFGA": 105.0,
+    "TFGA3": 37.0,
+    "TFGM": 53.0,
+    "TFGM3": 11.0,
+    "TFTA": 52.0,
+    "TFTM": 34.0,
+    "TOR": 10.0,
+    "TPF": 46.0,
+    "TScore": 151.0,
+    "TStl": 17.0,
+    "TTO": 29.0,
+    "Tastr": 0.14216972878390202,
+    "Tcorrdastr": 0.16716002988530665,
+    "Tcorrdastrrank": 282,
+    "Tcorrdeff": 119.58147266056672,
+    "Tcorrdeffrank": 327,
+    "Tcorrdefgp": 0.6573412029406095,
+    "Tcorrdefgprank": 361,
+    "Tcorrdftr": 0.5735801562266415,
+    "Tcorrdftrrank": 345,
+    "Tcorrdorbp": 0.18512393525259296,
+    "Tcorrdorbprank": 13,
+    "Tcorrdtovr": 0.14855717628197437,
+    "Tcorrdtovrrank": 188,
+    "Tcorroastr": 0.1860688634848943,
+    "Tcorroastrrank": 33,
+    "Tcorroeff": 120.84870977540363,
+    "Tcorroeffrank": 46,
+    "Tcorroefgp": 0.6021533929654692,
+    "Tcorroefgprank": 29,
+    "Tcorroftr": 0.4515548158520466,
+    "Tcorroftrrank": 91,
+    "Tcorroorbp": 0.26367437818083206,
+    "Tcorroorbprank": 243,
+    "Tcorrotovr": 0.15819518062397495,
+    "Tcorrotovrrank": 209,
+    "Teff": 102.80501089324619,
+    "Tefgp": 0.5571428571428572,
+    "Tftr": 0.49523809523809526,
+    "Tneteff": 1.2672371148369166,
+    "Tneteffrank": 166,
+    "Torbp": 0.20408163265306123,
+    "Tposs": 146.88,
+    "Ttovr": 0.18485466598674147,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            103.2725321888412,
+            134.7385272145144
+        ],
+        [
+            102.32300884955754,
+            107.6349024110218
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0
+    ],
+    "pace": 74.45382509516841,
+    "poss": [
+        [
+            74.56,
+            74.96000000000001
+        ],
+        [
+            72.32,
+            69.68
+        ]
+    ],
+    "preseason_pace": 68.73277245240197,
+    "preseason_pred": -2.547078758438344,
+    "preseason_predd": 108.34099376127013,
+    "preseason_predo": 105.79391500283178,
+    "schedule": [
+        "boise-state",
+        "fresno-state"
+    ],
+    "scores": [
+        [
+            77,
+            101
+        ],
+        [
+            74,
+            75
+        ]
+    ],
+    "wins": 0
+}

@@ -1,0 +1,195 @@
+{
+    "CompRank": 80,
+    "CompositeDef": 101.18751680895224,
+    "CompositeOff": 111.08430358612463,
+    "CompositePace": 71.37236536666296,
+    "CompositeRating": 9.896786777172387,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 37.0,
+    "OAvgCompRat": -12.580635369743595,
+    "OBlk": 13.0,
+    "ODR": 71.0,
+    "OFGA": 250.0,
+    "OFGA3": 83.0,
+    "OFGM": 91.0,
+    "OFGM3": 22.0,
+    "OFTA": 109.0,
+    "OFTM": 79.0,
+    "OOR": 34.0,
+    "OPF": 77.0,
+    "OScore": 283.0,
+    "OStl": 35.0,
+    "OTO": 55.0,
+    "Oastr": 0.09488152631039082,
+    "Ocomprank": 346,
+    "Ocorrdastr": 0.15223053690743468,
+    "Ocorrdeff": 114.27742498505056,
+    "Ocorrdeffrank": 320,
+    "Ocorrdefgp": 0.5439778898330722,
+    "Ocorrdftr": 0.40047685951400547,
+    "Ocorrdorbp": 0.27028003217835656,
+    "Ocorrdtovr": 0.16206695327594878,
+    "Ocorroastr": 0.14420271184824063,
+    "Ocorroeff": 97.63207044244456,
+    "Ocorroeffrank": 323,
+    "Ocorroefgp": 0.47817350623918475,
+    "Ocorroftr": 0.3951743364767829,
+    "Ocorroorbp": 0.24534021060139063,
+    "Ocorrotovr": 0.14138539006251363,
+    "Oeff": 88.72585904188614,
+    "Oefgp": 0.408,
+    "Oftr": 0.436,
+    "Oneteff": -16.645354542606,
+    "Oneteffrank": 342,
+    "Oorbp": 0.21656050955414013,
+    "Oposs": 318.96,
+    "Otovr": 0.15582502266545786,
+    "SoR": 46.91259280640089,
+    "SoRrank": 57,
+    "TAst": 60.0,
+    "TBlk": 15.0,
+    "TDR": 123.0,
+    "TFGA": 245.0,
+    "TFGA3": 109.0,
+    "TFGM": 131.0,
+    "TFGM3": 42.0,
+    "TFTA": 102.0,
+    "TFTM": 83.0,
+    "TOR": 40.0,
+    "TPF": 89.0,
+    "TScore": 387.0,
+    "TStl": 35.0,
+    "TTO": 67.0,
+    "Tastr": 0.14392630972941853,
+    "Tcorrdastr": 0.09612270839257607,
+    "Tcorrdastrrank": 11,
+    "Tcorrdeff": 96.19363751034457,
+    "Tcorrdeffrank": 65,
+    "Tcorrdefgp": 0.43351319368998126,
+    "Tcorrdefgprank": 35,
+    "Tcorrdftr": 0.42205666902840067,
+    "Tcorrdftrrank": 253,
+    "Tcorrdorbp": 0.2630122564843768,
+    "Tcorrdorbprank": 118,
+    "Tcorrdtovr": 0.1682414524091223,
+    "Tcorrdtovrrank": 121,
+    "Tcorroastr": 0.13861525338683245,
+    "Tcorroastrrank": 213,
+    "Tcorroeff": 113.91119876275411,
+    "Tcorroeffrank": 100,
+    "Tcorroefgp": 0.5827614849865949,
+    "Tcorroefgprank": 43,
+    "Tcorroftr": 0.3991592817934591,
+    "Tcorroftrrank": 142,
+    "Tcorroorbp": 0.39959660329005897,
+    "Tcorroorbprank": 38,
+    "Tcorrotovr": 0.17752534883733923,
+    "Tcorrotovrrank": 277,
+    "Teff": 122.12825044180762,
+    "Tefgp": 0.6204081632653061,
+    "Tftr": 0.4163265306122449,
+    "Tneteff": 17.71756125240954,
+    "Tneteffrank": 60,
+    "Torbp": 0.36036036036036034,
+    "Tposs": 316.88,
+    "Ttovr": 0.1877381752970186,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            6
+        ],
+        [
+            11,
+            10
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            120.67156348373558,
+            87.65044479330194
+        ],
+        [
+            126.2862488306829,
+            96.19686800894854
+        ],
+        [
+            135.16865079365078,
+            84.140744518103
+        ],
+        [
+            104.72610096670246,
+            85.69898232458489
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 77.98461860357963,
+    "poss": [
+        [
+            76.24,
+            76.44
+        ],
+        [
+            85.52,
+            89.4
+        ],
+        [
+            80.64,
+            78.44
+        ],
+        [
+            74.48,
+            74.68
+        ]
+    ],
+    "preseason_pace": 68.46986737514948,
+    "preseason_pred": 6.463799353199975,
+    "preseason_predd": 103.37961746129031,
+    "preseason_predo": 109.84341681449028,
+    "schedule": [
+        "southeast-missouri-state",
+        "chicago-state",
+        "lindenwood",
+        "grand-canyon"
+    ],
+    "scores": [
+        [
+            92,
+            67
+        ],
+        [
+            108,
+            86
+        ],
+        [
+            109,
+            66
+        ],
+        [
+            78,
+            64
+        ]
+    ],
+    "wins": 4
+}

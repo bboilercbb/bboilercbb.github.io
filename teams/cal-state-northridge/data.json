@@ -1,0 +1,195 @@
+{
+    "CompRank": 176,
+    "CompositeDef": 111.98469635067104,
+    "CompositeOff": 107.73811552387346,
+    "CompositePace": 73.21930776335438,
+    "CompositeRating": -4.246580826797572,
+    "HA": [
+        "A",
+        "A",
+        "A",
+        "H"
+    ],
+    "OAst": 70.0,
+    "OAvgCompRat": 0.9481079415647804,
+    "OBlk": 20.0,
+    "ODR": 87.0,
+    "OFGA": 265.0,
+    "OFGA3": 132.0,
+    "OFGM": 121.0,
+    "OFGM3": 42.0,
+    "OFTA": 81.0,
+    "OFTM": 62.0,
+    "OOR": 32.0,
+    "OPF": 84.0,
+    "OScore": 346.0,
+    "OStl": 42.0,
+    "OTO": 36.0,
+    "Oastr": 0.17214243556954556,
+    "Ocomprank": 140,
+    "Ocorrdastr": 0.13500817170215024,
+    "Ocorrdeff": 93.96733362303748,
+    "Ocorrdeffrank": 20,
+    "Ocorrdefgp": 0.4745740237082731,
+    "Ocorrdftr": 0.3777230704085171,
+    "Ocorrdorbp": 0.3200973317721041,
+    "Ocorrdtovr": 0.1778784836568505,
+    "Ocorroastr": 0.15577128977210403,
+    "Ocorroeff": 98.63290976930968,
+    "Ocorroeffrank": 309,
+    "Ocorroefgp": 0.47846125248969473,
+    "Ocorroftr": 0.3696603570405115,
+    "Ocorroorbp": 0.24036635716194393,
+    "Ocorrotovr": 0.17070712447659298,
+    "Oeff": 113.5766806722689,
+    "Oefgp": 0.5358490566037736,
+    "Oftr": 0.30566037735849055,
+    "Oneteff": 4.665576146272201,
+    "Oneteffrank": 127,
+    "Oorbp": 0.23529411764705882,
+    "Oposs": 304.64,
+    "Otovr": 0.10693916349809886,
+    "SoR": 4.139814792889707,
+    "SoRrank": 167,
+    "TAst": 56.0,
+    "TBlk": 6.0,
+    "TDR": 104.0,
+    "TFGA": 245.0,
+    "TFGA3": 77.0,
+    "TFGM": 114.0,
+    "TFGM3": 26.0,
+    "TFTA": 86.0,
+    "TFTM": 58.0,
+    "TOR": 45.0,
+    "TPF": 58.0,
+    "TScore": 312.0,
+    "TStl": 20.0,
+    "TTO": 69.0,
+    "Tastr": 0.13730874852883482,
+    "Tcorrdastr": 0.16194053356118376,
+    "Tcorrdastrrank": 270,
+    "Tcorrdeff": 121.93621227869478,
+    "Tcorrdeffrank": 339,
+    "Tcorrdefgp": 0.5690281987090102,
+    "Tcorrdefgprank": 310,
+    "Tcorrdftr": 0.3154660910269163,
+    "Tcorrdftrrank": 113,
+    "Tcorrdorbp": 0.29143916549417814,
+    "Tcorrdorbprank": 171,
+    "Tcorrdtovr": 0.09634991605217522,
+    "Tcorrdtovrrank": 348,
+    "Tcorroastr": 0.14839873808903115,
+    "Tcorroastrrank": 160,
+    "Tcorroeff": 114.44199995072796,
+    "Tcorroeffrank": 94,
+    "Tcorroefgp": 0.5550894579229273,
+    "Tcorroefgprank": 85,
+    "Tcorroftr": 0.35598751039779086,
+    "Tcorroftrrank": 203,
+    "Tcorroorbp": 0.3213562766127813,
+    "Tcorroorbprank": 138,
+    "Tcorrotovr": 0.169588306980042,
+    "Tcorrotovrrank": 251,
+    "Teff": 101.68165819319513,
+    "Tefgp": 0.5183673469387755,
+    "Tftr": 0.3510204081632653,
+    "Tneteff": -7.494212327966821,
+    "Tneteffrank": 240,
+    "Torbp": 0.3409090909090909,
+    "Tposs": 306.84000000000003,
+    "Ttovr": 0.1961118690313779,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            6
+        ],
+        [
+            11,
+            9
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            77.95404814004375,
+            117.16621253405994
+        ],
+        [
+            118.26042726347914,
+            113.15228966986155
+        ],
+        [
+            82.88639687957094,
+            106.58455708195169
+        ],
+        [
+            128.69660460021905,
+            118.58258928571428
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 76.85386576493045,
+    "poss": [
+        [
+            73.12,
+            73.4
+        ],
+        [
+            78.64,
+            75.12
+        ],
+        [
+            82.04,
+            84.44
+        ],
+        [
+            73.04,
+            71.68
+        ]
+    ],
+    "preseason_pace": 71.62389135662688,
+    "preseason_pred": -2.8210087000840476,
+    "preseason_predd": 107.61640403658654,
+    "preseason_predo": 104.7953953365025,
+    "schedule": [
+        "northern-iowa",
+        "north-dakota",
+        "north-dakota-state",
+        "troy"
+    ],
+    "scores": [
+        [
+            57,
+            86
+        ],
+        [
+            93,
+            85
+        ],
+        [
+            68,
+            90
+        ],
+        [
+            94,
+            85
+        ]
+    ],
+    "wins": 2
+}

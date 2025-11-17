@@ -1,0 +1,195 @@
+{
+    "CompRank": 56,
+    "CompositeDef": 103.3709889306669,
+    "CompositeOff": 117.50774793909147,
+    "CompositePace": 66.28568902010318,
+    "CompositeRating": 14.136759008424576,
+    "HA": [
+        "N",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 54.0,
+    "OAvgCompRat": -3.0188359664304643,
+    "OBlk": 8.0,
+    "ODR": 71.0,
+    "OFGA": 224.0,
+    "OFGA3": 87.0,
+    "OFGM": 102.0,
+    "OFGM3": 37.0,
+    "OFTA": 60.0,
+    "OFTM": 41.0,
+    "OOR": 29.0,
+    "OPF": 68.0,
+    "OScore": 282.0,
+    "OStl": 16.0,
+    "OTO": 50.0,
+    "Oastr": 0.1523702031602709,
+    "Ocomprank": 200,
+    "Ocorrdastr": 0.14277168212417013,
+    "Ocorrdeff": 106.37895267649529,
+    "Ocorrdeffrank": 182,
+    "Ocorrdefgp": 0.4889638325890544,
+    "Ocorrdftr": 0.47567558421540834,
+    "Ocorrdorbp": 0.27734092573150604,
+    "Ocorrdtovr": 0.14868398525155518,
+    "Ocorroastr": 0.143174584979189,
+    "Ocorroeff": 105.30080297938075,
+    "Ocorroeffrank": 210,
+    "Ocorroefgp": 0.523789930851754,
+    "Ocorroftr": 0.3210080402224637,
+    "Ocorroorbp": 0.31019098303529824,
+    "Ocorrotovr": 0.15294484636089203,
+    "Oeff": 103.90567428150332,
+    "Oefgp": 0.5379464285714286,
+    "Oftr": 0.26785714285714285,
+    "Oneteff": -1.0781496971145401,
+    "Oneteffrank": 201,
+    "Oorbp": 0.25663716814159293,
+    "Oposs": 271.4,
+    "Otovr": 0.16644474034620507,
+    "SoR": 28.631172617510536,
+    "SoRrank": 79,
+    "TAst": 72.0,
+    "TBlk": 4.0,
+    "TDR": 84.0,
+    "TFGA": 262.0,
+    "TFGA3": 118.0,
+    "TFGM": 121.0,
+    "TFGM3": 44.0,
+    "TFTA": 79.0,
+    "TFTM": 55.0,
+    "TOR": 56.0,
+    "TPF": 68.0,
+    "TScore": 341.0,
+    "TStl": 28.0,
+    "TTO": 42.0,
+    "Tastr": 0.175284837861525,
+    "Tcorrdastr": 0.1554275077044432,
+    "Tcorrdastrrank": 245,
+    "Tcorrdeff": 104.76267134231638,
+    "Tcorrdeffrank": 162,
+    "Tcorrdefgp": 0.5237071885931125,
+    "Tcorrdefgprank": 226,
+    "Tcorrdftr": 0.31656162728062404,
+    "Tcorrdftrrank": 115,
+    "Tcorrdorbp": 0.24884004589391656,
+    "Tcorrdorbprank": 88,
+    "Tcorrdtovr": 0.16664697679825335,
+    "Tcorrdtovrrank": 126,
+    "Tcorroastr": 0.17954083067249121,
+    "Tcorroastrrank": 50,
+    "Tcorroeff": 120.48980132265005,
+    "Tcorroeffrank": 48,
+    "Tcorroefgp": 0.5679432658171836,
+    "Tcorroefgprank": 68,
+    "Tcorroftr": 0.24506795230601022,
+    "Tcorroftrrank": 334,
+    "Tcorroorbp": 0.4769973699560227,
+    "Tcorroorbprank": 4,
+    "Tcorrotovr": 0.1273508012430841,
+    "Tcorrotovrrank": 85,
+    "Teff": 120.59697269769416,
+    "Tefgp": 0.5458015267175572,
+    "Tftr": 0.3015267175572519,
+    "Tneteff": 15.727129980333672,
+    "Tneteffrank": 69,
+    "Torbp": 0.4409448818897638,
+    "Tposs": 282.76,
+    "Ttovr": 0.12398157987956075,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            87.3015873015873,
+            104.04454865181712
+        ],
+        [
+            134.28571428571428,
+            110.38186157517902
+        ],
+        [
+            143.20536258379036,
+            91.85548071034906
+        ],
+        [
+            121.64429530201343,
+            108.75706214689266
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 67.91458041436239,
+    "poss": [
+        [
+            75.6,
+            68.24
+        ],
+        [
+            70.0,
+            67.03999999999999
+        ],
+        [
+            65.64,
+            65.32
+        ],
+        [
+            71.52,
+            70.8
+        ]
+    ],
+    "preseason_pace": 65.57067496500997,
+    "preseason_pred": 13.438653780700417,
+    "preseason_predd": 102.76009953186328,
+    "preseason_predo": 116.1987533125637,
+    "schedule": [
+        "brigham-young",
+        "queens-nc",
+        "sacred-heart",
+        "duquesne"
+    ],
+    "scores": [
+        [
+            66,
+            71
+        ],
+        [
+            94,
+            74
+        ],
+        [
+            94,
+            60
+        ],
+        [
+            87,
+            77
+        ]
+    ],
+    "wins": 3
+}

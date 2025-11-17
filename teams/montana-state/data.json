@@ -1,0 +1,195 @@
+{
+    "CompRank": 159,
+    "CompositeDef": 105.15016910656585,
+    "CompositeOff": 102.30589654590341,
+    "CompositePace": 67.38354609797385,
+    "CompositeRating": -2.844272560662441,
+    "HA": [
+        "A",
+        "H",
+        "A",
+        "A"
+    ],
+    "OAst": 50.0,
+    "OAvgCompRat": 7.722645850038871,
+    "OBlk": 10.0,
+    "ODR": 98.0,
+    "OFGA": 220.0,
+    "OFGA3": 69.0,
+    "OFGM": 104.0,
+    "OFGM3": 21.0,
+    "OFTA": 92.0,
+    "OFTM": 69.0,
+    "OOR": 32.0,
+    "OPF": 55.0,
+    "OScore": 298.0,
+    "OStl": 21.0,
+    "OTO": 42.0,
+    "Oastr": 0.1418520199727644,
+    "Ocomprank": 49,
+    "Ocorrdastr": 0.11742307057720562,
+    "Ocorrdeff": 101.03459459391064,
+    "Ocorrdeffrank": 95,
+    "Ocorrdefgp": 0.5032043753950354,
+    "Ocorrdftr": 0.40797658753121024,
+    "Ocorrdorbp": 0.25188953132258507,
+    "Ocorrdtovr": 0.17309528027673093,
+    "Ocorroastr": 0.14660253864390263,
+    "Ocorroeff": 115.60259587626082,
+    "Ocorroeffrank": 43,
+    "Ocorroefgp": 0.5436404917466205,
+    "Ocorroftr": 0.4147909581173276,
+    "Ocorroorbp": 0.3481710041286457,
+    "Ocorrotovr": 0.1409972969179867,
+    "Oeff": 110.17450458444246,
+    "Oefgp": 0.5204545454545455,
+    "Oftr": 0.41818181818181815,
+    "Oneteff": 14.568001282350181,
+    "Oneteffrank": 46,
+    "Oorbp": 0.2882882882882883,
+    "Oposs": 270.48,
+    "Otovr": 0.13885215551441416,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 32.0,
+    "TBlk": 7.0,
+    "TDR": 79.0,
+    "TFGA": 234.0,
+    "TFGA3": 97.0,
+    "TFGM": 108.0,
+    "TFGM3": 30.0,
+    "TFTA": 48.0,
+    "TFTM": 31.0,
+    "TOR": 25.0,
+    "TPF": 80.0,
+    "TScore": 277.0,
+    "TStl": 21.0,
+    "TTO": 39.0,
+    "Tastr": 0.09812339016313014,
+    "Tcorrdastr": 0.14144832793034498,
+    "Tcorrdastrrank": 166,
+    "Tcorrdeff": 101.5617005068385,
+    "Tcorrdeffrank": 122,
+    "Tcorrdefgp": 0.4889025062349984,
+    "Tcorrdefgprank": 138,
+    "Tcorrdftr": 0.3864100696710007,
+    "Tcorrdftrrank": 211,
+    "Tcorrdorbp": 0.2501876721353344,
+    "Tcorrdorbprank": 90,
+    "Tcorrdtovr": 0.15031231061884456,
+    "Tcorrdtovrrank": 180,
+    "Tcorroastr": 0.12125309805879532,
+    "Tcorroastrrank": 292,
+    "Tcorroeff": 108.05380250996528,
+    "Tcorroeffrank": 151,
+    "Tcorroefgp": 0.5320951187059257,
+    "Tcorroefgprank": 128,
+    "Tcorroftr": 0.1931973803184959,
+    "Tcorroftrrank": 358,
+    "Tcorroorbp": 0.2411583828109953,
+    "Tcorroorbprank": 279,
+    "Tcorrotovr": 0.11770581014109475,
+    "Tcorrotovrrank": 52,
+    "Teff": 102.92806183115339,
+    "Tefgp": 0.5256410256410257,
+    "Tftr": 0.20512820512820512,
+    "Tneteff": 6.492102003126774,
+    "Tneteffrank": 132,
+    "Torbp": 0.2032520325203252,
+    "Tposs": 269.12,
+    "Ttovr": 0.13259893920848634,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            9
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            113.9018691588785,
+            123.23943661971832
+        ],
+        [
+            113.92009987515605,
+            116.45962732919254
+        ],
+        [
+            93.50935093509351,
+            100.99685204616999
+        ],
+        [
+            90.85213032581453,
+            100.51880674448768
+        ]
+    ],
+    "losses": 4,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 66.97967866819465,
+    "poss": [
+        [
+            68.48,
+            68.16
+        ],
+        [
+            64.08,
+            64.4
+        ],
+        [
+            72.72,
+            76.24
+        ],
+        [
+            63.84,
+            61.68
+        ]
+    ],
+    "preseason_pace": 67.56082672558611,
+    "preseason_pred": -6.942543974122728,
+    "preseason_predd": 106.72535422578773,
+    "preseason_predo": 99.782810251665,
+    "schedule": [
+        "colorado",
+        "denver",
+        "stanford",
+        "boise-state"
+    ],
+    "scores": [
+        [
+            78,
+            84
+        ],
+        [
+            73,
+            75
+        ],
+        [
+            68,
+            77
+        ],
+        [
+            58,
+            62
+        ]
+    ],
+    "wins": 0
+}

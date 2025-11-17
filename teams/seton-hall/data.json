@@ -1,0 +1,195 @@
+{
+    "CompRank": 79,
+    "CompositeDef": 98.28317390917931,
+    "CompositeOff": 108.28600761008711,
+    "CompositePace": 66.3454920086725,
+    "CompositeRating": 10.002833700907814,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 35.0,
+    "OAvgCompRat": -15.9247918643291,
+    "OBlk": 13.0,
+    "ODR": 85.0,
+    "OFGA": 193.0,
+    "OFGA3": 84.0,
+    "OFGM": 68.0,
+    "OFGM3": 32.0,
+    "OFTA": 84.0,
+    "OFTM": 60.0,
+    "OOR": 35.0,
+    "OPF": 84.0,
+    "OScore": 228.0,
+    "OStl": 21.0,
+    "OTO": 67.0,
+    "Oastr": 0.10543438968550427,
+    "Ocomprank": 357,
+    "Ocorrdastr": 0.15164969478507734,
+    "Ocorrdeff": 106.84949688415523,
+    "Ocorrdeffrank": 192,
+    "Ocorrdefgp": 0.5109780334139431,
+    "Ocorrdftr": 0.43516230442154363,
+    "Ocorrdorbp": 0.3118620479179152,
+    "Ocorrdtovr": 0.16452034959688253,
+    "Ocorroastr": 0.11586816867739969,
+    "Ocorroeff": 97.65287053471113,
+    "Ocorroeffrank": 322,
+    "Ocorroefgp": 0.4431353590705691,
+    "Ocorroftr": 0.4022579274482795,
+    "Ocorroorbp": 0.32077968990121725,
+    "Ocorrotovr": 0.14630597944142826,
+    "Oeff": 87.03618873110398,
+    "Oefgp": 0.43523316062176165,
+    "Oftr": 0.43523316062176165,
+    "Oneteff": -9.196626349444102,
+    "Oneteffrank": 286,
+    "Oorbp": 0.2892561983471074,
+    "Oposs": 261.96000000000004,
+    "Otovr": 0.2256196120689655,
+    "SoR": 35.60775776622316,
+    "SoRrank": 74,
+    "TAst": 51.0,
+    "TBlk": 40.0,
+    "TDR": 86.0,
+    "TFGA": 234.0,
+    "TFGA3": 74.0,
+    "TFGM": 94.0,
+    "TFGM3": 23.0,
+    "TFTA": 115.0,
+    "TFTM": 86.0,
+    "TOR": 57.0,
+    "TPF": 82.0,
+    "TScore": 297.0,
+    "TStl": 43.0,
+    "TTO": 31.0,
+    "Tastr": 0.13911620294599017,
+    "Tcorrdastr": 0.13177858906719173,
+    "Tcorrdastrrank": 111,
+    "Tcorrdeff": 94.34245575391454,
+    "Tcorrdeffrank": 51,
+    "Tcorrdefgp": 0.49750163707519707,
+    "Tcorrdefgprank": 168,
+    "Tcorrdftr": 0.4141887080612963,
+    "Tcorrdftrrank": 245,
+    "Tcorrdorbp": 0.271573492134032,
+    "Tcorrdorbprank": 132,
+    "Tcorrdtovr": 0.23572625785917012,
+    "Tcorrdtovrrank": 7,
+    "Tcorroastr": 0.1344753056904239,
+    "Tcorroastrrank": 235,
+    "Tcorroeff": 114.26192137619148,
+    "Tcorroeffrank": 98,
+    "Tcorroefgp": 0.4497223395992135,
+    "Tcorroefgprank": 306,
+    "Tcorroftr": 0.4350705669702584,
+    "Tcorroftrrank": 108,
+    "Tcorroorbp": 0.38797395473459123,
+    "Tcorroorbprank": 49,
+    "Tcorrotovr": 0.09155196965646636,
+    "Tcorrotovrrank": 9,
+    "Teff": 114.84918793503479,
+    "Tefgp": 0.45085470085470086,
+    "Tftr": 0.49145299145299143,
+    "Tneteff": 19.919465622276945,
+    "Tneteffrank": 50,
+    "Torbp": 0.4014084507042254,
+    "Tposs": 258.6,
+    "Ttovr": 0.09822560202788339,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            10
+        ],
+        [
+            11,
+            13
+        ]
+    ],
+    "geff": [
+        [
+            133.1258644536653,
+            82.39947264337508
+        ],
+        [
+            106.98552548772813,
+            94.89732420659614
+        ],
+        [
+            116.60978384527874,
+            86.61186142102171
+        ],
+        [
+            104.66507177033493,
+            84.20441347270616
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 66.66002314117733,
+    "poss": [
+        [
+            57.84,
+            60.68
+        ],
+        [
+            63.56,
+            64.28
+        ],
+        [
+            70.32,
+            68.12
+        ],
+        [
+            66.88,
+            68.88
+        ]
+    ],
+    "preseason_pace": 66.20742621662646,
+    "preseason_pred": 5.649853982337003,
+    "preseason_predd": 100.01298160422009,
+    "preseason_predo": 105.66283558655708,
+    "schedule": [
+        "saint-peters",
+        "wagner",
+        "fairfield",
+        "monmouth"
+    ],
+    "scores": [
+        [
+            77,
+            50
+        ],
+        [
+            68,
+            61
+        ],
+        [
+            82,
+            59
+        ],
+        [
+            70,
+            58
+        ]
+    ],
+    "wins": 4
+}

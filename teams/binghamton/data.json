@@ -1,0 +1,195 @@
+{
+    "CompRank": 319,
+    "CompositeDef": 114.14006433387198,
+    "CompositeOff": 99.08498152512463,
+    "CompositePace": 68.40650041218619,
+    "CompositeRating": -15.055082808747336,
+    "HA": [
+        "A",
+        "H",
+        "A",
+        "A"
+    ],
+    "OAst": 56.0,
+    "OAvgCompRat": 2.7899989655926554,
+    "OBlk": 18.0,
+    "ODR": 88.0,
+    "OFGA": 255.0,
+    "OFGA3": 94.0,
+    "OFGM": 119.0,
+    "OFGM3": 24.0,
+    "OFTA": 84.0,
+    "OFTM": 63.0,
+    "OOR": 39.0,
+    "OPF": 74.0,
+    "OScore": 325.0,
+    "OStl": 41.0,
+    "OTO": 25.0,
+    "Oastr": 0.15015015015015015,
+    "Ocomprank": 115,
+    "Ocorrdastr": 0.13278305636451285,
+    "Ocorrdeff": 94.30807412252356,
+    "Ocorrdeffrank": 21,
+    "Ocorrdefgp": 0.462509019366019,
+    "Ocorrdftr": 0.3629177903831319,
+    "Ocorrdorbp": 0.2755399899433548,
+    "Ocorrdtovr": 0.17063781331986588,
+    "Ocorroastr": 0.14546287270152863,
+    "Ocorroeff": 105.32216002614973,
+    "Ocorroeffrank": 208,
+    "Ocorroefgp": 0.4583259730482868,
+    "Ocorroftr": 0.36847882369007756,
+    "Ocorroorbp": 0.25828672442411765,
+    "Ocorrotovr": 0.1176507323967417,
+    "Oeff": 116.92329831630451,
+    "Oefgp": 0.5137254901960784,
+    "Oftr": 0.32941176470588235,
+    "Oneteff": 11.014085903626167,
+    "Oneteffrank": 72,
+    "Oorbp": 0.31451612903225806,
+    "Oposs": 277.96,
+    "Otovr": 0.07887430590610803,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 41.0,
+    "TBlk": 14.0,
+    "TDR": 85.0,
+    "TFGA": 208.0,
+    "TFGA3": 70.0,
+    "TFGM": 85.0,
+    "TFGM3": 17.0,
+    "TFTA": 90.0,
+    "TFTM": 71.0,
+    "TOR": 30.0,
+    "TPF": 71.0,
+    "TScore": 258.0,
+    "TStl": 9.0,
+    "TTO": 62.0,
+    "Tastr": 0.11694238448374215,
+    "Tcorrdastr": 0.15084890225924505,
+    "Tcorrdastrrank": 223,
+    "Tcorrdeff": 117.86471132578983,
+    "Tcorrdeffrank": 313,
+    "Tcorrdefgp": 0.5685251424747291,
+    "Tcorrdefgprank": 308,
+    "Tcorrdftr": 0.34102601648613445,
+    "Tcorrdftrrank": 148,
+    "Tcorrdorbp": 0.36357786756186794,
+    "Tcorrdorbprank": 302,
+    "Tcorrdtovr": 0.10159133992618133,
+    "Tcorrdtovrrank": 345,
+    "Tcorroastr": 0.12842020265575407,
+    "Tcorroastrrank": 261,
+    "Tcorroeff": 103.49422340057451,
+    "Tcorroeffrank": 211,
+    "Tcorroefgp": 0.49341360657249633,
+    "Tcorroefgprank": 216,
+    "Tcorroftr": 0.4559885258016253,
+    "Tcorroftrrank": 87,
+    "Tcorroorbp": 0.2767498237209996,
+    "Tcorroorbprank": 213,
+    "Tcorrotovr": 0.18022322156715775,
+    "Tcorrotovrrank": 287,
+    "Teff": 92.27467811158797,
+    "Tefgp": 0.4495192307692308,
+    "Tftr": 0.4326923076923077,
+    "Tneteff": -14.370487925215315,
+    "Tneteffrank": 288,
+    "Torbp": 0.2542372881355932,
+    "Tposs": 279.6,
+    "Ttovr": 0.20025839793281652,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            67.451205510907,
+            121.35922330097087
+        ],
+        [
+            91.0493827160494,
+            103.90818858560793
+        ],
+        [
+            106.06060606060606,
+            123.4384295062463
+        ],
+        [
+            103.64004044489383,
+            118.11023622047243
+        ]
+    ],
+    "losses": 4,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 70.78165950724755,
+    "poss": [
+        [
+            69.68,
+            70.04
+        ],
+        [
+            64.8,
+            64.48
+        ],
+        [
+            66.0,
+            67.24
+        ],
+        [
+            79.12,
+            76.2
+        ]
+    ],
+    "preseason_pace": 67.36390657073264,
+    "preseason_pred": -15.35559085090131,
+    "preseason_predd": 112.50510269132916,
+    "preseason_predo": 97.14951184042785,
+    "schedule": [
+        "syracuse",
+        "niagara",
+        "georgetown",
+        "longwood"
+    ],
+    "scores": [
+        [
+            47,
+            85
+        ],
+        [
+            59,
+            67
+        ],
+        [
+            70,
+            83
+        ],
+        [
+            82,
+            90
+        ]
+    ],
+    "wins": 0
+}

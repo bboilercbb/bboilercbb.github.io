@@ -1,0 +1,195 @@
+{
+    "CompRank": 101,
+    "CompositeDef": 99.75061827075658,
+    "CompositeOff": 105.00238756228597,
+    "CompositePace": 69.19217403626396,
+    "CompositeRating": 5.251769291529399,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 45.0,
+    "OAvgCompRat": -10.44187832913272,
+    "OBlk": 8.0,
+    "ODR": 83.0,
+    "OFGA": 230.0,
+    "OFGA3": 98.0,
+    "OFGM": 96.0,
+    "OFGM3": 33.0,
+    "OFTA": 83.0,
+    "OFTM": 62.0,
+    "OOR": 36.0,
+    "OPF": 76.0,
+    "OScore": 287.0,
+    "OStl": 28.0,
+    "OTO": 67.0,
+    "Oastr": 0.11888407481771109,
+    "Ocomprank": 329,
+    "Ocorrdastr": 0.1573780047757667,
+    "Ocorrdeff": 110.07158562067923,
+    "Ocorrdeffrank": 264,
+    "Ocorrdefgp": 0.5210882130701233,
+    "Ocorrdftr": 0.3784599442736278,
+    "Ocorrdorbp": 0.24933967938279095,
+    "Ocorrdtovr": 0.138976652083123,
+    "Ocorroastr": 0.15221235744442083,
+    "Ocorroeff": 110.69198674019563,
+    "Ocorroeffrank": 110,
+    "Ocorroefgp": 0.5771779660732195,
+    "Ocorroftr": 0.3035026452208229,
+    "Ocorroorbp": 0.2663976771128539,
+    "Ocorrotovr": 0.16919246668275534,
+    "Oeff": 96.4641032535628,
+    "Oefgp": 0.4891304347826087,
+    "Oftr": 0.36086956521739133,
+    "Oneteff": 0.6204011195164014,
+    "Oneteffrank": 184,
+    "Oorbp": 0.2857142857142857,
+    "Oposs": 297.52,
+    "Otovr": 0.20088750299832095,
+    "SoR": 5.149771436146045,
+    "SoRrank": 161,
+    "TAst": 62.0,
+    "TBlk": 20.0,
+    "TDR": 90.0,
+    "TFGA": 229.0,
+    "TFGA3": 88.0,
+    "TFGM": 124.0,
+    "TFGM3": 38.0,
+    "TFTA": 73.0,
+    "TFTM": 46.0,
+    "TOR": 30.0,
+    "TPF": 78.0,
+    "TScore": 332.0,
+    "TStl": 32.0,
+    "TTO": 56.0,
+    "Tastr": 0.16353661109938805,
+    "Tcorrdastr": 0.11434792610762336,
+    "Tcorrdastrrank": 44,
+    "Tcorrdeff": 92.70726841730675,
+    "Tcorrdeffrank": 38,
+    "Tcorrdefgp": 0.43381400299751405,
+    "Tcorrdefgprank": 37,
+    "Tcorrdftr": 0.45007715967474976,
+    "Tcorrdftrrank": 291,
+    "Tcorrdorbp": 0.32062245881363105,
+    "Tcorrdorbprank": 233,
+    "Tcorrdtovr": 0.18255076520339844,
+    "Tcorrdtovrrank": 69,
+    "Tcorroastr": 0.15255268124518692,
+    "Tcorroastrrank": 137,
+    "Tcorroeff": 111.80477085065245,
+    "Tcorroeffrank": 121,
+    "Tcorroefgp": 0.6112782195163101,
+    "Tcorroefgprank": 16,
+    "Tcorroftr": 0.3226837800500478,
+    "Tcorroftrrank": 251,
+    "Tcorroorbp": 0.31809195318878697,
+    "Tcorroorbprank": 145,
+    "Tcorrotovr": 0.1935357671656918,
+    "Tcorrotovrrank": 321,
+    "Teff": 115.63109501253831,
+    "Tefgp": 0.6244541484716157,
+    "Tftr": 0.31877729257641924,
+    "Tneteff": 19.097502433345696,
+    "Tneteffrank": 55,
+    "Torbp": 0.26548672566371684,
+    "Tposs": 287.12,
+    "Ttovr": 0.17658930373360243,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            111.22881355932203,
+            93.20735444330951
+        ],
+        [
+            93.2247899159664,
+            90.48091224590976
+        ],
+        [
+            127.50949538795443,
+            91.18127381600435
+        ],
+        [
+            134.47828904731043,
+            113.7761377613776
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 73.43403339328948,
+    "poss": [
+        [
+            75.52,
+            78.32
+        ],
+        [
+            76.16,
+            80.68
+        ],
+        [
+            73.72,
+            73.48
+        ],
+        [
+            61.72,
+            65.04
+        ]
+    ],
+    "preseason_pace": 67.33017815938034,
+    "preseason_pred": -0.8259187816958615,
+    "preseason_predd": 102.84234934497324,
+    "preseason_predo": 102.01643056327738,
+    "schedule": [
+        "denver",
+        "cal-poly",
+        "eastern-washington",
+        "idaho-state"
+    ],
+    "scores": [
+        [
+            84,
+            73
+        ],
+        [
+            71,
+            73
+        ],
+        [
+            94,
+            67
+        ],
+        [
+            83,
+            74
+        ]
+    ],
+    "wins": 3
+}

@@ -1,0 +1,195 @@
+{
+    "CompRank": 46,
+    "CompositeDef": 103.21264792318964,
+    "CompositeOff": 119.90195346471637,
+    "CompositePace": 69.59362610291655,
+    "CompositeRating": 16.689305541526725,
+    "HA": [
+        "H",
+        "A",
+        "H",
+        "N"
+    ],
+    "OAst": 64.0,
+    "OAvgCompRat": -0.35202398361720694,
+    "OBlk": 8.0,
+    "ODR": 82.0,
+    "OFGA": 267.0,
+    "OFGA3": 91.0,
+    "OFGM": 122.0,
+    "OFGM3": 33.0,
+    "OFTA": 64.0,
+    "OFTM": 46.0,
+    "OOR": 41.0,
+    "OPF": 74.0,
+    "OScore": 323.0,
+    "OStl": 28.0,
+    "OTO": 39.0,
+    "Oastr": 0.16073940124573036,
+    "Ocomprank": 154,
+    "Ocorrdastr": 0.1433408558756888,
+    "Ocorrdeff": 105.41173065879812,
+    "Ocorrdeffrank": 166,
+    "Ocorrdefgp": 0.4824070490052349,
+    "Ocorrdftr": 0.3974648828676138,
+    "Ocorrdorbp": 0.32206891079746564,
+    "Ocorrdtovr": 0.15150269806930727,
+    "Ocorroastr": 0.16375693510636838,
+    "Ocorroeff": 105.30879227084621,
+    "Ocorroeffrank": 209,
+    "Ocorroefgp": 0.5162231057403756,
+    "Ocorroftr": 0.28703978493512444,
+    "Ocorroorbp": 0.28948740365747233,
+    "Ocorrotovr": 0.14543085056039387,
+    "Oeff": 110.17874198389957,
+    "Oefgp": 0.5187265917602997,
+    "Oftr": 0.2397003745318352,
+    "Oneteff": -0.1029383879519088,
+    "Oneteffrank": 192,
+    "Oorbp": 0.3178294573643411,
+    "Oposs": 293.16,
+    "Otovr": 0.11671055781661478,
+    "SoR": 2.873711325158601,
+    "SoRrank": 180,
+    "TAst": 62.0,
+    "TBlk": 17.0,
+    "TDR": 88.0,
+    "TFGA": 258.0,
+    "TFGA3": 123.0,
+    "TFGM": 128.0,
+    "TFGM3": 42.0,
+    "TFTA": 81.0,
+    "TFTM": 66.0,
+    "TOR": 42.0,
+    "TPF": 67.0,
+    "TScore": 364.0,
+    "TStl": 25.0,
+    "TTO": 45.0,
+    "Tastr": 0.1547523961661342,
+    "Tcorrdastr": 0.14412656826629708,
+    "Tcorrdastrrank": 181,
+    "Tcorrdeff": 111.07938685995177,
+    "Tcorrdeffrank": 242,
+    "Tcorrdefgp": 0.5121009201065599,
+    "Tcorrdefgprank": 197,
+    "Tcorrdftr": 0.3153983188793631,
+    "Tcorrdftrrank": 112,
+    "Tcorrdorbp": 0.3293042410156605,
+    "Tcorrdorbprank": 249,
+    "Tcorrdtovr": 0.1226430166644076,
+    "Tcorrdtovrrank": 295,
+    "Tcorroastr": 0.15790551252238405,
+    "Tcorroastrrank": 124,
+    "Tcorroeff": 123.67845127504854,
+    "Tcorroeffrank": 25,
+    "Tcorroefgp": 0.6087877617451243,
+    "Tcorroefgprank": 20,
+    "Tcorroftr": 0.30319727658419593,
+    "Tcorroftrrank": 274,
+    "Tcorroorbp": 0.3174062451727923,
+    "Tcorroorbprank": 147,
+    "Tcorrotovr": 0.1340565527053186,
+    "Tcorrotovrrank": 114,
+    "Teff": 122.70765911542611,
+    "Tefgp": 0.5775193798449613,
+    "Tftr": 0.313953488372093,
+    "Tneteff": 12.599064415096777,
+    "Tneteffrank": 93,
+    "Torbp": 0.3387096774193548,
+    "Tposs": 296.64,
+    "Ttovr": 0.13288447909284196,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            130.9034907597536,
+            84.18367346938776
+        ],
+        [
+            90.76348104644954,
+            112.40520043336944
+        ],
+        [
+            136.57274295572168,
+            96.36871508379889
+        ],
+        [
+            133.35129310344828,
+            151.4714368147721
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 72.02441848081878,
+    "poss": [
+        [
+            77.92,
+            78.4
+        ],
+        [
+            74.92,
+            73.84
+        ],
+        [
+            69.56,
+            71.6
+        ],
+        [
+            74.24,
+            69.32
+        ]
+    ],
+    "preseason_pace": 68.52661161604587,
+    "preseason_pred": 18.48474746259337,
+    "preseason_predd": 99.75948405520077,
+    "preseason_predo": 118.24423151779415,
+    "schedule": [
+        "saint-francis-pa",
+        "gonzaga",
+        "arkansas-pine-bluff",
+        "nebraska"
+    ],
+    "scores": [
+        [
+            102,
+            66
+        ],
+        [
+            68,
+            83
+        ],
+        [
+            95,
+            69
+        ],
+        [
+            99,
+            105
+        ]
+    ],
+    "wins": 2
+}

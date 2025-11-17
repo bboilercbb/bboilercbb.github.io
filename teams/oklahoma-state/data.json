@@ -1,0 +1,195 @@
+{
+    "CompRank": 83,
+    "CompositeDef": 98.65541113186723,
+    "CompositeOff": 107.83770277756338,
+    "CompositePace": 71.97443719680037,
+    "CompositeRating": 9.182291645696136,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 52.0,
+    "OAvgCompRat": -10.99597241827439,
+    "OBlk": 25.0,
+    "ODR": 90.0,
+    "OFGA": 256.0,
+    "OFGA3": 116.0,
+    "OFGM": 91.0,
+    "OFGM3": 31.0,
+    "OFTA": 79.0,
+    "OFTM": 57.0,
+    "OOR": 32.0,
+    "OPF": 78.0,
+    "OScore": 270.0,
+    "OStl": 25.0,
+    "OTO": 58.0,
+    "Oastr": 0.12975346841002097,
+    "Ocomprank": 330,
+    "Ocorrdastr": 0.1589858415757583,
+    "Ocorrdeff": 109.22585256712608,
+    "Ocorrdeffrank": 248,
+    "Ocorrdefgp": 0.5139758986939414,
+    "Ocorrdftr": 0.46531823741800504,
+    "Ocorrdorbp": 0.3042268726302149,
+    "Ocorrdtovr": 0.18087063872162115,
+    "Ocorroastr": 0.11912614917368565,
+    "Ocorroeff": 91.00689624863966,
+    "Ocorroeffrank": 355,
+    "Ocorroefgp": 0.42881005141488365,
+    "Ocorroftr": 0.4280530573207486,
+    "Ocorroorbp": 0.24758764535470784,
+    "Ocorrotovr": 0.1319856788947671,
+    "Oeff": 85.2380351054426,
+    "Oefgp": 0.416015625,
+    "Oftr": 0.30859375,
+    "Oneteff": -18.21895631848642,
+    "Oneteffrank": 348,
+    "Oorbp": 0.19875776397515527,
+    "Oposs": 316.76,
+    "Otovr": 0.1663034751691708,
+    "SoR": 54.74541611839931,
+    "SoRrank": 43,
+    "TAst": 65.0,
+    "TBlk": 14.0,
+    "TDR": 129.0,
+    "TFGA": 269.0,
+    "TFGA3": 100.0,
+    "TFGM": 126.0,
+    "TFGM3": 29.0,
+    "TFTA": 106.0,
+    "TFTM": 80.0,
+    "TOR": 46.0,
+    "TPF": 65.0,
+    "TScore": 361.0,
+    "TStl": 38.0,
+    "TTO": 53.0,
+    "Tastr": 0.14989392122497924,
+    "Tcorrdastr": 0.15791344861103773,
+    "Tcorrdastrrank": 258,
+    "Tcorrdeff": 98.86214405370215,
+    "Tcorrdeffrank": 94,
+    "Tcorrdefgp": 0.490776963301619,
+    "Tcorrdefgprank": 146,
+    "Tcorrdftr": 0.27666070877608984,
+    "Tcorrdftrrank": 69,
+    "Tcorrdorbp": 0.2392867274908074,
+    "Tcorrdorbprank": 70,
+    "Tcorrdtovr": 0.1918150497034731,
+    "Tcorrdtovrrank": 42,
+    "Tcorroastr": 0.13846837673560897,
+    "Tcorroastrrank": 214,
+    "Tcorroeff": 108.9910425899347,
+    "Tcorroeffrank": 141,
+    "Tcorroefgp": 0.5180751378009066,
+    "Tcorroefgprank": 165,
+    "Tcorroftr": 0.3271098328137608,
+    "Tcorroftrrank": 246,
+    "Tcorroorbp": 0.3347883943172326,
+    "Tcorroorbprank": 115,
+    "Tcorrotovr": 0.12235165839778855,
+    "Tcorrotovrrank": 73,
+    "Teff": 111.88941234812795,
+    "Tefgp": 0.5223048327137546,
+    "Tftr": 0.3940520446096654,
+    "Tneteff": 10.12889853623254,
+    "Tneteffrank": 112,
+    "Torbp": 0.3382352941176471,
+    "Tposs": 322.64,
+    "Ttovr": 0.1437717013888889,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            4
+        ],
+        [
+            11,
+            9
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            110.20881670533642,
+            83.84506376948511
+        ],
+        [
+            114.95771670190274,
+            83.4658187599364
+        ],
+        [
+            112.06485455412495,
+            84.63870641738252
+        ],
+        [
+            110.56191467221645,
+            89.10123966942149
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 75.36733607112585,
+    "poss": [
+        [
+            86.2,
+            84.68
+        ],
+        [
+            75.68,
+            75.48
+        ],
+        [
+            83.88,
+            79.16
+        ],
+        [
+            76.88,
+            77.44
+        ]
+    ],
+    "preseason_pace": 70.48509887062183,
+    "preseason_pred": 8.766771474267262,
+    "preseason_predd": 98.56466417029361,
+    "preseason_predo": 107.33143564456088,
+    "schedule": [
+        "oral-roberts",
+        "texas-am",
+        "prairie-view",
+        "texas-am-corpus-christi"
+    ],
+    "scores": [
+        [
+            95,
+            71
+        ],
+        [
+            87,
+            63
+        ],
+        [
+            94,
+            67
+        ],
+        [
+            85,
+            69
+        ]
+    ],
+    "wins": 4
+}

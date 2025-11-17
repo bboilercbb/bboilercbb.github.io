@@ -1,0 +1,195 @@
+{
+    "CompRank": 18,
+    "CompositeDef": 99.25208978763882,
+    "CompositeOff": 121.76751602766555,
+    "CompositePace": 70.43857817864566,
+    "CompositeRating": 22.51542624002673,
+    "HA": [
+        "H",
+        "A",
+        "H",
+        "H"
+    ],
+    "OAst": 44.0,
+    "OAvgCompRat": -6.724850393026811,
+    "OBlk": 6.0,
+    "ODR": 81.0,
+    "OFGA": 231.0,
+    "OFGA3": 99.0,
+    "OFGM": 91.0,
+    "OFGM3": 33.0,
+    "OFTA": 95.0,
+    "OFTM": 76.0,
+    "OOR": 27.0,
+    "OPF": 71.0,
+    "OScore": 291.0,
+    "OStl": 12.0,
+    "OTO": 56.0,
+    "Oastr": 0.11802575107296137,
+    "Ocomprank": 279,
+    "Ocorrdastr": 0.19710658495057784,
+    "Ocorrdeff": 114.5724051784116,
+    "Ocorrdeffrank": 323,
+    "Ocorrdefgp": 0.5553986476141688,
+    "Ocorrdftr": 0.4157738450006234,
+    "Ocorrdorbp": 0.3297287047850801,
+    "Ocorrdtovr": 0.14116620819704673,
+    "Ocorroastr": 0.1504765561573831,
+    "Ocorroeff": 101.98406273200553,
+    "Ocorroeffrank": 262,
+    "Ocorroefgp": 0.4994373698471753,
+    "Ocorroftr": 0.2820938139240035,
+    "Ocorroorbp": 0.302344784012165,
+    "Ocorrotovr": 0.15552607960489478,
+    "Oeff": 96.42147117296223,
+    "Oefgp": 0.4653679653679654,
+    "Oftr": 0.41125541125541126,
+    "Oneteff": -12.588342446406074,
+    "Oneteffrank": 312,
+    "Oorbp": 0.20454545454545456,
+    "Oposs": 301.8,
+    "Otovr": 0.170316301703163,
+    "SoR": 74.35887845550224,
+    "SoRrank": 12,
+    "TAst": 79.0,
+    "TBlk": 22.0,
+    "TDR": 105.0,
+    "TFGA": 276.0,
+    "TFGA3": 129.0,
+    "TFGM": 146.0,
+    "TFGM3": 52.0,
+    "TFTA": 83.0,
+    "TFTM": 62.0,
+    "TOR": 46.0,
+    "TPF": 81.0,
+    "TScore": 406.0,
+    "TStl": 42.0,
+    "TTO": 28.0,
+    "Tastr": 0.18831045003813884,
+    "Tcorrdastr": 0.11477933319213691,
+    "Tcorrdastrrank": 46,
+    "Tcorrdeff": 100.25033077571644,
+    "Tcorrdeffrank": 108,
+    "Tcorrdefgp": 0.47423880134229074,
+    "Tcorrdefgprank": 104,
+    "Tcorrdftr": 0.5502367826218865,
+    "Tcorrdftrrank": 336,
+    "Tcorrdorbp": 0.20326998873064742,
+    "Tcorrdorbprank": 22,
+    "Tcorrdtovr": 0.16780512738841807,
+    "Tcorrdtovrrank": 124,
+    "Tcorroastr": 0.14152164698867173,
+    "Tcorroastrrank": 197,
+    "Tcorroeff": 128.2586362064962,
+    "Tcorroeffrank": 9,
+    "Tcorroefgp": 0.5738114245645685,
+    "Tcorroefgprank": 59,
+    "Tcorroftr": 0.27813203268000886,
+    "Tcorroftrrank": 304,
+    "Tcorroorbp": 0.3318496303675601,
+    "Tcorroorbprank": 124,
+    "Tcorrotovr": 0.08877572695267602,
+    "Tcorrotovrrank": 7,
+    "Teff": 137.85141925845446,
+    "Tefgp": 0.6231884057971014,
+    "Tftr": 0.3007246376811594,
+    "Tneteff": 28.008305430779757,
+    "Tneteffrank": 17,
+    "Torbp": 0.36220472440944884,
+    "Tposs": 294.52,
+    "Ttovr": 0.08222718195700693,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            142.89602612955906,
+            80.60253699788582
+        ],
+        [
+            142.89602612955906,
+            120.27935851008796
+        ],
+        [
+            122.60127931769722,
+            83.37816030123723
+        ],
+        [
+            143.40871483728628,
+            100.75228371843096
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 73.38081794344308,
+    "poss": [
+        [
+            73.48,
+            75.68
+        ],
+        [
+            73.48,
+            77.32
+        ],
+        [
+            75.04,
+            74.36
+        ],
+        [
+            72.52,
+            74.44
+        ]
+    ],
+    "preseason_pace": 69.14706003771948,
+    "preseason_pred": 20.104285854510998,
+    "preseason_predd": 98.81390444307799,
+    "preseason_predo": 118.91819029758899,
+    "schedule": [
+        "lipscomb",
+        "central-florida",
+        "eastern-kentucky",
+        "arkansas-pine-bluff"
+    ],
+    "scores": [
+        [
+            105,
+            61
+        ],
+        [
+            105,
+            93
+        ],
+        [
+            92,
+            62
+        ],
+        [
+            104,
+            75
+        ]
+    ],
+    "wins": 4
+}

@@ -1,0 +1,195 @@
+{
+    "CompRank": 39,
+    "CompositeDef": 95.02141758561186,
+    "CompositeOff": 113.15823113113174,
+    "CompositePace": 67.77042554518708,
+    "CompositeRating": 18.136813545519896,
+    "HA": [
+        "N",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 41.0,
+    "OAvgCompRat": -7.911408989408912,
+    "OBlk": 7.0,
+    "ODR": 83.0,
+    "OFGA": 238.0,
+    "OFGA3": 85.0,
+    "OFGM": 89.0,
+    "OFGM3": 23.0,
+    "OFTA": 68.0,
+    "OFTM": 47.0,
+    "OOR": 28.0,
+    "OPF": 88.0,
+    "OScore": 248.0,
+    "OStl": 15.0,
+    "OTO": 38.0,
+    "Oastr": 0.11818286636688573,
+    "Ocomprank": 295,
+    "Ocorrdastr": 0.18705407790439144,
+    "Ocorrdeff": 120.04347898186357,
+    "Ocorrdeffrank": 360,
+    "Ocorrdefgp": 0.5957534273499049,
+    "Ocorrdftr": 0.3120715810254154,
+    "Ocorrdorbp": 0.32753940329359177,
+    "Ocorrdtovr": 0.13593217310575842,
+    "Ocorroastr": 0.1414229502572471,
+    "Ocorroeff": 110.42996351769877,
+    "Ocorroeffrank": 118,
+    "Ocorroefgp": 0.5364608542416012,
+    "Ocorroftr": 0.3741879794219403,
+    "Ocorroorbp": 0.2936968323781497,
+    "Ocorrotovr": 0.1453938394556431,
+    "Oeff": 89.23431203223949,
+    "Oefgp": 0.4222689075630252,
+    "Oftr": 0.2857142857142857,
+    "Oneteff": -9.613515464164806,
+    "Oneteffrank": 291,
+    "Oorbp": 0.19444444444444445,
+    "Oposs": 277.92,
+    "Otovr": 0.12421548117154811,
+    "SoR": 12.826990037651232,
+    "SoRrank": 125,
+    "TAst": 50.0,
+    "TBlk": 15.0,
+    "TDR": 116.0,
+    "TFGA": 250.0,
+    "TFGA3": 83.0,
+    "TFGM": 111.0,
+    "TFGM3": 24.0,
+    "TFTA": 114.0,
+    "TFTM": 75.0,
+    "TOR": 60.0,
+    "TPF": 68.0,
+    "TScore": 321.0,
+    "TStl": 21.0,
+    "TTO": 38.0,
+    "Tastr": 0.1288128606760099,
+    "Tcorrdastr": 0.12198742893247057,
+    "Tcorrdastrrank": 72,
+    "Tcorrdeff": 85.95440092122656,
+    "Tcorrdeffrank": 8,
+    "Tcorrdefgp": 0.4017648498223584,
+    "Tcorrdefgprank": 10,
+    "Tcorrdftr": 0.2914536520923523,
+    "Tcorrdftrrank": 80,
+    "Tcorrdorbp": 0.19869150272207603,
+    "Tcorrdorbprank": 18,
+    "Tcorrdtovr": 0.13056132046771055,
+    "Tcorrdtovrrank": 262,
+    "Tcorroastr": 0.10179688802003949,
+    "Tcorroastrrank": 346,
+    "Tcorroeff": 102.66810431297847,
+    "Tcorroeffrank": 219,
+    "Tcorroefgp": 0.42351488610976373,
+    "Tcorroefgprank": 338,
+    "Tcorroftr": 0.5554920973890562,
+    "Tcorroftrrank": 25,
+    "Tcorroorbp": 0.38688349195762206,
+    "Tcorroorbprank": 50,
+    "Tcorrotovr": 0.12580385550844772,
+    "Tcorrotovrrank": 81,
+    "Teff": 115.40120793787747,
+    "Tefgp": 0.492,
+    "Tftr": 0.456,
+    "Tneteff": 16.713703391751906,
+    "Tneteffrank": 64,
+    "Torbp": 0.4195804195804196,
+    "Tposs": 278.16,
+    "Ttovr": 0.11237284125857581,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            4
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            88.07985907222547,
+            111.60714285714285
+        ],
+        [
+            137.0830977953646,
+            83.93956351426972
+        ],
+        [
+            122.43285939968403,
+            77.62312633832977
+        ],
+        [
+            112.12886923562857,
+            85.2448853068816
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 67.0223239732089,
+    "poss": [
+        [
+            68.12,
+            67.2
+        ],
+        [
+            70.76,
+            71.48
+        ],
+        [
+            75.96000000000001,
+            74.72
+        ],
+        [
+            63.31999999999999,
+            64.52
+        ]
+    ],
+    "preseason_pace": 68.09881032301016,
+    "preseason_pred": 18.761498386680056,
+    "preseason_predd": 99.0014523354106,
+    "preseason_predo": 117.76295072209066,
+    "schedule": [
+        "duke",
+        "lafayette",
+        "fairleigh-dickinson",
+        "missouri-kansas-city"
+    ],
+    "scores": [
+        [
+            60,
+            75
+        ],
+        [
+            97,
+            60
+        ],
+        [
+            93,
+            58
+        ],
+        [
+            71,
+            55
+        ]
+    ],
+    "wins": 3
+}

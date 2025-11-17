@@ -1,0 +1,195 @@
+{
+    "CompRank": 217,
+    "CompositeDef": 105.21618088988711,
+    "CompositeOff": 98.20640344163616,
+    "CompositePace": 70.179645485027,
+    "CompositeRating": -7.009777448250961,
+    "HA": [
+        "A",
+        "A",
+        "A",
+        "H"
+    ],
+    "OAst": 58.0,
+    "OAvgCompRat": -1.761883933367185,
+    "OBlk": 11.0,
+    "ODR": 79.0,
+    "OFGA": 257.0,
+    "OFGA3": 91.0,
+    "OFGM": 118.0,
+    "OFGM3": 36.0,
+    "OFTA": 87.0,
+    "OFTM": 58.0,
+    "OOR": 48.0,
+    "OPF": 81.0,
+    "OScore": 330.0,
+    "OStl": 34.0,
+    "OTO": 57.0,
+    "Oastr": 0.14136687140489423,
+    "Ocomprank": 171,
+    "Ocorrdastr": 0.14283279067127652,
+    "Ocorrdeff": 108.67479178794753,
+    "Ocorrdeffrank": 231,
+    "Ocorrdefgp": 0.5068389801370196,
+    "Ocorrdftr": 0.44407128430044146,
+    "Ocorrdorbp": 0.3122732532480691,
+    "Ocorrdtovr": 0.13772981589592423,
+    "Ocorroastr": 0.1562923536308444,
+    "Ocorroeff": 110.45727960199446,
+    "Ocorroeffrank": 117,
+    "Ocorroefgp": 0.5285736924816022,
+    "Ocorroftr": 0.3565993565527956,
+    "Ocorroorbp": 0.3174532620842087,
+    "Ocorrotovr": 0.14931214889452366,
+    "Oeff": 108.45274089654266,
+    "Oefgp": 0.5291828793774319,
+    "Oftr": 0.33852140077821014,
+    "Oneteff": 1.782487814046931,
+    "Oneteffrank": 163,
+    "Oorbp": 0.34782608695652173,
+    "Oposs": 304.28,
+    "Otovr": 0.16180311116157603,
+    "SoR": 27.48413433598593,
+    "SoRrank": 82,
+    "TAst": 59.0,
+    "TBlk": 21.0,
+    "TDR": 90.0,
+    "TFGA": 238.0,
+    "TFGA3": 54.0,
+    "TFGM": 122.0,
+    "TFGM3": 23.0,
+    "TFTA": 103.0,
+    "TFTM": 58.0,
+    "TOR": 43.0,
+    "TPF": 68.0,
+    "TScore": 325.0,
+    "TStl": 33.0,
+    "TTO": 64.0,
+    "Tastr": 0.1452057491632211,
+    "Tcorrdastr": 0.13256315269760224,
+    "Tcorrdastrrank": 116,
+    "Tcorrdeff": 104.44163021857615,
+    "Tcorrdeffrank": 155,
+    "Tcorrdefgp": 0.5106983348472015,
+    "Tcorrdefgprank": 195,
+    "Tcorrdftr": 0.36165846184391137,
+    "Tcorrdftrrank": 181,
+    "Tcorrdorbp": 0.3298475661856838,
+    "Tcorrdorbprank": 250,
+    "Tcorrdtovr": 0.16578199764382898,
+    "Tcorrdtovrrank": 132,
+    "Tcorroastr": 0.14867031485398916,
+    "Tcorroastrrank": 158,
+    "Tcorroeff": 104.53546528362526,
+    "Tcorroeffrank": 197,
+    "Tcorroefgp": 0.5639017564419183,
+    "Tcorroefgprank": 76,
+    "Tcorroftr": 0.37574028444543606,
+    "Tcorroftrrank": 177,
+    "Tcorroorbp": 0.34023207859886617,
+    "Tcorroorbprank": 108,
+    "Tcorrotovr": 0.20370642767986896,
+    "Tcorrotovrrank": 337,
+    "Teff": 106.79547844374343,
+    "Tefgp": 0.5609243697478992,
+    "Tftr": 0.4327731092436975,
+    "Tneteff": 0.09383506504910599,
+    "Tneteffrank": 180,
+    "Torbp": 0.3524590163934426,
+    "Tposs": 304.32,
+    "Ttovr": 0.18426811010019578,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            6
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            94.8471121177803,
+            126.78062678062678
+        ],
+        [
+            107.20802919708028,
+            101.21457489878543
+        ],
+        [
+            107.95454545454544,
+            104.34782608695652
+        ],
+        [
+            116.4021164021164,
+            103.72899159663866
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 76.71618724336172,
+    "poss": [
+        [
+            70.64,
+            70.2
+        ],
+        [
+            87.68,
+            88.92
+        ],
+        [
+            70.4,
+            69.0
+        ],
+        [
+            75.6,
+            76.16
+        ]
+    ],
+    "preseason_pace": 67.31038161305564,
+    "preseason_pred": -10.127961267532198,
+    "preseason_predd": 105.55617569759562,
+    "preseason_predo": 95.42821443006343,
+    "schedule": [
+        "notre-dame",
+        "iupui",
+        "air-force",
+        "james-madison"
+    ],
+    "scores": [
+        [
+            67,
+            89
+        ],
+        [
+            94,
+            90
+        ],
+        [
+            76,
+            72
+        ],
+        [
+            88,
+            79
+        ]
+    ],
+    "wins": 3
+}

@@ -1,0 +1,195 @@
+{
+    "CompRank": 146,
+    "CompositeDef": 110.92587064586948,
+    "CompositeOff": 109.14112314731565,
+    "CompositePace": 64.71154472972309,
+    "CompositeRating": -1.7847474985538283,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "A"
+    ],
+    "OAst": 57.0,
+    "OAvgCompRat": -3.3422788853035414,
+    "OBlk": 13.0,
+    "ODR": 75.0,
+    "OFGA": 211.0,
+    "OFGA3": 90.0,
+    "OFGM": 95.0,
+    "OFGM3": 32.0,
+    "OFTA": 94.0,
+    "OFTM": 65.0,
+    "OOR": 34.0,
+    "OPF": 76.0,
+    "OScore": 287.0,
+    "OStl": 22.0,
+    "OTO": 41.0,
+    "Oastr": 0.16268980477223427,
+    "Ocomprank": 209,
+    "Ocorrdastr": 0.119384781710637,
+    "Ocorrdeff": 98.6128447364757,
+    "Ocorrdeffrank": 61,
+    "Ocorrdefgp": 0.46774963607446995,
+    "Ocorrdftr": 0.37058544979649505,
+    "Ocorrdorbp": 0.2984881955027252,
+    "Ocorrdtovr": 0.1883735669015767,
+    "Ocorroastr": 0.1827623211904979,
+    "Ocorroeff": 108.02719415573111,
+    "Ocorroeffrank": 161,
+    "Ocorroefgp": 0.577496758620613,
+    "Ocorroftr": 0.36788341779021233,
+    "Ocorroorbp": 0.27500398494782397,
+    "Ocorrotovr": 0.17773494222879394,
+    "Oeff": 110.65700185070943,
+    "Oefgp": 0.5260663507109005,
+    "Oftr": 0.44549763033175355,
+    "Oneteff": 9.414349419255416,
+    "Oneteffrank": 91,
+    "Oorbp": 0.27419354838709675,
+    "Oposs": 259.36,
+    "Otovr": 0.1397600218161985,
+    "SoR": 1.23609458057381,
+    "SoRrank": 203,
+    "TAst": 51.0,
+    "TBlk": 16.0,
+    "TDR": 90.0,
+    "TFGA": 229.0,
+    "TFGA3": 86.0,
+    "TFGM": 100.0,
+    "TFGM3": 33.0,
+    "TFTA": 94.0,
+    "TFTM": 60.0,
+    "TOR": 51.0,
+    "TPF": 56.0,
+    "TScore": 293.0,
+    "TStl": 18.0,
+    "TTO": 42.0,
+    "Tastr": 0.1403566710700132,
+    "Tcorrdastr": 0.13127979119430563,
+    "Tcorrdastrrank": 108,
+    "Tcorrdeff": 108.86486872282703,
+    "Tcorrdeffrank": 222,
+    "Tcorrdefgp": 0.4663255001853477,
+    "Tcorrdefgprank": 87,
+    "Tcorrdftr": 0.4619214207876868,
+    "Tcorrdftrrank": 296,
+    "Tcorrdorbp": 0.2984431749544661,
+    "Tcorrdorbprank": 188,
+    "Tcorrdtovr": 0.12113662685964532,
+    "Tcorrdtovrrank": 299,
+    "Tcorroastr": 0.1707044873068813,
+    "Tcorroastrrank": 80,
+    "Tcorroeff": 120.46224228764693,
+    "Tcorroeffrank": 49,
+    "Tcorroefgp": 0.5524020569849792,
+    "Tcorroefgprank": 89,
+    "Tcorroftr": 0.42398385530803073,
+    "Tcorroftrrank": 119,
+    "Tcorroorbp": 0.40802944910482447,
+    "Tcorroorbprank": 31,
+    "Tcorrotovr": 0.11004815865355508,
+    "Tcorrotovrrank": 38,
+    "Teff": 112.105907560453,
+    "Tefgp": 0.5087336244541485,
+    "Tftr": 0.4104803493449782,
+    "Tneteff": 11.597373564819904,
+    "Tneteffrank": 99,
+    "Torbp": 0.40476190476190477,
+    "Tposs": 261.36,
+    "Ttovr": 0.13446023818670763,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            127.42382271468144,
+            109.76314269208551
+        ],
+        [
+            104.79041916167665,
+            98.48484848484848
+        ],
+        [
+            95.15570934256056,
+            106.38297872340425
+        ],
+        [
+            117.71995043370508,
+            127.5820170109356
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 61.9653609590205,
+    "poss": [
+        [
+            72.2,
+            69.24
+        ],
+        [
+            66.8,
+            66.0
+        ],
+        [
+            57.8,
+            58.28
+        ],
+        [
+            64.56,
+            65.84
+        ]
+    ],
+    "preseason_pace": 65.91700262632779,
+    "preseason_pred": -7.658929583985371,
+    "preseason_predd": 111.83056284802804,
+    "preseason_predo": 104.17163326404267,
+    "schedule": [
+        "indiana-state",
+        "tennessee-tech",
+        "davidson",
+        "virginia-tech"
+    ],
+    "scores": [
+        [
+            92,
+            76
+        ],
+        [
+            70,
+            65
+        ],
+        [
+            55,
+            62
+        ],
+        [
+            76,
+            84
+        ]
+    ],
+    "wins": 2
+}

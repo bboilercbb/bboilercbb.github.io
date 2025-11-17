@@ -1,0 +1,195 @@
+{
+    "CompRank": 42,
+    "CompositeDef": 100.38992838100117,
+    "CompositeOff": 117.73559092533853,
+    "CompositePace": 70.04349765730817,
+    "CompositeRating": 17.34566254433735,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "A"
+    ],
+    "OAst": 55.0,
+    "OAvgCompRat": -8.845462596610108,
+    "OBlk": 15.0,
+    "ODR": 78.0,
+    "OFGA": 265.0,
+    "OFGA3": 73.0,
+    "OFGM": 114.0,
+    "OFGM3": 21.0,
+    "OFTA": 60.0,
+    "OFTM": 42.0,
+    "OOR": 32.0,
+    "OPF": 100.0,
+    "OScore": 291.0,
+    "OStl": 43.0,
+    "OTO": 58.0,
+    "Oastr": 0.13600395647873392,
+    "Ocomprank": 312,
+    "Ocorrdastr": 0.16389227963543254,
+    "Ocorrdeff": 113.07635350409593,
+    "Ocorrdeffrank": 305,
+    "Ocorrdefgp": 0.5240280618322779,
+    "Ocorrdftr": 0.43051325690419195,
+    "Ocorrdorbp": 0.29978652078954504,
+    "Ocorrdtovr": 0.14970002903544588,
+    "Ocorroastr": 0.14375385193328738,
+    "Ocorroeff": 103.62458118330005,
+    "Ocorroeffrank": 233,
+    "Ocorroefgp": 0.479603430057019,
+    "Ocorroftr": 0.4410100610106509,
+    "Ocorroorbp": 0.24966711910334893,
+    "Ocorrotovr": 0.12392809117951752,
+    "Oeff": 91.68241965973536,
+    "Oefgp": 0.469811320754717,
+    "Oftr": 0.22641509433962265,
+    "Oneteff": -9.451772320795882,
+    "Oneteffrank": 289,
+    "Oorbp": 0.22695035460992907,
+    "Oposs": 317.4,
+    "Otovr": 0.1659988551803091,
+    "SoR": 9.635473132752214,
+    "SoRrank": 136,
+    "TAst": 84.0,
+    "TBlk": 21.0,
+    "TDR": 109.0,
+    "TFGA": 261.0,
+    "TFGA3": 107.0,
+    "TFGM": 128.0,
+    "TFGM3": 43.0,
+    "TFTA": 125.0,
+    "TFTM": 84.0,
+    "TOR": 60.0,
+    "TPF": 65.0,
+    "TScore": 383.0,
+    "TStl": 35.0,
+    "TTO": 59.0,
+    "Tastr": 0.1830065359477124,
+    "Tcorrdastr": 0.13819610149158112,
+    "Tcorrdastrrank": 150,
+    "Tcorrdeff": 93.87375444033634,
+    "Tcorrdeffrank": 49,
+    "Tcorrdefgp": 0.4977607028260473,
+    "Tcorrdefgprank": 169,
+    "Tcorrdftr": 0.1972566292983338,
+    "Tcorrdftrrank": 8,
+    "Tcorrdorbp": 0.27104283568935283,
+    "Tcorrdorbprank": 131,
+    "Tcorrdtovr": 0.20340044430658238,
+    "Tcorrdtovrrank": 26,
+    "Tcorroastr": 0.16419496763767708,
+    "Tcorroastrrank": 99,
+    "Tcorroeff": 114.56291660646878,
+    "Tcorroeffrank": 93,
+    "Tcorroefgp": 0.5576905038717284,
+    "Tcorroefgprank": 82,
+    "Tcorroftr": 0.4283766920338193,
+    "Tcorroftrrank": 117,
+    "Tcorroorbp": 0.43646991440569166,
+    "Tcorroorbprank": 15,
+    "Tcorrotovr": 0.1605556472702739,
+    "Tcorrotovrrank": 224,
+    "Teff": 121.58730158730158,
+    "Tefgp": 0.5727969348659003,
+    "Tftr": 0.4789272030651341,
+    "Tneteff": 20.689162166132434,
+    "Tneteffrank": 49,
+    "Torbp": 0.43478260869565216,
+    "Tposs": 315.0,
+    "Ttovr": 0.15733333333333333,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            5
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            116.15628299894402,
+            75.836820083682
+        ],
+        [
+            121.84508268059182,
+            86.39308855291577
+        ],
+        [
+            135.73407202216066,
+            89.52794357026588
+        ],
+        [
+            113.15228966986155,
+            116.62198391420912
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 73.29160868289667,
+    "poss": [
+        [
+            75.76,
+            76.48
+        ],
+        [
+            91.92,
+            92.6
+        ],
+        [
+            72.2,
+            73.72
+        ],
+        [
+            75.12,
+            74.6
+        ]
+    ],
+    "preseason_pace": 68.61771503976588,
+    "preseason_pred": 15.878008389365574,
+    "preseason_predd": 103.25025164713664,
+    "preseason_predo": 119.12826003650221,
+    "schedule": [
+        "southern-indiana",
+        "iupui",
+        "chicago-state",
+        "southern-methodist"
+    ],
+    "scores": [
+        [
+            88,
+            58
+        ],
+        [
+            112,
+            80
+        ],
+        [
+            98,
+            66
+        ],
+        [
+            85,
+            87
+        ]
+    ],
+    "wins": 3
+}

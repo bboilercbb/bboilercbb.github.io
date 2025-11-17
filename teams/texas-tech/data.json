@@ -1,0 +1,195 @@
+{
+    "CompRank": 19,
+    "CompositeDef": 97.30121008376081,
+    "CompositeOff": 119.36890791938396,
+    "CompositePace": 67.86831862480615,
+    "CompositeRating": 22.067697835623157,
+    "HA": [
+        "H",
+        "H",
+        "A",
+        "H"
+    ],
+    "OAst": 32.0,
+    "OAvgCompRat": -4.824505587934498,
+    "OBlk": 12.0,
+    "ODR": 91.0,
+    "OFGA": 240.0,
+    "OFGA3": 80.0,
+    "OFGM": 100.0,
+    "OFGM3": 23.0,
+    "OFTA": 84.0,
+    "OFTM": 58.0,
+    "OOR": 42.0,
+    "OPF": 66.0,
+    "OScore": 281.0,
+    "OStl": 20.0,
+    "OTO": 53.0,
+    "Oastr": 0.08840755884628136,
+    "Ocomprank": 241,
+    "Ocorrdastr": 0.14431255170819535,
+    "Ocorrdeff": 114.69166609535944,
+    "Ocorrdeffrank": 324,
+    "Ocorrdefgp": 0.5383805459276652,
+    "Ocorrdftr": 0.5008446810139522,
+    "Ocorrdorbp": 0.29990015902514444,
+    "Ocorrdtovr": 0.14066152387138045,
+    "Ocorroastr": 0.13825835394158265,
+    "Ocorroeff": 108.95319190238652,
+    "Ocorroeffrank": 138,
+    "Ocorroefgp": 0.4936661742540002,
+    "Ocorroftr": 0.395002985937524,
+    "Ocorroorbp": 0.3598406499853306,
+    "Ocorrotovr": 0.13083040980021307,
+    "Oeff": 97.58299763856091,
+    "Oefgp": 0.46458333333333335,
+    "Oftr": 0.35,
+    "Oneteff": -5.738474192972916,
+    "Oneteffrank": 254,
+    "Oorbp": 0.3,
+    "Oposs": 287.96,
+    "Otovr": 0.16062553036731725,
+    "SoR": 25.241933026400453,
+    "SoRrank": 90,
+    "TAst": 71.0,
+    "TBlk": 12.0,
+    "TDR": 98.0,
+    "TFGA": 267.0,
+    "TFGA3": 126.0,
+    "TFGM": 123.0,
+    "TFGM3": 48.0,
+    "TFTA": 84.0,
+    "TFTM": 59.0,
+    "TOR": 59.0,
+    "TPF": 76.0,
+    "TScore": 353.0,
+    "TStl": 35.0,
+    "TTO": 38.0,
+    "Tastr": 0.17192948469585434,
+    "Tcorrdastr": 0.0932580417527821,
+    "Tcorrdastrrank": 9,
+    "Tcorrdeff": 95.21909692577567,
+    "Tcorrdeffrank": 57,
+    "Tcorrdefgp": 0.47875186424013155,
+    "Tcorrdefgprank": 110,
+    "Tcorrdftr": 0.33894806630501567,
+    "Tcorrdftrrank": 144,
+    "Tcorrdorbp": 0.2522399316719917,
+    "Tcorrdorbprank": 92,
+    "Tcorrdtovr": 0.18683648476093617,
+    "Tcorrdtovrrank": 56,
+    "Tcorroastr": 0.17429833362603867,
+    "Tcorroastrrank": 67,
+    "Tcorroeff": 115.9554677092317,
+    "Tcorroeffrank": 83,
+    "Tcorroefgp": 0.522314479454154,
+    "Tcorroefgprank": 147,
+    "Tcorroftr": 0.24334926225707623,
+    "Tcorroftrrank": 335,
+    "Tcorroorbp": 0.3947161312677308,
+    "Tcorroorbprank": 42,
+    "Tcorrotovr": 0.12038724764230917,
+    "Tcorrotovrrank": 65,
+    "Teff": 124.75261521063048,
+    "Tefgp": 0.550561797752809,
+    "Tftr": 0.3146067415730337,
+    "Tneteff": 20.736370783456024,
+    "Tneteffrank": 48,
+    "Torbp": 0.3933333333333333,
+    "Tposs": 282.96,
+    "Ttovr": 0.11112410808281671,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            4
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            127.07468879668049,
+            78.49293563579278
+        ],
+        [
+            138.18386914833616,
+            105.76923076923077
+        ],
+        [
+            107.30211817168338,
+            110.77680525164114
+        ],
+        [
+            126.6624445851805,
+            96.03658536585367
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 69.2708945027867,
+    "poss": [
+        [
+            77.12,
+            76.44
+        ],
+        [
+            70.92,
+            72.8
+        ],
+        [
+            71.76,
+            73.12
+        ],
+        [
+            63.16,
+            65.6
+        ]
+    ],
+    "preseason_pace": 67.25264745751701,
+    "preseason_pred": 22.65209379816566,
+    "preseason_predd": 98.21516922032492,
+    "preseason_predo": 120.86726301849058,
+    "schedule": [
+        "lindenwood",
+        "sam-houston-state",
+        "illinois",
+        "milwaukee"
+    ],
+    "scores": [
+        [
+            98,
+            60
+        ],
+        [
+            98,
+            77
+        ],
+        [
+            77,
+            81
+        ],
+        [
+            80,
+            63
+        ]
+    ],
+    "wins": 3
+}

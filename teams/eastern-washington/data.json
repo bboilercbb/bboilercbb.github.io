@@ -1,0 +1,195 @@
+{
+    "CompRank": 144,
+    "CompositeDef": 107.50257220768293,
+    "CompositeOff": 106.18872713781289,
+    "CompositePace": 69.69196629221322,
+    "CompositeRating": -1.31384506987003,
+    "HA": [
+        "A",
+        "A",
+        "A",
+        "A"
+    ],
+    "OAst": 70.0,
+    "OAvgCompRat": 14.719293589212901,
+    "OBlk": 12.0,
+    "ODR": 96.0,
+    "OFGA": 246.0,
+    "OFGA3": 95.0,
+    "OFGM": 126.0,
+    "OFGM3": 39.0,
+    "OFTA": 83.0,
+    "OFTM": 55.0,
+    "OOR": 32.0,
+    "OPF": 72.0,
+    "OScore": 346.0,
+    "OStl": 29.0,
+    "OTO": 46.0,
+    "Oastr": 0.17564990464719463,
+    "Ocomprank": 16,
+    "Ocorrdastr": 0.13540066590139196,
+    "Ocorrdeff": 99.82769890748551,
+    "Ocorrdeffrank": 76,
+    "Ocorrdefgp": 0.49039431824390983,
+    "Ocorrdftr": 0.36817390264963823,
+    "Ocorrdorbp": 0.3069809509962614,
+    "Ocorrdtovr": 0.1710240525692856,
+    "Ocorroastr": 0.17278939414132288,
+    "Ocorroeff": 115.88815515509381,
+    "Ocorroeffrank": 40,
+    "Ocorroefgp": 0.5710959270466345,
+    "Ocorroftr": 0.37339934519111995,
+    "Ocorroorbp": 0.30240310795087255,
+    "Ocorrotovr": 0.14508143008510632,
+    "Oeff": 116.68690138945097,
+    "Oefgp": 0.5914634146341463,
+    "Oftr": 0.33739837398373984,
+    "Oneteff": 16.0604562476083,
+    "Oneteffrank": 39,
+    "Oorbp": 0.2644628099173554,
+    "Oposs": 296.52,
+    "Otovr": 0.14002191647388287,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 57.0,
+    "TBlk": 9.0,
+    "TDR": 89.0,
+    "TFGA": 226.0,
+    "TFGA3": 72.0,
+    "TFGM": 112.0,
+    "TFGM3": 25.0,
+    "TFTA": 75.0,
+    "TFTM": 51.0,
+    "TOR": 23.0,
+    "TPF": 71.0,
+    "TScore": 300.0,
+    "TStl": 26.0,
+    "TTO": 53.0,
+    "Tastr": 0.15447154471544716,
+    "Tcorrdastr": 0.1495831404499639,
+    "Tcorrdastrrank": 215,
+    "Tcorrdeff": 107.31050915157073,
+    "Tcorrdeffrank": 203,
+    "Tcorrdefgp": 0.5299365457561583,
+    "Tcorrdefgprank": 241,
+    "Tcorrdftr": 0.3448738377048949,
+    "Tcorrdftrrank": 154,
+    "Tcorrdorbp": 0.26276505677693807,
+    "Tcorrdorbprank": 117,
+    "Tcorrdtovr": 0.14747952399155,
+    "Tcorrdtovrrank": 191,
+    "Tcorroastr": 0.16648306031631113,
+    "Tcorroastrrank": 92,
+    "Tcorroeff": 110.24031979167579,
+    "Tcorroeffrank": 130,
+    "Tcorroefgp": 0.5716274171094525,
+    "Tcorroefgprank": 64,
+    "Tcorroftr": 0.3449308182955739,
+    "Tcorroftrrank": 220,
+    "Tcorroorbp": 0.18965952654936175,
+    "Tcorroorbprank": 343,
+    "Tcorrotovr": 0.15254520152194495,
+    "Tcorrotovrrank": 186,
+    "Teff": 103.80622837370242,
+    "Tefgp": 0.5508849557522124,
+    "Tftr": 0.33185840707964603,
+    "Tneteff": 2.9298106401050603,
+    "Tneteffrank": 152,
+    "Torbp": 0.19327731092436976,
+    "Tposs": 289.0,
+    "Ttovr": 0.16987179487179488,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            5
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            12
+        ]
+    ],
+    "geff": [
+        [
+            105.47320410490309,
+            110.49723756906076
+        ],
+        [
+            89.85507246376811,
+            99.65831435079727
+        ],
+        [
+            127.02985856469355,
+            127.24550898203593
+        ],
+        [
+            91.18127381600435,
+            127.50949538795443
+        ]
+    ],
+    "losses": 4,
+    "nOT": [
+        0,
+        0,
+        1,
+        0
+    ],
+    "pace": 72.64786615106948,
+    "poss": [
+        [
+            70.16,
+            72.4
+        ],
+        [
+            69.0,
+            70.24
+        ],
+        [
+            76.36,
+            80.16
+        ],
+        [
+            73.48,
+            73.72
+        ]
+    ],
+    "preseason_pace": 68.39445195087714,
+    "preseason_pred": -3.1766294693103987,
+    "preseason_predd": 107.58687972202573,
+    "preseason_predo": 104.41025025271533,
+    "schedule": [
+        "ucla",
+        "loyola-marymount",
+        "colorado",
+        "seattle"
+    ],
+    "scores": [
+        [
+            74,
+            80
+        ],
+        [
+            62,
+            70
+        ],
+        [
+            97,
+            102
+        ],
+        [
+            67,
+            94
+        ]
+    ],
+    "wins": 0
+}

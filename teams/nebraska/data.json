@@ -1,0 +1,195 @@
+{
+    "CompRank": 29,
+    "CompositeDef": 97.33660132636231,
+    "CompositeOff": 117.32677009071513,
+    "CompositePace": 69.41579839842066,
+    "CompositeRating": 19.99016876435282,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "N"
+    ],
+    "OAst": 48.0,
+    "OAvgCompRat": -8.828680053665073,
+    "OBlk": 14.0,
+    "ODR": 90.0,
+    "OFGA": 257.0,
+    "OFGA3": 106.0,
+    "OFGM": 98.0,
+    "OFGM3": 31.0,
+    "OFTA": 49.0,
+    "OFTM": 41.0,
+    "OOR": 40.0,
+    "OPF": 72.0,
+    "OScore": 268.0,
+    "OStl": 21.0,
+    "OTO": 53.0,
+    "Oastr": 0.12646221941195068,
+    "Ocomprank": 311,
+    "Ocorrdastr": 0.1502220650067004,
+    "Ocorrdeff": 108.3560331084162,
+    "Ocorrdeffrank": 222,
+    "Ocorrdefgp": 0.4910280822015006,
+    "Ocorrdftr": 0.3313611619193798,
+    "Ocorrdorbp": 0.33928700528497485,
+    "Ocorrdtovr": 0.14719312132041806,
+    "Ocorroastr": 0.14106305757821141,
+    "Ocorroeff": 96.38457397982448,
+    "Ocorroeffrank": 331,
+    "Ocorroefgp": 0.5035570933194806,
+    "Ocorroftr": 0.2879493253593185,
+    "Ocorroorbp": 0.3172405551736895,
+    "Ocorrotovr": 0.19313766752337538,
+    "Oeff": 91.9193304980107,
+    "Oefgp": 0.44163424124513617,
+    "Oftr": 0.19066147859922178,
+    "Oneteff": -11.971459128591718,
+    "Oneteffrank": 308,
+    "Oorbp": 0.2702702702702703,
+    "Oposs": 291.56,
+    "Otovr": 0.15985040415007842,
+    "SoR": 73.45928376560416,
+    "SoRrank": 15,
+    "TAst": 83.0,
+    "TBlk": 9.0,
+    "TDR": 108.0,
+    "TFGA": 251.0,
+    "TFGA3": 125.0,
+    "TFGM": 125.0,
+    "TFGM3": 48.0,
+    "TFTA": 79.0,
+    "TFTM": 58.0,
+    "TOR": 40.0,
+    "TPF": 52.0,
+    "TScore": 356.0,
+    "TStl": 32.0,
+    "TTO": 36.0,
+    "Tastr": 0.20505978851665185,
+    "Tcorrdastr": 0.13085303580404528,
+    "Tcorrdastrrank": 104,
+    "Tcorrdeff": 100.89394495847323,
+    "Tcorrdeffrank": 116,
+    "Tcorrdefgp": 0.4465170146946008,
+    "Tcorrdefgprank": 56,
+    "Tcorrdftr": 0.2501119676802303,
+    "Tcorrdftrrank": 36,
+    "Tcorrdorbp": 0.2564654616204614,
+    "Tcorrdorbprank": 101,
+    "Tcorrdtovr": 0.12792408467901245,
+    "Tcorrdtovrrank": 276,
+    "Tcorroastr": 0.20002728165893893,
+    "Tcorroastrrank": 11,
+    "Tcorroeff": 124.0241519458768,
+    "Tcorroeffrank": 22,
+    "Tcorroefgp": 0.6152139376528032,
+    "Tcorroefgprank": 13,
+    "Tcorroftr": 0.3619581588944674,
+    "Tcorroftrrank": 193,
+    "Tcorroorbp": 0.2742764999501512,
+    "Tcorroorbprank": 217,
+    "Tcorrotovr": 0.11604248041644366,
+    "Tcorrotovrrank": 48,
+    "Teff": 126.34866553094832,
+    "Tefgp": 0.5936254980079682,
+    "Tftr": 0.3147410358565737,
+    "Tneteff": 23.130206987403568,
+    "Tneteffrank": 36,
+    "Torbp": 0.3076923076923077,
+    "Tposs": 281.76,
+    "Ttovr": 0.11188463451019394,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            121.12676056338029,
+            73.89849414389292
+        ],
+        [
+            125.45739675901726,
+            85.00772797527048
+        ],
+        [
+            106.28465804066543,
+            73.57268981753973
+        ],
+        [
+            151.4714368147721,
+            133.35129310344828
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 71.15665331801323,
+    "poss": [
+        [
+            71.0,
+            71.72
+        ],
+        [
+            76.52,
+            77.64
+        ],
+        [
+            64.92,
+            67.96000000000001
+        ],
+        [
+            69.32,
+            74.24
+        ]
+    ],
+    "preseason_pace": 68.65163711684369,
+    "preseason_pred": 18.611825511436166,
+    "preseason_predd": 95.77507874436576,
+    "preseason_predo": 114.38690425580192,
+    "schedule": [
+        "west-georgia",
+        "florida-international",
+        "maryland-eastern-shore",
+        "oklahoma"
+    ],
+    "scores": [
+        [
+            86,
+            53
+        ],
+        [
+            96,
+            66
+        ],
+        [
+            69,
+            50
+        ],
+        [
+            105,
+            99
+        ]
+    ],
+    "wins": 4
+}

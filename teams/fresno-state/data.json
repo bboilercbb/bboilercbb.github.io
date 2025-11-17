@@ -1,0 +1,195 @@
+{
+    "CompRank": 155,
+    "CompositeDef": 103.5357298106273,
+    "CompositeOff": 101.22638054384558,
+    "CompositePace": 69.85146691234708,
+    "CompositeRating": -2.309349266781725,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 47.0,
+    "OAvgCompRat": -11.701629946776926,
+    "OBlk": 12.0,
+    "ODR": 80.0,
+    "OFGA": 213.0,
+    "OFGA3": 93.0,
+    "OFGM": 101.0,
+    "OFGM3": 29.0,
+    "OFTA": 81.0,
+    "OFTM": 50.0,
+    "OOR": 29.0,
+    "OPF": 80.0,
+    "OScore": 281.0,
+    "OStl": 29.0,
+    "OTO": 66.0,
+    "Oastr": 0.12996349961287468,
+    "Ocomprank": 337,
+    "Ocorrdastr": 0.14600274220372841,
+    "Ocorrdeff": 114.30002677637154,
+    "Ocorrdeffrank": 321,
+    "Ocorrdefgp": 0.5486734579064961,
+    "Ocorrdftr": 0.5484976925150207,
+    "Ocorrdorbp": 0.25741508485109516,
+    "Ocorrdtovr": 0.13554546459432165,
+    "Ocorroastr": 0.14744938553328862,
+    "Ocorroeff": 108.3369134618002,
+    "Ocorroeffrank": 155,
+    "Ocorroefgp": 0.5493079982527131,
+    "Ocorroftr": 0.3581272916958771,
+    "Ocorroorbp": 0.3203811718397609,
+    "Ocorrotovr": 0.17376623848899175,
+    "Oeff": 98.37557765018906,
+    "Oefgp": 0.5422535211267606,
+    "Oftr": 0.38028169014084506,
+    "Oneteff": -5.963113314571345,
+    "Oneteffrank": 257,
+    "Oorbp": 0.25,
+    "Oposs": 285.64,
+    "Otovr": 0.2097635392829901,
+    "SoR": 0.14979777412856832,
+    "SoRrank": 246,
+    "TAst": 46.0,
+    "TBlk": 10.0,
+    "TDR": 87.0,
+    "TFGA": 219.0,
+    "TFGA3": 93.0,
+    "TFGM": 99.0,
+    "TFGM3": 31.0,
+    "TFTA": 93.0,
+    "TFTM": 67.0,
+    "TOR": 35.0,
+    "TPF": 76.0,
+    "TScore": 296.0,
+    "TStl": 35.0,
+    "TTO": 58.0,
+    "Tastr": 0.12640140690261595,
+    "Tcorrdastr": 0.12887896165405283,
+    "Tcorrdastrrank": 93,
+    "Tcorrdeff": 96.51668562554431,
+    "Tcorrdeffrank": 69,
+    "Tcorrdefgp": 0.5043330577017132,
+    "Tcorrdefgprank": 186,
+    "Tcorrdftr": 0.40460863427801935,
+    "Tcorrdftrrank": 236,
+    "Tcorrdorbp": 0.23499739443640844,
+    "Tcorrdorbprank": 62,
+    "Tcorrdtovr": 0.1857969586843918,
+    "Tcorrdtovrrank": 61,
+    "Tcorroastr": 0.12671839252050332,
+    "Tcorroastrrank": 269,
+    "Tcorroeff": 97.56541339231379,
+    "Tcorroeffrank": 274,
+    "Tcorroefgp": 0.48706951446381047,
+    "Tcorroefgprank": 229,
+    "Tcorroftr": 0.30102606655453945,
+    "Tcorroftrrank": 275,
+    "Tcorroorbp": 0.3536631620210133,
+    "Tcorroorbprank": 84,
+    "Tcorrotovr": 0.20480032101899123,
+    "Tcorrotovrrank": 341,
+    "Teff": 104.62321504312172,
+    "Tefgp": 0.5228310502283106,
+    "Tftr": 0.4246575342465753,
+    "Tneteff": 1.048727766769474,
+    "Tneteffrank": 168,
+    "Torbp": 0.30434782608695654,
+    "Tposs": 282.92,
+    "Ttovr": 0.1824358329139406,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            5
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            89.57654723127035,
+            100.78219013237063
+        ],
+        [
+            116.60978384527874,
+            84.79212253829321
+        ],
+        [
+            105.43038705950319,
+            105.8057514921324
+        ],
+        [
+            107.6349024110218,
+            102.32300884955754
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 69.86491280917286,
+    "poss": [
+        [
+            73.68,
+            66.48
+        ],
+        [
+            70.32,
+            73.12
+        ],
+        [
+            69.24,
+            73.72
+        ],
+        [
+            69.68,
+            72.32
+        ]
+    ],
+    "preseason_pace": 69.84556473541394,
+    "preseason_pred": -3.7834022856245006,
+    "preseason_predd": 106.61679173000529,
+    "preseason_predo": 102.83338944438078,
+    "schedule": [
+        "south-carolina-upstate",
+        "long-beach-state",
+        "california-san-diego",
+        "utah-valley"
+    ],
+    "scores": [
+        [
+            66,
+            67
+        ],
+        [
+            82,
+            62
+        ],
+        [
+            73,
+            78
+        ],
+        [
+            75,
+            74
+        ]
+    ],
+    "wins": 2
+}

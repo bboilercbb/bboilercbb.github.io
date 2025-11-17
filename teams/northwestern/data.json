@@ -1,0 +1,195 @@
+{
+    "CompRank": 38,
+    "CompositeDef": 95.38275893903514,
+    "CompositeOff": 114.28579552012783,
+    "CompositePace": 67.01671981504212,
+    "CompositeRating": 18.903036581092692,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "A"
+    ],
+    "OAst": 56.0,
+    "OAvgCompRat": -9.154413605760833,
+    "OBlk": 7.0,
+    "ODR": 77.0,
+    "OFGA": 237.0,
+    "OFGA3": 91.0,
+    "OFGM": 86.0,
+    "OFGM3": 27.0,
+    "OFTA": 60.0,
+    "OFTM": 42.0,
+    "OOR": 43.0,
+    "OPF": 68.0,
+    "OScore": 241.0,
+    "OStl": 15.0,
+    "OTO": 51.0,
+    "Oastr": 0.1511879049676026,
+    "Ocomprank": 316,
+    "Ocorrdastr": 0.14698514210127245,
+    "Ocorrdeff": 111.65488373571463,
+    "Ocorrdeffrank": 287,
+    "Ocorrdefgp": 0.5170924262168437,
+    "Ocorrdftr": 0.4312831902894051,
+    "Ocorrdorbp": 0.2975829755352075,
+    "Ocorrdtovr": 0.15670608546550646,
+    "Ocorroastr": 0.16621315342505508,
+    "Ocorroeff": 104.45415888914897,
+    "Ocorroeffrank": 221,
+    "Ocorroefgp": 0.5197026203902465,
+    "Ocorroftr": 0.4239356364366923,
+    "Ocorroorbp": 0.2919111094729391,
+    "Ocorrotovr": 0.1718684139661225,
+    "Oeff": 88.7988209285188,
+    "Oefgp": 0.41983122362869196,
+    "Oftr": 0.25316455696202533,
+    "Oneteff": -7.200724846565663,
+    "Oneteffrank": 264,
+    "Oorbp": 0.296551724137931,
+    "Oposs": 271.4,
+    "Otovr": 0.1622137404580153,
+    "SoR": 65.19883771175823,
+    "SoRrank": 24,
+    "TAst": 76.0,
+    "TBlk": 18.0,
+    "TDR": 102.0,
+    "TFGA": 230.0,
+    "TFGA3": 75.0,
+    "TFGM": 120.0,
+    "TFGM3": 30.0,
+    "TFTA": 97.0,
+    "TFTM": 67.0,
+    "TOR": 36.0,
+    "TPF": 52.0,
+    "TScore": 337.0,
+    "TStl": 30.0,
+    "TTO": 33.0,
+    "Tastr": 0.19911968140850975,
+    "Tcorrdastr": 0.13363833455074725,
+    "Tcorrdastrrank": 118,
+    "Tcorrdeff": 90.22783791916659,
+    "Tcorrdeffrank": 24,
+    "Tcorrdefgp": 0.4118041550213417,
+    "Tcorrdefgprank": 17,
+    "Tcorrdftr": 0.2290833081311862,
+    "Tcorrdftrrank": 19,
+    "Tcorrdorbp": 0.3048085616483273,
+    "Tcorrdorbprank": 208,
+    "Tcorrdtovr": 0.14520289073836815,
+    "Tcorrdtovrrank": 203,
+    "Tcorroastr": 0.19833790587828987,
+    "Tcorroastrrank": 14,
+    "Tcorroeff": 119.18232402002873,
+    "Tcorroeffrank": 59,
+    "Tcorroefgp": 0.5788339248408831,
+    "Tcorroefgprank": 50,
+    "Tcorroftr": 0.37657821052784757,
+    "Tcorroftrrank": 176,
+    "Tcorroorbp": 0.3220938110046489,
+    "Tcorroorbprank": 136,
+    "Tcorrotovr": 0.1054339290967916,
+    "Tcorrotovrrank": 30,
+    "Teff": 124.96291901512903,
+    "Tefgp": 0.5869565217391305,
+    "Tftr": 0.4217391304347826,
+    "Tneteff": 28.95448610086214,
+    "Tneteffrank": 13,
+    "Torbp": 0.3185840707964602,
+    "Tposs": 269.68,
+    "Ttovr": 0.10795603245223763,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            10
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            104.91606714628297,
+            68.39348079161816
+        ],
+        [
+            119.27181418706843,
+            83.76288659793815
+        ],
+        [
+            149.29424538545058,
+            86.63366336633663
+        ],
+        [
+            123.5509456985967,
+            116.38185032410136
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 68.25401063327729,
+    "poss": [
+        [
+            66.72,
+            68.72
+        ],
+        [
+            63.72,
+            62.08
+        ],
+        [
+            73.68,
+            72.72
+        ],
+        [
+            65.56,
+            67.88
+        ]
+    ],
+    "preseason_pace": 66.47360176039842,
+    "preseason_pred": 14.490877669808434,
+    "preseason_predd": 97.64555005886771,
+    "preseason_predo": 112.13642772867615,
+    "schedule": [
+        "mercyhurst",
+        "boston-university",
+        "cleveland-state",
+        "depaul"
+    ],
+    "scores": [
+        [
+            70,
+            47
+        ],
+        [
+            76,
+            52
+        ],
+        [
+            110,
+            63
+        ],
+        [
+            81,
+            79
+        ]
+    ],
+    "wins": 4
+}

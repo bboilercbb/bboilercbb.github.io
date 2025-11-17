@@ -1,0 +1,195 @@
+{
+    "CompRank": 96,
+    "CompositeDef": 99.32162648027573,
+    "CompositeOff": 106.34094459276588,
+    "CompositePace": 70.6010350122993,
+    "CompositeRating": 7.019318112490154,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "A"
+    ],
+    "OAst": 57.0,
+    "OAvgCompRat": -5.747561863685091,
+    "OBlk": 12.0,
+    "ODR": 81.0,
+    "OFGA": 228.0,
+    "OFGA3": 103.0,
+    "OFGM": 98.0,
+    "OFGM3": 38.0,
+    "OFTA": 78.0,
+    "OFTM": 64.0,
+    "OOR": 29.0,
+    "OPF": 78.0,
+    "OScore": 298.0,
+    "OStl": 30.0,
+    "OTO": 60.0,
+    "Oastr": 0.15026890224612466,
+    "Ocomprank": 256,
+    "Ocorrdastr": 0.1322200071022981,
+    "Ocorrdeff": 111.83986127489811,
+    "Ocorrdeffrank": 291,
+    "Ocorrdefgp": 0.5501377062929134,
+    "Ocorrdftr": 0.3862339882424763,
+    "Ocorrdorbp": 0.35880595620363304,
+    "Ocorrdtovr": 0.18021694744323888,
+    "Ocorroastr": 0.13727971553286097,
+    "Ocorroeff": 110.8772977511486,
+    "Ocorroeffrank": 104,
+    "Ocorroefgp": 0.5464939046559316,
+    "Ocorroftr": 0.45930360796520536,
+    "Ocorroorbp": 0.3674750078351319,
+    "Ocorrotovr": 0.16438959459972566,
+    "Oeff": 101.59552706941224,
+    "Oefgp": 0.5131578947368421,
+    "Oftr": 0.34210526315789475,
+    "Oneteff": -0.9625635237495089,
+    "Oneteffrank": 198,
+    "Oorbp": 0.22137404580152673,
+    "Oposs": 293.32,
+    "Otovr": 0.18615040953090098,
+    "SoR": 0.3985651865935802,
+    "SoRrank": 228,
+    "TAst": 62.0,
+    "TBlk": 13.0,
+    "TDR": 102.0,
+    "TFGA": 251.0,
+    "TFGA3": 91.0,
+    "TFGM": 113.0,
+    "TFGM3": 30.0,
+    "TFTA": 83.0,
+    "TFTM": 67.0,
+    "TOR": 50.0,
+    "TPF": 71.0,
+    "TScore": 323.0,
+    "TStl": 27.0,
+    "TTO": 55.0,
+    "Tastr": 0.15326807079996047,
+    "Tcorrdastr": 0.1595981747678505,
+    "Tcorrdastrrank": 262,
+    "Tcorrdeff": 97.48216760127796,
+    "Tcorrdeffrank": 82,
+    "Tcorrdefgp": 0.4796314635670047,
+    "Tcorrdefgprank": 111,
+    "Tcorrdftr": 0.28664142302771617,
+    "Tcorrdftrrank": 76,
+    "Tcorrdorbp": 0.182417085168505,
+    "Tcorrdorbprank": 11,
+    "Tcorrdtovr": 0.17390112400331964,
+    "Tcorrdtovrrank": 98,
+    "Tcorroastr": 0.16899931456273207,
+    "Tcorroastrrank": 86,
+    "Tcorroeff": 105.1447118925823,
+    "Tcorroeffrank": 189,
+    "Tcorroefgp": 0.4738649084012433,
+    "Tcorroefgprank": 256,
+    "Tcorroftr": 0.32825845290295114,
+    "Tcorroftrrank": 245,
+    "Tcorroorbp": 0.32243900048517565,
+    "Tcorroorbprank": 135,
+    "Tcorrotovr": 0.1371269769148092,
+    "Tcorrotovrrank": 122,
+    "Teff": 110.41980035553125,
+    "Tefgp": 0.5099601593625498,
+    "Tftr": 0.33067729083665337,
+    "Tneteff": 7.662544291304329,
+    "Tneteffrank": 125,
+    "Torbp": 0.3816793893129771,
+    "Tposs": 292.52,
+    "Ttovr": 0.16057456498890577,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            10
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            121.95121951219512,
+            91.73126614987079
+        ],
+        [
+            111.44744083654375,
+            128.2051282051282
+        ],
+        [
+            123.31838565022422,
+            82.81864121280178
+        ],
+        [
+            85.69898232458489,
+            104.72610096670246
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 71.04007768474209,
+    "poss": [
+        [
+            73.8,
+            77.4
+        ],
+        [
+            72.68,
+            70.2
+        ],
+        [
+            71.36,
+            71.24000000000001
+        ],
+        [
+            74.68,
+            74.48
+        ]
+    ],
+    "preseason_pace": 70.40831394894994,
+    "preseason_pred": 6.7369691725442875,
+    "preseason_predd": 100.12907070699627,
+    "preseason_predo": 106.86603987954057,
+    "schedule": [
+        "ipfw",
+        "youngstown-state",
+        "northern-illinois",
+        "saint-louis"
+    ],
+    "scores": [
+        [
+            90,
+            71
+        ],
+        [
+            81,
+            90
+        ],
+        [
+            88,
+            59
+        ],
+        [
+            64,
+            78
+        ]
+    ],
+    "wins": 2
+}

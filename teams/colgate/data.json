@@ -1,0 +1,195 @@
+{
+    "CompRank": 199,
+    "CompositeDef": 111.3200799972441,
+    "CompositeOff": 105.78213715169338,
+    "CompositePace": 68.1120258310817,
+    "CompositeRating": -5.537942845550722,
+    "HA": [
+        "A",
+        "H",
+        "H",
+        "A"
+    ],
+    "OAst": 65.0,
+    "OAvgCompRat": 2.9602366869736496,
+    "OBlk": 9.0,
+    "ODR": 94.0,
+    "OFGA": 255.0,
+    "OFGA3": 115.0,
+    "OFGM": 104.0,
+    "OFGM3": 36.0,
+    "OFTA": 101.0,
+    "OFTM": 71.0,
+    "OOR": 60.0,
+    "OPF": 57.0,
+    "OScore": 315.0,
+    "OStl": 24.0,
+    "OTO": 34.0,
+    "Oastr": 0.1631362313020781,
+    "Ocomprank": 113,
+    "Ocorrdastr": 0.14516797804452675,
+    "Ocorrdeff": 104.49518987365607,
+    "Ocorrdeffrank": 153,
+    "Ocorrdefgp": 0.4990782348784528,
+    "Ocorrdftr": 0.39465762090296075,
+    "Ocorrdorbp": 0.2707096584595501,
+    "Ocorrdtovr": 0.1421836039522794,
+    "Ocorroastr": 0.1370146768935668,
+    "Ocorroeff": 107.56282834000842,
+    "Ocorroeffrank": 167,
+    "Ocorroefgp": 0.49270033126578655,
+    "Ocorroftr": 0.4258814703434573,
+    "Ocorroorbp": 0.39968804113908063,
+    "Ocorrotovr": 0.1493138416150124,
+    "Oeff": 115.19894675248683,
+    "Oefgp": 0.47843137254901963,
+    "Oftr": 0.396078431372549,
+    "Oneteff": 3.0676384663523493,
+    "Oneteffrank": 144,
+    "Oorbp": 0.39473684210526316,
+    "Oposs": 273.44,
+    "Otovr": 0.10196737044145873,
+    "SoR": 0.1996406494932934,
+    "SoRrank": 241,
+    "TAst": 52.0,
+    "TBlk": 9.0,
+    "TDR": 92.0,
+    "TFGA": 224.0,
+    "TFGA3": 80.0,
+    "TFGM": 106.0,
+    "TFGM3": 28.0,
+    "TFTA": 58.0,
+    "TFTM": 49.0,
+    "TOR": 22.0,
+    "TPF": 72.0,
+    "TScore": 289.0,
+    "TStl": 19.0,
+    "TTO": 40.0,
+    "Tastr": 0.15226048254860625,
+    "Tcorrdastr": 0.17358613061703368,
+    "Tcorrdastrrank": 305,
+    "Tcorrdeff": 113.80296918870971,
+    "Tcorrdeffrank": 277,
+    "Tcorrdefgp": 0.4939501046079554,
+    "Tcorrdefgprank": 156,
+    "Tcorrdftr": 0.356830750442679,
+    "Tcorrdftrrank": 175,
+    "Tcorrdorbp": 0.30006081313745403,
+    "Tcorrdorbprank": 193,
+    "Tcorrdtovr": 0.10447370419952291,
+    "Tcorrdtovrrank": 340,
+    "Tcorroastr": 0.15348494066664292,
+    "Tcorroastrrank": 134,
+    "Tcorroeff": 109.8007393289085,
+    "Tcorroeffrank": 132,
+    "Tcorroefgp": 0.5465958703995341,
+    "Tcorroefgprank": 103,
+    "Tcorroftr": 0.2517650257142091,
+    "Tcorroftrrank": 329,
+    "Tcorroorbp": 0.20998448232497605,
+    "Tcorroorbprank": 325,
+    "Tcorrotovr": 0.14813781280221822,
+    "Tcorrotovrrank": 172,
+    "Teff": 108.0293062200957,
+    "Tefgp": 0.5357142857142857,
+    "Tftr": 0.25892857142857145,
+    "Tneteff": -4.002229859801204,
+    "Tneteffrank": 210,
+    "Torbp": 0.1896551724137931,
+    "Tposs": 267.52,
+    "Ttovr": 0.13815971262779775,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            99.08098793796668,
+            120.70006035003017
+        ],
+        [
+            98.42519685039369,
+            100.0
+        ],
+        [
+            134.56937799043064,
+            115.92178770949721
+        ],
+        [
+            100.06157635467981,
+            124.33392539964476
+        ]
+    ],
+    "losses": 3,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 68.70127614380411,
+    "poss": [
+        [
+            69.64,
+            66.28
+        ],
+        [
+            66.04,
+            68.0
+        ],
+        [
+            66.88,
+            71.6
+        ],
+        [
+            64.96,
+            67.56
+        ]
+    ],
+    "preseason_pace": 67.85337000108008,
+    "preseason_pred": -6.212055541627329,
+    "preseason_predd": 110.23019722458429,
+    "preseason_predo": 104.01814168295697,
+    "schedule": [
+        "michigan-state",
+        "northeastern",
+        "drexel",
+        "illinois"
+    ],
+    "scores": [
+        [
+            69,
+            80
+        ],
+        [
+            65,
+            68
+        ],
+        [
+            90,
+            83
+        ],
+        [
+            65,
+            84
+        ]
+    ],
+    "wins": 1
+}

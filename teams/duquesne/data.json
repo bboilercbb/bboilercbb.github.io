@@ -1,0 +1,195 @@
+{
+    "CompRank": 120,
+    "CompositeDef": 104.07160517611653,
+    "CompositeOff": 105.70223431605399,
+    "CompositePace": 69.75968175206802,
+    "CompositeRating": 1.6306291399374553,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "A"
+    ],
+    "OAst": 42.0,
+    "OAvgCompRat": -6.542622343390114,
+    "OBlk": 11.0,
+    "ODR": 87.0,
+    "OFGA": 236.0,
+    "OFGA3": 97.0,
+    "OFGM": 94.0,
+    "OFGM3": 26.0,
+    "OFTA": 133.0,
+    "OFTM": 97.0,
+    "OOR": 49.0,
+    "OPF": 80.0,
+    "OScore": 311.0,
+    "OStl": 34.0,
+    "OTO": 53.0,
+    "Oastr": 0.10782501540357363,
+    "Ocomprank": 270,
+    "Ocorrdastr": 0.1661045721589232,
+    "Ocorrdeff": 108.74066771117803,
+    "Ocorrdeffrank": 236,
+    "Ocorrdefgp": 0.5252722319416757,
+    "Ocorrdftr": 0.32304478824232585,
+    "Ocorrdorbp": 0.259844525085832,
+    "Ocorrdtovr": 0.14253472976914458,
+    "Ocorroastr": 0.15247610067415085,
+    "Ocorroeff": 103.8083068922053,
+    "Ocorroeffrank": 232,
+    "Ocorroefgp": 0.50968172637352,
+    "Ocorroftr": 0.23947016000332694,
+    "Ocorroorbp": 0.30970826183922495,
+    "Ocorrotovr": 0.1528186009773852,
+    "Oeff": 104.18062441377462,
+    "Oefgp": 0.4533898305084746,
+    "Oftr": 0.5635593220338984,
+    "Oneteff": -4.9323608189727395,
+    "Oneteffrank": 243,
+    "Oorbp": 0.33793103448275863,
+    "Oposs": 298.52,
+    "Otovr": 0.15250920810313076,
+    "SoR": 16.518060159394444,
+    "SoRrank": 114,
+    "TAst": 66.0,
+    "TBlk": 10.0,
+    "TDR": 96.0,
+    "TFGA": 242.0,
+    "TFGA3": 107.0,
+    "TFGM": 119.0,
+    "TFGM3": 35.0,
+    "TFTA": 102.0,
+    "TFTM": 66.0,
+    "TOR": 36.0,
+    "TPF": 103.0,
+    "TScore": 339.0,
+    "TStl": 26.0,
+    "TTO": 56.0,
+    "Tastr": 0.16141655253375073,
+    "Tcorrdastr": 0.10353859680736552,
+    "Tcorrdastrrank": 16,
+    "Tcorrdeff": 106.48941837446795,
+    "Tcorrdeffrank": 192,
+    "Tcorrdefgp": 0.4531126666842702,
+    "Tcorrdefgprank": 65,
+    "Tcorrdftr": 0.8824316535746953,
+    "Tcorrdftrrank": 364,
+    "Tcorrdorbp": 0.328154365105601,
+    "Tcorrdorbprank": 247,
+    "Tcorrdtovr": 0.1528156199022751,
+    "Tcorrdtovrrank": 175,
+    "Tcorroastr": 0.14297186137222265,
+    "Tcorroastrrank": 189,
+    "Tcorroeff": 108.0660372525595,
+    "Tcorroeffrank": 150,
+    "Tcorroefgp": 0.5479249112834019,
+    "Tcorroefgprank": 98,
+    "Tcorroftr": 0.4966931832279536,
+    "Tcorroftrrank": 52,
+    "Tcorroorbp": 0.33705456757551594,
+    "Tcorroorbprank": 114,
+    "Tcorrotovr": 0.17470363602854402,
+    "Tcorrotovrrank": 270,
+    "Teff": 110.46663190823774,
+    "Tefgp": 0.5640495867768595,
+    "Tftr": 0.4214876033057851,
+    "Tneteff": 1.5766188780915513,
+    "Tneteffrank": 159,
+    "Torbp": 0.2926829268292683,
+    "Tposs": 306.88,
+    "Ttovr": 0.163322445170322,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            117.36425339366517,
+            91.46341463414635
+        ],
+        [
+            117.70726714431935,
+            107.75862068965517
+        ],
+        [
+            99.77064220183486,
+            96.56652360515022
+        ],
+        [
+            108.75706214689266,
+            121.64429530201343
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        1,
+        0
+    ],
+    "pace": 76.58447480240298,
+    "poss": [
+        [
+            70.72,
+            68.88
+        ],
+        [
+            78.16,
+            74.24
+        ],
+        [
+            87.2,
+            83.88
+        ],
+        [
+            70.8,
+            71.52
+        ]
+    ],
+    "preseason_pace": 66.7638878205081,
+    "preseason_pred": 1.6543373481551362,
+    "preseason_predd": 103.01028799714199,
+    "preseason_predo": 104.66462534529713,
+    "schedule": [
+        "niagara",
+        "sacred-heart",
+        "queens-nc",
+        "villanova"
+    ],
+    "scores": [
+        [
+            83,
+            63
+        ],
+        [
+            92,
+            80
+        ],
+        [
+            87,
+            81
+        ],
+        [
+            77,
+            87
+        ]
+    ],
+    "wins": 3
+}

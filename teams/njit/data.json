@@ -1,0 +1,195 @@
+{
+    "CompRank": 291,
+    "CompositeDef": 107.5588444166269,
+    "CompositeOff": 95.02057624614086,
+    "CompositePace": 68.97313386054978,
+    "CompositeRating": -12.538268170486049,
+    "HA": [
+        "A",
+        "H",
+        "A",
+        "H"
+    ],
+    "OAst": 44.0,
+    "OAvgCompRat": -8.764388657903782,
+    "OBlk": 14.0,
+    "ODR": 94.0,
+    "OFGA": 264.0,
+    "OFGA3": 114.0,
+    "OFGM": 97.0,
+    "OFGM3": 30.0,
+    "OFTA": 85.0,
+    "OFTM": 56.0,
+    "OOR": 57.0,
+    "OPF": 79.0,
+    "OScore": 280.0,
+    "OStl": 28.0,
+    "OTO": 45.0,
+    "Oastr": 0.11270491803278689,
+    "Ocomprank": 309,
+    "Ocorrdastr": 0.17316639338022274,
+    "Ocorrdeff": 111.97097800510103,
+    "Ocorrdeffrank": 294,
+    "Ocorrdefgp": 0.566870691331933,
+    "Ocorrdftr": 0.29577059478888995,
+    "Ocorrdorbp": 0.277610534807459,
+    "Ocorrdtovr": 0.12674045223062994,
+    "Ocorroastr": 0.12611875003480827,
+    "Ocorroeff": 106.63372317020495,
+    "Ocorroeffrank": 184,
+    "Ocorroefgp": 0.4905486851441614,
+    "Ocorroftr": 0.3064445488432409,
+    "Ocorroorbp": 0.27025899396409364,
+    "Ocorrotovr": 0.12879279174217362,
+    "Oeff": 96.75190048375951,
+    "Oefgp": 0.42424242424242425,
+    "Oftr": 0.32196969696969696,
+    "Oneteff": -5.337254834896086,
+    "Oneteffrank": 251,
+    "Oorbp": 0.3475609756097561,
+    "Oposs": 289.4,
+    "Otovr": 0.12990762124711316,
+    "SoR": 8.411345150832828,
+    "SoRrank": 141,
+    "TAst": 49.0,
+    "TBlk": 14.0,
+    "TDR": 107.0,
+    "TFGA": 221.0,
+    "TFGA3": 100.0,
+    "TFGM": 95.0,
+    "TFGM3": 36.0,
+    "TFTA": 84.0,
+    "TFTM": 58.0,
+    "TOR": 29.0,
+    "TPF": 73.0,
+    "TScore": 284.0,
+    "TStl": 22.0,
+    "TTO": 53.0,
+    "Tastr": 0.13612623624847206,
+    "Tcorrdastr": 0.12985507538692007,
+    "Tcorrdastrrank": 96,
+    "Tcorrdeff": 96.37888405544484,
+    "Tcorrdeffrank": 67,
+    "Tcorrdefgp": 0.4398477983009941,
+    "Tcorrdefgprank": 47,
+    "Tcorrdftr": 0.39785925299600783,
+    "Tcorrdftrrank": 228,
+    "Tcorrdorbp": 0.38467383425513274,
+    "Tcorrdorbprank": 322,
+    "Tcorrdtovr": 0.1534005336866504,
+    "Tcorrdtovrrank": 172,
+    "Tcorroastr": 0.11584674187990406,
+    "Tcorroastrrank": 313,
+    "Tcorroeff": 95.80380723565695,
+    "Tcorroeffrank": 290,
+    "Tcorroefgp": 0.4616481580976775,
+    "Tcorroefgprank": 276,
+    "Tcorroftr": 0.487494360837414,
+    "Tcorroftrrank": 62,
+    "Tcorroorbp": 0.254811732590259,
+    "Tcorroorbprank": 259,
+    "Tcorrotovr": 0.20407868140877403,
+    "Tcorrotovrrank": 338,
+    "Teff": 100.72350688040858,
+    "Tefgp": 0.5113122171945701,
+    "Tftr": 0.38009049773755654,
+    "Tneteff": -0.5750768197878955,
+    "Tneteffrank": 182,
+    "Torbp": 0.23577235772357724,
+    "Tposs": 281.96,
+    "Ttovr": 0.1704399279650116,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            4
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            109.89010989010987,
+            92.5364077669903
+        ],
+        [
+            71.35164243403338,
+            96.65621734587252
+        ],
+        [
+            93.69676320272573,
+            91.69054441260745
+        ],
+        [
+            129.67094255437814,
+            105.0311203319502
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 72.3631629546534,
+    "poss": [
+        [
+            65.52000000000001,
+            65.92
+        ],
+        [
+            74.28,
+            76.56
+        ],
+        [
+            70.44,
+            69.8
+        ],
+        [
+            71.72,
+            77.12
+        ]
+    ],
+    "preseason_pace": 67.48505524585408,
+    "preseason_pred": -17.7896004506279,
+    "preseason_predd": 112.46637159849008,
+    "preseason_predo": 94.67677114786218,
+    "schedule": [
+        "fordham",
+        "fairfield",
+        "loyola-md",
+        "fairleigh-dickinson"
+    ],
+    "scores": [
+        [
+            72,
+            61
+        ],
+        [
+            53,
+            74
+        ],
+        [
+            66,
+            64
+        ],
+        [
+            93,
+            81
+        ]
+    ],
+    "wins": 3
+}

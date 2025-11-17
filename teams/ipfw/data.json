@@ -1,0 +1,176 @@
+{
+    "CompRank": 215,
+    "CompositeDef": 111.36777234441817,
+    "CompositeOff": 104.43673620369813,
+    "CompositePace": 70.83474060499917,
+    "CompositeRating": -6.931036140720059,
+    "HA": [
+        "A",
+        "A",
+        "A"
+    ],
+    "OAst": 58.0,
+    "OAvgCompRat": 10.201633149544215,
+    "OBlk": 6.0,
+    "ODR": 94.0,
+    "OFGA": 181.0,
+    "OFGA3": 81.0,
+    "OFGM": 98.0,
+    "OFGM3": 35.0,
+    "OFTA": 48.0,
+    "OFTM": 36.0,
+    "OOR": 25.0,
+    "OPF": 48.0,
+    "OScore": 267.0,
+    "OStl": 16.0,
+    "OTO": 47.0,
+    "Oastr": 0.18885126334983068,
+    "Ocomprank": 33,
+    "Ocorrdastr": 0.16087905014710693,
+    "Ocorrdeff": 99.76357537326167,
+    "Ocorrdeffrank": 75,
+    "Ocorrdefgp": 0.5058684030730238,
+    "Ocorrdftr": 0.3055766180243164,
+    "Ocorrdorbp": 0.19902259059423286,
+    "Ocorrdtovr": 0.14633690450162842,
+    "Ocorroastr": 0.16073210353073966,
+    "Ocorroeff": 113.08524560464242,
+    "Ocorroeffrank": 77,
+    "Ocorroefgp": 0.5138339131332293,
+    "Ocorroftr": 0.47538641131590187,
+    "Ocorroorbp": 0.3048828078355396,
+    "Ocorrotovr": 0.14670069006899397,
+    "Oeff": 119.13260753167945,
+    "Oefgp": 0.638121546961326,
+    "Oftr": 0.26519337016574585,
+    "Oneteff": 13.32167023138075,
+    "Oneteffrank": 52,
+    "Oorbp": 0.33783783783783783,
+    "Oposs": 224.12,
+    "Otovr": 0.1886640976236352,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 39.0,
+    "TBlk": 10.0,
+    "TDR": 49.0,
+    "TFGA": 195.0,
+    "TFGA3": 89.0,
+    "TFGM": 78.0,
+    "TFGM3": 22.0,
+    "TFTA": 43.0,
+    "TFTM": 32.0,
+    "TOR": 23.0,
+    "TPF": 46.0,
+    "TScore": 210.0,
+    "TStl": 28.0,
+    "TTO": 35.0,
+    "Tastr": 0.13545429285912752,
+    "Tcorrdastr": 0.17239139264137598,
+    "Tcorrdastrrank": 301,
+    "Tcorrdeff": 112.16558292168554,
+    "Tcorrdeffrank": 257,
+    "Tcorrdefgp": 0.6327829064408502,
+    "Tcorrdefgprank": 350,
+    "Tcorrdftr": 0.21497668535246411,
+    "Tcorrdftrrank": 12,
+    "Tcorrdorbp": 0.33304746054501827,
+    "Tcorrdorbprank": 258,
+    "Tcorrdtovr": 0.19660609805283863,
+    "Tcorrdtovrrank": 37,
+    "Tcorroastr": 0.12371531004109484,
+    "Tcorroastrrank": 282,
+    "Tcorroeff": 98.77557993445417,
+    "Tcorroeffrank": 261,
+    "Tcorroefgp": 0.45967805586319044,
+    "Tcorroefgprank": 284,
+    "Tcorroftr": 0.2741047231939082,
+    "Tcorroftrrank": 307,
+    "Tcorroorbp": 0.2924387397739134,
+    "Tcorroorbprank": 190,
+    "Tcorrotovr": 0.14665178755318198,
+    "Tcorrotovrrank": 167,
+    "Teff": 92.95325779036827,
+    "Tefgp": 0.4564102564102564,
+    "Tftr": 0.2205128205128205,
+    "Tneteff": -13.39000298723137,
+    "Tneteffrank": 284,
+    "Torbp": 0.19658119658119658,
+    "Tposs": 225.92000000000002,
+    "Ttovr": 0.140607424071991,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            12
+        ]
+    ],
+    "geff": [
+        [
+            91.73126614987079,
+            121.95121951219512
+        ],
+        [
+            93.81898454746137,
+            129.26292629262926
+        ],
+        [
+            93.37190952130457,
+            106.95876288659795
+        ]
+    ],
+    "losses": 3,
+    "nOT": [
+        0,
+        0,
+        0
+    ],
+    "pace": 74.7839268963704,
+    "poss": [
+        [
+            77.4,
+            73.8
+        ],
+        [
+            72.48,
+            72.72
+        ],
+        [
+            76.04,
+            77.6
+        ]
+    ],
+    "preseason_pace": 69.85963287873466,
+    "preseason_pred": -5.336229511951835,
+    "preseason_predd": 111.17078207842624,
+    "preseason_predo": 105.83455256647441,
+    "schedule": [
+        "grand-canyon",
+        "ohio-state",
+        "western-michigan"
+    ],
+    "scores": [
+        [
+            71,
+            90
+        ],
+        [
+            68,
+            94
+        ],
+        [
+            71,
+            83
+        ]
+    ],
+    "wins": 0
+}

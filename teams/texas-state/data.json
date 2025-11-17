@@ -1,0 +1,195 @@
+{
+    "CompRank": 232,
+    "CompositeDef": 111.04170710876294,
+    "CompositeOff": 103.11827343038493,
+    "CompositePace": 67.86996782770282,
+    "CompositeRating": -7.923433678377997,
+    "HA": [
+        "A",
+        "A",
+        "H",
+        "H"
+    ],
+    "OAst": 45.0,
+    "OAvgCompRat": -6.8583354250426325,
+    "OBlk": 19.0,
+    "ODR": 81.0,
+    "OFGA": 218.0,
+    "OFGA3": 80.0,
+    "OFGM": 97.0,
+    "OFGM3": 29.0,
+    "OFTA": 97.0,
+    "OFTM": 75.0,
+    "OOR": 24.0,
+    "OPF": 62.0,
+    "OScore": 298.0,
+    "OStl": 34.0,
+    "OTO": 50.0,
+    "Oastr": 0.12651821862348178,
+    "Ocomprank": 282,
+    "Ocorrdastr": 0.1478282689442751,
+    "Ocorrdeff": 114.1767597296222,
+    "Ocorrdeffrank": 319,
+    "Ocorrdefgp": 0.5490892370080993,
+    "Ocorrdftr": 0.49454462968903923,
+    "Ocorrdorbp": 0.31267050799242957,
+    "Ocorrdtovr": 0.15370963876099802,
+    "Ocorroastr": 0.12073168000465069,
+    "Ocorroeff": 105.52327572005053,
+    "Ocorroeffrank": 205,
+    "Ocorroefgp": 0.4961075573879125,
+    "Ocorroftr": 0.4142052446828585,
+    "Ocorroorbp": 0.25872911446876223,
+    "Ocorrotovr": 0.1326714295614074,
+    "Oeff": 103.94865355099762,
+    "Oefgp": 0.5114678899082569,
+    "Oftr": 0.44495412844036697,
+    "Oneteff": -8.65348400957167,
+    "Oneteffrank": 283,
+    "Oorbp": 0.21052631578947367,
+    "Oposs": 286.68,
+    "Otovr": 0.16093729882837646,
+    "SoR": 0.3985651865935802,
+    "SoRrank": 228,
+    "TAst": 54.0,
+    "TBlk": 19.0,
+    "TDR": 90.0,
+    "TFGA": 226.0,
+    "TFGA3": 68.0,
+    "TFGM": 99.0,
+    "TFGM3": 20.0,
+    "TFTA": 78.0,
+    "TFTM": 58.0,
+    "TOR": 38.0,
+    "TPF": 80.0,
+    "TScore": 276.0,
+    "TStl": 29.0,
+    "TTO": 51.0,
+    "Tastr": 0.1478156137085295,
+    "Tcorrdastr": 0.1520096172809321,
+    "Tcorrdastrrank": 227,
+    "Tcorrdeff": 104.59385239405596,
+    "Tcorrdeffrank": 157,
+    "Tcorrdefgp": 0.5245757893603821,
+    "Tcorrdefgprank": 231,
+    "Tcorrdftr": 0.4117065054014477,
+    "Tcorrdftrrank": 243,
+    "Tcorrdorbp": 0.242967030018756,
+    "Tcorrdorbprank": 73,
+    "Tcorrdtovr": 0.18470441099227458,
+    "Tcorrdtovrrank": 65,
+    "Tcorroastr": 0.1464289369448133,
+    "Tcorroastrrank": 170,
+    "Tcorroeff": 94.26607334672678,
+    "Tcorroeffrank": 306,
+    "Tcorroefgp": 0.44898494897090396,
+    "Tcorroefgprank": 308,
+    "Tcorroftr": 0.270225534473276,
+    "Tcorroftrrank": 312,
+    "Tcorroorbp": 0.3078741092830856,
+    "Tcorroorbprank": 162,
+    "Tcorrotovr": 0.16298469424368794,
+    "Tcorrotovrrank": 237,
+    "Teff": 100.98053563588468,
+    "Tefgp": 0.4823008849557522,
+    "Tftr": 0.34513274336283184,
+    "Tneteff": -10.327779047329173,
+    "Tneteffrank": 262,
+    "Torbp": 0.31932773109243695,
+    "Tposs": 273.32,
+    "Ttovr": 0.1638185789541308,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            12
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            70.50528789659225,
+            118.50371216447743
+        ],
+        [
+            108.0340839926963,
+            115.8357771260997
+        ],
+        [
+            113.5718341851221,
+            92.39421531869309
+        ],
+        [
+            111.46496815286625,
+            90.83514099783079
+        ]
+    ],
+    "losses": 2,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 69.05740055417164,
+    "poss": [
+        [
+            68.08,
+            70.04
+        ],
+        [
+            65.72,
+            68.2
+        ],
+        [
+            70.44,
+            74.68
+        ],
+        [
+            69.08,
+            73.76
+        ]
+    ],
+    "preseason_pace": 67.34873535517879,
+    "preseason_pred": -6.868028303804092,
+    "preseason_predd": 113.87204113991004,
+    "preseason_predo": 107.00401283610594,
+    "schedule": [
+        "bowling-green-state",
+        "tulane",
+        "texas-san-antonio",
+        "texas-southern"
+    ],
+    "scores": [
+        [
+            48,
+            83
+        ],
+        [
+            71,
+            79
+        ],
+        [
+            80,
+            69
+        ],
+        [
+            77,
+            67
+        ]
+    ],
+    "wins": 2
+}

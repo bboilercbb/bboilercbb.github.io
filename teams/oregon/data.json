@@ -1,0 +1,176 @@
+{
+    "CompRank": 44,
+    "CompositeDef": 94.65920999931156,
+    "CompositeOff": 111.94663610545567,
+    "CompositePace": 69.60112005626183,
+    "CompositeRating": 17.287426106144107,
+    "HA": [
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 27.0,
+    "OAvgCompRat": -3.842740805780398,
+    "OBlk": 7.0,
+    "ODR": 70.0,
+    "OFGA": 186.0,
+    "OFGA3": 79.0,
+    "OFGM": 69.0,
+    "OFGM3": 24.0,
+    "OFTA": 44.0,
+    "OFTM": 29.0,
+    "OOR": 29.0,
+    "OPF": 67.0,
+    "OScore": 191.0,
+    "OStl": 25.0,
+    "OTO": 39.0,
+    "Oastr": 0.09949882075471697,
+    "Ocomprank": 220,
+    "Ocorrdastr": 0.1341165259472156,
+    "Ocorrdeff": 106.15556958792229,
+    "Ocorrdeffrank": 179,
+    "Ocorrdefgp": 0.4937253526030548,
+    "Ocorrdftr": 0.40737840413638987,
+    "Ocorrdorbp": 0.1921646912610908,
+    "Ocorrdtovr": 0.12704785885102443,
+    "Ocorroastr": 0.1500610817523559,
+    "Ocorroeff": 107.38755516813791,
+    "Ocorroeffrank": 170,
+    "Ocorroefgp": 0.5361206180280099,
+    "Ocorroftr": 0.4271737913330503,
+    "Ocorroorbp": 0.33158634709198315,
+    "Ocorrotovr": 0.1799760672869113,
+    "Oeff": 88.68870728083209,
+    "Oefgp": 0.43548387096774194,
+    "Oftr": 0.23655913978494625,
+    "Oneteff": 1.2319855802156212,
+    "Oneteffrank": 172,
+    "Oorbp": 0.26851851851851855,
+    "Oposs": 215.36,
+    "Otovr": 0.15960058929448354,
+    "SoR": 56.95377347390709,
+    "SoRrank": 40,
+    "TAst": 37.0,
+    "TBlk": 19.0,
+    "TDR": 79.0,
+    "TFGA": 172.0,
+    "TFGA3": 84.0,
+    "TFGM": 66.0,
+    "TFGM3": 24.0,
+    "TFTA": 80.0,
+    "TFTM": 54.0,
+    "TOR": 36.0,
+    "TPF": 44.0,
+    "TScore": 210.0,
+    "TStl": 23.0,
+    "TTO": 41.0,
+    "Tastr": 0.1297335203366059,
+    "Tcorrdastr": 0.09701920587927497,
+    "Tcorrdastrrank": 12,
+    "Tcorrdeff": 87.75126923774249,
+    "Tcorrdeffrank": 10,
+    "Tcorrdefgp": 0.41459059037053864,
+    "Tcorrdefgprank": 20,
+    "Tcorrdftr": 0.2124992800074797,
+    "Tcorrdftrrank": 11,
+    "Tcorrdorbp": 0.2442099464605958,
+    "Tcorrdorbprank": 76,
+    "Tcorrdtovr": 0.13667913160004497,
+    "Tcorrdtovrrank": 237,
+    "Tcorroastr": 0.14110653724502856,
+    "Tcorroastrrank": 200,
+    "Tcorroeff": 99.07504888348261,
+    "Tcorroeffrank": 258,
+    "Tcorroefgp": 0.46751506196669984,
+    "Tcorroefgprank": 269,
+    "Tcorroftr": 0.43868138384257294,
+    "Tcorroftrrank": 102,
+    "Tcorroorbp": 0.5225293496781335,
+    "Tcorroorbprank": 1,
+    "Tcorrotovr": 0.19733233737599234,
+    "Tcorrotovrrank": 331,
+    "Teff": 98.96324222431669,
+    "Tefgp": 0.45348837209302323,
+    "Tftr": 0.46511627906976744,
+    "Tneteff": 11.323779645740117,
+    "Tneteffrank": 102,
+    "Torbp": 0.33962264150943394,
+    "Tposs": 212.2,
+    "Ttovr": 0.1651893634165995,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            4
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            12
+        ]
+    ],
+    "geff": [
+        [
+            79.53340402969248,
+            78.29087048832272
+        ],
+        [
+            100.41966426858514,
+            91.5165601394538
+        ],
+        [
+            118.50371216447743,
+            96.964586846543
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0
+    ],
+    "pace": 74.08565938179925,
+    "poss": [
+        [
+            75.44,
+            75.36
+        ],
+        [
+            66.72,
+            68.84
+        ],
+        [
+            70.04,
+            71.16
+        ]
+    ],
+    "preseason_pace": 68.49382639563532,
+    "preseason_pred": 18.75993140500929,
+    "preseason_predd": 96.36487438488416,
+    "preseason_predo": 115.12480578989344,
+    "schedule": [
+        "hawaii",
+        "rice",
+        "south-dakota-state"
+    ],
+    "scores": [
+        [
+            60,
+            59
+        ],
+        [
+            67,
+            63
+        ],
+        [
+            83,
+            69
+        ]
+    ],
+    "wins": 3
+}

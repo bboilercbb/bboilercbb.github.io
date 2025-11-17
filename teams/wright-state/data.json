@@ -1,0 +1,195 @@
+{
+    "CompRank": 160,
+    "CompositeDef": 107.76387415326849,
+    "CompositeOff": 104.6372969401574,
+    "CompositePace": 68.74896960190199,
+    "CompositeRating": -3.12657721311109,
+    "HA": [
+        "A",
+        "H",
+        "N",
+        "N"
+    ],
+    "OAst": 46.0,
+    "OAvgCompRat": -2.8760423010558376,
+    "OBlk": 12.0,
+    "ODR": 95.0,
+    "OFGA": 228.0,
+    "OFGA3": 75.0,
+    "OFGM": 99.0,
+    "OFGM3": 20.0,
+    "OFTA": 97.0,
+    "OFTM": 75.0,
+    "OOR": 44.0,
+    "OPF": 61.0,
+    "OScore": 293.0,
+    "OStl": 30.0,
+    "OTO": 58.0,
+    "Oastr": 0.12277143162165047,
+    "Ocomprank": 197,
+    "Ocorrdastr": 0.16340536848370968,
+    "Ocorrdeff": 116.14496695221216,
+    "Ocorrdeffrank": 334,
+    "Ocorrdefgp": 0.5420658614624643,
+    "Ocorrdftr": 0.38573176713818236,
+    "Ocorrdorbp": 0.3320727171409805,
+    "Ocorrdtovr": 0.1231591673993645,
+    "Ocorroastr": 0.14712700901137604,
+    "Ocorroeff": 112.13703046590686,
+    "Ocorroeffrank": 87,
+    "Ocorroefgp": 0.5398938640443334,
+    "Ocorroftr": 0.4647763625130601,
+    "Ocorroorbp": 0.3297242165456291,
+    "Ocorrotovr": 0.15266510390889504,
+    "Oeff": 102.92257973865392,
+    "Oefgp": 0.4780701754385965,
+    "Oftr": 0.42543859649122806,
+    "Oneteff": -4.007936486305297,
+    "Oneteffrank": 237,
+    "Oorbp": 0.3283582089552239,
+    "Oposs": 284.68,
+    "Otovr": 0.17646342947547766,
+    "SoR": 0.09991008125992407,
+    "SoRrank": 252,
+    "TAst": 51.0,
+    "TBlk": 15.0,
+    "TDR": 90.0,
+    "TFGA": 231.0,
+    "TFGA3": 94.0,
+    "TFGM": 107.0,
+    "TFGM3": 34.0,
+    "TFTA": 79.0,
+    "TFTM": 54.0,
+    "TOR": 30.0,
+    "TPF": 84.0,
+    "TScore": 302.0,
+    "TStl": 34.0,
+    "TTO": 50.0,
+    "Tastr": 0.1390555131421093,
+    "Tcorrdastr": 0.12200302048359724,
+    "Tcorrdastrrank": 73,
+    "Tcorrdeff": 97.69011265755327,
+    "Tcorrdeffrank": 85,
+    "Tcorrdefgp": 0.4520793520768463,
+    "Tcorrdefgprank": 63,
+    "Tcorrdftr": 0.35243348934235974,
+    "Tcorrdftrrank": 169,
+    "Tcorrdorbp": 0.3002515011934006,
+    "Tcorrdorbprank": 194,
+    "Tcorrdtovr": 0.17698865287364932,
+    "Tcorrdtovrrank": 84,
+    "Tcorroastr": 0.1251186555278654,
+    "Tcorroastrrank": 276,
+    "Tcorroeff": 97.05027073567746,
+    "Tcorroeffrank": 278,
+    "Tcorroefgp": 0.5059309132711995,
+    "Tcorroefgprank": 194,
+    "Tcorroftr": 0.3399141099842775,
+    "Tcorroftrrank": 228,
+    "Tcorroorbp": 0.2183960534143858,
+    "Tcorroorbprank": 316,
+    "Tcorrotovr": 0.1948906377671776,
+    "Tcorrotovrrank": 324,
+    "Teff": 105.68309070548713,
+    "Tefgp": 0.5367965367965368,
+    "Tftr": 0.341991341991342,
+    "Tneteff": -0.6398419218758136,
+    "Tneteffrank": 186,
+    "Torbp": 0.24,
+    "Tposs": 285.76,
+    "Ttovr": 0.15834811249049913,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            6
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            94.47264523406655,
+            110.56863871338311
+        ],
+        [
+            105.02958579881658,
+            118.49034523112931
+        ],
+        [
+            121.24406958355299,
+            81.67220376522702
+        ],
+        [
+            100.89686098654708,
+            102.09564750134336
+        ]
+    ],
+    "losses": 3,
+    "nOT": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "pace": 68.53480263334947,
+    "poss": [
+        [
+            70.92,
+            69.64
+        ],
+        [
+            67.6,
+            68.36
+        ],
+        [
+            75.88,
+            72.24
+        ],
+        [
+            71.36,
+            74.44
+        ]
+    ],
+    "preseason_pace": 68.8429797938592,
+    "preseason_pred": -4.218148260018207,
+    "preseason_predd": 112.18582707319835,
+    "preseason_predo": 107.96767881318014,
+    "schedule": [
+        "california",
+        "toledo",
+        "radford",
+        "kent-state"
+    ],
+    "scores": [
+        [
+            67,
+            77
+        ],
+        [
+            71,
+            81
+        ],
+        [
+            92,
+            59
+        ],
+        [
+            72,
+            76
+        ]
+    ],
+    "wins": 1
+}

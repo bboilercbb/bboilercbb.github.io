@@ -1,0 +1,195 @@
+{
+    "CompRank": 1,
+    "CompositeDef": 92.0159560723424,
+    "CompositeOff": 123.47904422656048,
+    "CompositePace": 69.33877466167297,
+    "CompositeRating": 31.46308815421807,
+    "HA": [
+        "N",
+        "H",
+        "A",
+        "H"
+    ],
+    "OAst": 42.0,
+    "OAvgCompRat": -4.683611098879946,
+    "OBlk": 4.0,
+    "ODR": 82.0,
+    "OFGA": 260.0,
+    "OFGA3": 122.0,
+    "OFGM": 84.0,
+    "OFGM3": 30.0,
+    "OFTA": 56.0,
+    "OFTM": 37.0,
+    "OOR": 48.0,
+    "OPF": 81.0,
+    "OScore": 235.0,
+    "OStl": 29.0,
+    "OTO": 61.0,
+    "Oastr": 0.1083479517077701,
+    "Ocomprank": 234,
+    "Ocorrdastr": 0.14085181886992681,
+    "Ocorrdeff": 106.4432742955953,
+    "Ocorrdeffrank": 183,
+    "Ocorrdefgp": 0.4775784260443111,
+    "Ocorrdftr": 0.33710180980657684,
+    "Ocorrdorbp": 0.32532718508756675,
+    "Ocorrdtovr": 0.11682612753453939,
+    "Ocorroastr": 0.14589525626508568,
+    "Ocorroeff": 98.47490653258943,
+    "Ocorroeffrank": 312,
+    "Ocorroefgp": 0.4703905038785553,
+    "Ocorroftr": 0.3506645554340706,
+    "Ocorroorbp": 0.29947432257340123,
+    "Ocorrotovr": 0.15726379955379155,
+    "Oeff": 78.95444160731086,
+    "Oefgp": 0.38076923076923075,
+    "Oftr": 0.2153846153846154,
+    "Oneteff": -7.9683677630058725,
+    "Oneteffrank": 273,
+    "Oorbp": 0.27586206896551724,
+    "Oposs": 297.64,
+    "Otovr": 0.17648420321722025,
+    "SoR": 77.06350855591687,
+    "SoRrank": 10,
+    "TAst": 83.0,
+    "TBlk": 24.0,
+    "TDR": 126.0,
+    "TFGA": 252.0,
+    "TFGA3": 120.0,
+    "TFGM": 127.0,
+    "TFGM3": 45.0,
+    "TFTA": 113.0,
+    "TFTM": 85.0,
+    "TOR": 48.0,
+    "TPF": 78.0,
+    "TScore": 384.0,
+    "TStl": 36.0,
+    "TTO": 42.0,
+    "Tastr": 0.19450693663292087,
+    "Tcorrdastr": 0.10854242290261333,
+    "Tcorrdastrrank": 26,
+    "Tcorrdeff": 84.89626430134095,
+    "Tcorrdeffrank": 6,
+    "Tcorrdefgp": 0.41100450984035625,
+    "Tcorrdefgprank": 15,
+    "Tcorrdftr": 0.23384335464576883,
+    "Tcorrdftrrank": 24,
+    "Tcorrdorbp": 0.27666422144412983,
+    "Tcorrdorbprank": 143,
+    "Tcorrdtovr": 0.17203699826101587,
+    "Tcorrdtovrrank": 108,
+    "Tcorroastr": 0.20183616304241112,
+    "Tcorroastrrank": 9,
+    "Tcorroeff": 129.66189630303913,
+    "Tcorroeffrank": 6,
+    "Tcorroefgp": 0.6314436767142867,
+    "Tcorroefgprank": 9,
+    "Tcorroftr": 0.507248850503301,
+    "Tcorroftrrank": 45,
+    "Tcorroorbp": 0.3426798987527402,
+    "Tcorroorbprank": 103,
+    "Tcorrotovr": 0.15821021230778726,
+    "Tcorrotovrrank": 210,
+    "Teff": 129.85256323549302,
+    "Tefgp": 0.5932539682539683,
+    "Tftr": 0.44841269841269843,
+    "Tneteff": 44.76563200169818,
+    "Tneteffrank": 2,
+    "Torbp": 0.36923076923076925,
+    "Tposs": 295.72,
+    "Ttovr": 0.12219248225299661,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            4
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            111.60714285714285,
+            88.07985907222547
+        ],
+        [
+            125.79449152542374,
+            70.27589796980739
+        ],
+        [
+            148.5148514851485,
+            76.54385054488843
+        ],
+        [
+            131.1647429171039,
+            82.01058201058201
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 74.21926659384629,
+    "poss": [
+        [
+            67.2,
+            68.12
+        ],
+        [
+            75.52,
+            76.84
+        ],
+        [
+            76.76,
+            77.08
+        ],
+        [
+            76.24,
+            75.6
+        ]
+    ],
+    "preseason_pace": 67.1964462415146,
+    "preseason_pred": 25.62383708262186,
+    "preseason_predd": 95.14119800200011,
+    "preseason_predo": 120.76503508462197,
+    "schedule": [
+        "texas",
+        "western-carolina",
+        "army",
+        "indiana-state"
+    ],
+    "scores": [
+        [
+            75,
+            60
+        ],
+        [
+            95,
+            54
+        ],
+        [
+            114,
+            59
+        ],
+        [
+            100,
+            62
+        ]
+    ],
+    "wins": 4
+}

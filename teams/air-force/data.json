@@ -1,0 +1,195 @@
+{
+    "CompRank": 253,
+    "CompositeDef": 110.13313370012804,
+    "CompositeOff": 100.66161331517043,
+    "CompositePace": 65.4230274216217,
+    "CompositeRating": -9.471520384957625,
+    "HA": [
+        "A",
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 56.0,
+    "OAvgCompRat": -5.082282898676993,
+    "OBlk": 14.0,
+    "ODR": 83.0,
+    "OFGA": 227.0,
+    "OFGA3": 86.0,
+    "OFGM": 107.0,
+    "OFGM3": 31.0,
+    "OFTA": 94.0,
+    "OFTM": 60.0,
+    "OOR": 37.0,
+    "OPF": 76.0,
+    "OScore": 305.0,
+    "OStl": 35.0,
+    "OTO": 50.0,
+    "Oastr": 0.14958863126402394,
+    "Ocomprank": 245,
+    "Ocorrdastr": 0.130329517889077,
+    "Ocorrdeff": 98.01849652016018,
+    "Ocorrdeffrank": 53,
+    "Ocorrdefgp": 0.4808114370847642,
+    "Ocorrdftr": 0.3188531011436023,
+    "Ocorrdorbp": 0.24355058473023317,
+    "Ocorrdtovr": 0.180396670889704,
+    "Ocorroastr": 0.14722257684245077,
+    "Ocorroeff": 102.00425485391118,
+    "Ocorroeffrank": 261,
+    "Ocorroefgp": 0.5603293313038813,
+    "Ocorroftr": 0.29560391621708426,
+    "Ocorroorbp": 0.2794381305146734,
+    "Ocorrotovr": 0.197256684311239,
+    "Oeff": 108.4020471993176,
+    "Oefgp": 0.539647577092511,
+    "Oftr": 0.41409691629955947,
+    "Oneteff": 3.9857583337509936,
+    "Oneteffrank": 131,
+    "Oorbp": 0.3008130081300813,
+    "Oposs": 281.36,
+    "Otovr": 0.15705490639527578,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 51.0,
+    "TBlk": 8.0,
+    "TDR": 86.0,
+    "TFGA": 208.0,
+    "TFGA3": 83.0,
+    "TFGM": 89.0,
+    "TFGM3": 28.0,
+    "TFTA": 80.0,
+    "TFTM": 44.0,
+    "TOR": 38.0,
+    "TPF": 76.0,
+    "TScore": 250.0,
+    "TStl": 34.0,
+    "TTO": 60.0,
+    "Tastr": 0.14398644833427443,
+    "Tcorrdastr": 0.14855972781550017,
+    "Tcorrdastrrank": 206,
+    "Tcorrdeff": 112.68523033165317,
+    "Tcorrdeffrank": 261,
+    "Tcorrdefgp": 0.4924272795039105,
+    "Tcorrdefgprank": 148,
+    "Tcorrdftr": 0.5297049632766391,
+    "Tcorrdftrrank": 328,
+    "Tcorrdorbp": 0.3224271008931399,
+    "Tcorrdorbprank": 237,
+    "Tcorrdtovr": 0.12316605540829649,
+    "Tcorrdtovrrank": 293,
+    "Tcorroastr": 0.16097546807937205,
+    "Tcorroastrrank": 113,
+    "Tcorroeff": 101.88485293470069,
+    "Tcorroeffrank": 234,
+    "Tcorroefgp": 0.5236663684132891,
+    "Tcorroefgprank": 144,
+    "Tcorroftr": 0.45896103032870994,
+    "Tcorroftrrank": 81,
+    "Tcorroorbp": 0.38486040224354484,
+    "Tcorroorbprank": 54,
+    "Tcorrotovr": 0.1688311523421502,
+    "Tcorrotovrrank": 247,
+    "Teff": 94.2684766214178,
+    "Tefgp": 0.4951923076923077,
+    "Tftr": 0.38461538461538464,
+    "Tneteff": -10.800377396952484,
+    "Tneteffrank": 268,
+    "Torbp": 0.3140495867768595,
+    "Tposs": 265.2,
+    "Ttovr": 0.1978891820580475,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            103.34645669291338,
+            117.91044776119404
+        ],
+        [
+            78.76312718786464,
+            98.98341359015515
+        ],
+        [
+            104.34782608695652,
+            107.95454545454544
+        ],
+        [
+            91.48170365926813,
+            109.82658959537572
+        ]
+    ],
+    "losses": 4,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 65.15525909063065,
+    "poss": [
+        [
+            60.96,
+            67.0
+        ],
+        [
+            68.56,
+            74.76
+        ],
+        [
+            69.0,
+            70.4
+        ],
+        [
+            66.68,
+            69.2
+        ]
+    ],
+    "preseason_pace": 65.54056633234478,
+    "preseason_pred": -8.88820866501475,
+    "preseason_predd": 109.01287180425969,
+    "preseason_predo": 100.12466313924494,
+    "schedule": [
+        "belmont",
+        "austin-peay",
+        "long-island-university",
+        "miami-oh"
+    ],
+    "scores": [
+        [
+            63,
+            79
+        ],
+        [
+            54,
+            74
+        ],
+        [
+            72,
+            76
+        ],
+        [
+            61,
+            76
+        ]
+    ],
+    "wins": 0
+}

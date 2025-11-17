@@ -1,0 +1,176 @@
+{
+    "CompRank": 73,
+    "CompositeDef": 105.048655117635,
+    "CompositeOff": 116.3683820389671,
+    "CompositePace": 69.54723533910725,
+    "CompositeRating": 11.319726921332101,
+    "HA": [
+        "H",
+        "H",
+        "H"
+    ],
+    "OAst": 27.0,
+    "OAvgCompRat": -12.403923964453984,
+    "OBlk": 5.0,
+    "ODR": 49.0,
+    "OFGA": 154.0,
+    "OFGA3": 72.0,
+    "OFGM": 65.0,
+    "OFGM3": 24.0,
+    "OFTA": 54.0,
+    "OFTM": 35.0,
+    "OOR": 24.0,
+    "OPF": 57.0,
+    "OScore": 189.0,
+    "OStl": 13.0,
+    "OTO": 46.0,
+    "Oastr": 0.1076726750677939,
+    "Ocomprank": 344,
+    "Ocorrdastr": 0.14791562570384445,
+    "Ocorrdeff": 117.6245934073001,
+    "Ocorrdeffrank": 344,
+    "Ocorrdefgp": 0.511301132892814,
+    "Ocorrdftr": 0.4879259525930279,
+    "Ocorrdorbp": 0.3251285851270966,
+    "Ocorrdtovr": 0.1373808036089528,
+    "Ocorroastr": 0.140212970375781,
+    "Ocorroeff": 95.58511670348553,
+    "Ocorroeffrank": 335,
+    "Ocorroefgp": 0.5162135609979606,
+    "Ocorroftr": 0.3608127916008484,
+    "Ocorroorbp": 0.31892391515732876,
+    "Ocorrotovr": 0.19567248520039068,
+    "Oeff": 94.61353624349219,
+    "Oefgp": 0.5,
+    "Oftr": 0.35064935064935066,
+    "Oneteff": -22.03947670381457,
+    "Oneteffrank": 360,
+    "Oorbp": 0.2608695652173913,
+    "Oposs": 199.76,
+    "Otovr": 0.20557740436181624,
+    "SoR": 38.760041260982234,
+    "SoRrank": 67,
+    "TAst": 58.0,
+    "TBlk": 5.0,
+    "TDR": 68.0,
+    "TFGA": 148.0,
+    "TFGA3": 51.0,
+    "TFGM": 84.0,
+    "TFGM3": 20.0,
+    "TFTA": 91.0,
+    "TFTM": 71.0,
+    "TOR": 21.0,
+    "TPF": 57.0,
+    "TScore": 259.0,
+    "TStl": 24.0,
+    "TTO": 31.0,
+    "Tastr": 0.20935604966791801,
+    "Tcorrdastr": 0.11205954708111143,
+    "Tcorrdastrrank": 35,
+    "Tcorrdeff": 104.68499759036033,
+    "Tcorrdeffrank": 160,
+    "Tcorrdefgp": 0.4936222849552747,
+    "Tcorrdefgprank": 154,
+    "Tcorrdftr": 0.37041428310406466,
+    "Tcorrdftrrank": 194,
+    "Tcorrdorbp": 0.24629032367430484,
+    "Tcorrdorbprank": 81,
+    "Tcorrdtovr": 0.16247147945487575,
+    "Tcorrdtovrrank": 142,
+    "Tcorroastr": 0.20727445763774763,
+    "Tcorroastrrank": 6,
+    "Tcorroeff": 118.64780881393015,
+    "Tcorroeffrank": 65,
+    "Tcorroefgp": 0.6331555628607132,
+    "Tcorroefgprank": 8,
+    "Tcorroftr": 0.48768340794657905,
+    "Tcorroftrrank": 60,
+    "Tcorroorbp": 0.27859070273802516,
+    "Tcorroorbprank": 209,
+    "Tcorrotovr": 0.1568378066586741,
+    "Tcorrotovrrank": 204,
+    "Teff": 130.7816602706524,
+    "Tefgp": 0.6351351351351351,
+    "Tftr": 0.6148648648648649,
+    "Tneteff": 13.96281122356983,
+    "Tneteffrank": 80,
+    "Torbp": 0.3,
+    "Tposs": 198.04,
+    "Ttovr": 0.14152666179693207,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            4
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            147.74722059684026,
+            101.95035460992906
+        ],
+        [
+            126.64473684210527,
+            93.66925064599484
+        ],
+        [
+            117.59581881533101,
+            88.36944127708097
+        ]
+    ],
+    "losses": 0,
+    "nOT": [
+        0,
+        0,
+        0
+    ],
+    "pace": 67.76236797893846,
+    "poss": [
+        [
+            68.36,
+            67.68
+        ],
+        [
+            60.8,
+            61.92
+        ],
+        [
+            68.88,
+            70.16
+        ]
+    ],
+    "preseason_pace": 69.98794332927238,
+    "preseason_pred": 10.667113513372168,
+    "preseason_predd": 105.13844709967812,
+    "preseason_predo": 115.80556061305029,
+    "schedule": [
+        "robert-morris",
+        "western-illinois",
+        "xavier"
+    ],
+    "scores": [
+        [
+            101,
+            69
+        ],
+        [
+            77,
+            58
+        ],
+        [
+            81,
+            62
+        ]
+    ],
+    "wins": 3
+}

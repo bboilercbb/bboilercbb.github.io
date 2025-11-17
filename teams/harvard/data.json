@@ -1,0 +1,195 @@
+{
+    "CompRank": 187,
+    "CompositeDef": 109.40410850116024,
+    "CompositeOff": 104.63632733279987,
+    "CompositePace": 67.30863887330402,
+    "CompositeRating": -4.767781168360398,
+    "HA": [
+        "H",
+        "H",
+        "A",
+        "A"
+    ],
+    "OAst": 49.0,
+    "OAvgCompRat": -11.691011019578864,
+    "OBlk": 15.0,
+    "ODR": 83.0,
+    "OFGA": 221.0,
+    "OFGA3": 88.0,
+    "OFGM": 94.0,
+    "OFGM3": 30.0,
+    "OFTA": 60.0,
+    "OFTM": 40.0,
+    "OOR": 33.0,
+    "OPF": 87.0,
+    "OScore": 258.0,
+    "OStl": 32.0,
+    "OTO": 52.0,
+    "Oastr": 0.14064293915040185,
+    "Ocomprank": 336,
+    "Ocorrdastr": 0.13610683241298294,
+    "Ocorrdeff": 104.39094123290452,
+    "Ocorrdeffrank": 152,
+    "Ocorrdefgp": 0.47416671622714635,
+    "Ocorrdftr": 0.47692779926344797,
+    "Ocorrdorbp": 0.3546314525685922,
+    "Ocorrdtovr": 0.14147115379169894,
+    "Ocorroastr": 0.13629602925041032,
+    "Ocorroeff": 88.66194866950165,
+    "Ocorroeffrank": 362,
+    "Ocorroefgp": 0.4307115809548574,
+    "Ocorroftr": 0.28809090085925787,
+    "Ocorroorbp": 0.2452844490548321,
+    "Ocorrotovr": 0.1601093527198167,
+    "Oeff": 96.84684684684686,
+    "Oefgp": 0.49321266968325794,
+    "Oftr": 0.27149321266968324,
+    "Oneteff": -15.728992563402869,
+    "Oneteffrank": 339,
+    "Oorbp": 0.24812030075187969,
+    "Oposs": 266.4,
+    "Otovr": 0.17368069472277892,
+    "SoR": 3.8144173790778058,
+    "SoRrank": 169,
+    "TAst": 51.0,
+    "TBlk": 14.0,
+    "TDR": 100.0,
+    "TFGA": 195.0,
+    "TFGA3": 72.0,
+    "TFGM": 89.0,
+    "TFGM3": 28.0,
+    "TFTA": 87.0,
+    "TFTM": 71.0,
+    "TOR": 23.0,
+    "TPF": 60.0,
+    "TScore": 277.0,
+    "TStl": 33.0,
+    "TTO": 52.0,
+    "Tastr": 0.15165933150945643,
+    "Tcorrdastr": 0.1504095066181961,
+    "Tcorrdastrrank": 220,
+    "Tcorrdeff": 115.17725972335204,
+    "Tcorrdeffrank": 294,
+    "Tcorrdefgp": 0.5793804459981972,
+    "Tcorrdefgprank": 317,
+    "Tcorrdftr": 0.3559799475751676,
+    "Tcorrdftrrank": 174,
+    "Tcorrdorbp": 0.30140732404951304,
+    "Tcorrdorbprank": 196,
+    "Tcorrdtovr": 0.16641420006673077,
+    "Tcorrdtovrrank": 128,
+    "Tcorroastr": 0.16263788401804893,
+    "Tcorroastrrank": 105,
+    "Tcorroeff": 107.44704117007304,
+    "Tcorroeffrank": 160,
+    "Tcorroefgp": 0.566090639963074,
+    "Tcorroefgprank": 71,
+    "Tcorroftr": 0.3617005301024617,
+    "Tcorroftrrank": 194,
+    "Tcorroorbp": 0.18537468399010773,
+    "Tcorroorbprank": 348,
+    "Tcorrotovr": 0.19638625860928452,
+    "Tcorrotovrrank": 327,
+    "Teff": 105.61232270855575,
+    "Tefgp": 0.5282051282051282,
+    "Tftr": 0.4461538461538462,
+    "Tneteff": -7.730218553279002,
+    "Tneteffrank": 243,
+    "Torbp": 0.2169811320754717,
+    "Tposs": 262.28,
+    "Ttovr": 0.18227706113292205,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            9
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ],
+        [
+            11,
+            16
+        ]
+    ],
+    "geff": [
+        [
+            121.2633953750705,
+            106.5340909090909
+        ],
+        [
+            88.80994671403197,
+            114.71990464839094
+        ],
+        [
+            121.59533073929961,
+            78.4550392275196
+        ],
+        [
+            90.1481004507405,
+            86.26198083067092
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 66.95345429060927,
+    "poss": [
+        [
+            70.92,
+            70.4
+        ],
+        [
+            67.56,
+            67.12
+        ],
+        [
+            61.68,
+            66.28
+        ],
+        [
+            62.12,
+            62.6
+        ]
+    ],
+    "preseason_pace": 67.46454980123588,
+    "preseason_pred": -3.4673971310847413,
+    "preseason_predd": 106.86994061213231,
+    "preseason_predo": 103.40254348104757,
+    "schedule": [
+        "new-hampshire",
+        "northeastern",
+        "army",
+        "marist"
+    ],
+    "scores": [
+        [
+            86,
+            75
+        ],
+        [
+            60,
+            77
+        ],
+        [
+            75,
+            52
+        ],
+        [
+            56,
+            54
+        ]
+    ],
+    "wins": 3
+}

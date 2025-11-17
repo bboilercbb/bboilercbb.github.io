@@ -1,0 +1,157 @@
+{
+    "CompRank": 131,
+    "CompositeDef": 105.57553153374887,
+    "CompositeOff": 105.7378731857289,
+    "CompositePace": 68.6552576247565,
+    "CompositeRating": 0.16234165198003025,
+    "HA": [
+        "H",
+        "A"
+    ],
+    "OAst": 27.0,
+    "OAvgCompRat": -1.6711497295450344,
+    "OBlk": 4.0,
+    "ODR": 45.0,
+    "OFGA": 147.0,
+    "OFGA3": 54.0,
+    "OFGM": 55.0,
+    "OFGM3": 16.0,
+    "OFTA": 56.0,
+    "OFTM": 38.0,
+    "OOR": 28.0,
+    "OPF": 45.0,
+    "OScore": 164.0,
+    "OStl": 10.0,
+    "OTO": 16.0,
+    "Oastr": 0.1257920238538949,
+    "Ocomprank": 169,
+    "Ocorrdastr": 0.19206891220916056,
+    "Ocorrdeff": 119.60120088076141,
+    "Ocorrdeffrank": 357,
+    "Ocorrdefgp": 0.5861799676426003,
+    "Ocorrdftr": 0.2940564131028204,
+    "Ocorrdorbp": 0.29176184041802145,
+    "Ocorrdtovr": 0.1293307357549157,
+    "Ocorroastr": 0.1359984544279671,
+    "Ocorroeff": 117.27532259952069,
+    "Ocorroeffrank": 27,
+    "Ocorroefgp": 0.5373835258006951,
+    "Ocorroftr": 0.38886380511785373,
+    "Ocorroorbp": 0.36866173325104445,
+    "Ocorrotovr": 0.1259940007319576,
+    "Oeff": 102.73114507642195,
+    "Oefgp": 0.42857142857142855,
+    "Oftr": 0.38095238095238093,
+    "Oneteff": -2.325878281240719,
+    "Oneteffrank": 215,
+    "Oorbp": 0.3146067415730337,
+    "Oposs": 159.64,
+    "Otovr": 0.08526966531656364,
+    "SoR": 3.0631693134384186,
+    "SoRrank": 176,
+    "TAst": 31.0,
+    "TBlk": 4.0,
+    "TDR": 61.0,
+    "TFGA": 127.0,
+    "TFGA3": 30.0,
+    "TFGM": 69.0,
+    "TFGM3": 9.0,
+    "TFTA": 55.0,
+    "TFTM": 35.0,
+    "TOR": 18.0,
+    "TPF": 50.0,
+    "TScore": 182.0,
+    "TStl": 9.0,
+    "TTO": 19.0,
+    "Tastr": 0.1540755467196819,
+    "Tcorrdastr": 0.1348099079307903,
+    "Tcorrdastrrank": 124,
+    "Tcorrdeff": 93.40301320998533,
+    "Tcorrdeffrank": 45,
+    "Tcorrdefgp": 0.40708913889011344,
+    "Tcorrdefgprank": 12,
+    "Tcorrdftr": 0.3745132766668341,
+    "Tcorrdftrrank": 199,
+    "Tcorrdorbp": 0.258441619844295,
+    "Tcorrdorbprank": 106,
+    "Tcorrdtovr": 0.10283661125711127,
+    "Tcorrdtovrrank": 344,
+    "Tcorroastr": 0.11870733828026755,
+    "Tcorroastrrank": 299,
+    "Tcorroeff": 106.76305506177317,
+    "Tcorroeffrank": 170,
+    "Tcorroefgp": 0.5059901223741817,
+    "Tcorroefgprank": 193,
+    "Tcorroftr": 0.5585539991800759,
+    "Tcorroftrrank": 24,
+    "Tcorroorbp": 0.2943930330137633,
+    "Tcorroorbprank": 188,
+    "Tcorrotovr": 0.13109449211588012,
+    "Tcorrotovrrank": 104,
+    "Teff": 119.57950065703024,
+    "Tefgp": 0.5787401574803149,
+    "Tftr": 0.4330708661417323,
+    "Tneteff": 13.360041851787841,
+    "Tneteffrank": 89,
+    "Torbp": 0.2857142857142857,
+    "Tposs": 152.2,
+    "Ttovr": 0.11163337250293773,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            12
+        ]
+    ],
+    "geff": [
+        [
+            133.881230116649,
+            99.84639016897081
+        ],
+        [
+            105.52371026576341,
+            105.49558390579
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        1
+    ],
+    "pace": 73.52881058839513,
+    "poss": [
+        [
+            75.44,
+            78.12
+        ],
+        [
+            76.76,
+            81.52
+        ]
+    ],
+    "preseason_pace": 68.1204369977454,
+    "preseason_pred": -1.28596564017995,
+    "preseason_predd": 106.91133601372293,
+    "preseason_predo": 105.62537037354298,
+    "schedule": [
+        "missouri-kansas-city",
+        "nevada"
+    ],
+    "scores": [
+        [
+            101,
+            78
+        ],
+        [
+            81,
+            86
+        ]
+    ],
+    "wins": 1
+}

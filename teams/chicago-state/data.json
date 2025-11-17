@@ -1,0 +1,195 @@
+{
+    "CompRank": 328,
+    "CompositeDef": 114.08828415553782,
+    "CompositeOff": 97.88987364796316,
+    "CompositePace": 69.8072481153725,
+    "CompositeRating": -16.198410507574675,
+    "HA": [
+        "A",
+        "A",
+        "A",
+        "H"
+    ],
+    "OAst": 76.0,
+    "OAvgCompRat": 9.81913124058331,
+    "OBlk": 20.0,
+    "ODR": 93.0,
+    "OFGA": 229.0,
+    "OFGA3": 111.0,
+    "OFGM": 115.0,
+    "OFGM3": 39.0,
+    "OFTA": 126.0,
+    "OFTM": 96.0,
+    "OOR": 42.0,
+    "OPF": 69.0,
+    "OScore": 365.0,
+    "OStl": 36.0,
+    "OTO": 51.0,
+    "Oastr": 0.18471709119191135,
+    "Ocomprank": 36,
+    "Ocorrdastr": 0.12951784958722184,
+    "Ocorrdeff": 95.07391258097155,
+    "Ocorrdeffrank": 27,
+    "Ocorrdefgp": 0.4641818941997726,
+    "Ocorrdftr": 0.3113754935999411,
+    "Ocorrdorbp": 0.3269250916782904,
+    "Ocorrdtovr": 0.1858683652229046,
+    "Ocorroastr": 0.14161877168847417,
+    "Ocorroeff": 109.52652151893946,
+    "Ocorroeffrank": 128,
+    "Ocorroefgp": 0.5126672899628555,
+    "Ocorroftr": 0.492221000985493,
+    "Ocorroorbp": 0.4012191965303831,
+    "Ocorrotovr": 0.17235858978501317,
+    "Oeff": 124.386586695747,
+    "Oefgp": 0.5873362445414847,
+    "Oftr": 0.5502183406113537,
+    "Oneteff": 14.45260893796791,
+    "Oneteffrank": 47,
+    "Oorbp": 0.3652173913043478,
+    "Oposs": 293.44,
+    "Otovr": 0.1520391128070594,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 46.0,
+    "TBlk": 4.0,
+    "TDR": 73.0,
+    "TFGA": 234.0,
+    "TFGA3": 65.0,
+    "TFGM": 97.0,
+    "TFGM3": 19.0,
+    "TFTA": 87.0,
+    "TFTM": 64.0,
+    "TOR": 25.0,
+    "TPF": 98.0,
+    "TScore": 277.0,
+    "TStl": 33.0,
+    "TTO": 54.0,
+    "Tastr": 0.12356290963790696,
+    "Tcorrdastr": 0.19041040988454305,
+    "Tcorrdastrrank": 336,
+    "Tcorrdeff": 120.76332626781416,
+    "Tcorrdeffrank": 334,
+    "Tcorrdefgp": 0.5836948987134448,
+    "Tcorrdefgprank": 322,
+    "Tcorrdftr": 0.43137347818376903,
+    "Tcorrdftrrank": 265,
+    "Tcorrdorbp": 0.2766042055303919,
+    "Tcorrdorbprank": 142,
+    "Tcorrdtovr": 0.13572362197131846,
+    "Tcorrdtovrrank": 241,
+    "Tcorroastr": 0.13897321572781654,
+    "Tcorroastrrank": 210,
+    "Tcorroeff": 102.32239624307098,
+    "Tcorroeffrank": 222,
+    "Tcorroefgp": 0.49784158632135445,
+    "Tcorroefgprank": 206,
+    "Tcorroftr": 0.4538867794344584,
+    "Tcorroftrrank": 90,
+    "Tcorroorbp": 0.19570672741987996,
+    "Tcorroorbprank": 335,
+    "Tcorrotovr": 0.13720649906823112,
+    "Tcorrotovrrank": 123,
+    "Teff": 91.94105151354223,
+    "Tefgp": 0.4551282051282051,
+    "Tftr": 0.3717948717948718,
+    "Tneteff": -18.44093002474318,
+    "Tneteffrank": 312,
+    "Torbp": 0.211864406779661,
+    "Tposs": 301.28,
+    "Ttovr": 0.16550202280250093,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            6
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            11,
+            15
+        ]
+    ],
+    "geff": [
+        [
+            81.45034156594849,
+            125.34059945504086
+        ],
+        [
+            96.19686800894854,
+            126.2862488306829
+        ],
+        [
+            89.52794357026588,
+            135.73407202216066
+        ],
+        [
+            101.54738878143134,
+            107.50962772785623
+        ]
+    ],
+    "losses": 4,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 72.44232189187457,
+    "poss": [
+        [
+            76.12,
+            73.4
+        ],
+        [
+            89.4,
+            85.52
+        ],
+        [
+            73.72,
+            72.2
+        ],
+        [
+            62.04,
+            62.32
+        ]
+    ],
+    "preseason_pace": 68.65056278137982,
+    "preseason_pred": -15.214039800449951,
+    "preseason_predd": 111.15822451777593,
+    "preseason_predo": 95.94418471732598,
+    "schedule": [
+        "depaul",
+        "saint-louis",
+        "butler",
+        "illinois-chicago"
+    ],
+    "scores": [
+        [
+            62,
+            92
+        ],
+        [
+            86,
+            108
+        ],
+        [
+            66,
+            98
+        ],
+        [
+            63,
+            67
+        ]
+    ],
+    "wins": 0
+}

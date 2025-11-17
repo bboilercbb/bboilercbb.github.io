@@ -1,0 +1,176 @@
+{
+    "CompRank": 290,
+    "CompositeDef": 109.33637414195464,
+    "CompositeOff": 96.88759457176508,
+    "CompositePace": 69.53479599961993,
+    "CompositeRating": -12.448779570189558,
+    "HA": [
+        "A",
+        "A",
+        "A"
+    ],
+    "OAst": 44.0,
+    "OAvgCompRat": 11.314466189253505,
+    "OBlk": 7.0,
+    "ODR": 78.0,
+    "OFGA": 165.0,
+    "OFGA3": 57.0,
+    "OFGM": 79.0,
+    "OFGM3": 26.0,
+    "OFTA": 92.0,
+    "OFTM": 63.0,
+    "OOR": 33.0,
+    "OPF": 51.0,
+    "OScore": 247.0,
+    "OStl": 24.0,
+    "OTO": 47.0,
+    "Oastr": 0.1484079870480302,
+    "Ocomprank": 27,
+    "Ocorrdastr": 0.11609113350780775,
+    "Ocorrdeff": 93.5312454249577,
+    "Ocorrdeffrank": 17,
+    "Ocorrdefgp": 0.4482676382305309,
+    "Ocorrdftr": 0.39156694932000713,
+    "Ocorrdorbp": 0.2390118655299526,
+    "Ocorrdtovr": 0.14732464314695445,
+    "Ocorroastr": 0.14592473486038018,
+    "Ocorroeff": 110.00524463221838,
+    "Ocorroeffrank": 123,
+    "Ocorroefgp": 0.5147902767221052,
+    "Ocorroftr": 0.41652403561477197,
+    "Ocorroorbp": 0.31953001774194506,
+    "Ocorrotovr": 0.164430543450324,
+    "Oeff": 112.53872790231456,
+    "Oefgp": 0.5575757575757576,
+    "Oftr": 0.5575757575757576,
+    "Oneteff": 16.473999207260675,
+    "Oneteffrank": 35,
+    "Oorbp": 0.358695652173913,
+    "Oposs": 219.48,
+    "Otovr": 0.1861533586818758,
+    "SoR": 0.0,
+    "SoRrank": 264,
+    "TAst": 38.0,
+    "TBlk": 8.0,
+    "TDR": 59.0,
+    "TFGA": 168.0,
+    "TFGA3": 70.0,
+    "TFGM": 69.0,
+    "TFGM3": 17.0,
+    "TFTA": 56.0,
+    "TFTM": 37.0,
+    "TOR": 23.0,
+    "TPF": 71.0,
+    "TScore": 192.0,
+    "TStl": 23.0,
+    "TTO": 47.0,
+    "Tastr": 0.13686788647168996,
+    "Tcorrdastr": 0.14864552530754352,
+    "Tcorrdastrrank": 207,
+    "Tcorrdeff": 108.80403459463103,
+    "Tcorrdeffrank": 220,
+    "Tcorrdefgp": 0.551924744569511,
+    "Tcorrdefgprank": 282,
+    "Tcorrdftr": 0.5131550878436231,
+    "Tcorrdftrrank": 322,
+    "Tcorrdorbp": 0.3380324345563876,
+    "Tcorrdorbprank": 264,
+    "Tcorrdtovr": 0.1738622989233849,
+    "Tcorrdtovrrank": 100,
+    "Tcorroastr": 0.17099308654319623,
+    "Tcorroastrrank": 79,
+    "Tcorroeff": 100.19475266609692,
+    "Tcorroeffrank": 251,
+    "Tcorroefgp": 0.5217904241046044,
+    "Tcorroefgprank": 150,
+    "Tcorroftr": 0.32656707134222407,
+    "Tcorroftrrank": 247,
+    "Tcorroorbp": 0.28415492826296607,
+    "Tcorroorbprank": 204,
+    "Tcorrotovr": 0.20324164304062778,
+    "Tcorrotovrrank": 336,
+    "Teff": 88.62629246676515,
+    "Tefgp": 0.46130952380952384,
+    "Tftr": 0.3333333333333333,
+    "Tneteff": -8.609281928534116,
+    "Tneteffrank": 247,
+    "Torbp": 0.22772277227722773,
+    "Tposs": 216.64,
+    "Ttovr": 0.19612752462026373,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            5
+        ],
+        [
+            11,
+            10
+        ],
+        [
+            11,
+            14
+        ]
+    ],
+    "geff": [
+        [
+            71.20253164556962,
+            99.84235417761428
+        ],
+        [
+            99.89200863930886,
+            126.96800406297612
+        ],
+        [
+            95.92326139088729,
+            109.90712074303407
+        ]
+    ],
+    "losses": 3,
+    "nOT": [
+        0,
+        0,
+        0
+    ],
+    "pace": 74.72868356890952,
+    "poss": [
+        [
+            75.84,
+            76.12
+        ],
+        [
+            74.08,
+            78.76
+        ],
+        [
+            66.72,
+            64.6
+        ]
+    ],
+    "preseason_pace": 68.2523546244867,
+    "preseason_pred": -13.396803679240284,
+    "preseason_predd": 109.46781600549133,
+    "preseason_predo": 96.07101232625105,
+    "schedule": [
+        "new-mexico",
+        "hawaii",
+        "rice"
+    ],
+    "scores": [
+        [
+            54,
+            76
+        ],
+        [
+            74,
+            100
+        ],
+        [
+            64,
+            71
+        ]
+    ],
+    "wins": 0
+}

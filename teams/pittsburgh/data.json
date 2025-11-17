@@ -1,0 +1,195 @@
+{
+    "CompRank": 49,
+    "CompositeDef": 97.23517947965604,
+    "CompositeOff": 113.57807451082604,
+    "CompositePace": 67.66134648122258,
+    "CompositeRating": 16.34289503116998,
+    "HA": [
+        "H",
+        "H",
+        "H",
+        "A"
+    ],
+    "OAst": 40.0,
+    "OAvgCompRat": -3.904675741959706,
+    "OBlk": 16.0,
+    "ODR": 83.0,
+    "OFGA": 240.0,
+    "OFGA3": 91.0,
+    "OFGM": 90.0,
+    "OFGM3": 25.0,
+    "OFTA": 65.0,
+    "OFTM": 51.0,
+    "OOR": 30.0,
+    "OPF": 78.0,
+    "OScore": 256.0,
+    "OStl": 25.0,
+    "OTO": 33.0,
+    "Oastr": 0.11709601873536299,
+    "Ocomprank": 221,
+    "Ocorrdastr": 0.1260074249517032,
+    "Ocorrdeff": 103.25393967809836,
+    "Ocorrdeffrank": 136,
+    "Ocorrdefgp": 0.5142009127048177,
+    "Ocorrdftr": 0.3434991041489114,
+    "Ocorrdorbp": 0.3075448358486933,
+    "Ocorrdtovr": 0.18925687716351253,
+    "Ocorroastr": 0.14386972403036602,
+    "Ocorroeff": 107.03757783790051,
+    "Ocorroeffrank": 177,
+    "Ocorroefgp": 0.5040484578415616,
+    "Ocorroftr": 0.4676409060523807,
+    "Ocorroorbp": 0.3064692604519756,
+    "Ocorrotovr": 0.14138566383248663,
+    "Oeff": 94.2562592047128,
+    "Oefgp": 0.4270833333333333,
+    "Oftr": 0.2708333333333333,
+    "Oneteff": 3.783638159802152,
+    "Oneteffrank": 134,
+    "Oorbp": 0.2158273381294964,
+    "Oposs": 271.6,
+    "Otovr": 0.10941644562334217,
+    "SoR": 25.122182872307764,
+    "SoRrank": 91,
+    "TAst": 53.0,
+    "TBlk": 20.0,
+    "TDR": 109.0,
+    "TFGA": 216.0,
+    "TFGA3": 85.0,
+    "TFGM": 94.0,
+    "TFGM3": 29.0,
+    "TFTA": 91.0,
+    "TFTM": 62.0,
+    "TOR": 37.0,
+    "TPF": 65.0,
+    "TScore": 279.0,
+    "TStl": 21.0,
+    "TTO": 48.0,
+    "Tastr": 0.14844275151243558,
+    "Tcorrdastr": 0.11889139450989637,
+    "Tcorrdastrrank": 65,
+    "Tcorrdeff": 93.55271502695659,
+    "Tcorrdeffrank": 46,
+    "Tcorrdefgp": 0.4314010790007625,
+    "Tcorrdefgprank": 33,
+    "Tcorrdftr": 0.2230387968161418,
+    "Tcorrdftrrank": 15,
+    "Tcorrdorbp": 0.21170945082708992,
+    "Tcorrdorbprank": 28,
+    "Tcorrdtovr": 0.1181347333806743,
+    "Tcorrdtovrrank": 310,
+    "Tcorroastr": 0.1714191333760458,
+    "Tcorroastrrank": 77,
+    "Tcorroeff": 107.41728013185383,
+    "Tcorroeffrank": 161,
+    "Tcorroefgp": 0.4980376672713843,
+    "Tcorroefgprank": 205,
+    "Tcorroftr": 0.4680498020751407,
+    "Tcorroftrrank": 74,
+    "Tcorroorbp": 0.3020292860343893,
+    "Tcorroorbprank": 172,
+    "Tcorrotovr": 0.12863192775356277,
+    "Tcorrotovrrank": 92,
+    "Teff": 104.47872977831035,
+    "Tefgp": 0.5023148148148148,
+    "Tftr": 0.4212962962962963,
+    "Tneteff": 13.864565104897238,
+    "Tneteffrank": 84,
+    "Torbp": 0.30833333333333335,
+    "Tposs": 267.04,
+    "Ttovr": 0.15787396395211156,
+    "closses": 0,
+    "confplace": 1,
+    "cwins": 0,
+    "dates": [
+        [
+            11,
+            3
+        ],
+        [
+            11,
+            7
+        ],
+        [
+            11,
+            10
+        ],
+        [
+            11,
+            13
+        ]
+    ],
+    "geff": [
+        [
+            112.32544019429267,
+            92.24515322076297
+        ],
+        [
+            110.79545454545453,
+            82.01202843083652
+        ],
+        [
+            114.50381679389312,
+            96.71746776084409
+        ],
+        [
+            78.22477650063857,
+            107.18599033816426
+        ]
+    ],
+    "losses": 1,
+    "nOT": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pace": 67.67326843495695,
+    "poss": [
+        [
+            65.88,
+            63.96
+        ],
+        [
+            70.4,
+            73.16
+        ],
+        [
+            68.12,
+            68.24
+        ],
+        [
+            62.64,
+            66.24
+        ]
+    ],
+    "preseason_pace": 67.65611325050241,
+    "preseason_pred": 17.430776480288333,
+    "preseason_predd": 98.85162478125251,
+    "preseason_predo": 116.28240126154085,
+    "schedule": [
+        "youngstown-state",
+        "longwood",
+        "eastern-michigan",
+        "west-virginia"
+    ],
+    "scores": [
+        [
+            74,
+            59
+        ],
+        [
+            78,
+            60
+        ],
+        [
+            78,
+            66
+        ],
+        [
+            49,
+            71
+        ]
+    ],
+    "wins": 3
+}
